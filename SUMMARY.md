@@ -1,13 +1,12 @@
 # 打好匹克球
 
 * [前言](README.md)
-asic_cn.md)
 * [热身与放松](02_prepare_cn.md)
 * [Dink 技术](03_dink_cn.md)
-* [Drop 技术](04_drop_cn.md)
-* [Drive 技术](05_drive_cn.md)
-* [Volley 技术](06_volley_cn.md)
-* [Lob 技术](07_lob_cn.md)
+* [放网技术](04_drop_cn.md)
+* [抽球技术](05_drive_cn.md)
+* [截击技术](06_volley_cn.md)
+* [挑球技术](07_lob_cn.md)
 * [步法](08_footwork_cn.md)
 * [旋转](09_spin_cn.md)
 * [双打战术](10_double_strategy_cn.md)
