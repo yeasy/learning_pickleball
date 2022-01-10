@@ -1,6 +1,8 @@
 # 打好匹克球
 
 * [前言](README.md)
+* [基础知识](01_basic_cn.md)
+* [发球与接发球](02_serve_cn.md)
 * [热身与放松](02_prepare_cn.md)
 * [Dink 技术](03_dink_cn.md)
 * [放网技术](04_drop_cn.md)
@@ -19,6 +21,7 @@
 
 * [Preface](README.md)
 * [Basic Knowledge](01_basic_en.md)
+* [Serve and Response](02_serve_en.md)
 * [Prepare to Drill](02_prepare_en.md)
 * [How to Dink](03_dink_en.md)
 * [How to Drop](04_drop_en.md)
