@@ -1,12 +1,12 @@
-# chipping technique
+# Chopping technique
 
-The chipping technique is a common defensive technique in Pickleball.
+The chopping technique is a common defensive technique in Pickleball.
 
-## What is chipping
+## What is chopping
 
-Chipping refers to cutting the middle and lower part of the ball to make the ball spin downward and fly to the opponent's court.
+chopping refers to cutting the middle and lower part of the ball to make the ball spin downward and fly to the opponent's court.
 
-According to the trajectory height, the chipping can be roughly divided into the following three types:
+According to the trajectory height, the chopping can be roughly divided into the following three types:
 
 * Lob: A lob is the bottom of the main chip, causing the ball to travel a higher parabola. The golf ball is slower and can have more time to return the ball. Generally, it should fall into the NVZ area to prevent the opponent from pressing down and attacking;
 * Medium and high ball: The medium and high ball refers to the middle and rear part of the main chip, which causes the ball's flight path to be a parabolic curve that is not too high. The middle and high balls are used the most and have a certain offensiveness. Generally, it should fall into the NVZ area to prevent the opponent from pressing down and attacking;
@@ -20,7 +20,7 @@ Compared with the ball, the cutting action is small, and the ball path is easy t
 
 Another situation is that when the opponent's return is high in front of the net, he can cooperate with the common shot to change the rhythm and placement, causing the opponent to make mistakes.
 
-The main purpose of chipping the ball is to transition, to find opportunities for the next shot.
+The main purpose of chopping the ball is to transition, to find opportunities for the next shot.
 
 ## How to master the slice
 
