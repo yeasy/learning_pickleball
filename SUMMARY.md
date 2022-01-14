@@ -15,7 +15,7 @@
 * [双打战术](10_double_strategy_cn.md)
 * [单打战术](11_single_strategy_cn.md)
 * [要点总结](12_key_tips_cn.md)
-* [参考资源链接](appendix_cn.md)
+* [附录](appendix_cn.md)
 
 
 # Pickleball Guide

@@ -2,6 +2,9 @@
 
 **v0.0.1**
 
+
+![Pickelball Court](_images/pickleball_court.png)
+
 匹克球是一项正在风靡的新兴运动，其技术和诀窍仍在探索发展中。本书将介绍如何掌握匹克球，并快速提高竞技水平，从而领略更多运动带来的乐趣。
 
 [在线阅读](https://github.com/yeasy/pickleball_guide/blob/main/SUMMARY.md)
