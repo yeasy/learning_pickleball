@@ -4,13 +4,13 @@ The chopping technique is a common defensive technique in Pickleball.
 
 ## What is chopping
 
-chopping refers to cutting the middle and lower part of the ball to make the ball spin downward and fly to the opponent's court.
+chopping refers to sliding the middle and lower part of the ball to make the ball spin downward and fly to the opponent's court.
 
 According to the trajectory height, the chopping can be roughly divided into the following three types:
 
-* Lob: A lob is the bottom of the main chip, causing the ball to travel a higher parabola. The golf ball is slower and can have more time to return the ball. Generally, it should fall into the NVZ area to prevent the opponent from pressing down and attacking;
+* High ball: Slide the bottom of the ball, causing it to travel a higher trajectory. The golf ball is slower and can have more time to return the ball. Generally, it should fall into the NVZ area to prevent the opponent from pressing down and attacking;
 * Medium and high ball: The medium and high ball refers to the middle and rear part of the main chip, which causes the ball's flight path to be a parabolic curve that is not too high. The middle and high balls are used the most and have a certain offensiveness. Generally, it should fall into the NVZ area to prevent the opponent from pressing down and attacking;
-* Flat ball: The flat ball refers to the middle of the main cut ball, causing the ball's flight path to be a flat parabola. The ball is faster and more aggressive.
+* Flat ball: The flat ball refers to the middle of the main cut ball, causing the ball's flight path to be a flat trajectory. The ball is faster and more aggressive.
 
 ## When should a chip be used
 

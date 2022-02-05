@@ -18,7 +18,7 @@ To commemorate the invention of the pickleball, the World Pickleball Championshi
 
 The size of the Peak Court is 44x20 feet (about 13.4x6.1 meters), and the net height is 34~36 inches (about 88.36~91.44 cm), which is the same size as the badminton court. Therefore, it is very convenient to raise the net to play badminton and lower it to play pickle on the same field.
 
-Pickle balls used in official competitions are slightly larger than tennis balls. They are made of hard plastic and are mostly yellow or orange (indoor balls are different from outdoor balls, the indoor balls are slightly softer and darker). A circular hole with a diameter of less than 1cm, which makes the rotation not too violent, and the ball speed is not fast. Therefore, people sometimes jokingly call the pickleball as seniors' tennis.
+Pickle balls used in official competitions are slightly larger than tennis balls. They are made of hard plastic and are mostly yellow or orange (indoor balls are different from outdoor balls, the indoor balls are slightly softer and have fewer holes). A circular hole with a diameter of less than 1cm, which makes the rotation not too violent, and the ball speed is not fast. Therefore, people sometimes jokingly call the pickleball as seniors' tennis.
 
 The racket of the pickle ball is like a large table tennis racket, with a length of 15.5~17 inches (39.37~43.18 cm) and a width of 7~8.25 inches (17.78~20.96 cm). It was originally made of wood, and later glass fiber and carbon fiber were used. and other new materials. The racket has little elasticity and a smooth surface. Pickleball is easy to play, but getting better at it takes skill, patience and teamwork.
 
