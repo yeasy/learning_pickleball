@@ -1,4 +1,4 @@
-# warm up and relax
+# Warm up and Relax
 
 The secret to being able to exercise for a long time is to warm up well before exercising and relax properly after exercising. 
 
