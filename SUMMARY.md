@@ -22,7 +22,7 @@
 
 * [Preface](README.md)
 * [Basic Knowledge](01_basic_en.md)
-* [Prepare to Drill](02_prepare_en.md)
+* [Warm up and Relax](02_prepare_en.md)
 * [Serve and Response](03_serve_en.md)
 * [How to Dink](04_dink_en.md)
 * [How to Drop](05_drop_en.md)
