@@ -28,9 +28,9 @@ Because the pickle ball is relatively smooth, it should generally be hit more of
 
 You can train your serve quickly with multiple balls. Subject to being able to serve continuously to the designated area, a group of 50, no less than 10 groups of practice every day.
 
-## Receiving
+## Return
 
-When receiving the serve, one's own team follows the ball to the net and forces the opponent to stay in the backcourt. Therefore, the receiving and serving should also fall as close as possible to the opponent's bottom line. The return ball can be returned by a topspin action, or by a chipping action. When you want to give yourself more time to run, you can return the ball high and let it fall slowly to the opponent's backcourt.
+When returning the serve, one's own team follows the ball to the net and forces the opponent to stay in the backcourt. Therefore, the receiving and serving should also fall as close as possible to the opponent's bottom line. The return ball can be returned by a topspin action, or by a chipping action. When you want to give yourself more time to run, you can return the ball high and let it fall slowly to the opponent's backcourt.
 
 In singles, you should return the ball to the opponent's space more often, causing the opponent to return the ball while running.
 

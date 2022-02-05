@@ -23,6 +23,6 @@ The deadline must first be moved in place, and run to the forward direction of t
 
 In addition, when volleying, the racket should be stable to avoid excessive friction of the ball and cause the ball to deviate from the trajectory.
 
-The landing point of the volley should be based on the opponent's neutral position, and you can also choose to volley the opponent's ankle position. Generally, avoid volleying from the waist up position to avoid the ball going out of bounds.
+The landing point of the volley should be far from the opponent's neutral position, and you can also choose to volley the opponent's ankle position. Generally, do not volley towards above the waist to avoid going out.
 
-Volleys can be practiced through racket swings, with sets of 50, contacting 10 sets per day.
+Volleys can be practiced through racket swings, with a set of 50, practice 10 sets per day.
