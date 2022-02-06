@@ -1,10 +1,10 @@
-# Basics
+# Basic Knowledge
 
 Pickleball, as an emerging sport born in the 1960s, has swept North America and attracted more and more attention worldwide.
 
 Pickle ball combines the characteristics of tennis, badminton, table tennis and other sports. It is fun to play, easy to learn, and moderate in activity and not easy to be injured. It can be described as suitable for all ages. Anyone in their 70s or 80s, or children in their teens, can participate.
 
-## The origin of the pickleball
+## The Origin of Pickleball
 
 In the summer of 1965, the pickleball was invented by Congressman Joel Pritchard and his neighbors Barney McCallum and Bill Bell while vacationing on Bainbridge Island in Seattle, USA.
  
@@ -14,7 +14,7 @@ When playing Pickle, a pet dog named "Pickle" likes to run after the ball, so th
  
 To commemorate the invention of the pickleball, the World Pickleball Championship since 2017 named its trophy the "Bainbridge Cup". The first three championships were won by its country of origin, the United States.
 
-## basic rules
+## Basic Rules
 
 The size of the Peak Court is 44x20 feet (about 13.4x6.1 meters), and the net height is 34~36 inches (about 88.36~91.44 cm), which is the same size as the badminton court. Therefore, it is very convenient to raise the net to play badminton and lower it to play pickle on the same field.
 
@@ -28,15 +28,15 @@ Taking doubles as an example, each game has 11 points, and each player on the se
 
 In addition, the area before the net is called "Kitchen (Kitchen) or non-volley zone (None Volley Zone, NVZ)". Competitors are not allowed to step into this area before and after the volley.
 
-## Picker Ball Features
+## Pickerball Features
 
 Pickleball incorporates elements of badminton, table tennis and tennis. A group of four players in a regular play has a playing field that is only about one-quarter the size of a tennis court, making it easier to run and exert power when playing.
 
-Pickleball has the characteristics of easy to use, easy to control, moderate exercise (not as high as tennis and badminton for bouncing and running), etc. The reasons are: the activity field of pickleball is not large (smaller than tennis court), and the weight of pickleball is relatively high. Light (only more than 20 grams) and does not have high elasticity, the racket is light in weight and has a large area of ​​​​the blade. Therefore, pickleballs can be played in singles or doubles, indoor and outdoor venues, and are loved by people of different ages.
+Pickleball has the characteristics of easy to use, easy to control, moderate exercise (not as high as tennis and badminton for bouncing and running), etc. The reasons are: the activity field of pickleball is not large (smaller than tennis court), and the weight of pickleball is relatively high. Light (only more than 20 grams) and does not have high elasticity, the racket is light in weight and has a large area of the blade. Therefore, pickleballs can be played in singles or doubles, indoor and outdoor venues, and are loved by people of different ages.
 
-The overall activity of the pickleball is moderate. In addition to spikes, lobs, and slices, there are also volleys and high balls. The competition between the two sides is not about strength or speed, but about control of the ball. In doubles, teamwork is especially important. Pickleball does not have high requirements on the serving link, and the number of rounds is often more, which is quite ornamental.
+The overall activity of the pickleball is moderate. In addition to drives, lobs, and slices, there are also volleys and high balls. The competition between the two sides is not about strength or speed, but about control of the ball. In doubles, teamwork is especially important. Pickleball does not have high requirements on the serving link, and the number of rounds is often more, which is quite ornamental.
 
-## Pickleball
+## Pickleball Tounaments
 
 According to the USA Pickleball Association, there are currently more than 4 million pickleball enthusiasts in the United States, and the number is growing at a rate of more than 20% per year. The nation organizes 4 national championships and dozens of local events each year.
 
