@@ -1,10 +1,10 @@
-# footwork
+# Master Footwork
 
 Footwork is the soul of all ball sports. Without footwork, it is difficult to hit a high-quality ball with just touch.
 
 The purpose of footwork is to leave the right space for the body to hit the ball.
 
-## Common footwork types
+## Footwork Types
 
 Common footwork includes striding, breaking, and jumping.
 
@@ -16,7 +16,7 @@ Jumping refers to the action of moving quickly by jumping. The jumping speed is 
 
 Singles have a large running range and can be combined with running movements. The doubles footwork is mostly local footwork, which can properly lower the center of gravity and improve the stability of the shot.
 
-## How to master footwork
+## How to master Footwork
 
 Footwork exercises mainly include two parts, one is waist and leg strength exercises, and the other is footwork exercises.
 

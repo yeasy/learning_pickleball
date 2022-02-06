@@ -1,11 +1,11 @@
-# Lobing technique
+# How to Lob
 
 The Lob technique is the closest to the badminton technique of the Lobleball.
 
 This technology is easily overlooked, but it is very useful in actual combat.
 
 
-## What is a Lob
+## What is Lob
 
 Lobing the ball mainly refers to the technique of jumping the ball into the opponent's backcourt. Proper use of the Lob-and-Lob technique can mobilize the opponent's movement, change the rhythm of the game, and create opportunities for offense.
 
@@ -14,7 +14,7 @@ Lobing the ball mainly refers to the technique of jumping the ball into the oppo
 * Near-net Lob: when the opponent's return is high; when the opponent's Dink return is not of high quality,
 
 
-## When should you use the Lob
+## When to use Lob
 
 When the opponent's position or attention is in the frontcourt, and the jump or back footwork is not good enough, you can use the Lob-ball technique to force the opponent to hit the ball in the backcourt.
 

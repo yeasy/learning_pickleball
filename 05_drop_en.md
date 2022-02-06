@@ -1,8 +1,8 @@
-# Releasing technology
+# How to Drop
 
 Drop technology is the core technology in the doubles event of the pickleball. If you don't master the drop technique, you can't progress to a higher level.
 
-## What is a Drop
+## What is Drop
 
 Putting the drop refers to the action of placing the ball in the opponent's NVZ area in the middle and backcourt (as close as possible to the front half), and at the same time running to the frontcourt or in front of the net before the opponent returns the ball.
 
@@ -14,13 +14,13 @@ Similarly, tennis balls can also be divided into three types: straight balls, di
 * Cross-court Ball: A cross-court Ball is when the ball is dropped into the opposing opponent's area. The distance is longer, the ball lands later, and you have more time to go to the net.
 * Middle ball: The middle ball refers to placing the ball in the space between the two opponents. Since both of them can catch the ball, it will cause some trouble to judge in time.
 
-## When to use the Drop
+## When to use Drop
 
 When your side is in the middle and backcourt and the other side is waiting in front of the net, at this time, you can let your side run to the front of the net by releasing the net to form a stalemate.
 
 The main purpose of putting tennis balls is to let oneself run to the net quickly and form a stalemate with the opponent's net.
 
-## How to master the Drop
+## How to master Drop
 
 When drop the ball, avoid returning the ball too far and too high, so that the opponent can volley the ball.
 

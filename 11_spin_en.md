@@ -1,4 +1,4 @@
-# Spin
+# Master Spin
 
 Spin is an important charm of ball games. Reasonable use of spin can better control the ball.
 
