@@ -1,4 +1,4 @@
-# Dink Technology
+# How to Dink
 
 Dink technology is the most basic technology of pickleball and the premise of other technologies. If you don't master the Dink technique, you can't play pickle well.
 
@@ -12,7 +12,7 @@ Dink is often used in doubles events. According to the target area, it can be ro
 * Slash Ball: A Slash Ball is when the ball is dropped into the opposing opponent's area. For example, stand on the left hemisphere and place the ball in the opponent's left half. The slash ball has a longer distance. It is not easy to intercept because it passes through the middle of the net, and it has a certain angle after landing, which makes it more difficult for the opponent to deal with.
 * Middle ball: The middle ball refers to placing the ball in the space between the two opponents. Since both of them can catch the ball, it will cause some trouble to judge in time.
 
-## When should Dink be used
+## When to use Dink
 
 When the ball from the opponent falls into the front area of ​​the NVZ and waits in front of the net, usually wait for the ball to bounce and then use the Dink ball to return.
 
