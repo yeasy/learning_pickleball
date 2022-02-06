@@ -1,0 +1,30 @@
+{
+    "title": "打好匹克球 Pickleball Guide",
+    "author": "yeasy",
+    "plugins": [
+        "-autocover",
+        "fontsettings",
+        "-github-buttons",
+        "image-captions",
+        "-latex-codecogs",
+        "livereload",
+        "lunr",
+        "-mathjax",
+        "prism", 
+        "prism-themes", 
+        "-highlight",
+        "sharing"
+    ],
+    "pluginsConfig": {
+        "image-captions": {
+            "attributes": { "width": "600" },
+            "caption": "图 _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_"
+        },
+        "fontSettings": {
+                        "family": "msyh",
+                        "size": 2
+                }
+
+    }
+}
+

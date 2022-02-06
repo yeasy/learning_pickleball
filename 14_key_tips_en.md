@@ -11,4 +11,4 @@
 * Return ball to an opponent in the backcourt, otherwise, to the weaker player.
 * Run to the net as soon as possible and keep the opponents in the backcourt.
 * If you don't know where to go, return the ball to the gap between the opponents.
-* * A bad racket potentially affects your performance, but a good racket may not necessarily improve your real level.
+* A bad racket potentially affects your performance, but a good racket may not necessarily improve your real level.
