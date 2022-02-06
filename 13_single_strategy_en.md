@@ -2,7 +2,7 @@
 
 The core of singles is to control the rhythm, try to let the opponent run as much as possible, and avoid losing the center of gravity. In addition, you should take the initiative to attack when you have the opportunity.
 
-## Basic process
+## Basic Process
 
 Suppose the two players are A and B. A is the serving side.
 
@@ -20,7 +20,7 @@ It can be seen that in singles, it is generally necessary to find offensive oppo
 
 Once one side is suppressed to the backcourt, it is at a disadvantage. At this time, if the ball is returned too high, it is easy for the opponent to smash the ball and score.
 
-## gist
+## Key Points
 
 * Drive ball control: In singles, there are many applications to drive the ball, and it is necessary to precisely control the drive point of the ball. It must be intercepted by the opponent in front of the net, otherwise it is easy to fall into passive;
 * Angle control: To open the angle, try to let the opponent move, and at the same time avoid returning the ball too long to be out.

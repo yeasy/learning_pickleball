@@ -30,7 +30,7 @@
 * [How to Volley](07_volley_en.md)
 * [How to Chop](08_chop_en.md)
 * [How to Lob](09_lob_en.md)
-* [Footwork](10_footwork_en.md)
+* [Master Footwork](10_footwork_en.md)
 * [Master Spin](11_spin_en.md)
 * [Double Game Strategy](12_double_strategy_en.md)
 * [Single Game Strategy](13_single_strategy_en.md)

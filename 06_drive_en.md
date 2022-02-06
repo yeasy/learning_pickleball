@@ -1,8 +1,8 @@
-# Drive technique
+# How to Drive
 
 The drive technique is the closest to the tennis technique of the pickleball.
 
-## What is a Drive
+## What is Drive
 
 Drive is the act of hitting the ball quickly so that the ball flies forward quickly.
 
@@ -12,13 +12,13 @@ It can be roughly divided into the far net Drive, the middle net Drive, and the 
 * Midfield Drive: The near-net Drive is a transition by hitting when the opponent returns to the midfield and jumps higher. The general target is the opposing midfielder.
 * Close-net Drive: The close-net is to attack the ball by hitting the ball when the opponent's return is shorter and the ball bounces high. Care should be taken to control the running trajectory not to cross the net too high,
 
-## When should the Drive be used
+## When to use Drive
 
 When the ball jumps high after landing, or the opponent does not form an effective net block, you can try to Drive the ball.
 
 The main purpose of swiping the ball is to mobilize the opponent, or make the opponent return the ball in a hurry and the quality is not high, so as to form a chance for the next shot.
 
-## How to master the Drive
+## How to master Drive
 
 The most important thing in slamming the ball is to hit the ball in front of you, and to master the force of the whip, and release the force of turning the waist through the stable hitting surface formed by the clap hand.
 

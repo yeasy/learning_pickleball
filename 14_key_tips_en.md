@@ -1,6 +1,5 @@
 # Key Tips
 
-
 * Being able to control the ball softly is more useful than hitting it hard.
 * Never play games before the correct action becomes your subconscious reaction.
 * Drop is the far-net Dink; Dink is the near-net Drop. The goal of both is to defend (a.k.a., not gift an opportunity to the opponents).
