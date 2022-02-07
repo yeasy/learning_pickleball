@@ -1,6 +1,7 @@
 # Key Tips
 
-* Being able to control the ball softly is more useful than hitting it hard.
+* Take advantage of one's own strengths and attack others' weaknesses; first stand undefeated, and then defeat others.
+* Being able to control power is more important than power itself.
 * Never play games before the correct action becomes your subconscious reaction.
 * Drop is the far-net Dink; Dink is the near-net Drop. The goal of both is to defend (a.k.a., not gift an opportunity to the opponents).
 * The most effective way of Dink and Drop is to push, rather than to drive or to spin.
