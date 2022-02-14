@@ -4,12 +4,12 @@ Dink technology is the most basic technology of pickleball and the premise of ot
 
 ## What is Dink
 
-Dink refers to the action of placing the ball in the opponent's NVZ area in front of the net. Usually the arc is flat, the net is not high (a ball height is good), and it falls into the front half of the opponent's NVZ area or near the area line.
+Dink refers to the action of placing the ball in the opponent's NVZ area in front of the net. Usually the trajectory is flat, which goes over the net in a low position (within a ball height is good), and it falls into the front half of the opponent's NVZ area or near the area line.
 
 Dink is often used in doubles events. According to the target area, it can be roughly divided into the following three types:
 
 * Straight ball: Straight ball is to put the ball into the opponent's area that you are facing. For example, stand on your left hemisphere and place the ball in your opponent's right half. Straight balls are usually easier to control, but tend to have a higher or farther trajectory, making it easier for the opponent to handle;
-* Slash Ball: A Slash Ball is when the ball is dropped into the opposing opponent's area. For example, stand on the left hemisphere and place the ball in the opponent's left half. The slash ball has a longer distance. It is not easy to intercept because it passes through the middle of the net, and it has a certain angle after landing, which makes it more difficult for the opponent to deal with.
+* Cross-court ball: A cross-court Ball is when the ball is dropped into the opposing opponent's area. For example, stand on the left hemisphere and place the ball into the opponent's left half court. The cross-court ball has a longer distance. It is not easy to intercept because it passes through the middle of the net, and it has a certain angle after landing, which makes it more difficult for the opponent to deal with.
 * Middle ball: The middle ball refers to placing the ball in the space between the two opponents. Since both of them can catch the ball, it will cause some trouble to judge in time.
 
 ## When to use Dink
@@ -33,5 +33,5 @@ After mastering the push Dink, you can appropriately add spin (mainly top spin, 
 Dink balls rely more on hand feel, so special touch practice is required.
 
 * Bumping practice: Use the racket to continuously flip the ball, you can control the height of the ball, control the ball to rotate or not, and you can use the front and back rackets to flip the ball alternately. There should be no less than 100 consecutive strokes at a time, and no less than 5 sets of exercises should be carried out every day.
-* Multi-ball practice: The sparring staff hit the ball into the NVZ, and the player Dinks the ball into the designated target area, and the ball does not go too high over the net. There should be no less than 50 consecutive Dinks each time, and no less than 10 sets of exercises per day.
+* Multi-ball practice: The sparring staff hit the ball into the NVZ, and the player Dinks the ball into the designated target area, and the ball does not go too high over the net. There should be no less than 50 consecutive Dinks each time, and no less than 10 sets of exercises per day. Practice the straight ball first, and then practice the cross-court ball after stabilization.
 * Dynamic practice: sparring staff and players move horizontally in front of the net while Dink training.
