@@ -23,7 +23,9 @@ Consider using Spin in the following scenarios:
 
 ## How to master Spin
 
-Spin practice mainly includes several practice methods, and experience the different Spins caused by softly hitting different positions of the ball:
+The spin in a pickleball is hardly produced by rubbing the ball using the racket, but rather by the different positions where the racket hits the ball. Therefore, when using the spin to control the trajectory of the ball, it is important to focus on hitting the ball mainly, and cooperate with the friction.
+
+There are several ways to practice spin, and you need to feel the different spins caused by hitting different positions of the ball:
 
 * Swing the ball to create Spin: let the ball bounce on the racket, and experience different Spins when cutting the ball in different directions;
 * Serving to create Spin: hit different positions of the ball, send the ball with different Spins, and observe the trajectory after it hits the ground;
