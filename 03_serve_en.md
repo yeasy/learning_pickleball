@@ -1,6 +1,6 @@
 # Serve and Return
 
-The purpose of serving and receiving is for the next shot and to avoid giving the opponent a good attacking or netting opportunity.
+The purpose of serving and receiving is to prepare for the next shot, and to avoid giving the opponent a good attacking or going to net opportunity.
 
 In high-level games, it is generally difficult to score directly by serving or receiving.
 
