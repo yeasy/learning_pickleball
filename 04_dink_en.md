@@ -24,9 +24,11 @@ Dink needs to avoid returning the ball too far and too high, so that the opponen
 
 There are several ways to achieve the Dink effect, the easiest and most efficient way is to push the ball.
 
-When pushing the ball, you should pay attention to the relatively fixed wrist, control the angle of the racket to be stable, and send the ball through the forearm without triggering the racket, so that the ball falls to the target landing point. In order to ensure the stability of the ball trajectory, the racket should continue to follow the ball for about 20~30 cm after hitting the ball.
+When pushing the ball, you should pay attention to the relatively fixed wrist, control the angle of the racket to be stable, and send the ball through the forearm without triggering the racket, so that the ball falls to the target landing point. In order to ensure the stability of the ball trajectory, the racket should continue to follow the ball for about a foot after hitting the ball.
 
-After mastering the push Dink, you can appropriately add spin to make it more difficult for the opponent to catch the ball.
+Pay attention to the ball's landing point, it should be in the first half of the NVZ to avoid the opponent's attack; in order to mobilize the opponent, when the opponent is standing near the net, the ball can also be be placed near the NVZ line, but should not beyond it.
+
+After mastering the push Dink, you can appropriately add spin (mainly top spin, to let opponeents return the ball too high or long) to make it more difficult for the opponent to make a high-quality return.
 
 Dink balls rely more on hand feel, so special touch practice is required.
 
