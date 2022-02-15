@@ -8,7 +8,7 @@ In high-level games, it is generally difficult to score directly by serving or r
 
 The surface of the pick racket is relatively smooth, and the Chinese grip method should generally be used, that is, a posture similar to holding a scalpel or a kitchen knife.
 
-The clapping hand should be properly relaxed, the palm of the hand should be left empty, and at the same time, the index finger can be lightly placed on the racket.
+The clapping hand should be properly relaxed, the palm of the hand should be left empty, and at the same time, the index finger can be lightly placed on the racket. If the full score is 10 points, it is enough to achieve 3~5 points at most time.
 
 ## Serve
 
