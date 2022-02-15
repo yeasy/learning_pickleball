@@ -1,6 +1,6 @@
 # 打好匹克球 Pickleball Guide
 
-**v0.2.0**
+**v0.2.1**
 
 ![Pickelball Court](_images/pickleball_court.png)
 
