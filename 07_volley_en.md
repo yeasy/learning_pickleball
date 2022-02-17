@@ -12,6 +12,8 @@ Generally, according to the location of the volley, it can be divided into far n
 * Midfield volley: The midfield volley is mostly when the opponent gives a long ball in the process of surfing the net. At this time, you should use gentle force, put the ball in front of the opponent's net instantly, and surf the net quickly at the same time.
 * Near net volley: high ball in front of the net, you can hit the ball vigorously to make the ball fly quickly, causing the opponent to miss the ball. For non-high balls, avoid making vigorous efforts and focus on pushing, so that the ball does not go too high over the net. The net volley should avoid stepping into the NVZ area.
 
+In particular, both sides of the game can volley opponent's volley ball directly, which will form a faster round rhythm.
+
 ## When to use Volley
 
 When the opponent returns the ball farther and higher, you can score by volleying.
@@ -23,5 +25,7 @@ The deadline must first be moved in place, and run to the forward direction of t
 In addition, when volleying, the racket should be stable to avoid excessive friction of the ball and cause the ball to deviate from the trajectory.
 
 The landing point of the volley should be far from the opponent's neutral position, and you can also choose to volley the opponent's ankle position. Generally, do not volley towards above the waist to avoid going out. Unless you are very confident, it is generally not recommended to hit the ball to the sideline, becausee it is easy to make mistakes and go out.
+
+When both sides volley each other, keep the arm steady and use small movements to quickly exert the power.
 
 Volleys can be practiced through racket swings, with a set of 50, practice 10 sets per day.
