@@ -1,9 +1,10 @@
 # Key Tips
 
 * Take advantage of one's own strengths and attack others' weaknesses; first stand undefeated, and then defeat others.
-* Being able to control power is more important than power itself.
 * Never play games before the correct action becomes your subconscious reaction.
-* Drop is the far-net Dink; Dink is the near-net Drop. The goal of both is to defend (a.k.a., not gift an opportunity to the opponents).
+* If the opponent's footwork is poor, let him run more; if the opponent's reaction is fast, slow down the pace; if the opponent's near-net skill is good, play more long balls, otherwise, play wide angles.
+* Being able to control power is more important than power itself. Controlling means that the same gesture can add or reduce power, spin or not, even change the angle.
+* Drop is the far-net Dink; Dink is the near-net Drop. The first goal of both is not gifting an opportunity to the opponents.
 * The most effective way of Dink and Drop is to push, rather than to drive or to spin.
 * Lob must pass the opponent's top. High ball is not easy to go out.
 * The ball flying over waist in the midfield will go out in most cases.
