@@ -1,6 +1,6 @@
 # How to Volley
 
-Volley is the most common scoring method for pickleball.
+Volley is the most common scoring method for pickleball, which is similar with the smash in badminton.
 
 ## What is Volley
 
