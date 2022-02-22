@@ -1,6 +1,6 @@
 # 打好匹克球 Pickleball Guide
 
-**v0.2.2**
+**v0.2.3**
 
 ![Pickelball Court](_images/pickleball_court.png)
 
@@ -8,11 +8,12 @@
 
 每一章侧重一项特定技术，学习者可以按照顺序依次训练，每项技术分配一到两周时间。
 
-[在线阅读最新版本](https://github.com/yeasy/pickleball_guide/blob/main/SUMMARY.md)
-
+* [在线阅读最新版本](https://github.com/yeasy/pickleball_guide/blob/main/SUMMARY.md)
+* [快速阅读要点总结](https://github.com/yeasy/pickleball_guide/blob/main/14_key_tips_cn.md)
 
 Pickleball is an emerging sport that is becoming more and more popular today, and its technology and know-how are still being explored and developed. This book will introduce how to master pickleball, and help you improve the competition skill quickly, so as to enjoy the fun from the pickleball.
 
 Each chapter is focused on a specific skill, beginners can learn them by order, while spending 1 or 2 weeks on each skill.
 
-[Read the latest version online](https://github.com/yeasy/pickleball_guide/blob/main/SUMMARY.md)
+* [Read the Latest Version Online](https://github.com/yeasy/pickleball_guide/blob/main/SUMMARY.md)
+* [Show me the Key Tips directly](https://github.com/yeasy/pickleball_guide/blob/main/14_key_tips_en.md)
