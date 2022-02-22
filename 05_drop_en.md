@@ -24,8 +24,7 @@ The main purpose of putting tennis balls is to let oneself run to the net quickl
 
 When drop the ball, avoid returning the ball too far and too high, so that the opponent can volley the ball.
 
-When you have mastered the Dink, you can do Drop training.
+First practice defensive Drop without spin, and then practice Drop with spin (mainly topspin), which has a certain degree of offensiveness.
 
-First, take a step back from the NVZ line, and do not exceed this distance for fixed-point Drop training. After mastering it, take a step back for training until you retreat to the backcourt line for netting training.
-
-After mastering the fixed-point Drop training, you can carry out the Drop training while running. The sparring team hits the ball to the backcourt, and the players release the net and follow the ball to the front of the net to form a stalemate.
+* Fixed-position training: take a step back from the NVZ line, and do Drop training. After mastering it, take one more step back for training until you retreat to the backcourt line.
+* Moving training: After mastering the fixed-position Drop training, you can carry out the Drop training while moving. The sparring player hits the ball to the backcourt, and you Drop the ball and follow the ball to run to the net to form a stalemate.
