@@ -1,6 +1,6 @@
 # Master Spin
 
-Spin is an important charm of ball games. Reasonable use of spin can better control the ball.
+Spin is an important charm of ball games. Reasonable using of spin can allow to control the ball in a better way.
 
 ## Common types
 

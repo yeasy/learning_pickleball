@@ -16,6 +16,8 @@ Lobing the ball mainly refers to the technique of jumping the ball into the oppo
 
 When the opponent's position or attention is in the frontcourt, and the jump or back footwork is not good enough, you can use the Lob-ball technique to force the opponent to hit the ball in the backcourt.
 
+Lobing the ball can save you from passive to proactive, and can also actively create opportunities for potential volleys.
+
 ## How to master the Lob
 
 The core point of Lobing the ball is to keep the ball higher than the opponent's position after jump to avoid the opponent volleying in the air. Therefore, the parabolic high point of the Lob ball should be close to the opponent's bottom line, so that the ball falls vertically near the bottom line and does not go out.

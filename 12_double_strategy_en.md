@@ -1,6 +1,6 @@
 # Doubles Strategy
 
-Doubles is a common type in pickleball, and its core lies in the close cooperation between players. If there is no good opportunity, the defense should be the first.
+Doubles is a common type in pickleball, and its core lies in the close cooperation between players. If there is no good opportunity, reducing unforced error should be the first.
 
 ## Basic Process
 

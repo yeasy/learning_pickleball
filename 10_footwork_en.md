@@ -1,8 +1,8 @@
 # Master Footwork
 
-Footwork is the soul of all ball sports. Without footwork, it is difficult to hit a high-quality ball with just touch.
+Footwork is the soul of all ball sports. Without good footwork, it is difficult to hit a high-quality ball with just touch.
 
-The purpose of footwork is to leave the right space for the body to hit the ball.
+The purpose of footwork is to leave enough space for the body to hit the ball in a comfortable position.
 
 ## Footwork Types
 
