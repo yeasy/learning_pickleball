@@ -26,4 +26,6 @@ It should be noted that the surface of the pickle ball and racket is relatively 
 
 The backhand is basically symmetrical with the forehand. Try to shoot with one hand to get more distance to add power and a larger return angle.
 
-In doubles, the target of the Drive can generally be between two opposing players, or in a defensive space. When the opponent's defensive ability is weak, you can also deliberately play a close ball (such as holding a clapping shoulder, etc.), causing the opponent to make mistakes.
+In double games, the target of the Drive can generally be between two opposing players, or in a defensive space. When the opponent's defensive ability is weak, you can also deliberately play a close ball (such as holding a clapping shoulder, etc.), causing the opponent to make mistakes.
+
+In single games, the Drive should mainly aim at the opponent's gap, and the gesture should be small, in order to prevent the opponent from predicting easily.

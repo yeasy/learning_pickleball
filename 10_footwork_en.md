@@ -16,6 +16,21 @@ Jumping refers to the action of moving quickly by jumping. The jumping speed is 
 
 Singles have a large running range and can be combined with running movements. The doubles footwork is mostly local footwork, which can properly lower the center of gravity and improve the stability of the shot.
 
+## When to use
+
+Typical footwork scenarios in double games include:
+
+* When Dink, follow the ball to move left and right, back and forth quickly;
+* When Drop, run with the ball to the net quickly;
+* When the opponent Lobs, run to the backcourt quickly;
+* When the opponents get a good volley opportunity, move back proactively and defend.
+
+Typical footwork scenarios in single games include:
+
+* When attack effectively, run to the net to grab the potential chance;
+* When the opponent returns the ball with a large angle, run to the ahead of the ball quickly;
+* When the opponent gets a good volley opportunity, move back proactively and defend.
+
 ## How to master Footwork
 
 Footwork exercises mainly include two parts, one is waist and leg strength exercises, and the other is footwork exercises.
