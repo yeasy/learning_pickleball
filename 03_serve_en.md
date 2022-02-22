@@ -24,7 +24,7 @@ If the opponent's position is not neutral, or cannot run quickly, you can mobili
 
 The power of the serve action comes from kicking the ground and turning the waist while swinging the big arm to send the ball smoothly. Before hitting the pickleball, the body should be in a relaxed state. At the moment of hitting the ball, release your body power to the ball through the clap hand.
 
-Because the pickle ball is relatively smooth, it should generally be hit more often with a small amount of spin.
+Because the pickleball is relatively smooth, the serve should generally use more hit with some spin. Players should at least master topspin and no-spin serve.
 
 You can train your serve quickly with multiple balls. Subject to being able to serve continuously to the designated area, a group of 50, no less than 10 groups of practice every day.
 
