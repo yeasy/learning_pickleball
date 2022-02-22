@@ -20,13 +20,13 @@ The main purpose of the Dink ball is to defend and find opportunities in the sta
 
 ## How to master Dink
 
-Dink needs to avoid returning the ball too far and too high, so that the opponent can form a volley and press down. Therefore, the high point of the main trajectory should be on one's own side, so that the ball moves downward after passing through the net.
+Dink needs to avoid returning the ball too far and too high, so that the opponent can form a volley and press down. Therefore, you should lower the center of the body, and let the ball pass the net in a low position, and drop downward.
 
 There are several ways to achieve the Dink effect, the easiest and most efficient way is to push the ball.
 
 When pushing the ball, you should pay attention to the relatively fixed wrist, control the angle of the racket to be stable, and send the ball through the forearm without triggering the racket, so that the ball falls to the target landing point. In order to ensure the stability of the ball trajectory, the racket should continue to follow the ball for about a foot after hitting the ball.
 
-Pay attention to the ball's landing point, it should be in the first half of the NVZ to avoid the opponent's attack; in order to mobilize the opponent, when the opponent is standing near the net, the ball can also be be placed near the NVZ line, but should not beyond it.
+Pay attention to the ball's landing point, it should be in the first half of the NVZ to avoid the opponent's attack; in order to mobilize the opponent, when the opponent is standing near the net, the ball can also be be placed near the NVZ line (e.g, the side corners).
 
 After mastering the push Dink, you can appropriately add spin (mainly top spin, to let opponeents return the ball too high or long) to make it more difficult for the opponent to make a high-quality return.
 
