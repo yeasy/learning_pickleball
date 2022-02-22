@@ -6,19 +6,19 @@ In high-level games, it is generally difficult to score directly by serving or r
 
 ## Grip the Paddle
 
-The surface of the pick racket is relatively smooth, and the continental grip method should generally be used, that is, a posture similar to holding a scalpel or a kitchen knife.
+The surface of the pick racket is relatively smooth, and the continental grip method should generally be used, that is, a posture similar to shaking hands or holding a kitchen knife.
 
 The clapping hand should be properly relaxed, the palm of the hand should be left empty, and at the same time, the index finger can be lightly placed on the racket. If the full score is 10 points, it is enough to achieve 3~5 points at most time.
 
 ## Serve
 
-Pick the ball as far as possible to land near the opponent's bottom line, in order to increase the difficulty of the opponent's return. When serving, you can test the opponent's return by serving to the opponent's forehand position, backhand position and middle position.
+Serve the ball as far as possible to let it land near the bottom line, in order to increase the return difficulty to the opponent. When serving, you can probe the opponent's return by serving to the opponent's forehand position, backhand position or middle position. Generally, fast balls are more threatening than slow balls.
 
-In singles, the serve can be combined with a short ball and a flat ball to mobilize the opponent's position.
+In single games, the long serve can be combined with a short servee and a flat servee to mobilize the opponent's position.
 
-In doubles, send high balls or fast balls in the middle to force the opponent to return the ball with low quality and not be able to quickly surf the net.
+In double games, usually serve fast balls near the middle to force the opponent to return the ball with low quality and not be able to quickly go to the net.
 
-If the opponent's stance is off, or the running is slow, you can mobilize the opponent to take the initiative by serving.
+If the opponent's position is not neutral, or cannot run quickly, you can mobilize the opponent to proactively by serving.
 
 ## Master the Serve
 
