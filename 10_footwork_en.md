@@ -8,11 +8,13 @@ The purpose of footwork is to leave enough space for the body to hit the ball in
 
 Common footwork includes striding, breaking, and jumping.
 
-Stepping refers to the action of striding the legs out in the direction of motion. The stride is large and is generally used for the last step in running, which can stabilize the center of gravity.
+Stride refers to the action of striding the legs out in the direction of motion. The stride is large and is generally used for the last step in running, which can stabilize the center of gravity.
 
 Shredded steps are the movements of moving your legs crossed quickly. Shredded steps are smaller steps and are generally used to move quickly or fine-tune your body position.
 
 Jumping refers to the action of moving quickly by jumping. The jumping speed is the fastest and the pace is the largest. It is generally used in the situation where you need to hit the ball in time. You need to pay attention to stabilize the center of gravity as soon as possible after landing.
+
+Stepping is a small jump to quickly adjust the body to prepare to hit the ball or prepare to move.
 
 Singles have a large running range and can be combined with running movements. The doubles footwork is mostly local footwork, which can properly lower the center of gravity and improve the stability of the shot.
 
