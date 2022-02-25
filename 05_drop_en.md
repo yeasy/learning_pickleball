@@ -24,6 +24,8 @@ The main purpose of putting tennis balls is to let oneself run to the net quickl
 
 When drop the ball, avoid returning the ball too far and too high, so that the opponent can volley the ball.
 
+When hitting the ball, keep the body in a stable state to avoid shaking.
+
 First practice defensive Drop without spin, and then practice Drop with spin (mainly topspin), which has a certain degree of offensiveness.
 
 * Fixed-position training: take a step back from the NVZ line, and do Drop training. After mastering it, take one more step back for training until you retreat to the backcourt line.
