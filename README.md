@@ -1,6 +1,6 @@
 # 打好匹克球 Pickleball Guide
 
-**v0.2.3**
+**v0.2.4**
 
 ![Pickelball Court](_images/pickleball_court.png)
 
@@ -14,7 +14,7 @@
 
 Pickleball is an emerging sport that is becoming more and more popular today, and its technology and know-how are still being explored and developed. This book will introduce how to master pickleball, and help you improve the competition skill quickly, so as to enjoy the fun from the pickleball.
 
-Each chapter is focused on a specific skill, beginners can learn them by order, while spending 1 or 2 weeks on each skill.
+Each chapter is focused on a specific skill, players can learn them by order, while spending 1 or 2 weeks on each skill specially.
 
 * [Read on Gitbook](https://yeasy.gitbook.io/pickleball_guide/)
 * [Read on Github](https://github.com/yeasy/pickleball_guide/blob/main/SUMMARY.md)

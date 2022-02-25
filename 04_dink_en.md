@@ -24,13 +24,18 @@ Dink needs to avoid returning the ball too far and too high, so that the opponen
 
 There are several ways to achieve the Dink effect, the easiest and most efficient way is to push the ball.
 
-When pushing the ball, you should pay attention to the relatively fixed wrist, control the angle of the racket to be stable, and send the ball through the forearm without triggering the racket, so that the ball falls to the target landing point. In order to ensure the stability of the ball trajectory, the racket should continue to follow the ball for about a foot after hitting the ball.
-
-Pay attention to the ball's landing point, it should be in the first half of the NVZ to avoid the opponent's attack; in order to mobilize the opponent, when the opponent is standing near the net, the ball can also be be placed near the NVZ line (e.g, the side corners).
+When pushing the ball, you should pay attention to the relatively fixed wrist, control the angle of the racket to be stable, and send the ball through the forearm without triggering the racket, so that the ball falls to the target landing point. In order to ensure the stability of the ball trajectory, the racket should continue to follow the ball for about a foot after hitting the ball. When Dinking for defense, the ball's landing point should be in the first half of the NVZ to avoid the opponent's attack; in order to mobilize the opponent, when the opponent is standing near the net, the ball can also be be placed near the NVZ line (e.g, the side corners).
 
 After mastering the push Dink, you can appropriately add spin (mainly top spin, to let opponeents return the ball too high or long) to make it more difficult for the opponent to make a high-quality return.
 
-Dink balls rely more on hand feel, so special touch practice is required.
+When doing Dink training, keep in mind:
+
+* keep patient;
+* The body can move and sway with the ball, but the center of gravity should remain stable when hitting the ball;
+* Hit the ball in front of you always;
+* The wrist should be fixed, and use the shoulder to drive the arm to exert force.
+
+Dink rely a lot on hands sensitivity, so special touch practice is required first.
 
 * Bumping practice: Use the racket to continuously flip the ball, you can control the height of the ball, control the ball to rotate or not, and you can use the front and back rackets to flip the ball alternately. There should be no less than 100 consecutive strokes at a time, and no less than 5 sets of exercises should be carried out every day.
 * Multi-ball practice: The sparring staff hit the ball into the NVZ, and the player Dinks the ball into the designated target area, and the ball does not go too high over the net. There should be no less than 50 consecutive Dinks each time, and no less than 10 sets of exercises per day. Practice the straight ball first, and then practice the cross-court ball after stabilization.
