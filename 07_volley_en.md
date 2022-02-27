@@ -28,4 +28,9 @@ The landing point of the volley should be far from the opponent's neutral positi
 
 When both sides volley each other, keep the arm steady and use small movements to quickly exert the power.
 
-Volleys can be practiced through racket swings, with a set of 50, practice 10 sets per day.
+You can master the volley technique through the following trainings:
+
+* Practice volleys with swing paddle movements, 50 sets per set, 10 sets per day;
+* Hit the wall with volley by 50 consecutive forehands, 50 consecutive backhands, 50 alternate forehands and backhands. Practice 10 sets a day.
+* Ball feeding practice: the sparring player continuously sends out balls of different heights, and the trainer volleys to a given position.
+* Return practice: both players continue to volley in the air so that the ball does not fall to the ground. The distance between the two sides can be adjusted.
