@@ -18,3 +18,4 @@
 * Return ball to an opponent in the backcourt, otherwise, to the weaker player.
 * Run to the net as soon as possible and keep the opponents in the backcourt.
 * If you don't know where to go, return the ball to the gap between the opponents.
+* Adjust the rhythm of your breathing, and hit the ball when you exhale, which makes the ball more stable.
