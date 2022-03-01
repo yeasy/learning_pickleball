@@ -26,7 +26,11 @@ There are several ways to achieve the Dink effect, the easiest and most efficien
 
 When pushing the ball, you should pay attention to the relatively fixed wrist, control the angle of the racket to be stable, and send the ball through the forearm without triggering the racket, so that the ball falls to the target landing point. In order to ensure the stability of the ball trajectory, the racket should continue to follow the ball for about a foot after hitting the ball. When Dinking for defense, the ball's landing point should be in the first half of the NVZ to avoid the opponent's attack; in order to mobilize the opponent, when the opponent is standing near the net, the ball can also be be placed near the NVZ line (e.g, the side corners).
 
-After mastering the push Dink, you can appropriately add spin (mainly top spin, to let opponeents return the ball too high or long) to make it more difficult for the opponent to make a high-quality return.
+After mastering the push Dink, you can appropriately add spin to make it more difficult for the opponent to make a high-quality return, including:
+
+* Topspin: squeeze the return space, and at the same time cause the opponent to return the ball too long and too high;
+* Backspin: The bounce is low with backspin. It is more difficult to control the force to return the ball perfectly, and the returned ball is easy to get off the net;
+* Side spin: The angle of the ball is large. It is more difficult to control the route when returning the ball, and it is more possible to go out or be predicted.
 
 When doing Dink training, keep in mind:
 
