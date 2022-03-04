@@ -7,3 +7,9 @@
 * When the ball is on your side, you should pick up the ball in time, and if the next ball is served by the opponent, you will take the initiative to give the ball to the opponent;
 * When the ball enters other people's field, you should shout to remind, and do not enter other people's field without authorization;
 * When disturbed (if other balls enter the court), you should raise your hand and call for a pause. The score earned before the interference is valid.
+
+
+## Terminologies
+
+* Double-Bounce rule: The player serves the ball, the opponent must wait for the ball to bounce before returning the ball (first bounce), and the receiver must wait for the ball to bounce again before returning the ball (second bounce).
+* Non-Volley Zone: NVZ, also known as the Kitchen. Refers to the area between the net and the first line. It is considered an violation if the athlete touches the area (including the line) before and after a volley.
