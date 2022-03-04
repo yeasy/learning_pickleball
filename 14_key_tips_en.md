@@ -3,14 +3,14 @@
 ## Strategies
 * Take advantage of one's own strengths and attack others' weaknesses; first stand undefeated, and then defeat others.
 * Never play games before the correct action becomes your subconscious reaction.
-* If the opponent's footwork is poor, let him run more; if the opponent's reaction is fast, slow down the pace; if the opponent's near-net skill is good, play more long balls, otherwise, play wide angles.
 * Being able to control power is more important than power itself. Controlling means that the same gesture can add or reduce power, spin or not, even change the angle.
 * Footwork is more important than hand technique. Run into position before playing.
-* A bad racket potentially affects your performance, but a good racket may not necessarily improve your real level.
 * Don't stick to any rule, and make adjustments at any time according to the opponent's situation.
+* An oridinary paddle potentially affects your performance, but a high-end paddle may not necessarily improve your real level.
 
 ## Tactics
 
+* If the opponent's footwork is poor, let him run more; if the opponent's reaction is fast, slow down the pace; if the opponent's near-net skill is good, play more long balls, otherwise, play wide angles.
 * Drop is the far-net Dink; Dink is the near-net Drop. The first goal of both is not gifting an opportunity to the opponents.
 * The most effective way of Dink and Drop is to push, rather than to drive or to spin.
 * Lob must pass the opponent's top. High ball is not easy to go out.
