@@ -20,7 +20,7 @@ The main purpose of swiping the ball is to mobilize the opponent, or make the op
 
 ## How to master Drive
 
-The most important thing in slamming the ball is to hit the ball in front of you, and to master the force of the whip, and release the force of turning the waist through the stable hitting surface formed by the clap hand.
+The most important thing in driving the ball is to hit the ball in front of you, and always hit the ball with a stable body. Another thing is to master the force of the whip, and release the force of turning the waist through the stable hitting surface formed by the clap hand.
 
 It should be noted that the surface of the pickle ball and racket is relatively smooth. In most cases, the Drive should be based on hitting, supplemented by rotation. In addition, the ball should not be too high when it crosses the net. It is best to fall down quickly to limit the opponent's return route.
 
@@ -29,3 +29,8 @@ The backhand is basically symmetrical with the forehand. Try to shoot with one h
 In double games, the target of the Drive can generally be between two opposing players, or in a defensive space. When the opponent's defensive ability is weak, you can also deliberately play a close ball (such as holding a clapping shoulder, etc.), causing the opponent to make mistakes.
 
 In single games, the Drive should mainly aim at the opponent's gap, and the gesture should be small, in order to prevent the opponent from predicting easily.
+
+The Drive can be trained through the following steps:
+
+* Multi-ball practice: The sparring staff throws the ball to the player, and the player hits the ball into the designated target area after landing and bouncing, and the ball should not go too high over the net. There should be no less than 50 consecutive draws each time, and no less than 10 sets of exercises should be performed every day. You can practice hitting the ball to different positions on the court.
+* Returning practice: The sparring staff and players practice driving the ball together. First practice at fixed location, and then free practice. There should be no less than 50 consecutive draws each time, and no less than 10 sets of exercises should be performed every day.
