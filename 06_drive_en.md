@@ -20,7 +20,7 @@ The main purpose of swiping the ball is to mobilize the opponent, or make the op
 
 ## How to master Drive
 
-The most important thing in driving the ball is to hit the ball in front of you, and always hit the ball with a stable body. Another thing is to master the force of the whip, and release the force of turning the waist through the stable hitting surface formed by the clap hand.
+The most important thing in driving the ball is to hit the ball in front of you, and always hit the ball with a stable body. Another thing is to master the force of the whip, and release the whole body's force of turning the waist through the stable hitting surface formed by the clap hand.
 
 It should be noted that the surface of the pickle ball and racket is relatively smooth. In most cases, the Drive should be based on hitting, supplemented by rotation. In addition, the ball should not be too high when it crosses the net. It is best to fall down quickly to limit the opponent's return route.
 
