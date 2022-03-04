@@ -9,7 +9,7 @@ Dink refers to the action of placing the ball in the opponent's NVZ area in fron
 Dink is often used in doubles events. According to the target area, it can be roughly divided into the following three types:
 
 * Straight ball: Straight ball is to put the ball into the opponent's area that you are facing. For example, stand on your left hemisphere and place the ball in your opponent's right half. Straight balls are usually easier to control, but tend to have a higher or farther trajectory, making it easier for the opponent to handle;
-* Cross-court ball: A cross-court Ball is when the ball is dropped into the opposing opponent's area. For example, stand on the left hemisphere and place the ball into the opponent's left half court. The cross-court ball has a longer distance. It is not easy to intercept because it passes through the middle of the net, and it has a certain angle after landing, which makes it more difficult for the opponent to deal with.
+* Cross-court (Diagonal) ball: A cross-court Ball is when the ball is dropped into the opposing opponent's area. For example, stand on the left hemisphere and place the ball into the opponent's left half court. The cross-court ball has a longer distance. It is not easy to intercept because it passes through the middle of the net, and it has a certain angle after landing, which makes it more difficult for the opponent to deal with. If the ball bounces off the ground and goes beyond the sideline of the court, be prepared to the opponent's ATP attack.
 * Middle ball: The middle ball refers to placing the ball in the space between the two opponents. Since both of them can catch the ball, it will cause some trouble to judge in time.
 
 ## When to use Dink
@@ -28,7 +28,7 @@ When pushing the ball, you should pay attention to the relatively fixed wrist, c
 
 After mastering the push Dink, you can appropriately add spin to make it more difficult for the opponent to make a high-quality return, including:
 
-* Topspin: squeeze the return space, and at the same time cause the opponent to return the ball too long and too high;
+* Topspin: squeeze the return space, and at the same time cause the opponent to return the ball too long and too high. The trajectory of the topspin ball is relatively high, so generally use it in the diagonal direction;
 * Backspin: The bounce is low with backspin. It is more difficult to control the force to return the ball perfectly, and the returned ball is easy to get off the net;
 * Side spin: The angle of the ball is large. It is more difficult to control the route when returning the ball, and it is more possible to go out or be predicted.
 
