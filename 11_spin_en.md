@@ -16,17 +16,18 @@ Pickleballs spin relatively weakly (generally less than 10 revolutions per secon
 
 Consider using Spin in the following scenarios:
 
-* Serve: The opponent's judgment error is caused by topspin or side spin;
-* Dink: Causes the opponent to hit the ball poorly by topspin or side spin;
-* Drive the ball or return the ball to the backcourt: avoid the ball going too long or out of bounds by topspin;
-* Volley in front of the net: Cause the opponent to make mistakes by side spin or back spin.
+* Serve: Use top spin or side spin to cause the opponent's judgment error on the ball's trajectory;
+* Dink: Use varioud spins to cause the opponent to hit the ball at a discomfortable position;
+* Drive or lob: Use topspin to avoid letting the ball go out;
+* Volley: Use back spin or side spin to cause the opponent to make mistakes;
+* ATP: Use side spin to let the ball land into the court from outside.
 
 ## How to master Spin
 
-The spin in a pickleball is hardly produced by rubbing the ball using the racket, but rather by the different positions where the racket hits the ball. Therefore, when using the spin to control the trajectory of the ball, it is important to focus on hitting the ball mainly, and cooperate with the friction.
+The spin of a pickleball is hardly produced by only rubbing it using the racket, but rather by hitting the different positions of the ball and pushing the ball around. Therefore, when using the spin to control the trajectory of the ball, it is important to focus on hitting the ball mainly, and cooperate with a following push.
 
 There are several ways to practice spin, and you need to feel the different spins caused by hitting different positions of the ball:
 
-* Swing the ball to create Spin: let the ball bounce on the racket, and experience different Spins when cutting the ball in different directions;
-* Serving to create Spin: hit different positions of the ball, send the ball with different Spins, and observe the trajectory after it hits the ground;
-* Return the ball to create Spin: hit the ball at different positions, return the ball with different Spins, and observe its flight path.
+* Bounce the ball to create Spin: let the ball bounce on the racket, and make different spins when cutting the ball in different directions;
+* Serve to create Spin: hit different positions of the ball, send the ball with different spins, and observe the trajectory after it bounces from the ground;
+* Return to create Spin: hit the coming ball at different positions, return the ball with different spins, and observe its flight trajectory.
