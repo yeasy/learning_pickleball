@@ -14,13 +14,15 @@ Dink is often used in doubles events. According to the target area, it can be ro
 
 ## When to use Dink
 
-When the ball from the opponent falls into the front area of ​​the NVZ and waits in front of the net, usually wait for the ball to bounce and then use the Dink ball to return.
+When the ball from the opponent falls into the front area of the NVZ and waits in front of the net, usually wait for the ball to bounce and then use the Dink ball to return.
 
-The main purpose of the Dink ball is to defend and find opportunities in the stalemate.
+The main purpose of the Dink ball is to defend when there's no good attack opportunity, and find opportunities in the stalemate.
 
 ## How to master Dink
 
-Dink needs to avoid returning the ball too far and too high, so that the opponent can form a volley and press down. Therefore, you should lower the center of the body, and let the ball pass the net in a low position, and drop downward.
+Dink needs to avoid returning the ball too far and too high, so that the opponent can form a volley and press down. 
+
+Therefore, you should stand close to the NVZ line, and lower the center of the body, and let the ball pass the net and drop downward in a low position.
 
 There are several ways to achieve the Dink effect, the easiest and most efficient way is to push the ball.
 
