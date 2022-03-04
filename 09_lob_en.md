@@ -20,7 +20,13 @@ Lobing the ball can save you from passive to proactive, and can also actively cr
 
 ## How to master the Lob
 
-The core point of Lobing the ball is to keep the ball higher than the opponent's position after jump to avoid the opponent volleying in the air. Therefore, the parabolic high point of the Lob ball should be close to the opponent's bottom line, so that the ball falls vertically near the bottom line and does not go out.
+The core point of Lobing the ball is to keep the ball higher than the opponent's position after jump to avoid the opponent volleying in the air. Therefore, the parabolic high point of the Lob ball should be close to the opponent's baseline, so that the ball falls vertically near the baseline and does not go out.
+
+When lobbing the ball, keep in mind:
+
+* Keep a similar action as Dink, to avoid the opponent's prejudgment to volley.
+* Control the trajectory's height, let it stay just above the opponent's volley top.
+* Control the ball's landing point, let it land as close to the baseline as possible.
 
 Lobing the ball can be practiced in a number of ways:
 
