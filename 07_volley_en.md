@@ -4,19 +4,21 @@ Volley is the most common scoring method for pickleball, which is similar with t
 
 ## What is Volley
 
-Volley refers to the action of hitting the ball during the flight of the ball after the opponent hits the ball and before the ball hits the ground. The volley is faster and the opponent is more difficult to handle.
+Volley refers to the action of hitting the ball during the flight of the ball before the ball hits the ground. Usually, the volley is quicker in action and the opponent feels more difficult to handle it in a shorter time.
 
 Generally, according to the location of the volley, it can be divided into far net volley, midfield volley, and close net volley.
 
 * Long net volley: High ball in the backcourt, you can also force the opponent to retreat into the backcourt by volleying.
 * Midfield volley: The midfield volley is mostly when the opponent gives a long ball in the process of surfing the net. At this time, you should use gentle force, put the ball in front of the opponent's net instantly, and surf the net quickly at the same time.
-* Near net volley: high ball in front of the net, you can hit the ball vigorously to make the ball fly quickly, causing the opponent to miss the ball. For non-high balls, avoid making vigorous efforts and focus on pushing, so that the ball does not go too high over the net. The net volley should avoid stepping into the NVZ area.
+* Near net volley: For high ball in front of the net, you can hit the ball quickly in order to earn a point. For non-high balls, avoid making vigorous efforts and focus on pushing, so that the ball does not go too high over the net. Avoid stepping into the NVZ area.
 
 In particular, both sides of the game can volley opponent's volley ball directly, which will form a faster round rhythm.
 
 ## When to use Volley
 
 When the opponent returns the ball farther and higher, you can score by volleying.
+
+Be aware that you should not touch the Non-Volley Zone before or after the volley action immediately (including the zone line).
 
 ## How to master Volley
 
