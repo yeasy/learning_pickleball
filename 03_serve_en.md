@@ -1,6 +1,6 @@
 # Serve and Return
 
-The purpose of serving and receiving is to prepare for the next shot, and to avoid giving the opponent a good attacking or going to net opportunity.
+The purpose of serving and receiving is to prepare for the next shot, and to avoid giving the opponent a good attacking or approaching net opportunity.
 
 In high-level games, it is generally difficult to score directly by serving or receiving.
 
@@ -18,7 +18,7 @@ The clapping hand should be properly relaxed, the palm of the hand should be lef
 
 ## Serve
 
-Serve the ball as far as possible to let it land near the bottom line, in order to increase the return difficulty to the opponent. When serving, you can probe the opponent's return by serving to the opponent's forehand position, backhand position or middle position. Generally, fast balls are more threatening than slow balls.
+The ball should be served to the diagonal court with an underhand motion. Usually serve the ball as far as possible to let it land near the bottom line (but not out), in order to hamper the opponent's return. When serving, you can probe the opponent's return by serving to the opponent's forehand position, backhand position or middle position. Generally, fast balls are more threatening than slow balls.
 
 In single games, the long serve can be combined with a short servee and a flat servee to mobilize the opponent's position.
 
@@ -36,11 +36,11 @@ You can train your serve quickly with multiple balls. Subject to being able to s
 
 ## Return
 
-When returning the serve, one's own team follows the ball to the net and forces the opponent to stay in the backcourt. Therefore, the receiving and serving should also fall as close as possible to the opponent's bottom line. The return ball can be returned by a topspin action, or by a chipping action. When you want to give yourself more time to run, you can return the ball high and let it fall slowly to the opponent's backcourt.
+When returning the serve, one's own team follows the ball to the net and forces the opponent to stay in the backcourt. Therefore, the returning ball should also fall land as close as possible to the opponent's bottom line. The return ball can be returned by a topspin action, or by a chipping action. When you want to give yourself more time to run, you can return the ball high and let it fall slowly to the opponent's backcourt.
 
-In singles, you should return the ball to the opponent's space more often, causing the opponent to return the ball while running.
+In single games, you can return the ball to the area far from the opponent more often, causing the opponent to return the ball while running.
 
-In doubles, the ball should be returned to the space between the opponent's two players (may be slightly biased to the backhand position), causing trouble when the opponent receives the ball. If the level of the opponent's two players is quite different, you can return the ball to the weaker player.
+In double games, the ball can be returned to the space between the opponent's two players (may be slightly biased to the backhand position), causing trouble when the opponent receives the ball. If the level of the opponent's two players is quite different, you can return the ball to the weaker player.
 
 ## Master the Return
 
