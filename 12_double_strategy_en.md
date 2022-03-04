@@ -6,7 +6,7 @@ Double games are common in pickleball, and its core lies in the close cooperatio
 
 Suppose the two teams are A and B, respectively, including two players A1, A2, B1, B2. Team A is the serving team.
 
-A1 serves the ball to the opponent B1 (B2 is standing in front of the net at this time), B1 tries to return the ball to the bottom line of team A, and at the same time, follows the ball to run to the net.
+A1 serves the ball to the opponent B1 (B2 is standing in front of the net at this time), B1 tries to return the ball to the baseline of team A, and at the same time, follows the ball to run to the net.
 
 At this time, two players of team B are in front of the net, and two players of team A are in the backcourt.
 

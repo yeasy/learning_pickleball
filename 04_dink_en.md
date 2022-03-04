@@ -39,7 +39,7 @@ When doing Dink training, keep in mind:
 * keep patient;
 * The body can move and sway with the ball, but the center of gravity should remain stable when hitting the ball;
 * Hit the ball in front of you always, and hit ball from the front of the ball's moving direction;
-* The wrist should be fixed, and use the shoulder to drive the arm to exert force.
+* The wrist should be fixed, and use the body and shoulder to drive the arm to exert force.
 
 Dink rely a lot on hands sensitivity, so special touch practice is required first.
 
