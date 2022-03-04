@@ -9,7 +9,7 @@
 * A bad racket potentially affects your performance, but a good racket may not necessarily improve your real level.
 * Don't stick to any rule, and make adjustments at any time according to the opponent's situation.
 
-## tactics
+## Tactics
 
 * Drop is the far-net Dink; Dink is the near-net Drop. The first goal of both is not gifting an opportunity to the opponents.
 * The most effective way of Dink and Drop is to push, rather than to drive or to spin.
