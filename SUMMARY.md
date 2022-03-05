@@ -15,6 +15,8 @@
 * [Double Game Strategy](12_double_strategy_en.md)
 * [Single Game Strategy](13_single_strategy_en.md)
 * [Key Tips](14_key_tips_en.md)
+* [Courtesy Rules](15_courtesy_rules_en.md)
+* [Terminologies](16_terminologies_en.md)
 * [Appendix](appendix_en.md)
 
 # 打好匹克球
@@ -34,4 +36,6 @@
 * [双打战术](12_double_strategy_cn.md)
 * [单打战术](13_single_strategy_cn.md)
 * [要点总结](14_key_tips_cn.md)
+* [文明运动准则](15_courtesy_rules_cn.md)
+* [术语](16_terminologies_cn.md)
 * [附录](appendix_cn.md)
