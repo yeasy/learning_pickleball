@@ -1,23 +1,3 @@
-# 打好匹克球
-
-* [前言](README.md)
-* [基础知识](01_basic_cn.md)
-* [热身与放松](02_prepare_cn.md)
-* [发球与接发球](03_serve_cn.md)
-* [Dink 技术](04_dink_cn.md)
-* [放网技术](05_drop_cn.md)
-* [抽球技术](06_drive_cn.md)
-* [截击技术](07_volley_cn.md)
-* [削球技术](08_chop_cn.md)
-* [挑球技术](09_lob_cn.md)
-* [步法](10_footwork_cn.md)
-* [旋转](11_spin_cn.md)
-* [双打战术](12_double_strategy_cn.md)
-* [单打战术](13_single_strategy_cn.md)
-* [要点总结](14_key_tips_cn.md)
-* [附录](appendix_cn.md)
-
-
 # Pickleball Guide
 
 * [Preface](README.md)
@@ -36,3 +16,22 @@
 * [Single Game Strategy](13_single_strategy_en.md)
 * [Key Tips](14_key_tips_en.md)
 * [Appendix](appendix_en.md)
+
+# 打好匹克球
+
+* [前言](README.md)
+* [基础知识](01_basic_cn.md)
+* [热身与放松](02_prepare_cn.md)
+* [发球与接发球](03_serve_cn.md)
+* [Dink 技术](04_dink_cn.md)
+* [放网技术](05_drop_cn.md)
+* [抽球技术](06_drive_cn.md)
+* [截击技术](07_volley_cn.md)
+* [削球技术](08_chop_cn.md)
+* [挑球技术](09_lob_cn.md)
+* [步法](10_footwork_cn.md)
+* [旋转](11_spin_cn.md)
+* [双打战术](12_double_strategy_cn.md)
+* [单打战术](13_single_strategy_cn.md)
+* [要点总结](14_key_tips_cn.md)
+* [附录](appendix_cn.md)
