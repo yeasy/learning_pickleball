@@ -18,6 +18,8 @@ When the opponent's position or attention is in the frontcourt, and the jump or 
 
 Lobing the ball can save you from passive to proactive, and can also actively create opportunities for potential volleys.
 
+After lobing the ball, move to the net and prepare to attack when the opponent returns the ball too high.
+
 ## How to master the Lob
 
 The core point of Lobing the ball is to keep the ball higher than the opponent's position after jump to avoid the opponent volleying in the air. Therefore, the parabolic high point of the Lob ball should be close to the opponent's baseline, so that the ball falls vertically near the baseline and does not go out.
