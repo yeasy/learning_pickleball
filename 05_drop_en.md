@@ -16,7 +16,7 @@ Similarly, tennis balls can also be divided into three types: straight balls, di
 
 ## When to use Drop
 
-When your side is in the middle and backcourt and the other side is waiting in front of the net, at this time, you can let your side run to the front of the net by releasing the net to form a stalemate.
+When your side is in the middle and backcourt and the other side is waiting in front of the net, at this time, you can let your side run to the front of the net by releasing the net to form a stalemate. For example, people often use drop in the third shot.
 
 The main purpose of putting tennis balls is to let oneself run to the net quickly and form a stalemate with the opponent's net.
 
