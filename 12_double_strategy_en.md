@@ -24,5 +24,6 @@ Once one side is suppressed to the backcourt, it is at a big disadvantage. At th
 
 ## Key Points
 
+* Positioning: try to stay in front of the net to hit the ball, and try to keep the opposing players in the back;
 * Protection of the middle ball: The middle position of the two people should be negotiated in advance. When both of them can return the ball well, the forehand side or the higher level side should be given priority to return.
 * Protection of the backcourt ball: The backcourt ball should be handled by the one close to the backcourt or the one with faster footwork to catch the ball.
