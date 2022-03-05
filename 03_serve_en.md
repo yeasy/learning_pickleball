@@ -18,7 +18,7 @@ The clapping hand should be properly relaxed, the palm of the hand should be lef
 
 ## Serve
 
-The ball should be served to the diagonal court with an underhand motion. Usually serve the ball as far as possible to let it land near the bottom line (but not out), in order to hamper the opponent's return. When serving, you can probe the opponent's return by serving to the opponent's forehand position, backhand position or middle position. Generally, fast balls are more threatening than slow balls.
+The ball should be served to the diagonal court with an underhand motion. Usually serve the ball as far as possible to let it land near the baseline (but not out), in order to hamper the opponent's return. When serving, you can probe the opponent's return by serving to the opponent's forehand position, backhand position or middle position. Generally, fast balls are more threatening than slow balls.
 
 In single games, the long serve can be combined with a short servee and a flat servee to mobilize the opponent's position.
 
@@ -36,7 +36,7 @@ You can train your serve quickly with multiple balls. Subject to being able to s
 
 ## Return
 
-When returning the serve, one's own team follows the ball to the net and forces the opponent to stay in the backcourt. Therefore, the returning ball should also fall land as close as possible to the opponent's bottom line. The return ball can be returned by a topspin action, or by a chipping action. When you want to give yourself more time to run, you can return the ball high and let it fall slowly to the opponent's backcourt.
+When returning the serve, one's own team follows the ball to the net and forces the opponent to stay in the backcourt. Therefore, the returning ball should also fall land as close as possible to the opponent's baseline. The return ball can be returned by a topspin action, or by a chipping action. When you want to give yourself more time to run, you can return the ball high and let it fall slowly to the opponent's backcourt.
 
 In single games, you can return the ball to the area far from the opponent more often, causing the opponent to return the ball while running.
 
