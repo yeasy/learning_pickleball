@@ -18,9 +18,13 @@ Then the game enters the most critical near-net process, usually players use the
 
 Assuming that the return quality by the A side is not good and the ball is pushed to the backcourt by the B side, at this time, the A side should try to go back to the net again by droping the ball. The B side suppresses the A side players in the backcourt by giving long balls in succession.
 
-It can be seen that in the double games, the stalemate in front of the net plays a crucial role. Through the dinking, you should find offensive opportunities or be able to suppress the opponent to the backcourt.
+It can be seen that there are two important steps in the doubles process.
 
-Once one side is suppressed to the backcourt, it is at a big disadvantage. At this time, if the ball is returned too high, it is easy for the opponent to smash the ball and earn the score.
+One is the third shot. For the serving side, if there is no high-quality third shot, it will be difficult to have a chance to earn score in the following rounds. The third shot can be driving the ball (more offensive) or dropping to the net (more defensive).
+
+The other is the stalemate in front of the network. The two sides look for offensive opportunities through the stalemate in front of the net and then try to suppress the opponent to the backcourt. Once one side is suppressed to the backcourt, it is at a disadvantage. At this time, if the ball is returned too high, it is easy for the opponent to smash the ball and score.
+
+It should be noted that the Dinking in front of the net usually is using the diagonal direction or to the middle. Watch out for the opposing ATP attack when the ball lands close to the touchline. Be careful to defend the opponent's Erne attack when the ball is high over the net.
 
 ## Key Points
 
