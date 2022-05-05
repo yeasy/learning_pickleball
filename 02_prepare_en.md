@@ -2,11 +2,11 @@
 
 The secret to being able to exercise for a long time is to warm up well before exercising and relax properly after exercising. 
 
+At the same time, good physical fitness is a prerequisite for high-level competition.
 
 ## How to fully warm up
 
 The purpose of a warm-up is to activate the body's joints and associated muscles to avoid injury from sudden stress.
-
 
 It should be done in the order from the whole to the part, from the large joint to the small joint.
 
@@ -15,7 +15,6 @@ It should be done in the order from the whole to the part, from the large joint 
 * Leg press and leg stretch
 * Active wrist and ankle joints
 * Jogging and jumping exercises
-
 
 ## How to relax reasonably
 
