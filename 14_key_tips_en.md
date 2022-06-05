@@ -1,12 +1,15 @@
 # Key Tips
 
+Many players (especially ex tennis players) only depends on their tennis experience. However, advanced pickleball requires an effective combination of ping pong, badminton and tennis.
+
 ## Strategies
 * Take advantage of one's own strengths and attack others' weaknesses; first stand undefeated, and then defeat others.
 * Never play games before the correct action becomes your subconscious reaction.
 * Being able to control power is more important than power itself. Controlling means that the same gesture can add or reduce power, spin or not, even change the angle.
 * Footwork is more important than hand technique. Run into position before playing.
 * Don't stick to any rule, and make adjustments at any time according to the opponent's situation.
-* An oridinary paddle potentially affects your performance, but a high-end paddle may not necessarily improve your real level.
+* Ball follows the mind. You will see the trajectory before hitting the ball. All your need is to implement it.
+* Players not the paddles will decide the performance.
 
 ## Tactics
 
