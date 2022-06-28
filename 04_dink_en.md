@@ -26,7 +26,7 @@ Therefore, you should stand close to the NVZ line, and lower the center of the b
 
 There are several ways to achieve the Dink effect, the easiest and most efficient way is to push the ball.
 
-When pushing the ball, you should pay attention to the relatively fixed wrist, control the angle of the racket to be stable, and send the ball through the forearm without triggering the racket, so that the ball falls to the target landing point. In order to ensure the stability of the ball trajectory, the racket should continue to follow the ball for about a foot after hitting the ball. When Dinking for defense, the ball's landing point should be in the first half of the NVZ to avoid the opponent's attack; in order to mobilize the opponent, when the opponent is standing near the net, the ball can also be be placed near the NVZ line (e.g, the side corners).
+When pushing the ball, you should pay attention to the relatively fixed wrist, control the angle of the racket to be stable, and send the ball through the forearm without triggering the racket, so that the ball falls to the target landing point. In order to ensure the stability of the ball trajectory, the racket should continue to follow the ball for about a foot after hitting the ball. When Dinking for defense, the ball's landing point should be in the first half of the NVZ to avoid the opponent's attack; in order to mobilize the opponent, when the opponent's standing is unstable, the ball can also be placed near the NVZ line (e.g, the side corners) or to the opponent's feet.
 
 After mastering the push Dink, you can appropriately add spin to make it more difficult for the opponent to make a high-quality return, including:
 
@@ -38,7 +38,7 @@ When doing Dink training, keep in mind:
 
 * keep patient;
 * The body can move and sway with the ball, but the center of gravity should remain stable when hitting the ball;
-* Hit the ball in front of you always, and hit ball from the front of the ball's moving direction;
+* Hit the ball in front of you, hit ball from the front of the ball's moving direction, and hit the ball when exhale;
 * The wrist should be fixed, and use the body and shoulder to drive the arm to exert force.
 
 Dink rely a lot on hands sensitivity, so special touch practice is required first.
