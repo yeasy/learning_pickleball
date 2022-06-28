@@ -1,6 +1,6 @@
 # Warm up and Relax
 
-The secret to being able to exercise for a long time is to warm up well before exercising and relax properly after exercising. 
+The secret to being able to play pickleball for a long time is to warm up well before playing and relax properly after the game. 
 
 At the same time, good physical fitness is a prerequisite for high-level competition.
 
