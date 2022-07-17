@@ -1,6 +1,6 @@
 # Pickleball Guide 打好匹克球
 
-**v0.2.8**
+**v0.2.9**
 
 This book is bilingual. 本书为双语版本。
 
@@ -16,7 +16,7 @@ Each chapter is focused on a specific skill, players can learn them by order, wh
 * [Read on Github](https://github.com/yeasy/pickleball_guide/blob/main/SUMMARY.md)
 * [Show the Key Tips directly](https://github.com/yeasy/pickleball_guide/blob/main/14_key_tips_en.md)
 
-匹克球是一项正在风靡的新兴运动，它融合了羽毛球、网球、乒乓球的一些特点，其技术和诀窍仍在探索发展中。本书将介绍如何掌握匹克球，并提高竞技能力到高级水平，从而领略更多运动带来的乐趣。
+匹克球是一项正在风靡的新兴运动，它融合了羽毛球、网球、乒乓球的一些特点，其技术和诀窍仍在探索发展中。本书将介绍如何学习匹克球，并进阶到高级竞技水平，从而领略运动带来的更多乐趣。
 
 本书不侧重介绍匹克球的基本规则，读者可以自行参考[官方规则说明](https://usapickleball.org/what-is-pickleball/how-to-play/basics/rules-summary/)。
 

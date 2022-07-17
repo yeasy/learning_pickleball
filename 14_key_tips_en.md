@@ -8,7 +8,7 @@ Many players only depends on their tennis experience. However, advanced pickleba
 * Footwork is more important than hand technique. Run into position before playing.
 * Don't get into a groove. Make adjustments at any time according to the opponent.
 * Ball follows the mind. You will see the trajectory before hitting the ball. All your need is to implement it.
-* Players, not paddles, decide the performance.
+* Play fast against slow. Either be faster than the opponent, or make the opponent slower.
 * Never play games before the correct action becomes your subconscious reaction.
 
 ## Tactics
