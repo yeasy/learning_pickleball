@@ -28,7 +28,7 @@ When lobbing the ball, keep in mind:
 
 * Keep a similar action as Dink, to avoid the opponent's prejudgment to volley.
 * Control the trajectory's height, let it stay just above the opponent's volley top.
-* Control the ball's landing point, let it land as close to the baseline as possible.
+* Control the ball's landing point, let it land as close to the baseline as possible. Usually let it land near opponent's backhand side.
 
 Lobing the ball can be practiced in a number of ways:
 
