@@ -8,9 +8,15 @@
 
 A 将球发给 B，B 要尽量将球回给 A 底线位置，并且尽量落入 A 的空档位置。
 
+![single-strategy-01](_images/single-strategy-01.png)
+
 同时，B 试图跟随来到网前截击。
 
+![single-strategy-02](_images/single-strategy-02.png)
+
 A 接球后，通过抽球或吊球让 B 跑动。
+
+![single-strategy-03](_images/single-strategy-03.png)
 
 B 网前拦截成功，将球推到 A 后场或调动 A 的网前。
 

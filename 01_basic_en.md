@@ -7,7 +7,9 @@ Pickle ball combines the characteristics of tennis, badminton, table tennis and 
 ## The Origin of Pickleball
 
 In the summer of 1965, the pickleball was invented by Congressman Joel Pritchard and his neighbors Barney McCallum and Bill Bell while vacationing on Bainbridge Island in Seattle, USA.
- 
+
+![pickleball-born](_images/pickleball-born.png)
+
 It is said that they both like to play tennis and badminton, but because of the high threshold, they cannot play with their families. So they wanted to invent a sport that the elderly and children could also participate in. After a comprehensive study of tennis, badminton, table tennis and other projects, the three inventors chose a moderate field size, used a wooden racket, and designed a slow-flying plastic ball, which greatly lowered the threshold for getting started. Everyone fell in love with the movement all at once, and it spread.
  
 When playing Pickle, a pet dog named "Pickle" likes to run after the ball, so the inventor named it Pickle.
@@ -18,9 +20,15 @@ To commemorate the invention of the pickleball, the World Pickleball Championshi
 
 The size of the Peak Court is 44x20 feet (about 13.4x6.1 meters), and the net height is 34 ~ 36 inches (about 88.36 ~ 91.44 cm), which is the same size as the badminton court. Therefore, it is very convenient to raise the net to play badminton and lower it to play pickle on the same field.
 
+![Pickelball Court](_images/pickleball_court.png)
+
 Pickle balls used in official competitions are slightly larger than tennis balls. They are made of hard plastic and are mostly yellow or orange (indoor balls are different from outdoor balls, the indoor balls are slightly softer and have fewer holes). A circular hole with a diameter of less than 1cm, which makes the rotation not too violent, and the ball speed is not fast. Therefore, people sometimes jokingly call the pickleball as seniors' tennis.
 
+![various-type-balls](_images/various-type-balls.png)
+
 The paddle of the pickle ball is like a large table tennis paddle, with a length of 15.5 ~ 17 inches (39.37 ~ 43.18 cm) and a width of 7 ~ 8.25 inches (17.78 ~ 20.96 cm). It was originally made of wood, and later glass fiber and carbon fiber were used. and other new materials. The paddle has little elasticity and a smooth surface. Pickleball is easy to play, but getting better at it takes skill, patience and teamwork.
+
+![pickleball-paddles](_images/pickleball-paddles.png)
 
 Pickleball scoring is similar to tennis, but only the server can score points during their round.
 

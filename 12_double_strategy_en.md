@@ -6,17 +6,25 @@ Double games are common in pickleball, and its core lies in the close cooperatio
 
 Suppose the two teams are A and B, respectively, including two players A1, A2, B1, B2. Team A is the serving team.
 
+![double-strategy-01](_images/double-strategy-01.png)
+
 A1 serves the ball to the opponent B1 (B2 is standing in front of the net at this time), B1 tries to return the ball to the baseline of team A, and at the same time, follows the ball to run to the net.
+
+![double-strategy-02](_images/double-strategy-02.png)
 
 At this time, two players of team B are in front of the net, and two players of team A are in the backcourt.
 
 Assuming the ball goes to A2, A1 takes a step forward and prepares to net. A2 waits the ball to bounce, and chooses to drop the ball, and A2 follows the ball to go to the net at the same time.
 
+![double-strategy-03](_images/double-strategy-03.png)
+
 At this time, the players of team A and B are both in front of the net.
 
 Then the game enters the most critical near-net process, usually players use the Dink technique to mobilize the opponents. Assuming that A1 returns the ball too high, B1 gets the opportunity and takes the initiative to drive the ball. The two sides entered the fast volley phase. One party can return to the stalemate in front of the net again by taking the initiative to Dink.
 
-Assuming that the return quality by the A side is not good and the ball is pushed to the backcourt by the B side, at this time, the A side should try to go back to the net again by droping the ball. The B side suppresses the A side players in the backcourt by giving long balls in succession.
+![double-strategy-04](_images/double-strategy-04.png)
+
+Assuming that the return quality by the A team is not good and the ball is pushed to the backcourt by the B team, at this time, the A team should try to go back to the net again by droping the ball. The B team suppresses the A team players in the backcourt by giving long balls in succession.
 
 It can be seen that there are two important steps in the doubles process.
 
