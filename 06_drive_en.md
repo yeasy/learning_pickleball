@@ -1,10 +1,14 @@
 # How to Drive
 
-The drive technique is the closest to the tennis technique of the pickleball.
+The drive technique is the one of the most common techniques, especially in single games.
+
+In the singles game, the opponent is often mobilized by driving the ball, and in the doubles game, the drive can be used to transit to the next shot.
+
+A high-quality drive can even score directly.
 
 ## What is Drive
 
-Drive is the act of hitting the ball quickly so that the ball flies forward quickly.
+Drive is the action of hitting the ball quickly to make the ball flies forward fast.
 
 It can be roughly divided into the far net Drive, the middle net Drive, and the near net Drive.
 
