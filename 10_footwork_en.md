@@ -1,8 +1,10 @@
 # Master Footwork
 
-Footwork is the soul of all ball sports. Without good footwork, it is difficult to hit a high-quality ball with just touch.
+Footwork is the soul of all ball sports. 
 
-The purpose of footwork is to leave enough space for the body to hit the ball in a comfortable position.
+Excellent footwork allows players to always hit the ball in the most comfortable position. Conversely, without good footwork, no matter how good the hand skill is, it is difficult to play a good game.
+
+The purpose of footwork is to leave enough time and space for the body to hit the ball in a comfortable position.
 
 ## Footwork Types
 
@@ -37,8 +39,8 @@ Typical footwork scenarios in single games include:
 
 Footwork exercises mainly include two parts, one is waist and leg strength exercises, and the other is footwork exercises.
 
-* Push-up exercises: Start with static push-ups, gradually increase the time, and should last more than 5 minutes. You can do more than 20 push-ups in a row.
-* Horse stance exercise: squat against the wall and gradually increase the time, which should last more than 10 minutes. The squat should last for more than 3 minutes;
-* Squat jump training: 50 squat jump training, 3 sets per day;
+* Support exercise: Planks should last at least 5 minutes. Do more than 20 push-ups in a row.
+* Squat exercise: squat against the wall and gradually increase the time, which should last more than 10 minutes. The squat should last for more than 3 minutes;
+* Burpee jump training: 50 jumps training, 3 sets per day;
 * Running practice: jog in the front, back, left and right directions, experience how to move quickly in different directions, and pay attention to relax your body. 1 minute in each direction;
-* Meter running practice: Run 6 points on the field in sequence according to the meter, 20 runs per group, 3 groups per day.
+* 6 points running practice: Run 6 points on the field in sequence according to the meter, 20 runs per group, 3 groups per day.
