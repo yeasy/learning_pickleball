@@ -50,7 +50,7 @@ Once you are proficient, you can practice serving with different spins.
 
 ## Return
 
-When returning the serve, players should follows the ball to the net and forces the opponent to stay in the backcourt. Therefore, the returning ball should also land as close as possible to the baseline. 
+When returning the serve, players should follows the ball to the net (reach the NVZ line before the ball's landing), which forces the opponent to stay in the backcourt. Therefore, the returning ball should also land as close as possible to the baseline. 
 
 The return ball can be returned by a hitting action, or a chopping action. When you want to have more time to run to the net, you can return the ball high and let it fall to the opponent's backcourt.
 

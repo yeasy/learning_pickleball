@@ -1,6 +1,8 @@
 # Pickleball Guide 打好匹克球
 
-**v0.3.1**
+**v0.3.2**
+
+![Wechat Group](_images/wechat.png)
 
 This book is bilingual. 本书为双语版本。
 
