@@ -17,13 +17,13 @@
     ],
     "pluginsConfig": {
         "image-captions": {
-            "attributes": { "width": "600" },
+            "attributes": { "width": "400" },
             "caption": "图 _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_"
         },
         "fontSettings": {
                         "family": "msyh",
                         "size": 2
-                }
+        }
 
     }
 }
