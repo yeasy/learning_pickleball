@@ -34,7 +34,7 @@ Pickleball scoring is similar to tennis, but only the server can score points du
 
 Taking doubles as an example, each game has 11 points, and each player on the serving side has one chance to serve. After serving, the opponent receives the serve and returns, and the serving party hits the ball to the opposite side again, and can then start volleying the ball that has not landed. If the serving team scores in the serving round, then switch sides with teammates and continue serving. Players can only score points in their own serving rounds, and the receiving team will not add points even if they win the round.
 
-In addition, the area before the net is called "Kitchen (Kitchen) or non-volley zone (None Volley Zone, NVZ)". Competitors are not allowed to step into this area before and after the volley.
+In addition, the area before the net is called "None Volley Zone (NVZ)" or "Kitchen (Kitchen). Competitors are not allowed to step into this area before and after the volley.
 
 ## Pickerball Features
 
