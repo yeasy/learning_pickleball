@@ -10,25 +10,25 @@ Generally, according to the location of the volley, it can be divided into far n
 
 * Long net volley: High ball in the backcourt, you can also force the opponent to retreat into the backcourt by volleying.
 * Midfield volley: The midfield volley is mostly when the opponent gives a long ball in the process of surfing the net. At this time, you should use gentle force, put the ball in front of the opponent's net instantly, and surf the net quickly at the same time.
-* Near net volley: For high ball in front of the net, you can hit the ball quickly in order to earn a point. For non-high balls, avoid making vigorous efforts and focus on pushing, so that the ball does not go too high over the net. Avoid stepping into the NVZ area.
+* Near net volley: For high ball in front of the net, you can hit the ball quickly in order to earn a point. For non-high balls, avoid making vigorous efforts. Usually push the ball to the backcourt, or hit the ball shortly to attack, so that the ball does not go too high over the net. Pay attention to avoid stepping into the NVZ area.
 
 In particular, both sides of the game can volley opponent's volley ball directly, which will form a faster round rhythm.
 
 ## When to use Volley
 
-When the opponent returns the ball farther and higher, you can score by volleying.
+When the opponent at back court returns the ball too far or too high to create a good attack opportunity, you can score by volleying.
 
-Be aware that you should not touch the Non-Volley Zone before or after the volley action immediately (including the zone line).
+When the opponent dinks near the net, and returns the ball too far or too high, you can volley to try attacking the opponents to create score opportunities.
 
 ## How to master Volley
 
-The deadline must first be moved in place, and run to the forward direction of the ball in time by predicting the trajectory of the ball. The volley position should be earlier than the non-volley.
+First need to move to an approprite position. Move to the direction of the ball in time by predicting the trajectory of the ball. The volley position should be earlier than the non-volley position.
 
-In addition, when volleying, the racket should be stable to avoid excessive friction of the ball and cause the ball to deviate from the trajectory.
+In addition, when volleying, the racket should be stable to avoid excessive friction of the ball, which can cause the ball to deviate from the target.
 
-The landing point of the volley should be far from the opponent's neutral position, and you can also choose to volley the opponent's ankle position. Generally, do not volley towards above the waist to avoid going out. Unless you are very confident, it is generally not recommended to hit the ball to the sideline, becausee it is easy to make mistakes and go out.
+The landing point of the volley should be far from the opponent's neutral position, and you can also choose to volley the opponent's ankle position. Generally, do not volley towards above the waist to avoid going out. Unless you are very confident, it is generally not recommended to hit the ball to the sideline, becausee it is easy to make mistakes and go out. When the opponets are near the net, can attack the ball to the shoulder with the paddle, to cause a body attack.
 
-When both sides volley each other, keep the arm steady and use small movements to quickly exert the power.
+When both sides volley each other near the net quickly, keep the arm steady and use small movements (wrist or fingers) to quickly exert the power.
 
 You can master the volley technique through the following trainings:
 
