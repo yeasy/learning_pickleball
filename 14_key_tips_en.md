@@ -2,14 +2,18 @@
 
 Advanced pickleball requires an effective combination of skills from ping pong, badminton and tennis.
 
+## Practices
+
+* Learn how to play hard first, then how to play softly, then play hard again. At last, master to play flexibly.
+* Being able to control power is more important than power itself. Controlling means that with the same gesture, you can add different power, spin or angle.
+* Ball follows the mind. You will see the trajectory before hitting the ball. All your need is to implement it.
+* Never play games before the correct action becomes your subconscious reaction.
+
 ## Strategies
 * Take advantage of one's own strengths and attack others' weaknesses; first stand undefeated, and then defeat opponents.
-* Being able to control power is more important than power itself. Controlling means that with the same gesture, you can add different power, spin or angle.
 * Footwork is more important than hand technique. Run into position before playing.
 * Don't get into a groove. Make adjustments at any time according to the opponent.
-* Ball follows the mind. You will see the trajectory before hitting the ball. All your need is to implement it.
 * Play fast against slow. Either be faster than the opponent, or make the opponent slower.
-* Never play games before the correct action becomes your subconscious reaction.
 
 ## Tactics
 
