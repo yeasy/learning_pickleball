@@ -4,7 +4,7 @@ Dink technology is the most basic technology of pickleball and the premise of ot
 
 ## What is Dink
 
-Dink refers to the action of placing the ball in the opponent's NVZ area in front of the net. Usually the trajectory is flat, which goes over the net in a low position (within a ball height is good), and it falls into the front half of the opponent's NVZ area or near the area line.
+Dink refers to the action of placing the ball in the opponent's NVZ area in front of the net. Usually the trajectory is flat, which goes over the net in a low position (within a ball height is good), and it falls into the front half of the opponent's NVZ area or near the area line. 
 
 Dink is often used in doubles events. According to the target area, it can be roughly divided into the following three types:
 
@@ -16,7 +16,7 @@ Dink is often used in doubles events. According to the target area, it can be ro
 
 When the ball from the opponent falls into the front area of the NVZ and waits in front of the net, usually wait for the ball to bounce and then use the Dink ball to return.
 
-The main purpose of the Dink ball is to defend when there's no good attack opportunity, and find opportunities in the stalemate.
+The main purpose of Dink is to prevent the opponent from having a good attack opportunities by defending when there is no good opportunity for us, and at the same time mobilize the opponent to create a good attack opportunities in the rally.
 
 ## How to master Dink
 
