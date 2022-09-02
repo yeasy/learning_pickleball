@@ -1,6 +1,6 @@
 # Pickleball Guide 打好匹克球
 
-**v0.3.3**
+**v0.3.4**
 
 ![Wechat Group](_images/wechat.png)
 

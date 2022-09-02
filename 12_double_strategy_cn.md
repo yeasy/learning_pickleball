@@ -6,23 +6,23 @@
 
 假设两队分别为 A、B，分别包括两名球员 A1、A2，B1、B2。A 队为发球方。
 
-![double-strategy-01](_images/double-strategy-01.png)
+![Double Serve](_images/double-serve.png)
 
 A1 将球发给对方 B1（此时 B2 站在网前），B1 要尽量将球回给 A 队底线位置，同时，跟随来到网前。
 
-![double-strategy-02](_images/double-strategy-02.png)
+![Double Receive](_images/double-receive.png)
 
 此时，B 队两名队员位于网前，A 队两名队员位于后场。
 
 假设球打给 A2，则 A1 上前一步，准备上网。A2 接球，选择放网，同时跟随球来到网前。
 
-![double-strategy-03](_images/double-strategy-03.png)
+![Double Drop](_images/double-drop.png)
 
 此时，A、B 队队员均位于网前。
 
 然后进入到最关键的网前过程，通常采用 Dink 球调动对方。假设 A1 回球过高，B1 拿到机会，主动进行抽球。双方进入快速截击球环节。一方可以通过主动 Dink 再次回到网前相持环节。
 
-![double-strategy-04](_images/double-strategy-04.png)
+![Double Dink](_images/double-dink.png)
 
 假设 A 方回球质量不高，被 B 方压到后场，此时，A 方应当通过放网来争取再次上网。B 方则通过连续给出长球压制 A 方球员在后场。
 

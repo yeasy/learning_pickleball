@@ -30,14 +30,14 @@ When pushing the ball, you should pay attention to the relatively fixed wrist, c
 
 After mastering the push Dink, you can appropriately add spin to make it more difficult for the opponent to make a high-quality return, including:
 
-* Topspin: squeeze the return space, and at the same time cause the opponent to return the ball too long and too high. The trajectory of the topspin ball is relatively high, so generally use it in the diagonal direction;
-* Backspin: The bounce is low with backspin. It is more difficult to control the force to return the ball perfectly, and the returned ball is easy to get off the net;
+* Topspin: The ball will drop sharply, which causes the opponent to return the ball too long and too high. The trajectory of the topspin ball is relatively high, so generally use it in the diagonal direction;
+* Backspin: squeeze the return space,  and the bounce is low with backspin. It is more difficult to control the force to return the ball perfectly, and the returned ball is often too low to pass the net;
 * Side spin: The angle of the ball is large. It is more difficult to control the route when returning the ball, and it is more possible to go out or be predicted.
 
 When doing Dink training, keep in mind:
 
 * keep patient;
-* The body can move and sway with the ball, but the center of gravity should remain stable when hitting the ball;
+* The body can move and sway with the ball, move ahead of the ball's direction. And the center of gravity should remain stable when hitting the ball;
 * Hit the ball in front of you, hit ball from the front of the ball's moving direction, and hit the ball when exhale;
 * The wrist should be fixed, and use the body and shoulder to drive the arm to exert force.
 
