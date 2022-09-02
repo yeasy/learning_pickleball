@@ -16,6 +16,10 @@ Focus is partly on the opposing player's position and movement, and partly on th
 
 The continental grip method should generally be used, that is, a posture similar to shaking hands or holding a hammer.
 
+![hold-paddle](_images/hold-paddle-angle.png)
+
+![hold-paddle](_images/hold-paddle.png)
+
 The clapping hand should be properly relaxed, the palm of the hand should be left empty, and at the same time, the index finger can lightly touch or place on the racket. If the full firmly holding score is 10 points, it is enough to achieve 3 points at most time.
 
 When hitting the ball, hold the racket tightly to transfer the power to the ball stably.
@@ -24,7 +28,9 @@ When hitting the ball, hold the racket tightly to transfer the power to the ball
 
 The ball should be served to the diagonal court with an underhand motion. 
 
-Usually serve the ball as far as possible to let it land near the baseline (but not out), in order to hamper the opponent's return. 
+Usually serve the ball as far as possible to let it land near the baseline (but not out), in order to hamper the opponent's return.
+
+![Double Serve](_images/double-serve.png)
 
 When serving, you can probe the opponent's return by serving to various places (e.g., the opponent's forehand position, backhand position or middle position) and with different speed. Generally, fast serving is more threatening than slow serving.
 
@@ -49,8 +55,9 @@ You can train your serve quickly with multiple balls. Subject to being able to s
 Once you are proficient, you can practice serving with different spins.
 
 ## Return
-
 When returning the serve, players should follows the ball to the net (reach the NVZ line before the ball's landing), which forces the opponent to stay in the backcourt. Therefore, the returning ball should also land as close as possible to the baseline. 
+
+![Double Receive](_images/double-receive.png)
 
 The return ball can be returned by a hitting action, or a chopping action. When you want to have more time to run to the net, you can return the ball high and let it fall to the opponent's backcourt.
 
