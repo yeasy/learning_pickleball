@@ -12,7 +12,7 @@ Similar to other ball games, players need to maintain a stable and comfortable s
 
 Focus is partly on the opposing player's position and movement, and partly on the ball.
 
-## Grip the Paddle
+## Grip the Paddle and Hit the Ball
 
 The continental grip method should generally be used, that is, a posture similar to shaking hands or holding a hammer.
 
