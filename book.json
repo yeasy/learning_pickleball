@@ -16,6 +16,20 @@
         "sharing"
     ],
     "pluginsConfig": {
+        "autocover": {
+            "font": {
+                "size": null,
+                "family": "msyh",
+                "color": "#000"
+            },
+            "size": {
+                "w": 1800,
+                "h": 2360
+            },
+            "background": {
+                "color": "#FFF"
+            }
+        },
         "image-captions": {
             "attributes": { "width": "400" },
             "caption": "图 _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_"
