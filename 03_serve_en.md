@@ -16,11 +16,11 @@ Focus is partly on the opposing player's position and movement, and partly on th
 
 The continental grip method should generally be used, that is, a posture similar to shaking hands or holding a hammer.
 
-![hold-paddle](_images/hold-paddle-angle.png)
+The clapping hand should be properly relaxed, the palm of the hand should be left empty, and at the same time, the index finger can lightly touch or place on the racket. If the full firmly holding score is 10 points, it is enough to achieve 3 points at most time.
 
 ![hold-paddle](_images/hold-paddle.png)
 
-The clapping hand should be properly relaxed, the palm of the hand should be left empty, and at the same time, the index finger can lightly touch or place on the racket. If the full firmly holding score is 10 points, it is enough to achieve 3 points at most time.
+![hold-paddle-angle](_images/hold-paddle-angle.png)
 
 When hitting the ball, hold the racket tightly to transfer the power to the ball stably. And always to hit the ball with the sweet spot of the racket.
 
