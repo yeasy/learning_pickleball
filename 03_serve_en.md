@@ -22,7 +22,9 @@ The continental grip method should generally be used, that is, a posture similar
 
 The clapping hand should be properly relaxed, the palm of the hand should be left empty, and at the same time, the index finger can lightly touch or place on the racket. If the full firmly holding score is 10 points, it is enough to achieve 3 points at most time.
 
-When hitting the ball, hold the racket tightly to transfer the power to the ball stably.
+When hitting the ball, hold the racket tightly to transfer the power to the ball stably. And always to hit the ball with the sweet spot of the racket.
+
+When not hitting the ball, keep your body facing the ball and always prepare the racket in front of the body to hit the ball.
 
 ## Serve
 
@@ -55,7 +57,9 @@ You can train your serve quickly with multiple balls. Subject to being able to s
 Once you are proficient, you can practice serving with different spins.
 
 ## Return
-When returning the serve, players should follows the ball to the net (reach the NVZ line before the ball's landing), which forces the opponent to stay in the backcourt. Therefore, the returning ball should also land as close as possible to the baseline. 
+When preparing to return the ball, keep enough space for hitting the ball. It is advisable to stay at a step back from the bottom line. The racquet should face the direction of the coming ball.
+
+When returning the serve, players should follows the ball to go to the net (reach the NVZ line before the ball's landing), which forces the opponent to stay in the backcourt. Therefore, the returning ball should also land as close as possible to the baseline. 
 
 ![Double Receive](_images/double-receive.png)
 
