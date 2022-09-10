@@ -18,7 +18,7 @@ To commemorate the invention of the pickleball, the World Pickleball Championshi
 
 ## Basic Rules
 
-The court size is 44x20 feet (about 13.4x6.1 meters), and the net height is 34 ~ 36 inches (about 88.36 ~ 91.44 cm), which is the same size as the badminton court. Therefore, it is very convenient to raise the net to play badminton and lower it to play pickle on the same field.
+The court size is 44x20 feet (about 13.4x6.1 meters), and the net height is 34 ~ 36 inches (about 88.36 ~ 91.44 cm), which is the same size as the badminton court. Therefore, it is very convenient to raise the net to play badminton and lower it to play pickleball on the same field.
 
 ![Pickelball Court](_images/pickleball_court.png)
 
