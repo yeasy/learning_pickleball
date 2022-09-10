@@ -1,38 +1,38 @@
 # How to Drop
 
-Drop technology is the core technology in the doubles event of the pickleball. If you don't master the drop technique, you can't progress to a higher level.
+Drop is the core technology to allow players to go to the net from backcourt. If you don't master the drop technique, you can't improve to an advanced level.
 
 ## What is Drop
 
-Putting the drop refers to the action of placing the ball in the opponent's NVZ area in the middle and backcourt (as close as possible to the front half), and at the same time running to the frontcourt or in front of the net before the opponent returns the ball.
+Drop refers to the action of placing the ball into the opponent's NVZ area (as close as possible to the front half) from the middle court or back court. At the same time, palyer need to run to near the net before the opponent hits the ball.
 
-It can be simply understood that droping ball is the Dink ball from the back court.
+It can be simply understood that Drop ball is the Dink ball from the far distance.
 
-Similarly, dropping can also be divided into three types in terms of direction: straight balls, diagonal balls and intermediate balls:
+Similarly, drop ball can also be divided into three types in terms of direction: straight drop, diagonal drop and middle drop:
 
-* Straight ball: The straight ball has a shorter trajectory and is usually easier to control, but is prone to a higher or farther trajectory. At the same time, the ball lands earlier, and the time spent online is shorter;
-* Cross-court Ball: A cross-court Ball is when the ball is dropped into the opposing opponent's area. The distance is longer, the ball lands later, and you have more time to go to the net.
-* Middle ball: The middle ball refers to placing the ball in the space between the two opponents. Since both of them can catch the ball, it will cause some trouble to judge in time.
+* Straight Drop: The straight drop has a shorter trajectory and is usually easier to achieve, but it is prone to a higher or farther trajectory. At the same time, the ball lands quicker to leave a shorter time window to go to the net;
+* Cross-court Drop: A cross-court drop is when the ball is dropped into the opposing opponent's area. The distance is longer, the ball lands later, and you have more time to go to the net.
+* Middle Drop: The middle ball refers to placing the ball in the space between the two opponents. Since both of them can catch the ball, it will cause some trouble to make decision immediately.
 
 From the perspective of spin, there are three types too: non-spin, backspin and topspin:
 
-* Non-spin ball: Put the ball over the net with a pushing action, it is required that the ball will not pass the net too highly, and the landing point should be short. When the space for hitting the ball is insufficient, use this way to hit the ball without hitting too much;
-* Backspin: Return the ball to the net by chipping the bottom the ball. The backspin trajectory will be higher than non-spin one, so keep hitting the ball from a low position. When the incoming ball is low, you can use the backspin method;
-* Topspin: Return the ball with a drive. The topspin falls sharply after passing the net, and has a certain offensiveness. When the hitting time and space are sufficient, you can use this way.
+* Non-spin ball: Hit the ball over the net with a pushing action. It is required that the ball will not pass the net too highly, and the landing distance should be short. This way is safe as a good defense. When the space for hitting the ball is insufficient, use this way to hit the ball without moving too much;
+* Backspin: Return the ball to the net by chopping the bottom the ball. The backspin trajectory will be longer than non-spin one, so keep hitting the ball from a low position. When the incoming ball is low, you can use the backspin method;
+* Topspin: Return the ball with a drive. The topspin tragectory falls sharply after passing the net, and is more offensive. When the hitting time and space are sufficient, you can use this way.
 
 ## When to use Drop
 
-When your side is in the middle and backcourt and the other side is waiting in front of the net, at this time, you can let your side run to the front of the net by releasing the net to form a stalemate. For example, people often use drop in the third shot.
+When your are not in the front of the court and the opponent side is waiting in front of the net, at this time, you can use drop to let your team run to the front of the net in time. For example, advanced players often use drop in the third shot.
 
-The main purpose of putting tennis balls is to let oneself run to the net quickly and form a stalemate with the opponent's net.
+The main purpose of dropping balls is to let players run to the net quickly and start the near net battle.
 
 ## How to master Drop
 
-When drop the ball, avoid returning the ball too far and too high, so that the opponent can volley the ball.
+When drop the ball, avoid returning the ball too far and too high, so that the opponent can volley the ball easily.
 
 When hitting the ball, keep the body in a stable state to avoid shaking.
 
-First practice defensive Drop without spin, and then practice Drop with spin. Pay attention to run to the net in time.
+First practice defensive non-spin Drop, and then practice Drop with spins. Pay attention to run to the net with the ball.
 
 * Fixed-position training: take a step back from the NVZ line, and do Drop training. After mastering it, take one more step back for training until you retreat to the backcourt line.
-* Moving training: After mastering the fixed-position Drop training, you can carry out the Drop training while moving. The sparring player hits the ball to the backcourt, and you Drop the ball and follow the ball to run to the net to form a stalemate.
+* Moving training: After mastering the fixed-position Drop training, you can carry out the Drop training while moving. The assistant player can hit the ball to the backcourt, and you drop the ball and follow the ball to run to the net to form a near net battle.
