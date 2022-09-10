@@ -1,26 +1,24 @@
 # How to Drive
 
-The drive technique is the one of the most common techniques, especially in single games.
+The drive is one of the most common techniques to attack, especially in single games.
 
-In the singles game, the opponent is often mobilized by driving the ball, and in the doubles game, the drive can be used to transit to the next shot.
-
-A high-quality drive can even score directly.
+In the single games, you can use drive to mobilize the opponents, and in the doubles game, you can use drive to attack or transit to the next shot. A high-quality drive can even score directly.
 
 ## What is Drive
 
 Drive is the action of hitting the ball quickly to make the ball flies forward fast.
 
-It can be roughly divided into the far net Drive, the middle net Drive, and the near net Drive.
+It can be roughly divided into the far-net Drive, the middle-court Drive, and the near-net Drive.
 
-* Far-net Drive: The far-net Drive is similar to the action of serving a ball. By Driveing the ground and turning the waist, swinging the big arm, driving the forearm, and finally whipping the ball. The general target is the opponent's midfield.
-* Midfield Drive: The near-net Drive is a transition by hitting when the opponent returns the ball to the midfield and it bounces high. The general target is the opposing near-net area or midfield.
-* Close-net Drive: The close-net is to attack the ball by hitting the ball when the opponent's return is shorter and the ball bounces high. Care should be taken to control the running trajectory not to cross the net too high,
+* Far-net Drive: The far-net Drive is similar to the action of serving a ball. By kicking the ground and turning the waist, swinging the big arm, driving the forearm, and finally whipping the ball to a high speed. The general target is the opponent's position gap. Pay attention do not let the ball pass the net very high.
+* Middle-court Drive: The middle-court Drive is an attack or transition by hitting when the opponent returns the ball to the midfield and it bounces high. The general target is the opposing near-net area or midfield.
+* Near-net Drive: The near-net is to attack the ball by hitting the ball when the opponent's return ball bounces high. Pay attention do not let the ball go out.
 
 ## When to use Drive
 
-When the ball jumps high after landing, or the opponent does not form an effective net block, you can try to Drive the ball.
+When the ball bounces high, and the opponent does not form an effective net block, you can try to Drive the ball.
 
-The main purpose of swiping the ball is to mobilize the opponent, or make the opponent return the ball in a hurry and the quality is not high, so as to form a chance for the next shot.
+The first purpose of driving the ball is to mobilize the opponent, or make the opponent to return the ball in a hurry, so as to score a point or form a chance for the next shot.
 
 ## How to master Drive
 

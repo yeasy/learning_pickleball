@@ -4,6 +4,8 @@ Double games are common in pickleball, and its core lies in the close cooperatio
 
 ## Basic Process
 
+The main process is divided into two stages: a) move from the backcourt to the NVZ, and b) the battle near the net.
+
 Suppose the two teams are A and B, respectively, including two players A1, A2, B1, B2. Team A is the serving team.
 
 ![Double Serve](_images/double-serve.png)
