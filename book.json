@@ -1,6 +1,9 @@
 {
     "title": "打好匹克球 Pickleball Guide",
     "author": "yeasy",
+    "pdf": {
+        "fontSize": 16
+    },
     "plugins": [
         "-autocover",
         "fontsettings",
