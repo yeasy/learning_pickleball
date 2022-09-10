@@ -4,9 +4,9 @@
 
 This book is bilingual. 本书为双语版本。
 
-![Pickelball Court](_images/pickleball_court.png)
+![Visit Online Book](_images/url-barcode.png)
 
-Pickleball is an emerging sport that merges the skills from badminton, tennis and pingpong, and its technology and skills are still being explored and developed. This book will introduce how to master pickleball, and help you improve the competition skill to an advanced level, so as to enjoy the fun better from pickleball.
+Pickleball is an emerging sport that combines the skills from badminton, tennis and pingpong. Its technologies and skills are still being explored and developed. This book introduces how to master pickleball, and help you improve the competition skill to an advanced level, so as to enjoy the fun better from pickleball.
 
 The book is NOT for explaining basic game rules, you may refer to the [official rules](https://usapickleball.org/what-is-pickleball/how-to-play/basics/rules-summary/).
 

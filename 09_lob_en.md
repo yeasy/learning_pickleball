@@ -8,9 +8,9 @@ This technology is easily overlooked, but it is very useful in actual combat, wh
 
 Lobing the ball mainly refers to the technique of jumping the ball into the opponent's backcourt. Proper use of the Lob-and-Lob technique can mobilize the opponent's movement, change the rhythm of the game, and create opportunities for offense.
 
-* Far-net Lob: Lobing the ball from the backcourt to the opponent's backcourt;
+* Backcourt Lob: Lobing the ball from the backcourt to the opponent's backcourt, in order to slow down the gamee pace;
 * Midfield Lob: Lob the ball to the opponent's backfield from the midfield position;
-* Near-net Lob: when the opponent's return is high; when the opponent's Dink return is not of high quality,
+* Near-net Lob: when the opponent's return is high or far, lob can force the opponents to go to the back court.
 
 ## When to use Lob
 
