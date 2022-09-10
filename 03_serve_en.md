@@ -34,43 +34,43 @@ Usually serve the ball as far as possible to let it land near the baseline (but 
 
 ![Double Serve](_images/double-serve.png)
 
-When serving, you can probe the opponent's return by serving to various places (e.g., the opponent's forehand position, backhand position or middle position) and with different speed. Generally, fast serving is more threatening than slow serving.
+When serving, you can probe the opponent's return skills by serving to various places (e.g., the opponent's forehand position, backhand position or middle position) with different height and speed. Generally, fast and low serving is more threatening than slow serving.
 
-If the opponent's position is not neutral, or cannot run quickly, you can mobilize the opponent proactively by changing serving.
+If the opponent's position is not neutral, or the player cannot run quickly, you can mobilize the opponent proactively by using different serving methods.
 
-In single games, the long serve can be combined with long, short and multiple angles' serves to mobilize the opponent.
+In single games, the serve can be a combination with long, short and multiple angles' serves to mobilize the opponent.
 
-In double games, usually serve long balls near the middle to force the opponent to return the ball with low quality and not be able to quickly go to the net.
+In double games, usually serve long balls to the middle between opponents to force the them to return the ball not well and not be able to go to the net in time.
 
 ## Master the Serve
 
 The power to serve comes from kicking the ground and turning the waist.
 
-By kicking the ground and turning the waist, the power is transferred from the legs to the torso, and then the torso drives the arms to swing, transferring the power to the racket through the fingers, and finally hits the ball smoothly.
+By kicking the ground and turning the waist, the power is transferred from the legs to the torso, and then the torso drives the arms to swing, transferring the power to the paddle through the fingers, and finally the paddle hits the ball smoothly and stablly.
 
-Before hitting the pickleball, the body should be in a relaxed state. At the moment of hitting the ball, fingers grip the racket tightly, and release your body power to the ball through the clap hand by whipping.
+Before hitting the pickleball, the body should be in a relax. At the moment of hitting the ball, use fingers to grip the paddle tightly, and release your body power to the ball through the holding hand by whipping.
 
-Because the pickleball is relatively smooth, the serve should generally use more hit with some spin. Players should at least master no-spin serve and topspin serve.
+Because the surface of pickleball is smooth, the serve should generally use more hit with less spin. Players should at least master no-spin serve and topspin serve.
 
-You can train your serve quickly with multiple balls. Subject to being able to serve continuously to the designated area, a group of 50, no less than 10 groups of practice every day.
+You can learn how to master serve quickly with multiple balls trainning. The goal is to serve continuously to the designated location. Practice no less than 10 groups with 50 balls per group every day.
 
-Once you are proficient, you can practice serving with different spins.
+Once you are proficient with no-spin serving, you can practice serving with different spins.
 
 ## Return
 When preparing to return the ball, keep enough space for hitting the ball. It is advisable to stay at a step back from the bottom line. The racquet should face the direction of the coming ball.
 
-When returning the serve, players should follows the ball to go to the net (reach the NVZ line before the ball's landing), which forces the opponent to stay in the backcourt. Therefore, the returning ball should also land as close as possible to the baseline. 
+When returning the serve, players should follows the flying ball to go to the net (stay near the NVZ line before the ball's landing), which forces the opponent to stay in the backcourt. Therefore, the returning ball should also land as close as possible to the baseline. 
 
 ![Double Receive](_images/double-receive.png)
 
-The return ball can be returned by a hitting action, or a chopping action. When you want to have more time to run to the net, you can return the ball high and let it fall to the opponent's backcourt.
+The return can use a hitting action, or a chopping action. When you want to have more time to run to the net, you can return the ball high and let it fall to the opponent's backcourt.
 
-In single games, you can return the ball to the area far from the opponent more often, in order to let the opponent move more.
+In single games, you can return the ball to the area far from the opponent's body more often, in order to let the opponent move more.
 
-In double games, the ball can be returned to the space between the opponent's two players (may be slightly biased to the backhand position), causing trouble when the opponent receives the ball. If the level of the opponent's two players is quite different, you can return the ball to the weaker player.
+In double games, the ball can be returned to the space between the two opponent players (may be slightly near to the receiver's backhand ), to increase the difficulty to return the ball. If the skill level of the opponent's two players is quite different, you can choose to return the ball to the weaker player.
 
 ## Master the Return
 
-You can train your return quickly with multiple balls. Subject to the ability to continuously return the ball to the designated area, a group of 50, no less than 10 groups of practice every day.
+The return skill can be learned with multiple balls training. Try to continuously return the ball to the designated area. Practice no less than 10 groups with 50 balls per group every day.
 
 After you are proficient, you can practice returning the serve with different spins.
