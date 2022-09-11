@@ -22,22 +22,22 @@ Assuming the ball goes to A2, A1 takes a step forward and prepares to net. A2 wa
 
 At this time, the players of team A and B are both in front of the net.
 
-Then the game enters the most critical near-net process, usually players use the Dink technique to mobilize the opponents. Assuming that A1 returns the ball too high, B1 gets the opportunity and takes the initiative to drive the ball. The two sides entered the fast volley phase. One party can return to the stalemate in front of the net again by taking the initiative to Dink.
+Then the game enters the most critical near-net process, usually players use the Dink technique to mobilize the opponents. Assuming that A1 returns the ball too high, B1 gets the opportunity and takes the initiative to drive the ball. The two sides entered the fast volley phase. One party can return to the battle in front of the net again by taking the initiative to Dink.
 
 ![Double Dink](_images/double-dink.png)
 
-Assuming that the return quality by the A team is not good and the ball is pushed to the backcourt by the B team, at this time, the A team should try to go back to the net again by droping the ball. The B team suppresses the A team players in the backcourt by giving long balls in succession.
+Assuming that the return quality by the team A is not good and the ball is pushed to the backcourt by the team B, at this time, the team A should try to go back to the net again by droping the ball. The team B suppresses the team A players in the backcourt by giving long balls in succession.
 
 It can be seen that there are two important steps in the doubles process.
 
 One is the third shot. For the serving side, if there is no high-quality third shot, it will be difficult to have a chance to earn score in the following rounds. The third shot can be driving the ball (more offensive) or dropping to the net (more defensive).
 
-The other is the stalemate in front of the network. The two sides look for offensive opportunities through the stalemate in front of the net and then try to suppress the opponent to the backcourt. Once one side is suppressed to the backcourt, it is at a disadvantage. At this time, if the ball is returned too high, it is easy for the opponent to smash the ball and score.
+The other is the battle in front of the network. The two sides look for attack opportunities through the competition in front of the net and then try to force the opponent to the backcourt. Any side will be at a big disadvantage when suppressed to the backcourt. If the ball is returned too high from back court, it is easy for the opponent to smash the ball from near the net and score directly.
 
-It should be noted that the Dinking in front of the net usually is using the diagonal direction or to the middle. Watch out for the opposing ATP attack when the ball lands close to the touchline. Be careful to defend the opponent's Erne attack when the ball is high over the net.
+It should be noted that the Dinking in front of the net usually is using the diagonal direction or to the middle. Watch out for the opposing ATP attack when the ball lands close to the sideline. Be careful to defend the opponent's Erne attack when the ball is passing the net near its side.
 
 ## Key Points
 
-* Positioning: try to stay in front of the net to hit the ball, and try to keep the opposing players in the back;
-* Protection of the middle ball: The middle position of the two people should be negotiated in advance. When both of them can return the ball well, the forehand side or the higher level side should be given priority to return.
+* Positioning: try to stay near the net to hit the ball, and try to keep the opponents in the back court;
+* Protection of the middle ball: The middle position protection between the two players should be negotiated in time. When both of them can return the ball well, the forehand player or the higher level player should have the priority to return.
 * Protection of the backcourt ball: The backcourt ball should be handled by the one close to the backcourt or the one with faster footwork to catch the ball.
