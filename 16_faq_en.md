@@ -17,3 +17,13 @@ Finally, when dinking in front of the net, try to place the ball with an angle a
 If the quality of the teammate's third shot is very high, such as the Drop is very short and low, then you boldly go to the net; on the contrary, if the teammate's third shot gives a higher and longer net ball, then don't rush forward.
 
 Usually, you can try to take a step forward from the backcourt, while observing the quality of the ball returned by your teammates and making adjustments accordingly.
+
+## I always feel that I have used a lot of strength, but the ball is still not fast.
+
+**Answer**: A very typical question.
+
+It is often seen that amateur players are very strong, and hit the ball with a big movements and force, but the speed of the ball is not fast.
+
+The key here is "effective power", that is, how much of the power from the body is transmitted to the ball. Human body strength comes from muscle contraction, and the direction of power transmission is determined by joints. If the muscles are constantly tense, dynamic force can no longer be generated; if the joints are constantly retracted, the transmission of force is hindered.
+
+Therefore, in order to generate effective force, the muscles must be tightened from loosened, and the joints must be loosened first and then tightened. Of course, training the body to become familiar with this process in a natrual way requires scientific excercies.
