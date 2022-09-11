@@ -10,7 +10,7 @@ Generally, according to the location of the volley, it can be divided into backc
 
 * Backcourt volley: For high ball in the backcourt, you can volley it to force the opponent to retreat into the backcourt.
 * Mid-court volley: The mid-court volley is mostly when you are going to the net and the coming ball is long enough to catch in the air. In this situation, you should hit the ball very softly, let the ball drop to the opponent's NVZ shortly, and go to the net quickly at the same time.
-* Near-net volley: For high ball in front of the net, you can hit the ball quickly in order to earn a point. For non-high balls, avoid making vigorous efforts to hit the ball out. Generately you can push the ball to the backcourt, or hit the ball shortly to attack, so that the ball does not go too high when passing the net. Pay attention to avoid stepping into the NVZ area when volleying.
+* Near-net volley: For high ball in front of the net, you can smash the ball quickly in order to earn a point. For non-high balls, avoid making vigorous efforts to hit the ball out. Generately you can push the ball to the backcourt, or hit the ball shortly to attack, so that the ball does not go too high when passing the net. Pay attention to avoid stepping into the NVZ area when volleying.
 
 In particular, it is common in professonal tournament that both sides can volley opponent's ball mutually, which will form a faster rally.
 
