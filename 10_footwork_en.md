@@ -2,23 +2,23 @@
 
 Footwork is the soul of all ball sports. 
 
-Excellent footwork allows players to always hit the ball in the most comfortable position. Conversely, without good footwork, no matter how good the hand skill is, it is difficult to play a good game.
+Excellent footwork allows players to always hit the ball in a comfortable position. Conversely, without good footwork, no matter how good the hand skill is, it is difficult to play an advanced game.
 
-The purpose of footwork is to leave enough time and space for the body to hit the ball in a comfortable position.
+The purpose of footwork is to leave enough time and space for the body to hit the ball from a comfortable position.
 
 ## Footwork Types
 
-Common footwork includes striding, breaking, and jumping.
+Common footwork includes stride step, cross steps, jump step, and skip step.
 
-Stride refers to the action of striding the legs out in the direction of motion. The stride is large and is generally used for the last step in running, which can stabilize the center of gravity.
+Stride steps refers to the action of striding the legs out in the direction of motion. The stride is large and is generally used for the last step in running, which can help stabilize the body.
 
-Shredded steps are the movements of moving your legs crossed quickly. Shredded steps are smaller steps and are generally used to move quickly or fine-tune your body position.
+Cross steps are the movements of moving your legs crossed quickly. Cross steps are smaller steps and are generally used to move quickly or fine-tune your body position.
 
-Jumping refers to the action of moving quickly by jumping. The jumping speed is the fastest and the pace is the largest. It is generally used in the situation where you need to hit the ball in time. You need to pay attention to stabilize the center of gravity as soon as possible after landing.
+Jumping steps to the action of moving quickly by jumping. The jumping speed is the fastest and the moving distance is the largest. It is generally used in the situation when you do not have enough time to hit the ball by running. You need to stabilize the body as soon as possible after landing.
 
-Stepping is a small jump to quickly adjust the body to prepare to hit the ball or prepare to move.
+Skiping steps are small jumps to quickly adjust the body to prepare to hit the ball or prepare to move.
 
-Singles have a large running range and can be combined with running movements. The doubles footwork is mostly local footwork, which can properly lower the center of gravity and improve the stability of the shot.
+Singles have a large running range and can use steps mainly with the running movements. The doubles footwork is mostly not far, hence players can properly lower the body and improve the stability of the shot.
 
 ## When to use
 
@@ -31,7 +31,7 @@ Typical footwork scenarios in double games include:
 
 Typical footwork scenarios in single games include:
 
-* When attack effectively, run to the net to grab the potential chance;
+* When there's a good opportunity, run to the net to prepare to attack;
 * When the opponent returns the ball with a large angle, run to the ahead of the ball quickly;
 * When the opponent gets a good volley opportunity, move back proactively and defend.
 
@@ -39,7 +39,7 @@ Typical footwork scenarios in single games include:
 
 Footwork exercises mainly include two parts, one is waist and leg strength exercises, and the other is footwork exercises.
 
-* Support exercise: Planks should last at least 5 minutes. Do more than 20 push-ups in a row.
+* Supporting system exercise: Planks for at least 5 minutes. Do more than 20 push-ups in a row.
 * Squat exercise: squat against the wall and gradually increase the time, which should last more than 10 minutes. The squat should last for more than 3 minutes;
 * Burpee jump training: 50 jumps training, 3 sets per day;
 * Running practice: jog in the front, back, left and right directions, experience how to move quickly in different directions, and pay attention to relax your body. 1 minute in each direction;
