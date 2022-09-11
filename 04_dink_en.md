@@ -28,6 +28,8 @@ There are several ways to master the Dink, the easiest and most efficient way is
 
 When pushing the ball, you should keep your wrist relatively fixed, stablize the paddle angle, and send the ball from the forearm without shaking the racket, so that the ball falls to the target landing point. In order to stablize the ball's trajectory, the paddle should continue to follow the ball's movement for about a foot after hitting the ball. When Dinking for defense, the ball's landing point should be in the first half of the NVZ to avoid the opponent's attack; in order to mobilize the opponent, when the opponent's standing is unstable, the ball can also be placed near the NVZ line (e.g, the side corners) or to the opponent's feet.
 
+![Fly trajectory using various spins](_images/spin-trajectory.png)
+
 After mastering the push Dink, you can appropriately add spin to make it more difficult for a high-quality return, including:
 
 * Top Spin: The ball's tragectory will drop sharply before landing, which causes the opponent to return the ball too long and too high. The trajectory of the topspin ball is relatively high, so generally use it in the diagonal direction;
