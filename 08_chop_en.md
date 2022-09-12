@@ -12,7 +12,7 @@ According to the trajectory height, the Chop can be roughly divided into the fol
 * Medium ball: Chop the ball from the middle and bottom part, which causes the ball's trajectory path to be a parabolic curve that is not too high. The medium balls are used the most and have a good offensiveness. Generally, let the ball land into the NVZ area to prevent the opponent from volley attacking;
 * Flat ball: Chop the ball from the middle part, causing the ball's flight path to be a flat trajectory. The ball is faster and more aggressive.
 
-## When to use Chop
+## When to Use Chop
 
 When the opponent hits the ball with strong backspin, or when the hitting point is low, you can use the chop.
 
@@ -22,7 +22,7 @@ Another situation is that when the opponent's return is high in front of the net
 
 The main purpose of chopping the ball is to transition, or to find opportunities for the next shot.
 
-## How to master the Chop
+## How to Master Chop
 
 When chopping the ball, try to wrap the ball as much as possible, continue to touch the ball, in order to producing more rotation.
 
