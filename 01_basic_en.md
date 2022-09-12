@@ -20,7 +20,7 @@ To commemorate the invention of the pickleball, the World Pickleball Championshi
 
 The court size is 44x20 feet (about 13.4x6.1 meters), and the net height is 34 ~ 36 inches (about 88.36 ~ 91.44 cm), which is the same size as the badminton court. Therefore, it is very convenient to raise the net to play badminton and lower it to play pickleball on the same field.
 
-![Pickelball Court](_images/pickleball_court.png)
+![Pickelball Court](_images/pickleball-court.png)
 
 Pickleballs used in official competitions are slightly larger than tennis balls. They are made of hard plastic and are mostly yellow or orange. There are balls for outdoor playing and indoor playing. The indoor balls are slightly softer and have fewer holes. The holes are with a diameter of less than 1cm, which makes the rotation not too quick, and the flying speed not too fast. Therefore, people sometimes jokingly call the pickleball as seniors' tennis. But in fact, professional pickleball games are often more intense than tennis.
 
