@@ -8,7 +8,7 @@ Pickleball combines the skills of tennis, badminton, table tennis and other spor
 
 In the summer of 1965, the pickleball was invented by Congressman **Joel Pritchard** and his neighbors **Barney McCallum** and **Bill Bell** while vacationing on Bainbridge Island in Seattle, USA.
 
-![pickleball-born](_images/pickleball-born.png)
+![The Born of Pickleball](_images/pickleball-born.png)
 
 It is said that they both like to play tennis and badminton, but because of the high learning difficulty, their families can not join easily. So they wanted to invent a sport that the seniors and youths can also participate in. After a comprehensive study of tennis, badminton, table tennis and other sports, the three inventors chose a moderate court size, used a wooden racket, and designed a slow-flying plastic ball, which greatly lowered the learning bar for getting started. Everyone fell in love with the new sport all at once, and it spread soon.
  
@@ -24,11 +24,11 @@ The court size is 44x20 feet (about 13.4x6.1 meters), and the net height is 34 ~
 
 Pickleballs used in official competitions are slightly larger than tennis balls. They are made of hard plastic and are mostly yellow or orange. There are balls for outdoor playing and indoor playing. The indoor balls are slightly softer and have fewer holes. The holes are with a diameter of less than 1cm, which makes the rotation not too quick, and the flying speed not too fast. Therefore, people sometimes jokingly call the pickleball as seniors' tennis. But in fact, professional pickleball games are often more intense than tennis.
 
-![various-type-balls](_images/various-type-balls.png)
+![Various types of Pickleballs](_images/various-type-balls.png)
 
 The paddle of the Pickleball is like a large table tennis paddle without rubber, with a length of 15.5 ~ 17 inches (39.37 ~ 43.18 cm) and a width of 7 ~ 8.25 inches (17.78 ~ 20.96 cm). It was originally made of wood, and later glass fiber and carbon fiber were used, and other new materials too. The paddle has little elasticity and a smooth surface. Pickleball is easy to start, but getting to advanced requires lots of skills, strength and strategies.
 
-![pickleball-paddles](_images/pickleball-paddles.png)
+![Pickleball Paddles](_images/pickleball-paddles.png)
 
 Pickleball scoring is similar to badminton, but only the server can score points during their round.
 
@@ -42,7 +42,7 @@ Pickleball incorporates elements of badminton, table tennis and tennis. A group 
 
 Pickleball is quick to start, easy to control, moderate to run (not as high as tennis and badminton for jumping and running), etc. The reasons are: the court of pickleball is not large (smaller than tennis court);  the weight of pickleball is relatively light (only more than 20 grams) and the ball does not bouce a lot; the racket is light in weight and has a large hitting area. Therefore, pickleballs can be played in singles or doubles, indoor and outdoor venues, and are loved by people of different ages.
 
-The overall amount of activity in pickleball is moderate. In addition to drive, smash, drop, and slices, there are also volleys and lobs. The competition between the two sides is not only about strength or speed, but also about the control of the ball (which is often more important). In doubles, teamwork is especially important. Pickleball does not have high requirements on the serving, and one round can last to tens of hits, which is quite ornamental.
+The overall amount of activity in pickleball is moderate, but it has rich skills. In addition to drive, smash, drop, and slices, there are also volleys and lobs. The competition between the two sides is not only about strength or speed, but also about the control of the ball (which is often more important). In doubles, teamwork is especially critical. In pickleball games, one rally can last to tens of hits, which is quite ornamental.
 
 ## Pickleball Tounaments
 
