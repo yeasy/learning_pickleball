@@ -20,7 +20,7 @@ Skiping steps are small jumps to quickly adjust the body to prepare to hit the b
 
 Singles have a large running range and can use steps mainly with the running movements. The doubles footwork is mostly not far, hence players can properly lower the body and improve the stability of the shot.
 
-## When to use
+## When to Use
 
 Typical footwork scenarios in double games include:
 
@@ -35,7 +35,7 @@ Typical footwork scenarios in single games include:
 * When the opponent returns the ball with a large angle, run to the ahead of the ball quickly;
 * When the opponent gets a good volley opportunity, move back proactively and defend.
 
-## How to master Footwork
+## How to Master Footwork
 
 Footwork exercises mainly include two parts, one is waist and leg strength exercises, and the other is footwork exercises.
 

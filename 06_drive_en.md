@@ -14,13 +14,13 @@ It can be roughly divided into the far-net Drive, the middle-court Drive, and th
 * Middle-court Drive: The middle-court Drive is an attack or transition by hitting when the opponent returns the ball to the midfield and it bounces high. The general target is the opposing near-net area or midfield.
 * Near-net Drive: The near-net is to attack the ball by hitting the ball when the opponent's return ball bounces high. Pay attention do not let the ball go out.
 
-## When to use Drive
+## When to Use Drive
 
 When the ball bounces high, and the opponent does not form an effective net block, you can try to Drive the ball.
 
 The first purpose of driving the ball is to mobilize the opponent, or make the opponent to return the ball in a hurry, so as to score a point or form a chance for the next shot.
 
-## How to master Drive
+## How to Master Drive
 
 The most important thing in driving the ball is to hit the ball in front of you, to hit the ball with a stable body, and to hit the ball when the ball is near the top of its trajectory. Another thing is to take advantage of the whip, and release the whole body's power into turning the waist through the stable hitting surface formed by the hand.
 

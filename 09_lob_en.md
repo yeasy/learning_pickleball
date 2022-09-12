@@ -16,7 +16,7 @@ Based on the position of lob, there are majorly three types:
 * Mid-court Lob: Lob the ball to the opponent's backcourt from the mid-court position, which is more offensive and prevents the opponent to go to net quickly;
 * Near-net Lob: when the opponent's return is high or far, lob can force the opponents to go to the back court, which can create a good attack opportunity.
 
-## When to use Lob
+## When to Use Lob
 
 When the opponent's position or attention is in the frontcourt, and the jump or retreat footwork is not good, you can use the Lob to force the opponent to stay at the backcourt.
 
@@ -24,7 +24,7 @@ Lobing the ball can save you from passive to proactive, and can also actively cr
 
 After lobing the ball, move to the net in timee and prepare to attack when the opponent returns the ball too high.
 
-## How to master the Lob
+## How to Master the Lob
 
 The core point of lobing the ball is to keep the ball higher than the opponent's top after jump to avoid the opponent volleying in the air. Therefore, the parabolic high point of the Lob ball should be close to the opponent's middle court, so that the ball falls vertically near the baseline and does not go out.
 
