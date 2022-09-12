@@ -22,6 +22,6 @@ Each chapter is focused on a specific topic, players can learn them by order. Ea
 
 每章侧重一项特定技术，学习者可以按照顺序依次训练。掌握每项技术可能需要几周时间。
 
-* [在线阅读 1](https://yeasy.gitbook.io/pickleball_guide/01_basic_cn)
-* [在线阅读 2](https://github.com/yeasy/pickleball_guide/blob/main/SUMMARY.md)
+* [在线阅读一](https://yeasy.gitbook.io/pickleball_guide/01_basic_cn)
+* [在线阅读二](https://github.com/yeasy/pickleball_guide/blob/main/SUMMARY.md)
 * [快速查看要点总结](https://yeasy.gitbook.io/pickleball_guide/14_key_tips_cn)
