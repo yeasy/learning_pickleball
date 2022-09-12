@@ -28,6 +28,8 @@ In addition, when volleying, hold the racket stablly to avoid excessive friction
 
 The target of the volley should be far from the opponent's paddle, and you can also choose to target the opponent's ankle or space between the players. Generally, do not target the area above the waist when volleying from near the net to avoid going out. Unless you are very confident, it is generally not recommended to hit the ball to the sideline, because it is easy to hit the ball out. When the opponets are near the net, can attack the ball softly to the shoulder with the paddle, to cause a body attack.
 
+When volleying a high ball (especially over head), you should prepare the position to do the smash in advance. Similar as the smash in badminton, generate the power by the torso turning and the arm pronation, and grasp the paddle suddenly when hitting the ball to keep the paddle surface stable.
+
 In order to volley near the net quickly, keep the arm steady and only use small movements (wrist or fingers) to generate power by tightening the fingers to hold the paddle from relax status.
 
 You can master the volley technique through the following trainings:
