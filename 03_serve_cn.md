@@ -18,9 +18,9 @@
 
 持拍手应该适当放松，手心留空，同时，食指可以轻轻搭在球拍上。如果 10 分为满分，做到 3 分即可。
 
-![hold-paddle](_images/hold-paddle.png)
+![如何持拍](_images/hold-paddle.png)
 
-![hold-paddle-angle](_images/hold-paddle-angle.png)
+![持拍角度说明](_images/hold-paddle-angle.png)
 
 击打到球瞬间要握紧球拍，将力量稳定的传递到球上，同时注意要用球拍甜区击球。
 
@@ -30,7 +30,7 @@
 
 匹克球发球要通过下手位发到对角区域。为增加回球难度，要尽量落在底线附近。
 
-![Double Serve](_images/double-serve.png)
+![双打发球](_images/double-serve.png)
 
 发球时可以通过不同位置（如对方偏正手位、反手位或中间位）和不同速度的方式来试探对方回球质量。通常，快速球比慢速球具备更多威胁。
 
@@ -60,7 +60,7 @@
 
 接发球时，拍面要正对来球方向击球，同时己方应及时随球上网（回球落地之前己方须跑到网前）。接发球要尽量落在对方底线附近，以迫使对方留在后场。。
 
-![Double Receive](_images/double-receive.png)
+![双打接发球](_images/double-receive.png)
 
 接发球可以平击回球，也可以通过削球或上旋动作回球。当希望留给自己更多跑动时间时，可将球高抛，使其慢慢落到对方底线附近。
 

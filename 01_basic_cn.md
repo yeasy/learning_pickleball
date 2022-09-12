@@ -20,15 +20,15 @@
 
 匹克球场地大小为 44x20 英尺（约为 13.4x6.1 米），球网高 34 ~ 36 英寸（约为 88.36 ~ 91.44 厘米），和羽毛球场地大小相同。因此，同一个场地把球网升起来可打羽毛球，降下来可打匹克球，十分方便。
 
-![Pickelball Court](_images/pickleball-court.png)
+![匹克球场地](_images/pickleball-court.png)
 
 正式比赛用匹克球大小比网球稍大，由硬塑料制成，球身多为黄色或橙色等（室内用球和室外球不同，室内球略软、有较少的孔），其上有 26 ~ 40 个直径不到 1cm 的圆孔，这使其旋转不会太剧烈，同时球速不快。因此，有时候人们也戏称匹克球是中老年网球（seniors' tennis）。但实际上，专业比赛的激烈程度常常超过网球。
 
-![various-type-balls](_images/various-type-balls.png)
+![不同类型的匹克球](_images/various-type-balls.png)
 
 匹克球的球拍像是大号的不带胶皮的乒乓球拍，长为 15.5 ~ 17 英寸（39.37 ~ 43.18 cm），宽为7 ~ 8.25 英寸（17.78 ~ 20.96 cm）。最初为木质，后来也采用了玻璃纤维、碳纤维等新材料。球拍弹性不大，表面光滑。匹克球容易上手，但要想把球打好很考验技巧、体能和策略。
 
-![pickleball-paddles](_images/pickleball-paddles.png)
+![匹克球球拍](_images/pickleball-paddles.png)
 
 匹克球计分规则和羽毛球类似，但是只有发球方在其回合可以得分。
 
