@@ -1,10 +1,8 @@
 # Pickleball Guide 打好匹克球
 
-**v0.4.0**
+**v0.4.1**
 
 This book is bilingual. 本书为双语版本。
-
-![Visit Latest Version](_images/url-barcode.png)
 
 Pickleball is an emerging sport that combines the skills from badminton, tennis and pingpong. Its technologies and skills are still being explored and developed. This book introduces how to master pickleball, and help you improve the competition skill to an advanced level, so as to enjoy the fun better from pickleball.
 
@@ -25,3 +23,6 @@ Each chapter is focused on a specific topic, players can learn them by order. Ea
 * [在线阅读一](https://yeasy.gitbook.io/pickleball_guide/01_basic_cn)
 * [在线阅读二](https://github.com/yeasy/pickleball_guide/blob/main/SUMMARY.md)
 * [快速查看要点总结](https://yeasy.gitbook.io/pickleball_guide/14_key_tips_cn)
+
+![Read Latest Version](_images/url-barcode.png)
+
