@@ -1,6 +1,6 @@
 # Pickleball Guide 打好匹克球
 
-**v0.4.1**
+**v0.4.2**
 
 This book is bilingual. 本书为双语版本。
 
@@ -25,4 +25,3 @@ Each chapter is focused on a specific topic, players can learn them by order. Ea
 * [快速查看要点总结](https://yeasy.gitbook.io/pickleball_guide/14_key_tips_cn)
 
 ![Read Latest Version](_images/url-barcode.png)
-
