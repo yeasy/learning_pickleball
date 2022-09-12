@@ -1,22 +1,36 @@
 {
     "title": "打好匹克球 Pickleball Guide",
     "author": "yeasy",
+    "language" : "zh-hans",
+    "output.name": "pickleball_guide",
+    "gitbook": "3.2.3",
+    "root": ".",
     "pdf": {
-        "fontSize": 16
+        "fontSize": 16,
+        "pageNumbers": true,
+        "paperSize": "letter",
+        "headerTemplate": "_TITLE_ - _SECTION_",
+        "footerTemplate": "null"
     },
     "plugins": [
+        "-anchors@^0.7.1",
         "-autocover",
-        "fontsettings",
+        "chapter-numbering@^1.2.0",
+        "-emphasize@^1.1.0",
+        "fontsettings@^2.0.0",
         "-github-buttons",
-        "image-captions",
+        "image-captions@^3.1.0",
         "-latex-codecogs",
-        "livereload",
-        "lunr",
+        "-livereload",
+        "-lunr@^1.2.0",
         "-mathjax",
-        "prism", 
-        "prism-themes", 
+        "prism@^2.4.0",
+        "prism-themes@^0.0.2",
         "-highlight",
-        "sharing"
+        "-search@^2.2.1",
+        "-sharing",
+        "-simple-page-toc@^0.1.2",
+        "theme-default@^1.0.7"
     ],
     "pluginsConfig": {
         "autocover": {
@@ -33,13 +47,20 @@
                 "color": "#FFF"
             }
         },
-        "image-captions": {
-            "attributes": { "width": "400" },
-            "caption": "图 _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_"
-        },
         "fontSettings": {
                         "family": "msyh",
                         "size": 4
+        },
+        "image-captions": {
+            "attributes": { "width": "400" },
+            "caption": "Figure _BOOK_IMAGE_NUMBER_ - _CAPTION_"
+        },
+        "simple-page-toc": {
+            "maxDepth": 3,
+            "skipFirstH1": true
+        },
+        "theme-default": {
+            "showLevel": true
         }
 
     }
