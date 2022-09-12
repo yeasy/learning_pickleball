@@ -6,11 +6,11 @@ In advanced-level games, it is generally difficult to score directly by serving 
 
 Singles game players have to cover the entire court, hence will require a higher-quality serving and receiving.
 
-## Position
+## Prepare Position
 
 Similar to other games, players need to maintain a stable and comfortable stance in most time, usually with legs slightly wider than shoulders, knees slightly bent, and stand in a neutral position, be ready to move at any time. 
 
-Focus is partly on the opposing player's position and movements, and partly on the ball.
+Attention is partly focused on the opposing player's position and movements, and partly on the ball.
 
 ## Grip the Paddle and Hit the Ball
 
@@ -26,7 +26,7 @@ When hitting the ball, hold the racket tightly to transfer the power from body t
 
 When not hitting the ball, keep your body facing the ball and always prepare the racket in front of the body to hit the ball later.
 
-## Serve
+## Serve the Ball
 
 The ball should be served to the diagonal court with an underhand motion. 
 
@@ -56,7 +56,7 @@ You can learn how to master serve quickly with multiple balls trainning. The goa
 
 Once you are proficient with no-spin serving, you can practice serving with different spins.
 
-## Return
+## Return the Ball
 When preparing to return the ball, keep enough space for hitting the ball. It is advisable to stay at a step back from the bottom line. The racquet should face the direction of the coming ball.
 
 When returning the serve, players should follows the flying ball to go to the net (stay near the NVZ line before the ball's landing), which forces the opponent to stay in the backcourt. Therefore, the returning ball should also land as close as possible to the baseline. 

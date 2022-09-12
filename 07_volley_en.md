@@ -14,13 +14,13 @@ Generally, according to the location of the volley, it can be divided into backc
 
 In particular, it is common in professonal tournament that both sides can volley opponent's ball mutually, which will form a faster rally.
 
-## When to use Volley
+## When to Use Volley
 
 When the opponent at the back court returns the ball too far or too high to create a good attack opportunity, you can use volley to earn points directly.
 
 When the opponent dinks the ball from near the net, but the returned ball is too far or too high, you can volley to try attacking the opponents to create score opportunities, too.
 
-## How to master Volley
+## How to Master Volley
 
 First need to move to an approprite position. Move to the direction of the ball in time by predicting the trajectory of the ball. The volley timing should be earlier than the hitting the ball after it bounces.
 

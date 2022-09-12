@@ -12,13 +12,13 @@ Dink is often used in doubles events. According to the target area, it can be ro
 * Cross-court (Diagonal) Dink: A cross-court Dink is when the ball is dropped into the opposing opponent's area diagonally. For example, stand on the left half court and place the ball into the opponent's left half court. The cross-court ball has a longer tragectory. It is not easy to intercept because it passes through the middle of the net, and it has a side angle after landing, which makes it more difficult for the opponent to deal with. If the ball bounces off the ground and goes beyond the sideline of the court, the opponent are possibly to use an Around-The-Post (ATP) hit.
 * Middle Dink: The middle dink refers to placing the ball in the space between the two opponents. Since both of them can handle the ball, it will cause some trouble to makde the decision immediately.
 
-## When to use Dink
+## When to Use Dink
 
 When the ball from the opponent falls into the NVZ and the opponents are ready to stay near the net, usually use the Dink ball to return to avoid giving a good attack opportunity to the oppornents.
 
 The first purpose of Dink is to prevent the opponents from having a good attack opportunities. Dink is for defending safely when there is no good opportunity. At the same time try to mobilize the opponent to find an attack opportunities in the rally.
 
-## How to master Dink
+## How to Master Dink
 
 A good Dink will not return the ball too far and too high, otherwise the opponent can volley the ball and hit it down to attack. 
 

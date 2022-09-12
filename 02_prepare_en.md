@@ -4,7 +4,7 @@ The secret to being able to play pickleball for a long time is to warm up well b
 
 At the same time, good physical fitness is a prerequisite for advanced-level competition.
 
-## How to fully warm up
+## How to Warm Up
 
 The purpose of a warm-up is to activate the body's joints and associated muscles to avoid injury from sudden stress.
 
@@ -16,7 +16,7 @@ The warm up should be done in the order from the whole to the part, from the lar
 * Active wrist and ankle joints
 * Jogging and jumping exercises
 
-## How to relax
+## How to Relax
 
 During intense exercise, muscle tissue undergoes a rapid contraction and relaxation process, which may cause the originally neatly arranged muscle fibers to cross and bend.
 

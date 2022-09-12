@@ -20,13 +20,13 @@ From the perspective of spin, there are three types too: non-spin, backspin and 
 * Backspin: Return the ball to the net by chopping the bottom the ball. The backspin trajectory will be longer than non-spin one, so keep hitting the ball from a low position. When the incoming ball is low, you can use the backspin method;
 * Topspin: Return the ball with a drive. The topspin tragectory falls sharply after passing the net, and is more offensive. When the hitting time and space are sufficient, you can use this way.
 
-## When to use Drop
+## When to Use Drop
 
 When your are not in the front of the court and the opponent side is waiting in front of the net, at this time, you can use drop to let your team run to the front of the net in time. For example, advanced players often use drop in the third shot.
 
 The main purpose of dropping balls is to let players run to the net quickly and start the near net battle.
 
-## How to master Drop
+## How to Master Drop
 
 When drop the ball, avoid returning the ball too far and too high, so that the opponent can volley the ball easily.
 
