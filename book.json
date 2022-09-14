@@ -9,7 +9,7 @@
         "fontSize": 16,
         "pageNumbers": true,
         "paperSize": "letter",
-        "headerTemplate": "_TITLE_ - _SECTION_",
+        "headerTemplate": "_TITLE_ - _SECTION_ yeasy",
         "footerTemplate": "null"
     },
     "plugins": [
@@ -54,10 +54,6 @@
         "image-captions": {
             "attributes": { "width": "400" },
             "caption": "Figure _BOOK_IMAGE_NUMBER_ - _CAPTION_"
-        },
-        "simple-page-toc": {
-            "maxDepth": 3,
-            "skipFirstH1": true
         },
         "theme-default": {
             "showLevel": true
