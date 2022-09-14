@@ -34,20 +34,20 @@ Pickleball scoring is similar to badminton, but only the server can score points
 
 Taking doubles as an example, each game has 11 points, and each player on the serving side has one chance to serve (In total two chances for each side). After serving, the opponent receives the serve and returns, and the serving party hits the ball to the opposite side again, and can then start volleying the ball that has not landed. If the serving team scores in this round, then switch sides with teammates and continue serving, otherwise the teammate will continue to serve. Only serving team can score points if they win the round, and the receiving team will not get points even win.
 
-In addition, the area near the net is called the "None Volley Zone (NVZ)" or "Kitchen". Competitors are not allowed to step into this area before and after a volley.
+In addition, the area near the net is called the "Non-Volley Zone (NVZ)" or "Kitchen". Competitors are not allowed to step into this area before and after a volley.
 
 ## Pickerball Features
 
 Pickleball incorporates elements of badminton, table tennis and tennis. A group of four players in a regular double game are playing in a not very large court, making it easier to run and play.
 
-Pickleball is quick to start, easy to control, moderate to run (not as high as tennis and badminton for jumping and running), etc. The reasons are: the court of pickleball is not large (smaller than tennis court);  the weight of pickleball is relatively light (only more than 20 grams) and the ball does not bouce a lot; the racket is light in weight and has a large hitting area. Therefore, pickleballs can be played in singles or doubles, indoor and outdoor venues, and are loved by people of different ages.
+Pickleball is quick to start, easy to control, moderate to run (not as high as tennis and badminton for jumping and running), etc. The reasons are: the court of pickleball is not large (smaller than tennis court);  the weight of pickleball is relatively light (only more than 20 grams) and the ball does not bounce a lot; the racket is light in weight and has a large hitting area. Therefore, pickleballs can be played in singles or doubles, indoor and outdoor venues, and are loved by people of different ages.
 
 The overall amount of activity in pickleball is moderate, but it has rich skills. In addition to drive, smash, drop, and slices, there are also volleys and lobs. The competition between the two sides is not only about strength or speed, but also about the control of the ball (which is often more important). In doubles, teamwork is especially critical. In pickleball games, one rally can last to tens of hits, which is quite ornamental.
 
-## Pickleball Tounaments
+## Pickleball Tournaments
 
 According to the USA Pickleball Association (USAPA), there are currently more than 5 million pickleball enthusiasts in the United States, and the number is growing at a rate of more than 20% per year. The nation organizes 4 national championships and dozens of local events each year.
 
-In addition to North America, the pickleball has also become very popular in Europe. Asian regions including China, Japan, India, Philippines, Singapore, Indonesia, Thailand, Malaysia, Bangladesh, Pakistan, have also begun to popularize and hold big tounaments. As of September 2022, over 50 countries around the world have joined the International Federation of Pickleball (IFP), hosting 12 international competitions. It is believed that in the near future, the Pickleball will become an official event in the Olympic Games and other international events.
+In addition to North America, the pickleball has also become very popular in Europe. Asian regions including China, Japan, India, Philippines, Singapore, Indonesia, Thailand, Malaysia, Bangladesh, Pakistan, have also begun to popularize and hold big tournaments. As of September 2022, over 50 countries around the world have joined the International Federation of Pickleball (IFP), hosting 12 international competitions. It is believed that in the near future, the Pickleball will become an official event in the Olympic Games and other international events.
 
 In addition, more and more schools have made it a physical education program, with more than 500 schools in New York State alone. In other countries, more and more schools are setting it up as a new course.
