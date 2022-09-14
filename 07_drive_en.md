@@ -8,11 +8,11 @@ In the single games, you can use drive to mobilize the opponents, and in the dou
 
 Drive is the action of hitting the ball quickly to make the ball flies forward fast.
 
-It can be roughly divided into the far-net Drive, the middle-court Drive, and the near-net Drive.
+Based on where you hit the ball, the Drive can be roughly divided into the **Far-net Drive**, the **Middle-court Drive**, and the **Near-net Drive**.
 
-* Far-net Drive: The far-net Drive is similar to the action of serving a ball. By kicking the ground and turning the waist, swinging the big arm, driving the forearm, and finally whipping the ball to a high speed. The general target is the opponent's position gap. Pay attention do not let the ball pass the net very high.
-* Middle-court Drive: The middle-court Drive is an attack or transition by hitting when the opponent returns the ball to the midfield and it bounces high. The general target is the opposing near-net area or midfield.
-* Near-net Drive: The near-net is to attack the ball by hitting the ball when the opponent's return ball bounces high. Pay attention do not let the ball go out.
+* **Far-net Drive**: The far-net Drive is similar to the action of serving a ball. By kicking the ground and turning the waist, swinging the big arm, driving the forearm, and finally whipping the ball to a high speed. The general target is the opponent's position gap. Pay attention do not let the ball pass the net very high.
+* **Middle-court Drive**: The middle-court Drive is an attack or transition by hitting when the opponent returns the ball to the midfield and it bounces high. The general target is the opposing near-net area or midfield.
+* **Near-net Drive**: The near-net is to attack the ball by hitting the ball when the opponent's return ball bounces high. Pay attention do not let the ball go out.
 
 ## When to Use Drive
 
@@ -24,7 +24,7 @@ The first purpose of driving the ball is to mobilize the opponent, or make the o
 
 The most important thing in driving the ball is to hit the ball in front of you, to hit the ball with a stable body, and to hit the ball when the ball is near the top of its trajectory. Another thing is to take advantage of the whip, and release the whole body's power into turning the waist through the stable hitting surface formed by the hand.
 
-It should be noted that the surface of the Pickleball and racket is relatively smooth. In most cases, the Drive should be based on hitting, supplemented by rotation. In addition, the ball should not be too high when it passes the net. It is the best to let the ball fall down quickly to restrict the opponent's return route.
+It should be noted that the surface of the Pickleball and racket is relatively smooth. In most cases, the Drive should be based on hitting, supplemented by rotation. In addition, the ball should not be too high when it passes the net. It is the best to let the ball fall quickly to restrict the opponent's return route.
 
 The backhand is basically symmetrical with the forehand. Try to hit with one hand to have more space to generate power and send the ball with a wider angular range.
 

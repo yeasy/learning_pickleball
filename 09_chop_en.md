@@ -8,7 +8,7 @@ Chop refers to sliding the middle and lower part of the ball to let the ball spi
 
 According to the trajectory height, the Chop can be roughly divided into the following three types:
 
-* High ball: Chop the bottom of the ball, causing it to travel a high trajectory. The high ball is landing slowly and the opponent can have more time to return the ball. Generally, let the ball land into the NVZ area to prevent the opponent from volley attacking;
+* High ball: Chop the bottom of the ball, causing it to travel a high trajectory. The high ball is landing slowly, and the opponent can have more time to return the ball. Generally, let the ball land into the NVZ area to prevent the opponent from volley attacking;
 * Medium ball: Chop the ball from the middle and bottom part, which causes the ball's trajectory path to be a parabolic curve that is not too high. The medium balls are used the most and have a good offensiveness. Generally, let the ball land into the NVZ area to prevent the opponent from volley attacking;
 * Flat ball: Chop the ball from the middle part, causing the ball's flight path to be a flat trajectory. The ball is faster and more aggressive.
 
@@ -18,7 +18,7 @@ When the opponent hits the ball with strong backspin, or when the hitting point 
 
 Compared with driving the ball, the chop is small in action, and the ball's trajectory is easy to control. It is very use in setup, which can bring more time for going to the net.
 
-Another situation is that when the opponent's return is high in front of the net, players can use chop in cooperation with other shots such as volley to change the rhythm and placement, in order to cause the opponent to make mistakes.
+Another situation is that when the opponent's return is high in front of the net, players can use chop in cooperation with other shots such as volley to change the rhythm and placement, to cause the opponent to make mistakes.
 
 The main purpose of chopping the ball is to transition, or to find opportunities for the next shot.
 
