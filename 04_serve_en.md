@@ -8,7 +8,7 @@ Singles game players have to cover the entire court, hence will require a higher
 
 ## Serve the Ball
 
-The ball should be served to the diagonal court with an underhand motion. 
+The ball should be served to the diagonal half court with an underhand motion (paddle cannot be higher than the waist), from the NVZ line (Not included) to the baseline. Once the score has been called, the player must serve the ball within 10 seconds.
 
 Usually serve the ball as far as possible to let it land near the baseline (but not out), in order to hamper the opponent's return and slow down the moving to net.
 

@@ -33,16 +33,20 @@ Relaxation can be done by stretching, pressing, etc., and can be done with equip
 
 ## Physical Training
 
-The physical attributes required for most ball sports mainly include strength (explosive power and endurance), speed and accuracy.
+The physical attributes required for most ball sports mainly include strength (explosive power and endurance), speed and accuracy. The training volume should be adjusted according to the physical state.
 
 ### Strength Training
 
 * Kick the ground, turn the waist and swing the arms, 20 sets each, 3 sets;
 * Squat against the wall, 2 minutes each group, 3 groups;
 * Squatting without a wall, 1 minute each group, 3 groups;
-* Squat and jump up, 1 minute each set, 3 sets;
-* Squat and move horizontal, 10 reps, 3 sets;
-* Squat take-off to lunges, 20 reps, 3 sets;
+* Squat and up, 10 times, 3 sets;
+* Alternate leg lunges, 10 times, 3 sets;
+* Squat and move horizontal, 10 times, 3 sets;
+* Squat take-off to lunges, 20 times, 3 sets;
+* Plank, 1 minute each set, 3 sets;
+* Squat and up using one leg, 10 times, 3 sets;
+
 
 ### Speed training
 * Hit the ball continously to the wall without landing, 1 minute each set, 3 sets;
@@ -53,5 +57,5 @@ The physical attributes required for most ball sports mainly include strength (e
 
 * Hold a paddle or water bottle, circle the eight characters 100 times per group, 3 groups;
 * Bounce the ball with paddle, 100 times for each set, 3 sets for forehand and backhand;
-* Toss balls into buckets, 20 pieces per group, 3 groups;
-* Toss the ball to a point on the wall and then catch the ball, 20 sets each, 3 sets;
+* Toss balls into buckets, 20 times per group, 3 groups;
+* Toss the ball to a point on the wall and then catch the ball, 20 times each, 3 sets;
