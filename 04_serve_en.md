@@ -6,45 +6,23 @@ In advanced-level games, it is generally difficult to score directly by serving 
 
 Singles game players have to cover the entire court, hence will require a higher-quality serving and receiving.
 
-## Prepare Position
-
-Similar to other games, players need to maintain a stable and comfortable stance in most time, usually with legs slightly wider than shoulders, knees slightly bent, and stand in a neutral position, be ready to move at any time. 
-
-Attention is partly focused on the opposing player's position and movements, and partly on the ball.
-
-## Grip the Paddle and Hit the Ball
-
-The continental grip method should generally be used, that is, a posture similar to shaking hands or holding a hammer.
-
-The holding-paddle hand should keep relaxed, the palm of the hand should be left empty, and at the same time, the index finger can lightly touch or place on the racket. If the full firmly holding score is 10 points, it is enough to achieve 3 points at most time.
-
-![hold-paddle](_images/hold-paddle.png)
-
-![hold-paddle-angle](_images/hold-paddle-angle.png)
-
-When hitting the ball, hold the racket tightly to transfer the power from body to the ball stably. And always to hit the ball with the sweet spot of the racket.
-
-When not hitting the ball, keep your body facing the ball and always prepare the racket in front of the body to hit the ball later.
-
 ## Serve the Ball
 
 The ball should be served to the diagonal court with an underhand motion. 
 
-Usually serve the ball as far as possible to let it land near the baseline (but not out), in order to hamper the opponent's return.
+Usually serve the ball as far as possible to let it land near the baseline (but not out), in order to hamper the opponent's return and slow down the moving to net.
 
 ![Double Serve](_images/double-serve.png)
 
-When serving, you can probe the opponent's return skills by serving to various places (e.g., the opponent's forehand position, backhand position or middle position) with different height and speed. Generally, fast and low serving is more threatening than slow serving.
+When serving, you can probe the opponent's return skills by serving to various places (e.g., the opponent's forehand position, backhand position or middle position) with different height and speed. Generally, fast, low and backhand ball is more threatening than slow, high and forehand ball.
 
 If the opponent's position is not neutral, or the player cannot run quickly, you can mobilize the opponent proactively by using different serving methods.
 
-In single games, the serve can be a combination with long, short and multiple angles' serves to mobilize the opponent.
+In single games's serving, the player can take advantage of various spins and placement to mobilize the opponent.
 
 In double games, usually serve long balls to the middle between opponents to force the them to return the ball not well and not be able to go to the net in time.
 
 ## Master the Serve
-
-The power to serve comes from kicking the ground and turning the waist.
 
 By kicking the ground and turning the waist, the power is transferred from the legs to the torso, and then the torso drives the arms to swing, transferring the power to the paddle through the fingers, and finally the paddle hits the ball smoothly and stablly.
 

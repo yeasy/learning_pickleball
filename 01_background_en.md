@@ -1,4 +1,4 @@
-# Basic Knowledge
+# Background Knowledge
 
 Pickleball, as an emerging sport born in the 1960s, has swept North America and attracted more and more interests among people worldwide.
 
