@@ -2,7 +2,7 @@
 
 * [Chapter 1 - Background Knowledge](01_background_en.md)
 * [Chapter 2 - Warm up, Relax and Strength Training](02_fitness_en.md)
-* [Chapter 3 - Hold Paddle and Hit the Ball](03_concept_en.md)
+* [Chapter 3 - Hold Paddle and Hit the Ball](03_basic_en.md)
 * [Chapter 4 - Serve and Return](04_serve_en.md)
 * [Chapter 5 - How to Dink](05_dink_en.md)
 * [Chapter 6 - How to Drop](06_drop_en.md)
@@ -24,7 +24,7 @@
 
 * [第 1 章 - 背景知识](01_background_cn.md)
 * [第 2 章 - 热身、放松与体能训练](02_fitness_cn.md)
-* [第 3 章 - 持拍与击球发力](03_concept_cn.md)
+* [第 3 章 - 持拍与击球发力](03_basic_cn.md)
 * [第 4 章 - 发球与接发球](04_serve_cn.md)
 * [第 5 章 - Dink 技术](05_dink_cn.md)
 * [第 6 章 - 放网技术](06_drop_cn.md)
