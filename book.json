@@ -9,7 +9,7 @@
         "fontSize": 16,
         "pageNumbers": true,
         "paperSize": "letter",
-        "headerTemplate": "_TITLE_ - _SECTION_ yeasy",
+        "headerTemplate": "_TITLE_ - _SECTION_",
         "footerTemplate": "null"
     },
     "plugins": [
