@@ -20,9 +20,9 @@ Based on the position of lob, there are majorly three types:
 
 When the opponent's position or attention is in the frontcourt, and the jump or retreat footwork is not good, you can use the Lob to force the opponent to stay at the backcourt.
 
-Lobing the ball can save you from passive to proactive, and can also actively create opportunities for potential volleys.
+Lobing the ball can save you from passive to proactive. At the same time, it can be used when you want to create opportunities from a dink rally.
 
-After lobing the ball, move to the net in timee and prepare to attack when the opponent returns the ball too high.
+After lobing the ball, move to the net in time and prepare to attack when the opponent returns the ball too high.
 
 ## How to Master the Lob
 
@@ -36,7 +36,7 @@ When lobbing the ball, keep in mind:
 
 When the opponent lobs the ball, you should first quickly judge whether you can jump and volley the ball back. If not, you should quickly run to the position the ball is flying to. Wait for the ball to land and bounce, and then hit it back. Usually use Drop or Lob to return the ball in this situation.
 
-Lobing the ball can be practiced in a number of ways:
+Lobing the ball can be practiced in several ways:
 
 * Multi-ball practice: repeatedly Lob the ball to correct the trajectory and landing point;
 * Ball feeding practice: The assistant player gives balls in different positions to carry out ball Lobing training.

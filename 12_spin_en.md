@@ -19,7 +19,7 @@ Pickleball's spin is relatively weak (generally less than 10 revolutions per sec
 Consider using Spin in the following scenarios:
 
 * Serve: Use top spin or side spin to cause the opponent's judgment error on the ball's trajectory;
-* Dink: Use varioud spins to cause the opponent to hit the ball at a discomfortable position;
+* Dink: Use spins to cause the opponent to hit the ball at a discomfortable position;
 * Drive or lob: Use topspin to avoid letting the ball go out;
 * Volley: Use back spin or side spin to cause the opponent to fail to return the ball;
 * ATP: Use side spin to let the ball land into the court from outside.

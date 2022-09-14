@@ -1,4 +1,4 @@
-# Warm up and Relax
+# Warm up, Relax and Strength Training
 
 The secret to being able to play pickleball for a long time is to warm up well before playing and relax properly after it. 
 
@@ -49,13 +49,13 @@ The physical attributes required for most ball sports mainly include strength (e
 
 
 ### Speed training
-* Hit the ball continously to the wall without landing, 1 minute each set, 3 sets;
+* Hit the ball continuously to the wall without landing, 1 minute each set, 3 sets;
 * 10 meters fast back and forth running, 1 minute each set, 3 sets;
 * 10 meters fast left and right turn around, 1 minute each set, 3 sets;
 
 ### Accuracy training
 
 * Hold a paddle or water bottle, circle the eight characters 100 times per group, 3 groups;
-* Bounce the ball with paddle, 100 times for each set, 3 sets for forehand and backhand;
+* Bounce the ball with paddle, 100 times for each set, 3 sets by forehand, backhand and alternate;
 * Toss balls into buckets, 20 times per group, 3 groups;
 * Toss the ball to a point on the wall and then catch the ball, 20 times each, 3 sets;
