@@ -22,7 +22,7 @@ A tries to let B run by driving the ball or dropping the ball.
 
 B successfully block the ball in front of the net, pushes the ball to A's backcourt or mobilizes A's angle near the net.
 
-At this time, A and B enter the mutual position mobilizing phase. If one player has a gap, or the return quality is not good, it will be attacked and enter the stage of offense and defense. Unlike doubles, players in the backcourt often do not have to use the drop technique to return to the net, but can flexibly combine driving, dropping or lobbing to let the opponent run.
+At this moment, A and B enter the mutual position mobilizing phase. If one player has a gap, or the return quality is not good, it will be attacked and enter the stage of offense and defense. Unlike double games, players in the backcourt often do not have to use the drop technique to return to the net, but can flexibly choose driving, dropping, or lobbing to force the opponent to run.
 
 In single games, it is generally necessary to find offensive opportunities by mobilizing the opponent's position, or to suppress the opponent to the backcourt.
 

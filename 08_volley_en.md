@@ -4,15 +4,15 @@ Volley is the most common scoring method for pickleball, which is similar with t
 
 ## What is Volley
 
-Volley refers to the action of hitting the ball during the flight of the ball before the ball hits the ground. Usually, the volleyed ball is very quick and the opponent feels difficult to return it in such a short time.
+Volley refers to the action of hitting the ball during the flight of the ball before the ball hits the ground. Usually, a volleyed ball is very quick, and the opponent will feel difficult to return it appropriately in such a short time.
 
 Generally, according to the location of the volley, it can be divided into backcourt volley, mid-court volley, and near-net volley.
 
 * Backcourt volley: For high ball in the backcourt, you can volley it to force the opponent to retreat into the backcourt.
 * Mid-court volley: The mid-court volley is mostly when you are going to the net and the coming ball is long enough to catch in the air. In this situation, you should hit the ball very softly, let the ball drop to the opponent's NVZ shortly, and go to the net quickly at the same time.
-* Near-net volley: For high ball in front of the net, you can smash the ball quickly in order to earn a point. For non-high balls, avoid making vigorous efforts to hit the ball out. Generately you can push the ball to the backcourt, or hit the ball shortly to attack, so that the ball does not go too high when passing the net. Pay attention to avoid stepping into the NVZ area when volleying.
+* Near-net volley: For high ball in front of the net, you can smash the ball quickly to earn a point. For non-high balls, avoid making vigorous efforts to hit the ball out. Generally you can push the ball to the backcourt, or hit the ball shortly to attack, so that the ball does not go too high when passing the net. Pay attention to avoid stepping into the NVZ area when volleying.
 
-In particular, it is common in professonal tournament that both sides can volley opponent's ball mutually, which will form a faster rally.
+It is common in professional tournament that both sides can volley opponent's ball mutually, which will form a faster rally.
 
 ## When to Use Volley
 
@@ -22,13 +22,13 @@ When the opponent dinks the ball from near the net, but the returned ball is too
 
 ## How to Master Volley
 
-First need to move to an approprite position. Move to the direction of the ball in time by predicting the trajectory of the ball. The volley timing should be earlier than the hitting the ball after it bounces.
+First need to move to an appropriate position. Move to the direction of the ball in time by predicting the trajectory of the ball. The volley timing should be earlier than the hitting the ball after it bounces.
 
-In addition, when volleying, hold the racket stablly to avoid excessive friction of the ball, which can cause the ball to deviate from the target.
+In addition, when volleying, hold the racket stably to avoid excessive friction of the ball, which can cause the ball to deviate from the target.
 
-The target of the volley should be far from the opponent's paddle, and you can also choose to target the opponent's ankle or space between the players. Generally, do not target the area above the waist when volleying from near the net to avoid going out. Unless you are very confident, it is generally not recommended to hit the ball to the sideline, because it is easy to hit the ball out. When the opponets are near the net, can attack the ball softly to the shoulder with the paddle, to cause a body attack.
+The target of the volley should be far from the opponent's paddle, and you can also choose to target the opponent's ankle or space between the players. Generally, do not target the area above the waist when volleying from near the net to avoid going out. Unless you are very confident, it is generally not recommended to hit the ball to the sideline, because it is easy to hit the ball out. When the opponents are near the net, can attack the ball softly to the shoulder with the paddle, to cause a body attack.
 
-When volleying a high ball (especially over head), you should prepare the position to do the smash in advance. Similar as the smash in badminton, generate the power by the torso turning and the arm pronation, and grasp the paddle suddenly when hitting the ball to keep the paddle surface stable.
+When volleying a high ball (especially from overhead), you should prepare the position to do the smash in advance. Similar as the smash in badminton, generate the power by the torso turning and the arm pronation, and grasp the paddle suddenly when hitting the ball to keep the paddle surface stable.
 
 In order to volley near the net quickly, keep the arm steady and only use small movements (wrist or fingers) to generate power by tightening the fingers to hold the paddle from relax status.
 

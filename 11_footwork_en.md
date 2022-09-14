@@ -27,7 +27,7 @@ Typical footwork scenarios in double games include:
 * When Dink, follow the ball to move left and right, back and forth quickly;
 * When Drop, run with the ball to the net quickly;
 * When the opponent Lobs, run to the backcourt quickly;
-* When the opponents get a good volley opportunity, move back proactively and defend.
+* When the opponents get a good volley opportunity, move back proactively to defend.
 
 Typical footwork scenarios in single games include:
 

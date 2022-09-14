@@ -12,7 +12,7 @@ Advanced pickleball requires an effective combination of skills from ping pong, 
 ## Strategies
 * Take advantage of one's own strengths and attack others' weaknesses; first stand undefeated, and then defeat opponents.
 * Footwork is more important than hand technique. Run into position before playing.
-* Don't get into a groove. Make adjustments at any time according to the opponent.
+* Don't get into a groove. Adjust at any time according to the opponent.
 * Play fast against slow. Either be faster than the opponent, or make the opponent slower.
 
 ## Tactics
