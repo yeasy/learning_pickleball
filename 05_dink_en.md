@@ -6,6 +6,9 @@ Dink is the most common technology of pickleball and it's also the premise of ot
 
 Dink refers to the action of placing the ball to the opponent's NVZ area. Usually the trajectory is flat, which goes over the net in a low position (within a ball height is good), and it falls into the front half of the opponent's NVZ area or near the NVZ line. 
 
+![Three Types of Dink Targets](_images/dink-target.png)
+
+
 Dink is often used in doubles events. According to the target area, it can be roughly divided into the following three types:
 
 * Straight Dink: Straight Dink is to put the ball into the opponent's area that you are facing. For example, stand on your left half court and place the ball in your opponent's right half court. Straight Dink is usually easier to hit, but tend to have a higher or farther trajectory, making it easier for the opponent to attack;

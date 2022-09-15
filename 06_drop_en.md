@@ -8,6 +8,8 @@ Drop refers to the action of placing the ball into the opponent's NVZ area (as c
 
 It can be simply understood that Drop ball is the Dink ball from the far distance.
 
+![Three Types of Drop Targets](_images/drop-target.png)
+
 Similarly, the Drops can also be divided into three types in terms of direction: **Straight drop**, **Cross-court (diagonal) drop**, and **Middle drop**:
 
 * **Straight Drop**: The straight drop has a shorter trajectory and is usually easier to achieve, but it is prone to a higher or farther trajectory. At the same time, the ball lands quicker to leave a shorter time window to go to the net;

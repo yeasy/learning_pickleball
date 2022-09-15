@@ -12,7 +12,7 @@ Suppose the two teams are A and B, respectively, including two players A1, A2, B
 
 A1 serves the ball to the opponent B1 (B2 is standing in front of the net at this time), B1 tries to return the ball to the baseline of team A, and at the same time, follows the ball to run to the net.
 
-![Double Receive](_images/double-receive.png)
+![Double Receive](_images/double-return.png)
 
 At this moment, two players of team B are in front of the net, and two players of team A are in the backcourt.
 
