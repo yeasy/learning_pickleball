@@ -10,11 +10,11 @@ Suppose the two players are A and B. A is serving.
 
 A serves the ball to B, and B tries to return the ball to near A's baseline position, and try to let it land far from A's prepared position.
 
-![single-strategy-01](_images/single-strategy-01.png)
+![single-strategy-01](_images/single-serve.png)
 
 At the same time, B tried to follow the ball to go to the net to prepare volleying the ball.
 
-![single-strategy-02](_images/single-strategy-02.png)
+![single-strategy-02](_images/single-return.png)
 
 A tries to let B run by driving the ball or dropping the ball.
 
