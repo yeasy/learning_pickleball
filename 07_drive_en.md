@@ -6,11 +6,11 @@ In the single games, you can use drive to mobilize the opponents, and in the dou
 
 ## What is Drive
 
-Drive is the action of hitting the ball quickly to make the ball flies forward fast.
+Drive is the action of hitting the ball quickly to make the ball flies forward fast. Like the serving a ball, you need to kick the ground and turn the waist with swinging the big arm, and then drive the forearm, and finally whip the ball to a high speed. 
 
 Based on where you hit the ball, the Drive can be roughly divided into the **Far-net Drive**, the **Middle-court Drive**, and the **Near-net Drive**.
 
-* **Far-net Drive**: The far-net Drive is similar to the action of serving a ball. By kicking the ground and turning the waist, swinging the big arm, driving the forearm, and finally whipping the ball to a high speed. The general target is the opponent's position gap. Pay attention do not let the ball pass the net very high.
+* **Far-net Drive**: The far-net Drive's general target is the opponent's position gap. Pay attention do not let the ball pass the net very high.
 * **Middle-court Drive**: The middle-court Drive is an attack or transition by hitting when the opponent returns the ball to the midfield and it bounces high. The general target is the opposing near-net area or midfield.
 * **Near-net Drive**: The near-net is to attack the ball by hitting the ball when the opponent's return ball bounces high. Pay attention do not let the ball go out.
 

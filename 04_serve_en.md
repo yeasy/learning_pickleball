@@ -39,7 +39,7 @@ When preparing to return the ball, keep enough space for hitting the ball. It is
 
 When returning the serve, players should follow the flying ball to go to the net (stay near the NVZ line before the ball's landing), which forces the opponent to stay in the backcourt. Therefore, the returning ball should also land as close as possible to the baseline. 
 
-![Double Receive](_images/double-receive.png)
+![Double Receive](_images/double-return.png)
 
 The return can use a hitting action, or a chopping action. When you want to have more time to run to the net, you can return the ball high and let it fall to the opponent's backcourt.
 

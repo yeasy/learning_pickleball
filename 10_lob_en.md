@@ -8,7 +8,7 @@ This technology is easily overlooked, but it is very useful in actual combat, wh
 
 Lobing the ball mainly refers to the technique of lifting the ball into the opponent's backcourt. Proper use of the Lob technique can mobilize the opponent's movement, change the rhythm of the game, and create opportunities for attack.
 
-![Lob Types](_images/lob.png)
+![Lob Trajectories](_images/lob-trajectory.png)
 
 Based on the position of lob, there are majorly three types:
 
