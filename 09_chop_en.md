@@ -6,11 +6,13 @@ The Chop technique is a common defensive technique in Pickleball.
 
 Chop refers to sliding the middle and lower part of the ball to let the ball spin backward and fly to the opponent's court with a floating trajectory.
 
+![Chop Trajectories](_images/chop-trajectory.png)
+
 According to the trajectory height, the Chop can be roughly divided into the following three types:
 
-* High ball: Chop the bottom of the ball, causing it to travel a high trajectory. The high ball is landing slowly, and the opponent can have more time to return the ball. Generally, let the ball land into the NVZ area to prevent the opponent from volley attacking;
+* High ball: Chop the bottom of the ball, causing it to travel a high trajectory. The high ball is landing slowly with strong spin, and the opponent needs to wait to return the ball. Generally, let the ball land into the NVZ area to prevent the opponent from volley attacking;
 * Medium ball: Chop the ball from the middle and bottom part, which causes the ball's trajectory path to be a parabolic curve that is not too high. The medium balls are used the most and have a good offensiveness. Generally, let the ball land into the NVZ area to prevent the opponent from volley attacking;
-* Flat ball: Chop the ball from the middle part, causing the ball's flight path to be a flat trajectory. The ball is faster and more aggressive.
+* Flat ball: Chop the ball from the middle part, causing the ball's to fly quickly with a flat trajectory. The ball more aggressive and difficult to return in a short time.
 
 ## When to Use Chop
 
