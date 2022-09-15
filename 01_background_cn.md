@@ -8,7 +8,7 @@
 
 1965 年夏天，匹克球由 Joel Pritchard 议员和邻居 Barney McCallum、Bill Bell 在美国西雅图市的贝恩布里奇岛 （Bainbridge Island）度假时发明。
 
-![pickleball-born](_images/pickleball-born.png)
+![匹克球的诞生](_images/pickleball-born.png)
 
 据说，他们都爱好打网球和羽毛球，但是由于门槛较高，无法同家人们一起玩。于是，他们就想发明一种让老人和孩子们也可以参与的运动。在综合研究了网球、羽毛球、乒乓球等项目之后，三位发明人选用了适中的场地大小，采用木质球拍，同时设计了飞行较慢的塑料球，大大降低了上手的门槛。大家一下子就爱上了这种运动，并且传播开来。
  
