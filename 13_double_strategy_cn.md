@@ -12,7 +12,7 @@
 
 A1 将球发给对方 B1（此时 B2 站在网前），B1 要尽量将球回给 A 队底线位置，同时，跟随来到网前。
 
-![双打比赛接发球](_images/double-receive.png)
+![双打比赛接发球](_images/double-return.png)
 
 此时，B 队两名队员位于网前，A 队两名队员位于后场。
 

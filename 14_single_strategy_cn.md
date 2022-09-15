@@ -8,11 +8,11 @@
 
 A 将球发给 B，B 要尽量将球回给 A 底线位置，并且尽量落入 A 的空档位置。
 
-![单打比赛发球](_images/single-strategy-01.png)
+![单打比赛发球](_images/single-serve.png)
 
 同时，B 试图跟随来到网前截击。
 
-![单打比赛接发球](_images/single-strategy-02.png)
+![单打比赛接发球](_images/single-return.png)
 
 A 接球后，通过抽球或吊球让 B 跑动。
 
