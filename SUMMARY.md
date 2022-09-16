@@ -17,7 +17,6 @@
 * [Chapter 15 - Key Tips](15_key_tips_en.md)
 * [Chapter 16 - Courtesy Rules](16_courtesy_rules_en.md)
 * [Chapter 17 - Frequent Questions and Answers](17_faq_en.md)
-* [Glossary](18_glossary_en.md)
 * [Appendix](appendix_en.md)
 
 # 打好匹克球
@@ -39,5 +38,4 @@
 * [第 15 章 - 要点总结](15_key_tips_cn.md)
 * [第 16 章 - 文明运动准则](16_courtesy_rules_cn.md)
 * [第 17 章 - 常见问题与解答](17_faq_cn.md)
-* [术语表](18_glossary_cn.md)
 * [附录](appendix_cn.md)
