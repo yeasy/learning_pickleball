@@ -12,7 +12,7 @@ The ball should be served to the diagonal half court with an underhand motion (p
 
 Usually serve the ball as far as possible to let it land near the baseline (but not out), in order to hamper the opponent's return and slow down the moving to net.
 
-![Double Serve](_images/double-serve.png)
+![Serve in Double Games](_images/double-serve.png)
 
 When serving, you can probe the opponent's return skills by serving to various places (e.g., the opponent's forehand position, backhand position or middle position) with different height and speed. Generally, fast, low and backhand ball is more threatening than slow, high and forehand ball.
 
@@ -39,7 +39,7 @@ When preparing to return the ball, keep enough space for hitting the ball. It is
 
 When returning the serve, players should follow the flying ball to go to the net (stay near the NVZ line before the ball's landing), which forces the opponent to stay in the backcourt. Therefore, the returning ball should also land as close as possible to the baseline. 
 
-![Double Receive](_images/double-return.png)
+![Return in Double Games](_images/double-return.png)
 
 The return can use a hitting action, or a chopping action. When you want to have more time to run to the net, you can return the ball high and let it fall to the opponent's backcourt.
 

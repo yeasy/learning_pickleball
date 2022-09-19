@@ -36,7 +36,7 @@ Taking doubles as an example, each game has 11 points, and each player on the se
 
 In addition, the area near the net is called the "Non-Volley Zone (NVZ)" or "Kitchen". Competitors are not allowed to step into this area before and after a volley.
 
-## Pickerball Features
+## Pickleball Features
 
 Pickleball incorporates elements of badminton, table tennis and tennis. A group of four players in a regular double game are playing in a not very large court, making it easier to run and play.
 
