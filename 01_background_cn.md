@@ -6,7 +6,7 @@
 
 ## 匹克球的起源
 
-1965 年夏天，匹克球由 Joel Pritchard 议员和邻居 Barney McCallum、Bill Bell 在美国西雅图市的贝恩布里奇岛 （Bainbridge Island）度假时发明。
+1965 年夏天，匹克球由 **Joel Pritchard** 议员和邻居 **Barney McCallum**、**Bill Bell** 在美国西雅图市的贝恩布里奇岛 （Bainbridge Island）度假时发明。
 
 ![匹克球的诞生](_images/pickleball-born.png)
 

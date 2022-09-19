@@ -53,7 +53,7 @@
         },
         "image-captions": {
             "attributes": { "width": "400" },
-            "caption": "Figure _BOOK_IMAGE_NUMBER_ - _CAPTION_"
+            "caption": "Figure _PAGE_IMAGE_NUMBER_ - _CAPTION_"
         },
         "theme-default": {
             "showLevel": true
