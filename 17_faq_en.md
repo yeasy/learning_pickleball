@@ -1,4 +1,4 @@
-# Frequent Quetions and Answers
+# Frequent Questions and Answers
 
 ## [Q1] Can you share how to handle lob? Yesterday was terribly lost to it, I dare not go to the net after hitting the back
 
@@ -10,7 +10,7 @@ If the opponent lobs the ball with high quality, run to the side and behind of t
 
 Finally, when dinking in front of the net, try to place the ball with an angle and not let the opponent return the ball very comfortably, so it will be difficult for the opponent to create a high-quality lob to you.
 
-## [Q2] In doubles, a teammate hits the third shot and returns the ball. Should I run forward or wait in the backcourt at this time? There seems to be a different decision.
+## [Q2] In doubles, a teammate hits the third shot and returns the ball. Should I run forward or wait in the backcourt at this time?
 
 **Answer**: There is no fixed answer to this question, it depends on the quality of your teammate's third shot.
 

@@ -16,7 +16,7 @@ A 将球发给 B，B 要尽量将球回给 A 底线位置，并且尽量落入 A
 
 A 接球后，通过抽球或吊球让 B 跑动。
 
-![单打比赛回球](_images/single-strategy-03.png)
+![单打比赛回球](_images/single-third-shot.png)
 
 B 网前拦截成功，将球推到 A 后场或调动 A 的网前。
 
