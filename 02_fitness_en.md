@@ -10,10 +10,10 @@ The purpose of a warm-up is to activate the body's joints and associated muscles
 
 The warm up should be done in the order from the whole to the part, from the large joint to the small joint.
 
-* Active waist
-* Active shoulders and arms
+* Waist exercises
+* Shoulders and arms exercises
 * Leg press and leg stretch
-* Active wrist and ankle joints
+* Wrist and ankle joints
 * Jogging and jumping exercises
 
 ## How to Relax
@@ -55,7 +55,7 @@ The physical attributes required for most ball sports mainly include strength (e
 
 ### Accuracy training
 
-* Hold a paddle or water bottle, circle the eight characters 100 times per group, 3 groups;
+* Hold a paddle (or a water bottle), circle the eight characters 100 times per group, 3 groups;
 * Bounce the ball with paddle, 100 times for each set, 3 sets by forehand, backhand and alternate;
 * Toss balls into buckets, 20 times per group, 3 groups;
 * Toss the ball to a point on the wall and then catch the ball, 20 times each, 3 sets;
