@@ -8,34 +8,34 @@ Singles game players have to cover the entire court, hence will require more ski
 
 ## Serve the Ball
 
-The ball should be served to the diagonal half court with an underhand motion (paddle cannot be higher than the waist), from the NVZ line (Not included) to the baseline. Once the score has been called, the player must serve the ball within 10 seconds.
+When serving the ball, the player should stand behind the baseline, and the ball should be served to the diagonal half court in an upward arc motion (the contacting point of the paddle cannot be higher than the waist), from the NVZ line (Not included) to the baseline. Once the score has been called, the player must serve the ball within 10 seconds.
 
 Usually serve the ball as far as possible to let it land near the baseline (but not out), in order to hamper the opponent's return and slow down the moving to net.
 
 ![Serve in Double Games](_images/double-serve.png)
 
-When serving, you can probe the opponent's return skills by serving to various places (e.g., the opponent's forehand position, backhand position or middle position) with different height and speed. Generally, fast, low and backhand ball is more threatening than slow, high and forehand ball.
+When serving, you can probe the opponent's return skills by serving to various targets (e.g., the opponent's forehand position, backhand position or middle position) with different height and speed. Generally, fast, low and backhand-targeted ball is more threatening than slow, high and forehand-targeted ball.
 
 If the opponent's position is not neutral, or the player cannot run quickly, you can mobilize the opponent proactively by using different serving methods.
 
-In single games' serving, the player can take advantage of various spins and placement to mobilize the opponent.
+In single games' serving, the player can take advantage of various spins and placement to mobilize the opponent. For example, you can combine the left-spin long serve to the backhand and the right-spin short serve to the forehand; Or using top-spin serve or non-spin to the middle path.
 
-In double games, usually serve long balls to the middle between opponents to force them to return the ball not well and not be able to go to the net in time.
+In double games, usually serve long balls to the middle between opponents to force them to return the ball not well and not be able to follow the ball to go to the net in time.
 
 ## Master the Serve
 
-By kicking the ground and turning the waist, the power is transferred from the legs to the torso, and then the torso drives the arms to swing, transferring the power to the paddle through the fingers, and finally the paddle hits the ball smoothly and stably.
+The power of serving comes from legs. By kicking the ground and turning the waist, the power is transferred from the legs to the torso, and then the torso drives the arms to swing, transferring the power to the paddle through the fingers, and finally the paddle releases your body power to the ball through the holding hand by whipping.
 
-Before hitting the pickleball, the body should be in a relax. At the moment of hitting the ball, use fingers to grip the paddle tightly, and release your body power to the ball through the holding hand by whipping.
+Before hitting the pickleball, the body should be in a relax. At the moment of hitting the ball, use fingers to grip the paddle tightly, and release the power to the ball stably and concentratedly.
 
 Because the surface of pickleball is smooth, the serve should generally use more hit with less spin. Players should at least master no-spin serve and topspin serve.
 
 You can learn how to master serve quickly with multiple balls training. The goal is to serve continuously to the designated location. Practice no less than 10 groups with 50 balls per group every day.
 
-Once you are proficient with no-spin serving, you can practice serving with different spins.
+Once you are proficient with no-spin serving, you can practice serving with different spins with the same motion.
 
 ## Return the Ball
-When preparing to return the ball, keep enough space for hitting the ball. It is advisable to stay at a step back from the bottom line. The racquet should face the direction of the coming ball.
+When preparing to return the ball, keep enough space for hitting the ball. It is advisable to stay at a step back from the bottom line. The body and the racquet should face the direction of the coming ball.
 
 When returning the serve, players should follow the flying ball to go to the net (stay near the NVZ line before the ball's landing), which forces the opponent to stay in the backcourt. Therefore, the returning ball should also land as close as possible to the baseline. 
 
