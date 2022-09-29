@@ -1,6 +1,8 @@
 # Hold Paddle and Hit the Ball
 
-Holding the paddle to hit the ball with power correctly is the most fundamental skill of learning to play pickleball. Using a wrong way of holding paddle or generating force will restrict the improvement of the player's level and easily bring injuries.
+Holding the paddle to hit the ball with power correctly is the most fundamental skill of learning to play pickleball. Players should be able to hit the ball with different power, speed, placement and spin in the correct way.
+
+Using a wrong way of holding paddle or generating force will restrict the improvement of the player's level and easily bring injuries.
 
 ## Holding Paddle
 
@@ -27,18 +29,29 @@ When using the backhand, the thumb can be placed on the position 7 to assist wit
 
 Players should keep their body facing the incoming ball at all times, and place the paddle in front of their chest (the head of the paddle can be pointed straight up ahead or slightly to the backhand), be ready to hit the ball.
 
-The surface of the pickleball and paddle is relatively smooth, which makes it difficult to control the ball's trajactory by generating spins. Hence it is important to hit the ball consistently and adequately.
+The surface of the pickleball and paddle is relatively smooth, which makes it difficult to control the ball's trajectory by spins. Hence it is important to hit the ball consistently and adequately.
 
-First, hit the ball with the sweet spot of the paddle, which guarantees the ball's flight direction is the same with paddle surface, and the power will be transferred to the ball efficiently. Hitting the ball from the non-sweet spot will cause the reduction of power and the instability of the ball; secondly, the paddle should be held tightly when the ball is hit, to makee sure that the power is stably transmitted to the ball. In addition, after hitting the ball, your arm should continue to follow through in the direction of the ball's flying to ensure that the ball can be sent stably.
+First, hit the ball with the sweet spot of the paddle, which guarantees the ball's flight direction is the same with paddle surface, and the power will be transferred to the ball efficiently. Hitting the ball from the non-sweet spot will cause the reduction of power and the instability of the ball; secondly, the paddle should be held tightly when the ball is hit, to make sure that the power is stably transmitted to the ball. In addition, after hitting the ball, your arm should continue to follow through in the direction of the ball's flying to ensure that the ball can be sent stably.
 
 In order to learn how to hit the ball accurately, always pay attention to the incoming ball and track the ball with your eyes. Once mastered, you can focus partly on the opposing player's  position, and partly on hitting the ball.  At the same time, you can anticipate the opponent's possible return and moves.
+
+From practices, the players should be able to feel and understand how to use appropriate power, speed, placement and spin when hitting the ball.
 
 ## How to Use Power
 
 The source of power in most ball games comes from the legs, instead of arm. This may be unexpected to many people, but if you try to hit the ball in the skating rink, you can feel it's hard to hit the ball with any power.
 
-Taking the right-handed holding as an example, when hitting the ball with the forehand, the right leg steps back, at this moment, the body turns to the right, and the center of the body weight is on the right foot.
+Taking the driving a ball with right-handed as an example, when hitting the ball with the forehand, the right leg steps back, at this moment, the body turns to the right, and the center of the body weight is on the right foot.
 
 When preparing to hit the ball, push your right leg hard, turn your waist counterclockwise, and swing your arms at the same time. At this time, the force of kicking the ground and turning the waist is transmitted to the paddle through the swing of the arm. At the moment of hitting the ball, your fingers grasp the paddle tightly, which further increases the hitting power and stabilizes the paddle. Eventually, the power from the entire body hits the ball and sends it out. Now, the center of the body weight transfers to the left foot.
 
-Note that in order to effectively transmit the power, the body (especially the arms and hands) should begin from a relaxed state when turning the waist and swinging the arm, and then tightened suddenly when hitting the ball. From relaxing to tightening, you can generate a lot of power from small movements effectively.
+Note that in order to effectively transmit the power, the body (especially the arms and fingers) should begin from a relaxed state when turning the waist and swinging the arm, and then tightened suddenly when hitting the ball. From relaxing to tightening, you can generate a lot of power from small movements effectively.
+
+In situations such as dink or volley, you do not need to use the motions from legs or body, but the principle is the same. You still need to generate the power by tightening your fingers, and the power comes from the body.
+
+## Daily Trainings
+
+* Kick the ground, turn the waist and swing the arms, 20 sets each, 3 sets;
+* Feel to use fingers’ power by bouncing the ball, forehand, backhand, and alternative 100 times;
+* Hit the ball using forehand, 20 sets each, 3 sets;
+* Hit the ball using backhand, 20 sets each, 3 sets. 

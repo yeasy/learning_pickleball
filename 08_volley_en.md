@@ -26,7 +26,7 @@ First need to move to an appropriate position. Move to the direction of the ball
 
 In addition, when volleying, hold the racket stably to avoid excessive friction of the ball, which can cause the ball to deviate from the target.
 
-The target of the volley should be far from the opponent's paddle, and you can also choose to target the opponent's ankle or space between the players. Generally, do not target the area above the waist when volleying from near the net to avoid going out. Unless you are very confident, it is generally not recommended to hit the ball to the sideline, because it is easy to hit the ball out. When the opponents are near the net, can attack the ball softly to the shoulder with the paddle, to cause a body attack.
+The volleyed ball should pass net lowly and move downward in most time. The target of the volley should be far from the opponent's paddle, and you can also choose to target the opponent's ankle or space between the players (in double games). Generally, do not target the area above the waist when volleying from near the net to avoid going out. Unless you are very confident, it is generally not recommended to hit the ball to the sideline, because it is easy to hit the ball out. When the opponents are near the net, can attack the ball softly to the shoulder with the paddle, to cause a body attack.
 
 When volleying a high ball (especially from overhead), you should prepare the position to do the smash in advance. Similar as the smash in badminton, generate the power by the torso turning and the arm pronation, and grasp the paddle suddenly when hitting the ball to keep the paddle surface stable.
 
