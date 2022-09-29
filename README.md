@@ -1,4 +1,4 @@
-# Pickleball Guide 打好匹克球
+# Learn Pickleball 打好匹克球
 
 **v0.5.2**
 

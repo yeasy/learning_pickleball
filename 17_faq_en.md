@@ -27,3 +27,19 @@ It is often seen that amateur players are very strong, and hit the ball with a b
 The key here is "effective power", that is, how much of the power from the body is transmitted to the ball. Human body strength comes from muscle contraction, and the direction of power transmission is determined by joints. If the muscles are constantly tense, dynamic force can no longer be generated; if the joints are constantly retracted, the transmission of force is hindered.
 
 Therefore, in order to generate effective force, the muscles must be tightened from loosened, and the joints must be loosened first and then tightened. Of course, training the body to become familiar with this process in a natural way requires scientific training.
+
+## [Q4] Some people don't run too much, but they can move the opponents to run around. What's going on?
+
+**Answer**: It is often seen in the game that some athletes do not seem to move very much, but can always return the ball; Some others are always running with lots of turning around, but lose a lot.
+
+In track and field competitions, everyone compares the time it takes to run the same distance, and the speed to compare at this time is absolute.
+
+In ball games, athletes' "fast" and "slow" speeds are actually relative.
+
+The first is to look at the distance of movement that needs to be done, that is, the distance the player needs to move to complete the shot. My absolute speed may be slower than yours, but I can predict your return path. I always reach the ball in front of the body to hit; and you always have to run a few steps to catch the ball, even if you move fast, it looks too slow.
+
+The second is to look at the completion time, that is, how long the player can complete the stroke. Good players will always hit the ball when it's high, but the top players can sometimes wait for the ball to come down and hit the ball at the end of the shot, often with multiple possible paths to choose. This means that opponents cannot predict in advance, and there is much less time to reflect and move.
+
+Lastly is the acceleration. Top athletes can control the tempo of the game. When you just get used to his "slow" batting rhythm, he can suddenly accelerate, and if you can't keep up, he will naturally feel faster.
+
+To sum up, the most important thing is to be able to control the opponent's return path and the rhythm of the game, and these require solid basic skills and excellent physical quality.
