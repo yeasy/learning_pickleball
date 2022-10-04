@@ -1,22 +1,24 @@
 # How to Drive
 
-The drive is one of the most common techniques to attack, especially in single games.
+The drive is one of the most common techniques to attack. Especially in single games, drive is often the key to win the game.
 
 In the single games, you can use drive to mobilize the opponents, and in the doubles game, you can use drive to attack or transit to the next shot. A high-quality drive can even score directly.
 
 ## What is Drive
 
-Drive is the action of hitting the ball quickly to make the ball flies forward fast. Like the serving a ball, you need to kick the ground and turn the waist with swinging the big arm, and then drive the forearm, and finally whip the ball to a high speed. 
+Drive is the action of hitting the ball quickly after it bounces up, to make the ball flies forward fast, and force the opponent to return the ball in a short time.
 
-Based on where you hit the ball, the Drive can be roughly divided into the **Far-net Drive**, the **Middle-court Drive**, and the **Near-net Drive**.
+Like the serving a ball, you need to kick the ground and turn the waist with swinging the big arm, and then drive the forearm and tighten the fingers, and finally whip the ball to a high speed. 
 
-* **Far-net Drive**: The far-net Drive's general target is the opponent's position gap. Pay attention do not let the ball pass the net very high.
+Based on where you hit the ball, the Drive can be roughly divided into the **Back-court Drive**, the **Middle-court Drive**, and the **Near-net Drive**.
+
+* **Back-court Drive**: The back-court Drive is to hit the ball from the back court, usually for transition to prepare the next shot or let the opponents run. Pay attention do not let the ball pass the net very high, in case the opponent can block easily.
 * **Middle-court Drive**: The middle-court Drive is an attack or transition by hitting when the opponent returns the ball to the midfield and it bounces high. The general target is the opposing near-net area or midfield.
 * **Near-net Drive**: The near-net is to attack the ball by hitting the ball when the opponent's return ball bounces high. Pay attention do not let the ball go out.
 
 ## When to Use Drive
 
-When the ball bounces high, and the opponent does not form an effective net block, you can try to Drive the ball.
+When the ball bounces high, and the opponent does not form an effective near-net block, you can try to Drive the ball.
 
 The first purpose of driving the ball is to mobilize the opponent, or make the opponent to return the ball in a hurry, so as to score a point or form a chance for the next shot.
 
@@ -26,7 +28,7 @@ The most important thing in driving the ball is to hit the ball in front of you,
 
 It should be noted that the surface of the Pickleball and racket is relatively smooth. In most cases, the Drive should be based on hitting, supplemented by rotation. In addition, the ball should not be too high when it passes the net. It is the best to let the ball fall quickly to restrict the opponent's return route.
 
-The backhand is basically symmetrical with the forehand. Try to hit with one hand to have more space to generate power and send the ball with a wider angular range.
+The backhand is basically symmetrical with the forehand. Try to hit with one hand to have more space to generate power and send the ball with a wider angular range. If you do not have enough power using one backhand, you can use both hands to hit the back hand shot in a shorter movement, which can stabilize the paddle.
 
 In double games, the Drive can generally target the space between players, or the gap of defense. When the opponent's defensive ability is weak, you can also deliberately hit the ball to the body (such as the shoulder of the holding paddle side), causing the opponent to make mistakes.
 

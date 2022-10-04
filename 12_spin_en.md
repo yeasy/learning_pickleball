@@ -24,6 +24,8 @@ Consider using Spin in the following scenarios:
 * Volley: Use back spin or side spin to cause the opponent to fail to return the ball;
 * ATP: Use side spin to let the ball land into the court from outside.
 
+Pay attention that when adding spin to the ball, because part of the energy turns into the rotation instead of flight, the ball usually flies slower than normal. Therefore, when you want to let the ball move very quickly, try to use as little spin as possible.
+
 ## How to Master Spin
 
 The spin of a pickleball is hardly produced by only rubbing it using the paddle, but rather by hitting the different positions of the ball and pushing the ball around. Therefore, when using the spin to control the trajectory of the ball, it is important to focus on hitting the ball mainly, and cooperate with a following push.
