@@ -12,21 +12,22 @@ Lobing the ball mainly refers to the technique of lifting the ball into the oppo
 
 Based on the position of lob, there are majorly three types:
 
-* Backcourt Lob: Lobing the ball from the backcourt to the opponent's backcourt, in order to change the game pace. In order to avoid hitting the ball out, you can use top spin;
-* Mid-court Lob: Lob the ball to the opponent's backcourt from the mid-court position, which is more offensive and prevents the opponent to go to net quickly;
-* Near-net Lob: when the opponent's return is high or far, lob can force the opponents to go to the back court, which can create a good attack opportunity.
+* **Backcourt Lob**: Lobing the ball from the backcourt to the opponent's backcourt, in order to change the game pace. In order to avoid hitting the ball out, you can use top spin appropriately;
+* **Mid-court Lob**: Lob the ball to the opponent's backcourt from the mid-court position, which is more offensive. For example, if the opponents are running to the net, a lob can prevents them and disorder the pace;
+* **Near-net Lob**: when the opponent's return is high or far in front of the net, the lob can force the opponents to go to the back court, which can create a good attack opportunity for next shot.
+
 
 ## When to Use Lob
 
 When the opponent's position or attention is in the frontcourt, and the jump or retreat footwork is not good, you can use the Lob to force the opponent to stay at the backcourt.
 
-Lobing the ball can save you from passive to proactive. At the same time, it can be used when you want to create opportunities from a dink rally.
+Lobing the ball can save you from passive to proactive. At the same time, it can be used when you want to create opportunities from a dink or drive rally.
 
 After lobing the ball, move to the net in time and prepare to attack when the opponent returns the ball too high.
 
 ## How to Master the Lob
 
-The core point of lobing the ball is to keep the ball higher than the opponent's top after jump to avoid the opponent volleying in the air. Therefore, the parabolic high point of the Lob ball should be close to the opponent's middle court, so that the ball falls vertically near the baseline and does not go out.
+The core point of lobing the ball is to keep the ball’s trajectory higher than the opponent's top after jump to avoid the opponent volleying in the air. Therefore, the parabolic high point of the Lob ball should be close to the opponent's middle court, so that the ball falls vertically near the baseline and does not go out.
 
 When lobbing the ball, keep in mind:
 
@@ -39,4 +40,9 @@ When the opponent lobs the ball, you should first quickly judge whether you can 
 Lobing the ball can be practiced in several ways:
 
 * Multi-ball practice: repeatedly Lob the ball to correct the trajectory and landing point;
-* Ball feeding practice: The assistant player gives balls in different positions to carry out ball Lobing training.
+* Ball feeding practice: The assistant player gives balls in different positions to carry out the lobing training.
+
+## How to Defend a Lob
+When the opponent lobs the ball, you should first quickly judge whether you can jump and volley the ball back. If you can, use the power from wrist turning and finger tightening to press the ball down, targeting the opponent feet or far space.
+
+If not, you should quickly turn to the forehand side, and run back to the position the ball is flying to. Wait for the ball to land and bounce, and then hit it back. Usually you can use Drop to return the ball in this situation, and run to the net following the ball
