@@ -1,6 +1,6 @@
 # Key Tips
 
-Advanced pickleball requires an effective combination of skills from ping pong, badminton and tennis.
+Advanced pickleball requires mastering various skills through scientific trainings, and use the combination of those skills effectively.
 
 ## Practices
 
