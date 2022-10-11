@@ -43,3 +43,9 @@ The second is to look at the completion time, that is, how long the player can c
 Lastly is the acceleration. Top athletes can control the tempo of the game. When you just get used to his "slow" batting rhythm, he can suddenly accelerate, and if you can't keep up, he will naturally feel faster.
 
 To sum up, the most important thing is to be able to control the opponent's return path and the rhythm of the game, and these require solid basic skills and excellent physical quality.
+
+## [Q5] It is often heard that pickleball has some characteristics of tennis, badminton and table tennis. What are them?
+
+Sports are essentially similar with each other. Ball games are all about power (both explosive and stamina), speed, spin and placement. However, different sports differ in form and focus.
+
+Tennis has the highest requirements for strength, just like the broadsword, emphasizing wide opening and closing, and beating the opponents like breaking a bamboo; badminton has the highest requirements for speed and placement control, just like swordsmanship, pays attention to agility and elegance, and strikes back; table tennis has not only speed, but also the quickest rotation. Like a dagger, its shot is often unexpected and unpredictable; while the pickleball is like a nunchaku, both soft and firm, with both the drive and spin from tennis, the smash, drop, lob and footwork from badminton, and the push, block and dink from table tennis. 

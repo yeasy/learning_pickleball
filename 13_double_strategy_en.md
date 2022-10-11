@@ -24,7 +24,7 @@ Assuming A2 will hit the third shot, A1 takes a step forward and prepares to go 
 
 Now, the players of team A and B are both in front of the net, the game enters the most critical **near net battle phase**.
 
-Usually players use the Dink technique to mobilize the opponents, and try to create attack opportunities.
+Usually players use the Dink technique to mobilize the opponents, and try to create attack opportunities. Because only the serving team can get a point in the rally, they should be more aggressive to try to attack.
 
 Assuming that A1 returns the ball too high, B1 gets the opportunity and takes the initiative to attack. The two sides enter the fast volley interaction. One party can return to the battle in front of the net again by taking the initiative to Dink.
 
