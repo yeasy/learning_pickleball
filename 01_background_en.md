@@ -6,13 +6,13 @@ Pickleball combines the skills of tennis, badminton, table tennis and other spor
 
 ## The Origin of Pickleball
 
-In the summer of 1965, the pickleball was invented by Congressman **Joel Pritchard** and his neighbors **Barney McCallum** and **Bill Bell** while vacationing on Bainbridge Island in Seattle, USA.
+In the summer of 1965, the pickleball was invented by Congressman Joel Pritchard (1925 ~ 1997) and his friends Bill Bell (1923 ~ 2006) and Barney McCallum (1926 ~ 2019) while vacationing on Bainbridge Island in Seattle, USA.
 
 ![The Born of Pickleball](_images/pickleball-born.png)
 
-It is said that they both like to play tennis and badminton, but because of the high learning difficulty, their families can not join easily. So, they wanted to invent a sport that the seniors and youths can also participate in. After a comprehensive study of tennis, badminton, table tennis and other sports, the three inventors chose a moderate court size, used a wooden racket, and designed a slow-flying plastic ball, which greatly lowered the learning bar for getting started. Everyone fell in love with the new sport all at once, and it spread soon.
- 
-When playing the new sport, a pet dog named "Pickle" likes to run after the ball, so the inventor named it Pickleball.
+It is said that they both like to play tennis and badminton, but because of the high learning difficulty, their families can not join easily. So, they wanted to invent a sport that the seniors and youths can also participate in. After a comprehensive study of tennis, badminton, table tennis and other sports, the three inventors chose a moderate court size, used a wooden racket, and designed a slow-flying plastic ball, which greatly lowered the learning bar for getting started. Everyone fell in love with the new sport all at once, and it spread soon. The name of Pickleball came from a local “pickle boat” races.
+
+Till the year 1990, all 50 states in USA have pickleball players. In 2010, International Federation of Pickleball was founded to help promote the sport around the world.
  
 To commemorate the invention of the pickleball, the World Pickleball Championship since 2017 named its trophy the "Bainbridge Cup". The first three championships were won by its country of origin, the United States.
 
