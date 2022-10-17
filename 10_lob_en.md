@@ -16,7 +16,6 @@ Based on the position of lob, there are majorly three types:
 * **Mid-court Lob**: Lob the ball to the opponent's backcourt from the mid-court position, which is more offensive. For example, if the opponents are running to the net, a lob can prevents them and disorder the pace;
 * **Near-net Lob**: when the opponent's return is high or far in front of the net, the lob can force the opponents to go to the back court, which can create a good attack opportunity for next shot.
 
-
 ## When to Use Lob
 
 When the opponent's position or attention is in the frontcourt, and the jump or retreat footwork is not good, you can use the Lob to force the opponent to stay at the backcourt.

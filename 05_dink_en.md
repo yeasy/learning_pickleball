@@ -8,7 +8,6 @@ Dink refers to the action of placing the ball to the opponent's NVZ area. Usuall
 
 ![Three Types of Dink Targets](_images/dink-target.png)
 
-
 Dink is often used in doubles events. According to the target area, it can be roughly divided into the following three types:
 
 * **Straight Dink**: Straight Dink is to put the ball into the opponent's area that you are facing. For example, stand on your left half court and place the ball in your opponent's right half court. Straight Dink is usually easier to hit, but tend to have a higher or farther trajectory, making it easier for the opponent to attack;

@@ -12,7 +12,6 @@ Generally, according to the location of the volley, it can be divided into **Bac
 * **Mid-court Volley**: The mid-court volley is mostly when you are going to the net after the third shot, and the opponent returns a long ball. In this situation, you should hit the ball very softly using its own power, let the ball drop to the opponent's NVZ shortly, and go to the net quickly at the same time.
 * **Near-net Volley**: If the opponents make a mistake to return a high ball in front of the net, you can smash the ball quickly to earn a point. For non-high balls, avoid using vigorous efforts to hit the ball out. Generally you can push the ball to the backcourt, or hit the ball shortly by your fingers to attack, so that the ball does not go too high when passing the net. Pay attention to avoid stepping into the NVZ area when volleying.
 
-
 It is common in professional tournament that both sides can volley opponent's ball mutually, which will form a faster rally.
 
 ## When to Use Volley

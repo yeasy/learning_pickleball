@@ -47,7 +47,6 @@ The physical attributes required for most ball sports mainly include **strength*
 * Plank, 1 minute each set, 3 sets;
 * Squat and up using one leg, 10 times, 3 sets;
 
-
 ### Speed Training
 
 * Hit the ball continuously to the wall without landing, 1 minute each set, 3 sets;
