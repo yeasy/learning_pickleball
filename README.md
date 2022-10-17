@@ -1,6 +1,6 @@
 # Learning Pickleball 打好匹克球
 
-**v0.6.1**
+**v0.6.5**
 
 This book has bilingual versions (English and Chinese). 本书支持中英文双语版本。
 
@@ -10,12 +10,11 @@ The technology and playing style of pickleball are still being explored and deve
 
 The book is NOT for explaining the game rules, and you may refer to the [official rules](https://usapickleball.org/what-is-pickleball/how-to-play/basics/rules-summary/).
 
-Each chapter is focused on a specific topic, players can learn them in order. Each skill may need several weeks' training to master.
+Each chapter is focused on a specific topic, players can learn them in order. Each skill may need several weeks' training to master. The last chapter summarizes the [frequent questions and answers](17_faq_en.md).
 
 * [Read on Gitbook](https://yeasy.gitbook.io/pickleball_guide/01_basic_en)
 * [Read on Github](https://github.com/yeasy/pickleball_guide/blob/main/SUMMARY.md)
 * [Download PDF Version](https://github.com/yeasy/pickleball_guide/releases/download/v0.6.0/pickleball_guide-en-v0.6.0.pdf)
-* [Key Tips](https://github.com/yeasy/pickleball_guide/blob/main/14_key_tips_en.md)
 
 匹克球是一项正在风靡全球的新兴运动，它融合了羽毛球、网球、乒乓球等运动的众多特点，具有上手容易、运动量适中、娱乐性强等优势，吸引了越来越多的爱好者参与。
 
@@ -23,9 +22,8 @@ Each chapter is focused on a specific topic, players can learn them in order. Ea
 
 本书不侧重介绍匹克球的比赛规则，读者可以另行参考[官方规则说明](https://usapickleball.org/what-is-pickleball/how-to-play/basics/rules-summary/)。
 
-每章围绕一项特定技术，学习者可以按照顺序依次训练。掌握每项技术可能需要几周时间。
+每章围绕一项特定技术，学习者可以按照顺序依次训练。掌握每项技术可能需要几周时间。最后一章总结了[常见的问题和解答](17_faq_cn.md)。
 
 * [在线阅读一](https://yeasy.gitbook.io/pickleball_guide/01_basic_cn)
 * [在线阅读二](https://github.com/yeasy/pickleball_guide/blob/main/SUMMARY.md)
 * [下载 PDF 版本](https://github.com/yeasy/pickleball_guide/releases/download/v0.6.0/pickleball_guide-cn-v0.6.0.pdf)
-* [查看要点总结](https://yeasy.gitbook.io/pickleball_guide/14_key_tips_cn)
