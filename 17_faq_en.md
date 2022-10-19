@@ -46,6 +46,14 @@ To sum up, the most important thing is to be able to control the opponent's retu
 
 ## [Q5] It is often heard that pickleball has some characteristics of tennis, badminton and table tennis. What are them?
 
-Sports are essentially similar with each other. Ball games are all about power (both explosive and stamina), speed, spin and placement. However, different sports differ in form and focus.
+**Answer**: Sports are essentially similar with each other. Ball games are all about power (both explosive and stamina), speed, spin and placement. However, different sports differ in form and focus.
 
 Tennis has the highest requirements for strength, just like the broadsword, emphasizing wide opening and closing, and beating the opponents like breaking a bamboo; badminton has the highest requirements for speed and placement control, just like swordsmanship, pays attention to agility and elegance, and strikes back; table tennis has not only speed, but also the quickest rotation. Like a dagger, its shot is often unexpected and unpredictable; while the pickleball is like a nunchaku, both soft and firm, with both the drive and spin from tennis, the smash, drop, lob and footwork from badminton, and the push, block and dink from table tennis. 
+
+## [Q6] What are the differences between amateur players and professional players?
+
+**Answer**: The first is consistency. For the same drop shot, an amateur player may make one mistake every ten times, while a professional player may make one mistake every one hundred times. Overall, the unforced error rate of amateur players is much higher.
+
+Second is the speed. When the pace of the game is slow, amateurs and professional players seem to perform similar; but when the pace increases, amateurs often can't keep up, and turnovers increase.
+
+Another is the gaming consciousness. How to deal with the opponent's ball? Should I return a long ball or a short ball? Fast ball or slow ball? Where should I run after returning the ball? What is the other party's next intention? Amateur players usually don't think about these during the playing, while for professional players, these are often natural ideas, and they will choose the most favorable strategy for their own team and the most uncomfortable for the opponents.
