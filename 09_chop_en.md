@@ -1,6 +1,6 @@
 # How to Chop
 
-The Chop technique is a common transition technique in Pickleball, which can defend very well, and can attack at the same time in certain case.
+The Chop technique is a common transition technique in Pickleball, which can be used to defend well, and can attack in certain case.
 
 ## What is Chop
 
