@@ -1,12 +1,12 @@
 # Key Tips
 
-Advanced pickleball requires mastering various skills through scientific trainings, and use the combination of those skills effectively.
+Advanced pickleball requires mastering various skills comprehensively through scientific trainings, and use the combination of those skills effectively.
 
 ## Practices
 
 * Learn how to play hard first, then how to play softly, then play hard again. At last, master to play flexibly.
-* Being able to control power is more important than power itself. Controlling means that with the same gesture, you can add different power, spin or angle.
-* Ball follows the mind. You will see the trajectory before hitting the ball. All your need is to implement it.
+* Being able to control power is more important than power itself. Controlling means that with the same gesture, you can generate different power, speed, placement and spin.
+* Ball follows the mind. You will see the trajectory before hitting the ball. The action of hitting the ball is just to implement it.
 * Never play games before the correct action becomes your subconscious reaction.
 
 ## Strategies
@@ -20,7 +20,7 @@ Advanced pickleball requires mastering various skills through scientific trainin
 * If the opponent's footwork is poor, let him run more; if the opponent's reaction is fast, slow down the pace; if the opponent's near-net skill is good, play more long balls, otherwise, play wide angles.
 * Drop is the far-net Dink; Dink is the near-net Drop. The first goal of both is not gifting an opportunity to the opponents.
 * The most effective way of Dink and Drop is to push, rather than to drive or to spin.
-* Lob must pass the opponent's top. High ball is not easy to go out.
+* Lob must pass the opponent's top, and prepare to go to the net.
 * The ball flying over waist in the midfield will go out in most cases.
 * Return ball to an opponent in the backcourt, otherwise, to the weaker player.
 * Run to the net as soon as possible and keep the opponents in the backcourt.
