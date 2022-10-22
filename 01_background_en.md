@@ -4,7 +4,7 @@ Pickleball, as an emerging sport born in the 1960s, has swept North America and 
 
 Pickleball combines the skills of tennis, badminton, table tennis and other sports. It is fun to play, easy to learn, and moderate in intensity, and it is not easy to be injured. It can be described as suitable for all ages. Anyone in their 70s or 80s, or children in their teens, can participate.
 
-## The Origin and Development of Pickleball
+## The Origin and Development
 
 In the summer of 1965, the pickleball was invented by Congressman Joel Pritchard (1925 ~ 1997) and his friends Bill Bell (1923 ~ 2006) and Barney McCallum (1926 ~ 2019) while vacationing on Bainbridge Island in Seattle, USA.
 
@@ -46,7 +46,7 @@ Pickleball is quick to start, easy to control, moderate to run (not as high as t
 
 The overall amount of activity in pickleball is moderate, but it has rich skills. In addition to drive, smash, drop, and slices, there are also volleys and lobs. The competition between the two sides is not only about strength or speed, but also about the control of the ball (which is often more important). In doubles, teamwork is especially critical. In pickleball games, one rally can last to tens of hits, which is quite ornamental.
 
-## Pickleball Tournaments
+## Tournaments and Education
 
 According to the USA Pickleball Association (USAPA), there are currently more than 5 million pickleball enthusiasts in the United States, and the number is growing at a rate of more than 20% per year. The Professional Pickleball Association (PPA) and Association of Pickleball Professionals (APP) hold 20 and 30 tournaments every year.
 
