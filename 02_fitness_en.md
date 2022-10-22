@@ -1,8 +1,8 @@
 # Warm up, Relax and Strength Training
 
-The secret to being able to play pickleball for a long time is to warm up well before playing and relax properly after it. 
+The secret to being able to play pickleball for a long time is to warm up well before playing and relax properly after it. At the same time, good physical fitness is a prerequisite for advanced-level competition.
 
-At the same time, good physical fitness is a prerequisite for advanced-level competition.
+Therefore, both amateurs and professional athletes should pay attention to warm-up, relaxation and physical training.
 
 ## How to Warm Up
 
