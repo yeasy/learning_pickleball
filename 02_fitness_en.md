@@ -10,11 +10,11 @@ The purpose of a warm-up is to activate the body's joints and associated muscles
 
 The warm up should be done in the order from the whole to the part, from the large joint to the small joint.
 
-* Waist exercises
-* Shoulders and arms exercises
-* Leg press and leg stretch
-* Wrist and ankle joints
-* Jogging and jumping exercises
+* Activate waist by bending to front, back and side;
+* Activate shoulders and arms by moving up, down, and to the side;
+* Leg press and leg stretch;
+* Activate wrist and ankle joints;
+* Jogging and jumping exercises.
 
 ## How to Relax
 
@@ -24,10 +24,10 @@ The purpose of relaxation is to relax the muscle tissue, bringing its fibers bac
 
 Relaxation should be done by relaxing the large muscles first, followed by the small muscles.
 
-* Relax waist muscles
-* Relax back muscles
-* Relax leg muscles
-* Relax arm muscles
+* Relax waist muscles by keeping to bend to front, back and side for seconds;
+* Relax back muscles by stretching;
+* Relax leg muscles by crossing and stretching;
+* Relax arm muscles by stretching.
 
 Relaxation can be done by stretching, pressing, etc., and can be done with equipment (such as rollers, yoga mats).
 
