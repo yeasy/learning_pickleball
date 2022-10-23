@@ -22,6 +22,18 @@ When the ball bounces high, and the opponent does not form an effective near-net
 
 The first purpose of driving the ball is to mobilize the opponent, or make the opponent to return the ball in a hurry, so as to score a point or form a chance for the next shot.
 
+## Select attack target
+
+When the ball is targeted to various positions, the challenge will be different to return it, as shown in the figure below.
+
+* Red area: Positions where the opponent is easy to defend or even counterattack, including most of the forehand position and the overhead area;
+* Green Zone: Positions where it is difficult for the opponent to defend or form a high-quality return, including positions below the net, around the shoulder on the forehand, and farther area on the backhand;
+* Yellow area: between the two, the opponent may form an effective defense.
+
+![Select the Targets to Attack](_images/attack-target.png)
+
+When attacking, you should try to target the green area first, and follow up to prepare to attack again when the opponent's return is poor.
+
 ## How to Master Drive
 
 The most important thing in driving the ball is to hit the ball in front of you, to hit the ball with a stable body, and to hit the ball when the ball is near the top of its trajectory. Another thing is to take advantage of the whip, and release the whole body's power into turning the waist through the stable hitting surface formed by the hand.
