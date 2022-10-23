@@ -26,9 +26,9 @@ The first purpose of driving the ball is to mobilize the opponent, or make the o
 
 When the ball is targeted to various positions, the challenge will be different to return it, as shown in the figure below.
 
-* Red area: Positions where the opponent is easy to defend or even counterattack, including most of the forehand position and the overhead area;
-* Green Zone: Positions where it is difficult for the opponent to defend or form a high-quality return, including positions below the net, around the shoulder on the forehand, and farther area on the backhand;
-* Yellow area: between the two, the opponent may form an effective defense.
+* Red Area: Positions where the opponent is easy to defend or even counterattack, including most of the forehand position and the overhead area;
+* Green Area: Positions where it is difficult for the opponent to defend or form a high-quality return, including positions below the net, around the shoulder on the forehand, and farther area on the backhand;
+* Yellow Area: Between the previous two areas, the opponent may form an effective defense.
 
 ![Select the Targets to Attack](_images/attack-target.png)
 
