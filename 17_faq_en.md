@@ -57,3 +57,16 @@ Tennis has the highest requirements for strength, just like the broadsword, emph
 Second is the speed. When the pace of the game is slow, amateurs and professional players seem to perform similar; but when the pace increases, amateurs often can't keep up, and turnovers increase.
 
 Another is the gaming consciousness. How to deal with the opponent's ball? Should I return a long ball or a short ball? Fast ball or slow ball? Where should I run after returning the ball? What is the other party's next intention? Amateur players usually don't think about these during the playing, while for professional players, these are often natural ideas, and they will choose the most favorable strategy for their own team and the most uncomfortable for the opponents.
+
+## [Q7] How do I choose a paddle?
+**Answer**: The combined length and width of a pickleball paddle cannot exceed 24 inches (60.96 cm), of which the length cannot exceed 17 inches (43.18 cm). There is no limit to the thickness and weight of the paddle.
+
+In general, the following parameters can be considered when choosing a paddle:
+
+* **Sweet spot**: The larger the sweet spot, the better the fault tolerance, but it often means that the paddle surface is larger, and the swing is slower. The ratio of the sweet spot to the paddle surface is an important indicator to the paddle’s technical quality. Beginners are recommended to choose a paddle with a higher proportion of the sweet spot.
+* **Weight**: The heavier the paddle, the more it can avoid the vibration caused by hitting the ball, but the swing will be harder, which requires a better power. For beginners, it is recommended to consider paddles up to 8 oz (227 g) unless you have an excellent strength.
+* **Center of mass**: The more forward the center of mass is, the more powerful the shot is, but it will be harder to control the paddle, which requires better hand sensitivity and higher power. Beginners are advised to consider a moderate paddle.
+* **Handle length**: A longer handle usually means a larger hitting range, but it is more difficult to adjust the paddle, which requires better hand sensitivity and higher power. Beginners are advised to choose a handle with a moderate length.
+* Handle thickness: Thicker handle is easier to exert force, but it is inconvenient to adjust the holding. For beginners, unless you have large hands, it is recommended to choose a thinner handle.
+* **Paddle surface** thickness: The thicker the paddle surface, the better the vibration absorption when hitting the ball, but it will cause the ball speed to drop slightly. Beginners are advised to consider a paddle with a thickness of at least 14 mm.
+* **Paddle surface roughness**: The rougher the paddle surface, the easier it is to create spin, but in turn, the more likely it is affected by the ball’s rotation. Beginners are advised to consider a paddle surface that does not have too much friction.
