@@ -10,7 +10,7 @@ In the summer of 1965, the pickleball was invented by Congressman Joel Pritchard
 
 ![The Born of Pickleball](_images/pickleball-born.png)
 
-It is said that they both like to play tennis and badminton, but because of the high learning difficulty, their families can not join easily. So, they wanted to invent a sport that the seniors and youths can also participate in. After a comprehensive study of tennis, badminton, table tennis and other sports, the three inventors chose a moderate court size, used a wooden racket, and designed a slow-flying plastic ball, which greatly lowered the learning bar for getting started. Everyone fell in love with the new sport all at once, and it spread soon. The name of Pickleball came from a local “pickle boat” races.
+It is said that they both like to play tennis and badminton, but because of the high learning difficulty, their families can not join easily. So, they wanted to invent a sport that the seniors and youths can also participate in. After a comprehensive study of tennis, badminton, table tennis and other sports, the three inventors chose a moderate court size, used a wooden paddle, and designed a slow-flying plastic ball, which greatly lowered the learning bar for getting started. Everyone fell in love with the new sport all at once, and it spread soon. The name of Pickleball came from a local “pickle boat” races.
 
 Till the year 1990, all 50 states in USA have pickleball players. In 2010, International Federation of Pickleball (IFP) was founded to help promote the sport around the world.
  
@@ -42,7 +42,7 @@ In addition, the area near the net is called the "Non-Volley Zone (NVZ)" or "Kit
 
 Pickleball incorporates the elements of badminton, table tennis and tennis. A group of four players in a regular double game are playing in a not very large court, making it easier to run and play.
 
-Pickleball is quick to start, easy to control, moderate to run (not as high as tennis and badminton for jumping and running), etc. The reasons are: a) the court of pickleball is not large (smaller than tennis court); b) the weight of pickleball is relatively light (only more than 20 grams) and the ball does not bounce a lot; c) the racket is light in weight and has a large hitting area. Therefore, pickleballs can be played in singles or doubles, indoor and outdoor venues, and are loved by people of different ages.
+Pickleball is quick to start, easy to control, moderate to run (not as high as tennis and badminton for jumping and running), etc. The reasons are: a) the court of pickleball is not large (smaller than tennis court); b) the weight of pickleball is relatively light (only more than 20 grams) and the ball does not bounce a lot; c) the paddle is light in weight and has a large hitting area. Therefore, pickleballs can be played in singles or doubles, indoor and outdoor venues, and are loved by people of different ages.
 
 The overall amount of activity in pickleball is moderate, but it has rich skills. In addition to drive, smash, drop, and slices, there are also volleys and lobs. The competition between the two sides is not only about strength or speed, but also about the control of the ball (which is often more important). In doubles, teamwork is especially critical. In pickleball games, one rally can last to tens of hits, which is quite ornamental.
 
