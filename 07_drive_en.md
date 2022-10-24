@@ -38,7 +38,7 @@ When attacking, you should try to target the green area first, and follow up to 
 
 The most important thing in driving the ball is to hit the ball in front of you, to hit the ball with a stable body, and to hit the ball when the ball is near the top of its trajectory. Another thing is to take advantage of the whip, and release the whole body's power into turning the waist through the stable hitting surface formed by the hand.
 
-It should be noted that the surface of the Pickleball and racket is relatively smooth. In most cases, the Drive should be based on hitting, supplemented by rotation. In addition, the ball should not be too high when it passes the net. It is the best to let the ball fall quickly to restrict the opponent's return route.
+It should be noted that the surface of the Pickleball and paddle is relatively smooth. In most cases, the Drive should be based on hitting, supplemented by rotation. In addition, the ball should not be too high when it passes the net. It is the best to let the ball fall quickly to restrict the opponent's return route.
 
 The backhand is basically symmetrical with the forehand. Try to hit with one hand to have more space to generate power and send the ball with a wider angular range. If you do not have enough power using one backhand, you can use both hands to hit the back hand shot in a shorter movement, which can stabilize the paddle.
 

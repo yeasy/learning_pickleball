@@ -32,7 +32,7 @@ When chopping the ball, the body should be in a relaxed state. Move to the forwa
 
 Slices depend more on hand feel, so special touch practices are required.
 
-* Slicing practice: Use the racket to slice the ball continuously, fall into the designated area, and pay attention to control the height of the trajectory. There should be no less than 50 consecutive slices each time, and no less than 10 sets of exercises should be performed every day.
+* Slicing practice: Use the paddle to slice the ball continuously, fall into the designated area, and pay attention to control the height of the trajectory. There should be no less than 50 consecutive slices each time, and no less than 10 sets of exercises should be performed every day.
 * Multi-ball practice: The assistant staff will serve the ball at different speeds and heights, and the players will slice the ball to the designated target area. There should be no less than 50 consecutive slices each time, and no less than 10 sets of exercises should be performed every day.
 
 ## How to Defend a Chopped Ball

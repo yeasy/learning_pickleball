@@ -51,7 +51,7 @@ When doing Dink training, keep in mind:
 
 Dink relies a lot on hands sensitivity, so special touch practices are required.
 
-* Bouncing practice: Use the racket to continuously flip the ball, you can control the height of the ball, control the ball to rotate or not, and you can use the forehand and backhand to flip the ball alternately. There should be no less than 100 consecutive strokes at a time, and no less than 5 sets of exercises should be carried out every day.
+* Bouncing practice: Use the paddle to continuously flip the ball, you can control the height of the ball, control the ball to rotate or not, and you can use the forehand and backhand to flip the ball alternately. There should be no less than 100 consecutive strokes at a time, and no less than 5 sets of exercises should be carried out every day.
 * Multi-ball practice: The assistant staff hits the ball into the NVZ, and the player Dinks the ball into the designated target area, and the ball does not go too high over the net. There should be no less than 50 consecutive Dinks each time, and no less than 10 sets of exercises per day. Practice the straight ball first, and then practice the cross-court ball after that.
 * Dynamic practice: The assistant staff and players move horizontally along the net while dinking the ball.
 * Dink and Attack practice: Try to attack during Dink when there’s an opportunity, and reset the opponent’s attack into Dink.
