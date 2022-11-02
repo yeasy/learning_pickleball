@@ -70,3 +70,17 @@ In general, the following parameters can be considered when choosing a paddle:
 * Handle thickness: Thicker handle is easier to exert force, but it is inconvenient to adjust the holding. For beginners, unless you have large hands, it is recommended to choose a thinner handle.
 * **Paddle surface** thickness: The thicker the paddle surface, the better the vibration absorption when hitting the ball, but it will cause the ball speed to drop slightly. Beginners are advised to consider a paddle with a thickness of at least 14 mm.
 * **Paddle surface roughness**: The rougher the paddle surface, the easier it is to create spin, but in turn, the more likely it is affected by the ball’s rotation. Beginners are advised to consider a paddle surface that does not have too much friction.
+
+## [Q8] How do I estimate my level and rating?
+
+**Answer**: The reference rating is as follows.
+
+Rating | Level | Characteristics
+--- | --- | ---
+2.5 | Beginner | Can serve to the court; Return the ball but often with low quality; Occasionally have good quality returns.
+3.0 | Advanced Beginner | Knows the basic rules; Knows the importance of moving to the net and the third shot, but makes mistakes sometimes; Moves slowly and doesn't guarantee a reasonable move.
+3.5 | Intermediate | Master basic skills to certain degree; Can hit a relatively stable Dink ball and Drop shot; Move quickly and master basic footwork; Begin to recognize one's own inadequacies.
+4.0 | Advanced Intermediate | Master basic skills solidly; Master the variation of rotation and placement, and can hit different shots with the same action; Observe each other during the game and adjust strategies in real time.
+4.5 | Advanced | Comprehensive and flexible use of techniques; Few unforced errors; Able to return the ball when forced.
+5.0 | Professional | No longer stick to specific skills; Able to control the game rhythm; Naturally control the ball's placement, speed, and rotation.
+5.5+ | Vocational | Build a systematic understanding of pickleball theory and skills; Often win medals in professional events.
