@@ -4,7 +4,7 @@ Pickleball, as an emerging sport born in the 1960s, has swept North America and 
 
 Pickleball combines the skills of tennis, badminton, table tennis and other sports. It is fun to play, easy to learn, and moderate in intensity, and it is not easy to be injured. It can be described as suitable for all ages. Anyone in their 70s or 80s, or children in their teens, can participate.
 
-## The Origin and Development
+## Origin of Pickleball
 
 In the summer of 1965, the pickleball was invented by Congressman Joel Pritchard (1925 ~ 1997) and his friends Bill Bell (1923 ~ 2006) and Barney McCallum (1926 ~ 2019) while vacationing on Bainbridge Island in Seattle, USA.
 
@@ -18,7 +18,7 @@ To commemorate the invention of the pickleball, the World Pickleball Championshi
 
 ## Ball and Paddle
 
-Pickleballs are slightly larger than tennis balls. They are made of hard plastic and are mostly yellow or orange. There are balls for outdoor playing and indoor playing. The indoor balls are slightly softer and have fewer holes. The holes are with a diameter of less than 1cm, which makes the rotation not too quick, and the flying speed not too fast. Therefore, people sometimes jokingly call the pickleball as seniors' tennis. But in fact, professional pickleball games are often more intense than tennis.
+Pickleballs are slightly larger than tennis balls, which are made of hard plastic and are usually yellow or orange, and there are 26 to 40 holes with a diameter of less than 1cm (The indoor balls are slightly softer and have fewer holes). The balls usually do not rotate fast or bounce high.
 
 ![Various types of Pickleballs](_images/various-type-balls.png)
 
@@ -46,10 +46,10 @@ Pickleball is quick to start, easy to control, moderate to run (not as high as t
 
 The overall amount of activity in pickleball is moderate, but it has rich skills. In addition to drive, smash, drop, and slices, there are also volleys and lobs. The competition between the two sides is not only about strength or speed, but also about the control of the ball (which is often more important). In doubles, teamwork is especially critical. In pickleball games, one rally can last to tens of hits, which is quite ornamental.
 
-## Tournaments and Education
+## Status and Future
 
-According to the USA Pickleball Association (USAPA), there are currently more than 5 million pickleball enthusiasts in the United States, and the number is growing at a rate of more than 20% per year. The Professional Pickleball Association (PPA) and Association of Pickleball Professionals (APP) hold 20 and 30 tournaments every year.
+According to the USA Pickleball Association (USAPA), there are currently more than 5 million pickleball players in the United States (In comparison, tennis players are less than 20 million, badminton players are less than 1.5 million, and pingpong players are less than 1 million), and the number is growing at a rate of more than 20% per year. The Professional Pickleball Association (PPA) and Association of Pickleball Professionals (APP) hold 20 and 30 tournaments every year. The players in professional tournaments are usually with age between 14 years and 35 years.
 
-In addition to North America, the pickleball has also become very popular in Europe. Asian regions including China, Japan, India, Philippines, Singapore, Indonesia, Thailand, Malaysia, Bangladesh, Pakistan, have also begun to popularize and hold big tournaments. As of September 2022, over 50 countries around the world have joined the International Federation of Pickleball (IFP), hosting 12 international competitions. It is believed that in the near future, the Pickleball will become an official event in the Olympic Games and other international events.
+In addition to North America, the pickleball has also become very popular in Europe. Asian regions including China, Japan, India, Philippines, Singapore, Indonesia, Thailand, Malaysia, Bangladesh, Pakistan, have also begun to popularize and hold big tournaments. As of the end of 2022, over 60 countries around the world have joined the International Federation of Pickleball, hosting 12 international competitions. It is believed that in the near future, the Pickleball will become an official event in the Olympic Games and other international events.
 
 In addition, more and more schools have made it a physical education program, with more than 500 schools in New York State alone. In other countries, more and more schools are setting it up as a new course.
