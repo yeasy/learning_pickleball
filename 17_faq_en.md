@@ -73,7 +73,7 @@ In general, the following parameters can be considered when choosing a paddle:
 
 ## [Q8] How do I estimate my level and rating?
 
-**Answer**: The reference rating is as follows.
+**Answer**: A quick rating is as follows. Detailed rating can be found at [USA Pickleball Rating](https://usapickleball.org/tournaments/tournament-player-ratings/player-skill-rating-definitions/).
 
 Rating | Level | Characteristics
 --- | --- | ---
