@@ -84,3 +84,13 @@ Rating | Level | Characteristics
 4.5 | Advanced | Comprehensive and flexible use of techniques; Few unforced errors; Able to return the ball when forced.
 5.0 | Professional | No longer stick to specific skills; Able to control the game rhythm; Naturally control the ball's placement, speed, and rotation.
 5.5+ | Vocational | Build a systematic understanding of pickleball theory and skills; Often win medals in professional tournaments.
+
+## [Q9] How to deal with the ball between two players in doubles?
+
+**Answer**: In double games, there are often situations where two players rush to hit the ball in the middle position together, or let the other side deal with it, resulting in loss of points.
+
+The handling of the middle-position ball requires players to negotiate the principles in advance. Generally speaking, the principles are as follows:
+
+* Let forehand position player handle: The power and angle of the forehand shots tend to be better;
+* Let higher level player handle: Higher level player usually has better stability and force;
+* Let male player handle (in Mixed Double): Male player is usually better in strength and speed, and is usually responsible for 2/3 or more of the courts in mixed doubles.
