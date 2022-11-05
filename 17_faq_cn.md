@@ -74,7 +74,7 @@
 
 ## [Q8] 我该如何评估自己的水平级别呢？
 
-**答**：参考评级如下。
+**答**：快速评级参考如下。更详细的评级指标可以参考 [USA Pickleball Rating](https://usapickleball.org/tournaments/tournament-player-ratings/player-skill-rating-definitions/)。
 
 评分 | 级别 | 特点
 --- | --- | ---
