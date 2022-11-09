@@ -42,9 +42,11 @@ In addition, the area near the net is called the "Non-Volley Zone (NVZ)" or "Kit
 
 Pickleball incorporates the elements of badminton, table tennis and tennis. A group of four players in a regular double game are playing in a not very large court, making it easier to run and play.
 
-Pickleball is quick to start, easy to control, moderate to run (not as high as tennis and badminton for jumping and running), etc. The reasons are: a) the court of pickleball is not large (smaller than tennis court); b) the weight of pickleball is relatively light (only more than 20 grams) and the ball does not bounce a lot; c) the paddle is light in weight and has a large hitting area. Therefore, pickleballs can be played in singles or doubles, indoor and outdoor venues, and are loved by people of different ages.
+Pickleball is quick to start, easy to control, moderate to run (not as high as tennis and badminton for jumping and running), etc. The reasons include: a) the court of pickleball is not large (smaller than tennis court); b) the weight of pickleball is relatively light (only more than 20 grams) and the ball does not bounce a lot; c) the paddle is light in weight and has a large hitting area. Therefore, pickleballs can be played in singles or doubles, indoor and outdoor venues, and are loved by people of different ages.
 
-The overall amount of activity in pickleball is moderate, but it has rich skills. In addition to drive, smash, drop, and slices, there are also volleys and lobs. The competition between the two sides is not only about strength or speed, but also about the control of the ball (which is often more important). In doubles, teamwork is especially critical. In pickleball games, one rally can last to tens of hits, which is quite ornamental.
+![Pickelball is Loved by People of Different Ages](_images/sport-lifecycle.png)
+
+The overall amount of activity in pickleball is moderate, but it has rich skills. In addition to drive, smash, drop, and slices, there are also volleys and lobs. The competition between the two sides is not only about strength or speed, but also about the control of the ball (which is often more important). In doubles, teamwork is especially critical. In pickleball games, one rally can last to tens of hits, which is quite entertaining.
 
 ## Status and Future
 

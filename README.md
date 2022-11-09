@@ -1,8 +1,8 @@
 # Learning Pickleball 打好匹克球
 
-**v0.7.8**
+**v0.7.9**
 
-This book has bilingual versions (English and Chinese). 本书支持中英文双语版本。
+This book has bilingual versions (English and Chinese). 本书提供中英文双语版本。
 
 Pickleball is an emerging sport that is becoming more and more popular all over the world. It combines many appealing features from tennis, badminton, table tennis and other sports. It has the advantages of easy to begin, moderate in movement and interesting for entertainment, which attract more and more enthusiasts.
 
