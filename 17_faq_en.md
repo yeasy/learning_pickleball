@@ -88,10 +88,10 @@ The handling of the middle-position ball requires players to negotiate the princ
 
 This situation may be mainly due to the following reasons.
 
-The first is the lack of effective training. It seems to be playing every day, but there is very little time for scientific training, and even the wrong movements and skills are constantly repeated, resulting in stagnation of the level.
+The first is the **lack of effective training**. It seems to be playing every day, but there is very little time for scientific training, and even the wrong movements and skills are constantly repeated, resulting in stagnation of the level.
 
-The second is the lack of systematic training. When players are at different levels, the focus of training is different. For example, basic skills should be emphasized at the beginner level, strategies should be mastered at the intermediate level, and rhythm should be learned to control at the advanced level. If the training is not systematic, it often seems that you practice hard, but in fact, you will get half the result with twice the effort.
+The second is the **lack of systematic training**. When players are at different levels, the focus of training is different. For example, basic skills should be emphasized at the beginner level, strategies should be mastered at the intermediate level, and rhythm should be learned to control at the advanced level. If the training is not systematic, it often seems that you practice hard, but in fact, you will get half the result with twice the effort.
 
-In addition, the intensity of training is not properly arranged. The essence of civil and military is to relax properly. Excessive training may result in decreased physical fitness and even lead to injury. Therefore, scientific training and physical strengthening, relaxation and recovery outside of training are very important.
+In addition, the **intensity of training is not properly arranged**. The essence of civil and military is to relax properly. Excessive training may result in decreased physical fitness and even lead to injury. Therefore, scientific training and physical strengthening, relaxation and recovery outside of training are very important.
 
-Finally, lack of training your IQ of playing. Practicing hard may build up a whole body of strength and solid skills, but when to use what tricks, when to be fast, and when to slow, these are the places for your IQ of playing. In addition to training, strengthening theoretical study must be taken to achieve rapid progress. 
+Finally, the **lack of training the IQ of playing**. Practicing hard may build up a whole body of strength and solid skills, but when to use what tricks, when to be fast, and when to slow, these are the places for your IQ of playing. In addition to training, strengthening theoretical study must be taken to achieve rapid progress. 
