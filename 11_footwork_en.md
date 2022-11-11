@@ -36,9 +36,17 @@ Typical footwork scenarios in single games include:
 * When the opponent Lobs, retreat to smash the ball quickly, or run to the backcourt;
 * When the opponent gets a good volley opportunity, move back proactively and defend.
 
-## How to Master Footwork
+## Master Footwork
 
-Footwork exercises mainly include two parts, one is waist and leg strength exercises, and the other is footwork dexterity exercises.
+First, you should understand the characteristics of the various footwork and their suitable scenarios, so as to achieve a natural response.
+
+Secondly, if you want to move fast with footwork, you must learn to control and adjust the height of your body's mass center. When the center of mass is high, the body can move fast, but is not stable. Therefore, when moving a long distance, it is necessary to quickly raise the center of mass by starting steps first. When you are ready to hit the ball, adjust the body’s mass center and maintain a stable hitting position.
+
+Finally, you should use the training to improve the leg strength and the torso core strength.
+
+## Training Methods
+
+Footwork trainings mainly include two parts, one is leg and core strength exercises, and the other is footwork dexterity exercises.
 
 * Supporting system exercise: Planks for at least 5 minutes. Do more than 20 push-ups in a row.
 * Squat exercise: squat against the wall and gradually increase the time, which should last more than 10 minutes. The squat should last for more than 3 minutes;

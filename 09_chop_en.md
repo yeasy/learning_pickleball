@@ -24,21 +24,25 @@ Another situation is that when the opponent's return is high in front of the net
 
 The main purpose of chopping the ball is to transition, to slow down the rhythm, or to find opportunities for the next shot.
 
-## How to Master Chop
+## Master Chop
 
 When chopping the ball, try to wrap the ball using the paddle as much as possible, continue to touch the ball, in order to producing more rotation.
 
 When chopping the ball, the body should be in a relaxed state. Move to the forward direction of the ball in advance, turn the waist by kicking the ground, accelerate the arm swing against the ball, and send the ball out.
 
-Slices depend more on hand feel, so special touch practices are required.
+In order to ensure the stability of the chopped ball’s flight, you should maintain stability from the shoulder to the wrist, and swing continuously with the ball in the direction of sending it when hitting the ball.
 
-* Slicing practice: Use the paddle to slice the ball continuously, fall into the designated area, and pay attention to control the height of the trajectory. There should be no less than 50 consecutive slices each time, and no less than 10 sets of exercises should be performed every day.
-* Multi-ball practice: The assistant staff will serve the ball at different speeds and heights, and the players will slice the ball to the designated target area. There should be no less than 50 consecutive slices each time, and no less than 10 sets of exercises should be performed every day.
-
-## How to Defend a Chopped Ball
+## Defend a Chopped Ball
 
 The chopping can generate strong backspin, which makes a long flight path, and the ball’s forward force is small after landing.
 
 Therefore, in order to defend the chopped ball well, it is necessary to reserve more space for hitting the ball compared to the other ways. At the same time, it is necessary to actively use more upward force to avoid dropping the ball to the net.
 
-The simplest way to defend a chopped ball is to return the ball with the same chopping method. You can also return the ball by driving with topspin. In this case, you should pay attention to hitting the ball on a higher trajectory to avoid drop the ball to the net
+The simplest way to defend a chopped ball is to return the ball with the same chopping method. You can also return the ball by driving with topspin. In this case, you should pay attention to hitting the ball on a higher trajectory to avoid drop the ball to the net.
+
+## Training Methods
+
+Chopping has a high requirement for hand sensitivity and can be trained through the following steps.
+
+* Chopping training: Use the paddle to slice the ball continuously, fall into the designated area, and pay attention to control the height of the trajectory. There should be no less than 50 consecutive slices each time, and no less than 10 sets of exercises should be performed every day.
+* Multi-ball training: The assistant staff will serve the ball at different speeds and heights, and the players will slice the ball to the designated target area. There should be no less than 50 consecutive slices each time, and no less than 10 sets of exercises should be performed every day.

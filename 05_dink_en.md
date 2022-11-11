@@ -20,7 +20,7 @@ When the ball from the opponent falls into the NVZ and the opponents are ready t
 
 The first purpose of Dink is to prevent the opponents from having a good attack opportunity. Dink is for defending safely when there is no good opportunity. At the same time try to mobilize the opponent to find an attack opportunity in the rally.
 
-## How to Master Dink
+## Master Dink
 
 A good Dink will not return the ball too far and too high, otherwise the opponent can volley the ball or hit it down to attack.
 
@@ -34,7 +34,7 @@ When dinking for defense, the ball's landing point should be in the first half o
 
 ![Fly trajectory using various spins](_images/spin-trajectory.png)
 
-After mastering the push Dink, you can appropriately add spin to make it more difficult for a high-quality return, including:
+After mastering the basic push Dink, you can appropriately add spin to make it more difficult for a high-quality return, including:
 
 * **Top Spin**: The ball's trajectory will drop sharply before landing, and will move forward quickly after landing, which causes the opponent to return the ball too long and too high. The trajectory of the topspin ball is relatively high, so generally use it in the diagonal direction;
 * **Back Spin**: The ball's trajectory will be longer than expected to squeeze the return space. And the bounce is low with backspin, which make it more difficult to return the ball perfectly;
@@ -42,16 +42,18 @@ After mastering the push Dink, you can appropriately add spin to make it more di
 
 After mastering spins, the player should practice how to Dink with different spins using the same motion.
 
+## Training Methods
+
+Dink has high requirements on hand’s control. To adapt to different rhythms, you can improve Dink through the following training.
+
+* Bouncing practice: Use the paddle to continuously flip the ball, you can control the height of the ball, control the ball to rotate or not, and you can use the forehand and backhand to flip the ball alternately. There should be no less than 100 consecutive strokes at a time, and no less than 5 sets of exercises should be carried out every day.
+* Multi-ball practice: The assistant staff hits the ball into the NVZ, and the player Dinks the ball into the designated target area, and the ball does not go too high over the net. There should be no less than 50 consecutive Dinks each time, and no less than 10 sets of exercises per day. Practice the straight ball first, and then practice the cross-court ball after that.
+* Dynamic practice: The assistant staff and players move horizontally along the net while dinking the ball.
+* Dink and Attack practice: Try to attack during Dink when there’s an opportunity, and reset the opponent’s attack into Dink.
+
 When doing Dink training, keep in mind:
 
 * Keep patient when there's no good attack opportunity, keep watching the opponents position and movement;
 * The body can move and sway with the ball, move ahead of the ball's direction. And the center of body should remain stable when hitting the ball;
 * Hit the ball in front of you, hit ball from the front of the ball, and hit the ball when exhale;
 * The wrist should be fixed. Use the body and shoulder to drive the arm to exert force.
-
-Dink relies a lot on hands sensitivity, so special touch practices are required.
-
-* Bouncing practice: Use the paddle to continuously flip the ball, you can control the height of the ball, control the ball to rotate or not, and you can use the forehand and backhand to flip the ball alternately. There should be no less than 100 consecutive strokes at a time, and no less than 5 sets of exercises should be carried out every day.
-* Multi-ball practice: The assistant staff hits the ball into the NVZ, and the player Dinks the ball into the designated target area, and the ball does not go too high over the net. There should be no less than 50 consecutive Dinks each time, and no less than 10 sets of exercises per day. Practice the straight ball first, and then practice the cross-court ball after that.
-* Dynamic practice: The assistant staff and players move horizontally along the net while dinking the ball.
-* Dink and Attack practice: Try to attack during Dink when there’s an opportunity, and reset the opponent’s attack into Dink.

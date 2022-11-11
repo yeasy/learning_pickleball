@@ -20,7 +20,7 @@ When the opponent at the back court returns the ball too far or too high to crea
 
 When the opponent dinks the ball from near the net, but the returned ball is too far or too high, you can volley to try attacking the opponents to create score opportunities, too.
 
-## How to Master Volley
+## Master Volley
 
 First need to move to an appropriate position. Move to the direction of the ball in time by predicting the trajectory of the ball. The volley timing should be earlier than the hitting the ball after it bounces. When the opponent hits a high ball to the back court, you need to turn to your forehand side and move back quickly.
 
@@ -32,14 +32,7 @@ When volleying a high ball (especially from overhead), you should prepare the po
 
 In order to volley near the net quickly, keep the arm steady and only use small movements (wrist or fingers) to generate power by tightening the fingers to hold the paddle from relax status. Try to keep the ball fly down after passing the net, and try to target the place far from the opponent.
 
-You can master the volley technique through the following trainings:
-
-* Practice volleys with swing paddle movements, 50 sets per set, 10 sets per day;
-* Hit the wall with volley by 50 consecutive forehands, 50 consecutive backhands, 50 alternate forehands and backhands. Practice 10 sets a day.
-* Multiple Ball practice: the assistant player continuously sends out balls of different heights, and the trainer volleys them to a given position.
-* Return practice: both players continue to volley in the air so that the ball does not fall to the ground. The distance between the two sides can be adjusted dynamically. The players can move along the net at the same time, too.
-
-## How to Defend a Volley
+## Defend a Volley
 
 The key to defend a volley is moving quickly to the front of the ball's landing position.
 
@@ -50,3 +43,12 @@ When the opponent's ball is closer to your body, you can try to volley the ball 
 When the opponent's ball is far away from your body, you can wait for the ball to bounce from the ground before hitting the ball. You can drop the ball or drive the ball. When the ball comes very quickly, use its own force mainly to let the ball fall over the net and be careful not to drop it too long.
 
 After the defense, move forward with the ball to the net as quickly as possible. When your return is good, you can move directly to the net and prepare to enter the Dink stage. Otherwise, move to the middle court for transition and prepare a second attempt to go to the net. 
+
+## Training Methods
+
+You can master the volley attack and defense techniques through the following trainings:
+
+* Practice volleys with swing paddle movements, 50 sets per set, 10 sets per day;
+* Hit the wall with volley by 50 consecutive forehands, 50 consecutive backhands, 50 alternate forehands and backhands. Practice 10 sets a day.
+* Multiple Ball practice: the assistant player continuously sends out balls of different heights, and the trainer volleys them to a given position.
+* Return practice: both players continue to volley in the air so that the ball does not fall to the ground. The distance between the two sides can be adjusted dynamically. The players can move along the net at the same time, too.

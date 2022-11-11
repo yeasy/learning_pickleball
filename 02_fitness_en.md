@@ -2,13 +2,13 @@
 
 The secret to being able to play pickleball for a long time is to warm up well before playing and relax properly after it. At the same time, good physical fitness is a prerequisite for advanced-level competition.
 
-Therefore, both amateurs and professional athletes should pay attention to warm-up, relaxation and physical training.
+Therefore, both amateurs and professional athletes should pay attention to warm-up, relaxation, and physical training.
 
-## How to Warm Up
+## Warm Up
 
 The purpose of a warm-up is to activate the body's joints and associated muscles to avoid injury from sudden stress.
 
-The warm up should be done in the order from the whole to the part, from the large joint to the small joint.
+The warmup should be done in the order from the whole to the part, from the large joint to the small joint.
 
 * Activate waist by bending to front, back and side;
 * Activate shoulders and arms by moving up, down, and to the side;
@@ -16,7 +16,7 @@ The warm up should be done in the order from the whole to the part, from the lar
 * Activate wrist and ankle joints;
 * Jogging and jumping exercises.
 
-## How to Relax
+## Relax
 
 During intense exercise, muscle tissue undergoes a rapid contraction and relaxation process, which may cause the originally neatly arranged muscle fibers to cross and bend.
 

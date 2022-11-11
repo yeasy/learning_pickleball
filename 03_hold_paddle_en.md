@@ -4,7 +4,7 @@ Holding the paddle to hit the ball with power correctly is the most fundamental 
 
 Using a wrong way of holding paddle or generating force will restrict the improvement of the player's level and easily bring injuries.
 
-## Holding Paddle
+## Hold Paddle
 
 The pickleball paddle handle can divide into 8 side faces, as shown in the figure below. According to the position that the purlicue (the area between the thumb and index finger) touches the paddle handle, there are four major paddle holding styles: **Continental style** (also called neutral style), **Eastern style**, **Semi-western style**, and **Western style**.
 
@@ -25,7 +25,7 @@ When using the forehand to do drive or drop, you can switch to Eastern style by 
 
 When using the backhand, the thumb can be placed on the position 7 to assist with more power and to keep the paddle stable.
 
-## Hitting the Ball
+## Hit the Ball
 
 Players should keep their body facing the incoming ball at all times, and place the paddle in front of their chest (the head of the paddle can be pointed straight up ahead or slightly to the backhand), be ready to hit the ball.
 
@@ -37,7 +37,7 @@ In order to learn how to hit the ball accurately, always pay attention to the in
 
 From practices, the players should be able to feel and understand how to use appropriate power, speed, placement and spin when hitting the ball.
 
-## How to Use Power
+## Use Power
 
 The source of power in most ball games comes from the legs, instead of arm. This may be unexpected to many people, but if you try to hit the ball in the skating rink, you can feel it's hard to hit the ball with any power.
 

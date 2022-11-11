@@ -26,20 +26,22 @@ Consider using Spin in the following scenarios:
 
 Pay attention that when adding spin to the ball, because part of the energy turns into the rotation instead of flight speed, the ball usually flies slower than normal. Therefore, when you want to let the ball move very quickly, try to use as little spin as possible.
 
-## How to Master Spin
+## Master Spin
 
 The spin of a pickleball is hardly produced by only rubbing it using the paddle surface, but rather by hitting the different positions of the ball and pushing the ball around. Therefore, when using the spin to control the trajectory of the ball, it is important to focus on hitting the ball mainly, and cooperate with a following push. Remember to hit first then rotate the ball.
 
-There are several ways to practice spin, and you need to feel the different spins caused by hitting different positions of the ball:
-
-* Bounce the ball to create Spin: let the ball bounce on the paddle, and make different spins when cutting the ball in different directions;
-* Serve to create Spin: hit different positions of the ball, send the ball with different spins, and observe the trajectory after it bounces from the ground;
-* Return to create Spin: hit the coming ball at different positions, return the ball with different spins, and observe its flight trajectory.
-
-## How to Handle Spinning Balls
+## Handle Spinning Balls
 
 To handle the spinning ball well, you must first understand the impact of different spins on the ball's flight path and behavior after landing, and move proactively to have a solid hit. For example, if the opponent hits a topspin ball, the return position should be more forward, and at the same time, the surface of the paddle should not be too high. Conversely, you can also consider taking the initiative to use the power of the opponent's topspin to hit the ball.
 
 In addition, to weaken the effect of spin, the simplest principle is to hit the ball in the same way as the player that creates the spin. For example, try to hit the bottom of the ball to catch a back spinning ball, and hit the ball up to avoid drop down to the net. If you use the drive to return the backs spinning ball, the pushing up more sufficiently than returning a non-spinning ball.
 
 Finally, you can hit the ball faster, to reduce the contact time between the ball and the paddle, which also reduces the impact of spin. 
+
+## Training Methods
+
+There are several ways to practice to master and handle spin, and pay attention to understand the different spins caused by hitting different positions of the ball:
+
+* Bounce the ball to create Spin: let the ball bounce on the paddle, and make different spins when cutting the ball in different directions;
+* Serve to create Spin: hit different positions of the ball, send the ball with different spins, and observe the trajectory after it bounces from the ground;
+* Return to create Spin: hit the coming ball at different positions, return the ball with different spins, and observe its flight trajectory.
