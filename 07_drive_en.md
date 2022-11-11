@@ -22,7 +22,7 @@ When the ball bounces high, and the opponent does not form an effective near-net
 
 The first purpose of driving the ball is to mobilize the opponent, or make the opponent to return the ball in a hurry, so as to score a point or form a chance for the next shot.
 
-## Select attack target
+## Select Attack Targets
 
 When the ball is targeted to various positions, the challenge will be different to return it, as shown in the figure below.
 
