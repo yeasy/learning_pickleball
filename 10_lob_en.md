@@ -24,7 +24,7 @@ Lobing the ball can save you from passive to proactive. At the same time, it can
 
 After lobing the ball, move to the net in time and prepare to attack when the opponent returns the ball too high.
 
-## How to Master the Lob
+## Master the Lob
 
 The core point of lobing the ball is to keep the ball’s trajectory higher than the opponent's top after jump to avoid the opponent volleying in the air. Therefore, the parabolic high point of the Lob ball should be close to the opponent's middle court, so that the ball falls vertically near the baseline and does not go out.
 
@@ -36,12 +36,15 @@ When lobbing the ball, keep in mind:
 
 When the opponent lobs the ball, you should first quickly judge whether you can jump and volley the ball back. If not, you should quickly run to the position the ball is flying to. Wait for the ball to land and bounce, and then hit it back. Usually use Drop or Lob to return the ball in this situation.
 
-Lobing the ball can be practiced in several ways:
-
-* Multi-ball practice: repeatedly Lob the ball to correct the trajectory and landing point;
-* Ball feeding practice: The assistant player gives balls in different positions to carry out the lobing training.
-
-## How to Defend a Lob
+## Defend a Lob
 When the opponent lobs the ball, you should first quickly judge whether you can jump and volley the ball back. If you can, use the power from wrist turning and finger tightening to press the ball down, targeting the opponent feet or far space.
 
-If not, you should quickly turn to the forehand side, and run back to the position the ball is flying to. Wait for the ball to land and bounce, and then hit it back. Usually you can use Drop to return the ball in this situation, and run to the net following the ball
+If not, you should quickly turn to the forehand side, and run back to the position the ball is flying to. Wait for the ball to land and bounce, and then hit it back. Usually you can use Drop to return the ball in this situation, and run to the net following the ball.
+
+## Training Methods
+
+Lobing the ball and its defense can be trained in following ways:
+
+* Multi-ball practice: Repeatedly Lob the ball to correct the trajectory and landing point;
+* Ball feeding practice: One party does the lobing training and the other party does the return training.
+
