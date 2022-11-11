@@ -34,7 +34,7 @@ When the ball is targeted to various positions, the challenge will be different 
 
 When attacking, you should try to target the green area first, and follow up to prepare to attack again when the opponent's return is poor.
 
-## How to Master Drive
+## Master Drive
 
 The most important thing in driving the ball is to hit the ball in front of you, to hit the ball with a stable body, and to hit the ball when the ball is near the top of its trajectory. Another thing is to take advantage of the whip, and release the whole body's power into turning the waist through the stable hitting surface formed by the hand.
 
@@ -45,6 +45,8 @@ The backhand is basically symmetrical with the forehand. Try to hit with one han
 In double games, the Drive can generally target the space between players, or the gap of defense. When the opponent's defensive ability is weak, you can also deliberately hit the ball to the body (such as the shoulder of the holding paddle side), causing the opponent to make mistakes.
 
 In single games, the Drive should mainly aim at the opponent's defense gap, and the gesture should be as small as possible, in order to prevent the opponent from predicting easily.
+
+## Training Methods
 
 The Drive can be trained through the following steps:
 

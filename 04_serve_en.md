@@ -32,8 +32,6 @@ Because the surface of pickleball is smooth, the serve should generally use more
 
 You can learn how to master serve quickly with multiple balls training. The goal is to serve continuously to the designated location. Practice no less than 10 groups with 50 balls per group every day.
 
-Once you are proficient with no-spin serving, you can practice serving with different spins with the same motion.
-
 ## Return the Ball
 When preparing to return the ball, keep enough space for hitting the ball. It is advisable to stay at a step back from the bottom line. The body and the racquet should face the direction of the coming ball.
 
@@ -41,14 +39,17 @@ When returning the serve, players should follow the flying ball to go to the net
 
 ![Return in Double Games](_images/double-return.png)
 
-The return can use a hitting action, or a chopping action. When you want to have more time to run to the net, you can return the ball high and let it fall to the opponent's backcourt.
-
 In single games, you can return the ball to the area far from the opponent's feet more often, in order to let the opponent move more in distance.
 
 In double games, the ball can be returned to the space between the two opponent players (may be slightly near to the receiver's backhand), to increase the difficulty to return the ball. If the skill level of the opponent's two players is quite different, you can choose to return the ball to the weaker player.
 
 ## Master the Return
 
-The return skill can be learned with multiple balls training. Try to continuously return the ball to the designated area. Practice no less than 10 groups with 50 balls per group every day.
+The key to returning the ball is to try to make it difficult for the opponent to hit the third shot, and at the same time to provide enough time to run to the net. Therefore, pay attention to returning the ball to the base line as much as possible, but not out of bounds.
 
-After you are proficient, you can practice returning the serve with different spins.
+The return can use a hitting action, or a chopping action. When you want to have more time to run to the net, you can return the ball high and let it fall to the opponent's backcourt.
+
+## Training Methods
+The serve and return skill can be trained with multiple balls practice. Try to continuously return the ball to the designated area. Practice no less than 10 groups with 50 balls per group every day.
+
+After you are proficient, you can practice serving different spins with the same movement, and returning the ball of different spins.
