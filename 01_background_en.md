@@ -44,13 +44,13 @@ Pickleball incorporates the elements of badminton, table tennis and tennis. A gr
 
 Pickleball is quick to start, easy to control, moderate to run (not as high as tennis and badminton for jumping and running), etc. The reasons include: a) the court of pickleball is not large (smaller than tennis court); b) the weight of pickleball is relatively light (only more than 20 grams) and the ball does not bounce a lot; c) the paddle is light in weight and has a large hitting area. Therefore, pickleballs can be played in singles or doubles, indoor and outdoor venues, and are loved by people of different ages.
 
-![Pickelball is Loved by People of Different Ages](_images/sport-lifecycle.png)
+![Pickelball is Loved by People of All Ages](_images/sport-lifecycle.png)
 
 The overall amount of activity in pickleball is moderate, but it has rich skills. In addition to drive, smash, drop, and slices, there are also volleys and lobs. The competition between the two sides is not only about strength or speed, but also about the control of the ball (which is often more important). In doubles, teamwork is especially critical. In pickleball games, one rally can last to tens of hits, which is quite entertaining.
 
 ## Status and Future
 
-According to the USA Pickleball Association (USAPA), there are currently more than 5 million pickleball players in the United States (In comparison, tennis players are less than 20 million, badminton players are less than 1.5 million, and pingpong players are less than 1 million), and the number is growing at a rate of more than 20% per year. The Professional Pickleball Association (PPA) and Association of Pickleball Professionals (APP) hold 20 and 30 tournaments every year. The players in professional tournaments are usually with age between 14 years and 35 years.
+According to the USA Pickleball Association (USAPA), there are currently more than 5 million pickleball players in the United States (In comparison, tennis players are less than 20 million, badminton players are less than 1.5 million, and ping pong players are less than 1 million), and the number is growing at a rate of more than 20% per year. It is predicted that there will be around 40 million players in the year 2030. The Professional Pickleball Association (PPA) and Association of Pickleball Professionals (APP) hold 20 and 30 tournaments every year. The players in professional tournaments are usually with age between 14 years and 35 years.
 
 In addition to North America, the pickleball has also become very popular in Europe. Asian regions including China, Japan, India, Philippines, Singapore, Indonesia, Thailand, Malaysia, Bangladesh, Pakistan, have also begun to popularize and hold big tournaments. As of the end of 2022, over 60 countries around the world have joined the International Federation of Pickleball, hosting 12 international competitions. It is believed that in the near future, the Pickleball will become an official event in the Olympic Games and other international events.
 
