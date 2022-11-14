@@ -4,9 +4,9 @@ Volley is the most common attacking method for pickleball. The players often nee
 
 ## What is Volley
 
-Volley refers to the action of hitting the ball during the flight of the ball before the ball hits the ground. Usually, a volleyed ball is very quick, and the opponent will feel difficult to return it appropriately in such a short time.
+Volley refers to the action of hitting the ball during the flight of the ball before the ball hits the ground. Usually, a volleyed ball is very quick, and the opponent will feel difficult to return it appropriately in such a short time. In professional tournaments, players need to react and complete the shot within 1/4 of a second when volleying and attacking each other in front of the net.
 
-Generally, according to the location of the volley, it can be divided into **Backcourt Volley**, **Mid-court Volley**, and **Near-net Volley**.
+Generally, according to the location of the volley, there are **Backcourt Volley**, **Mid-court Volley**, and **Near-net Volley**.
 
 * **Backcourt Volley**: If the opponents return a high ball in the backcourt, you can volley it to force the opponent to retreat into the backcourt.
 * **Mid-court Volley**: The mid-court volley is mostly when you are going to the net after the third shot, and the opponent returns a long ball. In this situation, you should hit the ball very softly using its own power, let the ball drop to the opponent's NVZ shortly, and go to the net quickly at the same time.
