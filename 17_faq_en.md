@@ -46,7 +46,7 @@ Lastly is the acceleration. Top athletes can control the tempo of the game. When
 
 To sum up, the most important thing is to be able to control the opponent's return path and the rhythm of the game, and these require solid skills and excellent physical quality.
 
-## [Q5] It is often heard that pickleball has some features of tennis, badminton and tabletennis. What are them?
+## [Q5] It is often heard that pickleball has some features of tennis, badminton and table tennis. What are them?
 
 **Answer**: Sports are essentially similar with each other. Ball games are all about power (both explosive and stamina), speed, spin and placement. However, different sports differ in form and focus.
 
@@ -54,16 +54,18 @@ Tennis has the highest requirements for strength, just like the broadsword, emph
 
 ## [Q6] What are the key differences between amateur players and professional players?
 
-**Answer**: The first is **consistency**. For the same drop shot, an amateur player may make one mistake every ten times, while a professional player may make one mistake every one hundred times. Overall, the unforced error rate of amateur players is much higher.
+**Answer**: There are several key differences.
+
+The first is **consistency**. Professional players can control the ball more stably. For the same drop shot, an amateur player may make one mistake every ten times, while a professional player may make one mistake every one hundred times. Overall, the unforced error rate of amateur players is much higher.
 
 Second is the **speed**. When the pace of the game is slow, amateurs and professional players seem to perform similar; but when the pace increases, amateurs often can't keep up, and turnovers increase.
 
-Another is the **gaming consciousness**. How to deal with the opponent's ball? Should I return a long ball or a short ball? Fast ball or slow ball? Where should I run after returning the ball? What is the other party's next intention? Amateur players usually don't think about these during the playing, while for professional players, these are often natural ideas, and they will choose the most favorable strategy for their own team and the most uncomfortable for the opponents.
+Another is the **gaming consciousness**. How to deal with the opponent's ball? Should I return a long ball or a short ball? Speed up or slow down? Where should I run after returning the ball? What is the other party's next intention? Amateur players usually don't think about these during the playing, while for professional players, these are as natural as breath. They will always choose the most favorable strategy for their own team and the most uncomfortable for the opponents.
 
-## [Q7] How do I choose a paddle?
-**Answer**: The combined length and width of a pickleball paddle cannot exceed 24 inches (60.96 cm), of which the length cannot exceed 17 inches (43.18 cm). There is no limit to the thickness and weight of the paddle.
+## [Q7] How to choose a suitable paddle?
+**Answer**: According to the rules, the combined length and width of a pickleball paddle cannot exceed 24 inches (60.96 cm), of which the length cannot exceed 17 inches (43.18 cm). There is no limit to the thickness and weight of the paddle.
 
-In general, the following parameters can be considered when choosing a paddle:
+In general, no paddle fits everyone. The following parameters can be considered based on your level:
 
 * **Sweet spot**: The larger the sweet spot, the better the fault tolerance, but it often means that the paddle surface is larger, and the swing is slower. The ratio of the sweet spot to the paddle surface is an important indicator to the paddle’s technical quality. Beginners are recommended to choose a paddle with a higher proportion of the sweet spot.
 * **Weight**: The heavier the paddle, the more it can avoid the vibration caused by hitting the ball, but the swing will be harder, which requires a better power. For beginners, it is recommended to consider paddles up to 8 oz (227 g) unless you have an excellent strength.
@@ -88,10 +90,10 @@ The handling of the middle-position ball requires players to negotiate the princ
 
 This situation may be mainly due to the following reasons.
 
-The first is the **lack of effective training**. It seems to be playing every day, but there is very little time for scientific training, and even the wrong movements and skills are constantly repeated, resulting in stagnation of the level.
+The first is the **lack of effective training**. It seems to be playing every day, but there is very little time for scientific training, and even the wrong movements and skills are constantly repeated, resulting in stagnation of the level. Once bad habits are established, it will be difficult to correct.
 
 The second is the **lack of systematic training**. When players are at different levels, the focus of training is different. For example, basic skills should be emphasized at the beginner level, strategies should be mastered at the intermediate level, and rhythm should be learned to control at the advanced level. In addition, different players have different characteristics and weaknesses. If the training is not systematic, it often seems that you practice hard, but in fact, you will get half the result with twice the effort.
 
-In addition, the **intensity of training is not properly arranged**. The essence of efficiency is to train and rest properly. Excessive training may result in decreased physical fitness and even lead to injury. Therefore, scientific training and physical strengthening, relaxation and recovery outside of training are very important.
+In addition, the **intensity of training is not properly arranged**. The essence of efficiency is to alternate training with rest properly. Excessive training may result in decreased physical fitness and even lead to injury. Therefore, scientific training and physical strengthening, relaxation and recovery outside of training are very important.
 
-Finally, the **lack of training the IQ of playing**. Practicing hard may build up a good strength and solid skills, but when to use what tricks, when to be fast, and when to slow, these are the places for your IQ of playing. In addition to training, strengthening theoretical study must be taken to achieve a comprehensive improvement. 
+Finally, the **lack of training the IQ of playing**. Practicing hard may build up a good strength and solid skills, but when to use what tricks, when to speed up, and when to slow down, these are the places for your IQ of playing. In addition to training, strengthening theoretical study must be taken to achieve a comprehensive improvement. 
