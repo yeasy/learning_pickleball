@@ -32,13 +32,13 @@ When pushing the ball, you should keep your wrist relatively fixed, stabilize th
 
 When dinking for defense, the ball's landing point should be in the first half of the NVZ to avoid the opponent's attack; in order to mobilize the opponent, the ball can also be placed near the NVZ line (e.g, the side corners) or to the opponent's feet.
 
-![Fly trajectory using various spins](_images/spin-trajectory.png)
-
 After mastering the basic push Dink, you can appropriately add spin to make it more difficult for a high-quality return, including:
 
 * **Top Spin**: The ball's trajectory will drop sharply before landing, and will move forward quickly after landing, which causes the opponent to return the ball too long and too high. The trajectory of the topspin ball is relatively high, so generally use it in the diagonal direction;
 * **Back Spin**: The ball's trajectory will be longer than expected to squeeze the return space. And the bounce is low with backspin, which make it more difficult to return the ball perfectly;
 * **Side Spin**: The trajectory will have a side angle, which makes it more difficult to control the route when returning the ball.
+
+![Fly trajectory using various spins](_images/spin-trajectory.png)
 
 After mastering spins, the player should practice how to Dink with different spins using the same motion.
 
