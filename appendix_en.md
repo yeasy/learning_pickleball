@@ -2,13 +2,13 @@
 
 ## Rating and Levels
 
-A quick rating is as follows. Detailed rating can be found at [USA Pickleball Rating](https://usapickleball.org/tournaments/tournament-player-ratings/player-skill-rating-definitions/).
+A quick rating is as follows. Detailed rating can be found at [USA Pickleball Rating](https://usapickleball.org/tournaments/tournament-player-ratings/player-skill-rating-definitions/), or get the DUPR rating based on tournaments.
 
-Rating | Level | Characteristics
+Rating | Level | Definition
 --- | --- | ---
 2.5 | Beginner | Can serve to the court; Return the ball but often with low quality; Occasionally have good quality returns.
 3.0 | Advanced Beginner | Knows the basic rules; Knows the importance of moving to the net and the third shot, but makes mistakes sometimes; Moves slowly and doesn't guarantee a reasonable move.
-3.5 | Intermediate | Master basic skills to certain degree; Can hit a relatively stable Dink ball and Drop shot; Move quickly and master basic footwork; Begin to recognize one's own inadequacies.
+3.5 | Intermediate | Master basic skills to certain degree; Can hit Dink and Drop shot in good quality consistently; Move quickly and master basic footwork; Begin to recognize one's own inadequacies.
 4.0 | Advanced Intermediate | Master basic skills solidly; Master the variation of rotation and placement, and can hit different shots with the same action; Can attack during Dink and reset the opponent’s attack; Observe other players during the game and adjust strategies in real time.
 4.5 | Advanced | Comprehensive and flexible use of techniques; Few unforced errors; Able to return the ball when forced.
 5.0 | Professional | No longer stick to specific skills; Able to control the game rhythm; Naturally control the ball's placement, speed, and rotation.
