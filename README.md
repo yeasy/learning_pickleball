@@ -1,6 +1,6 @@
 # Learning Pickleball 打好匹克球
 
-**v0.8.3**
+**v0.8.4**
 
 This book has bilingual versions (English and Chinese). 本书提供中英文双语版本。
 
@@ -21,7 +21,7 @@ Each chapter is focused on a specific topic, players can learn them in order. Ea
 
 匹克球的技术和打法仍在探索发展。部分爱好者由于动作不正确，造成身体伤痛。本书将介绍如何科学地学习匹克球，最终进阶到高级竞技水平。希望每位读者都可以强健体魄，避免伤痛，从运动中领略更多的乐趣。
 
-本书不侧重介绍匹克球的具体比赛规则，读者可以另行参考[官方规则说明](https://usapickleball.org/what-is-pickleball/how-to-play/basics/rules-summary/)。
+本书不侧重介绍匹克球的具体比赛规则，读者可以另行参考 [官方规则说明](https://usapickleball.org/what-is-pickleball/how-to-play/basics/rules-summary/)。
 
 每章围绕一项特定技术，学习者可以按照顺序依次训练。掌握每项技术可能需要几周时间。最后一章总结了[常见的问题和解答](17_faq_cn.md)。
 
