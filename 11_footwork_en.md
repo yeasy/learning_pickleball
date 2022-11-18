@@ -52,6 +52,7 @@ Footwork trainings mainly include two parts, one is leg and core strength exerci
 * Squat exercise: squat against the wall and gradually increase the time, which should last more than 10 minutes. The squat should last for more than 3 minutes;
 * Burpee jump training: 50 jumps training, 3 sets per day;
 * Running practice: jog in the front, back, left and right directions, experience how to move quickly in different directions, and pay attention to relax your body. 1 minute in each direction;
+* Cross-step and turn around practice: Run left and right using cross-step to learn how to turn around quickly. 10 reps per set, 3 sets per day;
 * 8 points running practice: Run 8 points around the court side in sequence, 10 runs per group, 3 groups per day.
 
 ![8-points Footwork Training](_images/footwork.png)
