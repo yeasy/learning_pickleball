@@ -63,7 +63,7 @@ Second is the **speed**. When the pace of the game is slow, amateurs and profess
 Another is the **gaming consciousness**. How to deal with the opponent's ball? Should I return a long ball or a short ball? Speed up or slow down? Where should I run after returning the ball? What is the other party's next intention? Amateur players usually don't think about these during the playing, while for professional players, these are as natural as breath. They will always choose the most favorable strategy for their own team and the most uncomfortable for the opponents.
 
 ## [Q7] How to choose a suitable paddle?
-**Answer**: According to the rules, the combined length and width of a pickleball paddle cannot exceed 24 inches (60.96 cm), of which the length cannot exceed 17 inches (43.18 cm). There is no limit to the thickness and weight of the paddle, but the common thickness range is 10~16 mm, and weight range is 7~9 oz.
+**Answer**: According to the rules, the combined length and width of a pickleball paddle cannot exceed 24 inches (60.96 cm), of which the length cannot exceed 17 inches (43.18 cm). There is no limit to the thickness and weight of the paddle, but the common thickness range is 10 ~ 16 mm, and weight range is 7 ~ 9 oz.
 
 In general, no paddle fits everyone. The following parameters can be considered based on your level:
 
