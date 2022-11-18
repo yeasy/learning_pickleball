@@ -1,6 +1,6 @@
 # Learning Pickleball 打好匹克球
 
-**v0.8.6**
+**v0.8.7**
 
 This book has bilingual versions (English and Chinese). 本书提供中英文双语版本。
 
