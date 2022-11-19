@@ -16,7 +16,7 @@ Rating | Level | Definition
 
 ## Glossary
 
-* **Around the Post**: ATP, the player hits the ball from outside of the court (left side or right side), and let the ball land into the opponent court around the net post (not above the net).
+* **Around The Post**: ATP, the player hits the ball from outside of the court (left side or right side), and let the ball land into the opponent court around the net post (not above the net).
 * **Double-Bounce Rule**: The player serves the ball, the opponent must wait for the ball to bounce before returning the ball (first bounce), and the receiver must wait for the ball to bounce again before returning the ball (second bounce).
 * **Erne**: Hit (usually volley) a ball by jumping around the Non-Volley Zone to the side of it.
 * **Fault**: Violation of rules and results the end of the rally.
