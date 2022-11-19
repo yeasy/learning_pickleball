@@ -1,6 +1,6 @@
 # Key Tips
 
-Advanced pickleball requires mastering various skills comprehensively through scientific trainings, and use the combination of those skills effectively.
+To play pickleball well, you first need to learn various skills comprehensively through a scientific training and master basic skills solidly. If you want to achieve excellent results in the tournament, you need to master more professional skills and apply them flexibly in the competition. These skills have higher requirements on players' physical strength, consciousness judgment, reaction speed and hand sensitivity.
 
 ## Practices
 
