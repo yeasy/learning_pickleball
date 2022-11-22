@@ -26,6 +26,8 @@ A good Dink will not return the ball too far and too high, otherwise the opponen
 
 Before hitting the ball, you should stand close to the NVZ line, lower the body and hit the ball softly to let it pass the net and drop downward in a low position.
 
+![Dink Ball Should Pass Net in a Low Trajectory](_images/dink-low.png)
+
 There are several ways to hit the Dink, the easiest and most efficient way is to push the ball.
 
 When pushing the ball, you should keep your wrist relatively fixed, stabilize the paddle surface, and send the ball from the forearm directly without swinging the arm, so that the ball falls to the target landing point. In order to stabilize the ball's trajectory, the paddle should continue to follow the ball's movement for about a foot after hitting the ball. The ball should be pushed mainly with hit, do not deliberately create spin.
@@ -38,7 +40,7 @@ After mastering the basic push Dink, you can appropriately add spin to make it m
 * **Back Spin**: The ball's trajectory will be longer than expected to squeeze the return space. And the bounce is low with backspin, which make it more difficult to return the ball perfectly;
 * **Side Spin**: The trajectory will have a side angle, which makes it more difficult to control the route when returning the ball.
 
-![Fly trajectory using various spins](_images/spin-trajectory.png)
+![Trajectories Using Various Spins](_images/spin-trajectory.png)
 
 After mastering spins, the player should practice how to Dink with different spins using the same motion.
 
