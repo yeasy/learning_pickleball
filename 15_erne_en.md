@@ -8,13 +8,13 @@ According to the rules, players cannot touch the non-volley zone before and afte
 
 When the opponent player is dinking the ball, if the ball passes the net high and close to the sideline, then you can consider block the ball using Erne and quickly hit it to the opponent's feet.
 
-As shown in the picture below, player A1 hits an Erne shot.
+As shown in the picture below, the player hits an Erne shot.
 
-![Erne Shot](_images/erne.png)
+![Erne Shot](_images/erne-shot.png)
 
 ## Hit Erne Shot
 
-The erne Erne must be sudden, so as to cause a greater threat to the opponent.
+The Erne shot must be sudden, so as to cause a greater threat to the opponent.
 
 Key points for hitting a high-quality erne include:
 
@@ -24,6 +24,8 @@ Key points for hitting a high-quality erne include:
 * The main target of Erne is the opposite player's feet in a straight line, and secondly, you can hit the ball with a large angle;
 * After the Erne is completed, the player should return to the court as soon as possible;
 * When one player hits an Erne shot, his teammates should move to the center to fill the space left, and prepare to attack the opponent's returned ball.
+
+![Erne Shot Targets](_images/erne-target.png)
 
 ## How to Defend
 
