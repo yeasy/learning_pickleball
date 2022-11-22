@@ -37,11 +37,14 @@ When lobbing the ball, keep in mind:
 When the opponent lobs the ball, you should first quickly judge whether you can jump and volley the ball back. If not, you should quickly run to the position the ball is flying to. Wait for the ball to land and bounce, and then hit it back. Usually use Drop or Lob to return the ball in this situation.
 
 ## Defend a Lob
+
 When the opponent lobs the ball, you should first quickly judge whether you can jump and volley the ball back. If you can, jump up quickly, and use the power from wrist turning and finger tightening to hit the ball down, targeting the opponent feet or empty space.
 
 If not, you should quickly turn to the forehand side, and run back to the position the ball is flying to. Wait for the ball to land and bounce, and then hit it back. Usually you can use Drop to return the ball in this situation, and run to the net following the ball.
 
-Pay attention to kicking the ground directly when turning around, and do not step forward with the non-paddle-holding side foot first, otherwise it is easy to touch the non-volley area and lose the point. This is also common in professional tournaments.
+Pay attention to kicking the ground directly when turning around, and do not step forward with the non-paddle-holding side foot first, otherwise it is easy to touch the non-volley area and lose the point. This is also common in professional tournaments, as shown below.
+
+![Foot at Non-paddle Side Touches the NVZ when Jumping to Attack Lob](_images/foot-fault.png)
 
 ## Training Methods
 
