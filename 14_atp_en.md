@@ -8,9 +8,9 @@ Around The Post (ATP) is a common technique in professional tournaments, which r
 
 When the opponent player dinks a ball with a large angle, it is difficult for one's own side to hit back a high-quality dink. At this point, you can consider hitting the ball using ATP.
 
-As shown in the picture below, player A1 hits the ball using ATP.
+As shown in the picture below, the player returns the ball using ATP.
 
-![Around The Post Shot](_images/atp.png)
+![Around The Post Shot](_images/atp-shot.png)
 
 ## How to Hit
 
@@ -22,6 +22,8 @@ Important tips for playing a high quality ATP shot include:
 * The timing of hitting the ball should be as late as possible, wait for the ball to drop near the ground before hitting it, and avoid hitting the ball at a high point. This is different from other regular scenarios. The lower the shot, the lower the flight trajectory of the ball, and the harder it is for the opponent to defend;
 * The main target of hitting the ball should be the opponent's backcourt, so that you can try to bypass the opponent's body and avoid the opponent's defense;
 * After hitting the ball, return to the court as soon as possible.
+
+![Around The Post's Target](_images/atp-target.png)
 
 ## How to Defend
 
