@@ -16,7 +16,7 @@ Dink is often used in doubles events. According to the target area, it can be ro
 
 ## When to Use Dink
 
-When the ball from the opponent falls into the NVZ and the opponents are ready to stay near the net, usually use the Dink ball to return to avoid giving a good attack opportunity to the opponents.
+When the ball from the opponent falls into the NVZ and the opponents are ready to stay near the net, usually use the Dink ball to return to avoid giving a good attack opportunity to the opponents. When the opponent returns the ball long but not easy to attack, Dink can be used before the ball hits the ground.
 
 The first purpose of Dink is to prevent the opponents from having a good attack opportunity. Dink is for defending safely when there is no good opportunity. At the same time try to mobilize the opponent to find an attack opportunity in the rally.
 
