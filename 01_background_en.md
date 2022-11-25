@@ -46,7 +46,7 @@ Pickleball is quick to start, easy to control, moderate to run (not as high as t
 
 ![Pickelball is Loved by People of All Ages](_images/sport-lifecycle.png)
 
-The overall amount of activity in pickleball is moderate, but it has rich skills. In addition to drive, smash, drop, and slices, there are also volleys and lobs. The competition between the two sides is not only about strength or speed, but also about the control of the ball (which is often more important). In doubles, teamwork is especially critical. In pickleball games, one rally can last to tens of hits, which is quite entertaining.
+The overall amount of activity in pickleball is moderate, but it has rich skills. In addition to drive, smash, drop, and slices, there are also volleys and lobs. The competition between the two sides is not only about strength or speed, but also about the control of the ball (which is often more important). In doubles, teamwork is especially critical. In pickleball games, one rally can last to tens of hits, there are not only the extremely fast attack like a storm, but also the softness with strength like Tai Chi, which is quite entertaining.
 
 ## Status and Future
 
