@@ -36,15 +36,16 @@ In order to volley near the net quickly, keep the arm steady and only use small 
 
 ## Defend a Volley
 
-The key to defend a volley is moving quickly to the front of the ball's landing position.
+The key to defend a volley is moving to appropriate position quickly. Especially when the opponent is smashing a high ball from the net, you need to retreat immediately, lower your body to prepare to defend the ball.
 
-There are mainly two ways to defend: volley or ground stroke.
+There are mainly two ways to defend: volley back or use ground stroke.
 
-When the opponent's ball is closer to your body, you can try to volley the ball directly back to the net in the air. Pay attention to keep the stability of the body, and hit the ball softly using the ball’s own power.
+When the opponent’s ball is flat or the ball is too close to your body, you can try to volley the ball back directly in the air. Pay attention to keep the stability of the body, and use small movement to hit the ball softly back to the NVZ using the ball’s own power. If the coming ball is high, then hit it down proactively with more power.
 
-When the opponent's ball is far away from your body, you can wait for the ball to bounce from the ground before hitting the ball. You can drop the ball or drive the ball. When the ball comes very quickly, use its own force mainly to let the ball fall over the net and be careful not to drop it too long.
+When the opponent's ball is hit down from high position or it is far away from your body, you can wait for the ball to bounce from the ground before hitting the ball. You can drop the ball or drive the ball. When the ball comes very quickly, use its own force mainly to let the ball fall over the net and be careful not to drop it too long. Otherwise, try to lob the ball to the back court.
 
-After the defense, move forward with the ball to the net as quickly as possible. When your return is good, you can move directly to the net and prepare to enter the Dink stage. Otherwise, move to the middle court for transition and prepare a second attempt to go to the net. 
+After the defense, try to move forward with the ball to the net as quickly as possible. When your return is good, you can move directly to the net and prepare to enter the Dink stage. Otherwise, move to the middle court for transition and prepare a second attempt to go to the net.
+
 
 ## Training Methods
 
