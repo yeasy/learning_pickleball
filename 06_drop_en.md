@@ -24,7 +24,7 @@ From the perspective of spin, there are three types of Drops too: **Non-spin**, 
 
 ## When to Use Drop
 
-When you are at the middle court or back court and the opponent side is waiting in front of the net, at this time, you can use drop to prevent the opponents to attack and let your team run to the front of the net in time. 
+When you are at the middle court or back court and the opponent side is waiting in front of the net, at this time, you can use drop to prevent the opponents to attack and let your team run to the front of the net in time.
 
 For example, advanced players often use drop in the third shot, in order to transit to the near net rallies from the back court.
 
@@ -32,10 +32,11 @@ For example, advanced players often use drop in the third shot, in order to tran
 
 When drop the ball, avoid returning the ball too far and too high, in which situation that the opponent can volley the ball or keep returning the ball to the back court easily.
 
-At the moment of hitting the ball, keep the body in a stable state to avoid shaking the paddle.After hitting the ball, the body moves forward following the hitting movement, and get ready to go to the net.
+Compared with Dink, Drop shot needs to be hit at an earlier position and with more forward power. At the moment of hitting the ball, keep the body in a stable state to avoid shaking the paddle.After hitting the ball, the body moves forward following the hitting movement, and get ready to go to the net.
 
 To avoid dropping the ball down to the net, the high point of the ball's flight path should be near and above the net.
-When the quality of the drop shot is not high, you have to wait in the middle or backcourt and prepare to do drop again
+
+When the quality of the drop shot is not high, you have to wait in the middle or backcourt and prepare to do drop again.
 
 ## Training Methods
 
