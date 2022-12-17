@@ -67,13 +67,13 @@ Another is the **gaming consciousness**. How to deal with the opponent's ball? S
 
 In general, no paddle fits everyone. The following parameters can be considered based on your level:
 
-* **Sweet spot**: The larger the sweet spot, the better the fault tolerance, but it often means that the paddle surface is larger, and the swing is slower. The ratio of the sweet spot to the paddle surface is an important indicator to the paddle’s technical quality. Beginners are recommended to choose a paddle with a higher proportion of the sweet spot.
 * **Weight**: The heavier the paddle, the more it can avoid the vibration caused by hitting the ball, but the swing will be harder, which requires a better power. For beginners, it is recommended to consider paddles up to 8 oz (227 g) unless you have an excellent strength.
-* **Center of mass**: The more forward the center of mass is, the more powerful the shot is, but it will be harder to control the paddle, which requires better hand sensitivity and higher power. Beginners are advised to consider a moderate paddle.
-* **Handle length**: A longer handle usually means a larger hitting range, but it is more difficult to adjust the paddle, which requires better hand sensitivity and higher power. Beginners are advised to choose a handle with a moderate length.
-* **Handle thickness**: A thicker handle handle is easier to exert force, but it is inconvenient to adjust the holding. For beginners, unless you have large hands, it is recommended to choose a thinner handle.
-* **Surface thickness**: The thicker the paddle surface, the better the vibration absorption when hitting the ball, and the sweet spot is often larger. Beginners are advised to consider a paddle with a thickness of at least 14 mm.
-* **Surface roughness**: The rougher the paddle surface, the easier it is to create spin, but in turn, the more likely it is affected by the ball’s rotation. Beginners are advised to consider a paddle surface that does not have too much friction.
+* **Center of Mass**: The more forward the center of mass is, the more powerful the shot is, but it will be harder to control the paddle, which requires better hand sensitivity and higher power. Beginners are advised to consider a moderate paddle.
+* **Handle Length**: A longer handle usually means a larger hitting range, but it is more difficult to adjust the paddle, which requires better hand sensitivity and higher power. Beginners are advised to choose a handle with a moderate length.
+* **Handle Thickness**: A thicker handle handle is easier to exert force, but it is inconvenient to adjust the holding. For beginners, unless you have large hands, it is recommended to choose a thinner handle.
+* **Face Size**: The larger the face, usually the larger the sweet spot, and the better the fault tolerance, but it often means that the swing is slower. The ratio of the sweet spot to the paddle face is an important indicator to the paddle’s technical quality. Beginners are recommended to choose a paddle with a large face.
+* **Face Thickness**: The thicker the paddle face, the better the vibration absorption when hitting the ball, and the sweet spot is often larger. Beginners are advised to consider a paddle with a thickness of at least 14 mm.
+* **Surface Roughness**: The rougher the paddle surface, the easier it is to create spin, but in turn, the more likely it is affected by the ball’s rotation. Beginners are advised to consider a paddle surface that does not have too much friction.
 
 In addition, the modern paddle body is mostly a honeycomb structure constructed of polymers, including Polypropylene (soft and flexible) and Nomex (rigid nylon, harder). In the early days, there were also materials such as wood or aluminum. Surface materials include fiberglass (soft, smaller sweet spot), graphite fiber, carbon fiber (hard, larger sweet spot), etc. At present, mainstream paddle mostly use polymers as the body and carbon fiber surfaces.
 
