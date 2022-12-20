@@ -1,6 +1,6 @@
 # Learning Pickleball 打好匹克球
 
-**v0.9.6**
+**v0.9.7**
 
 This book has bilingual versions (English and Chinese). 本书提供中英文双语版本。
 
@@ -28,5 +28,4 @@ Each chapter is focused on a specific topic, players can learn them in order. Ea
 * [在线阅读一](https://yeasy.gitbook.io/learning_pickleball/01_background_cn)
 * [在线阅读二](https://github.com/yeasy/learning_pickleball/blob/main/SUMMARY.md)
 * [下载 PDF 版本](https://github.com/yeasy/learning_pickleball/releases/)
-* [匹克球学院@Facebook](https://www.facebook.com/groups/pickleballacademy)
 
