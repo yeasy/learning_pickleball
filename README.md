@@ -1,6 +1,6 @@
 # Learning Pickleball 学打匹克球
 
-**v0.9.9**
+**v1.0.0-alphas**
 
 ![Learning Pickleball](_images/cover.png)
 
@@ -17,7 +17,6 @@ Each chapter is focused on a specific topic, players can learn them in order. Ea
 * [Read on Gitbook](https://yeasy.gitbook.io/learning_pickleball/01_background_en)
 * [Read on Github](https://github.com/yeasy/learning_pickleball/blob/main/SUMMARY.md)
 * [Download PDF Version](https://github.com/yeasy/learning_pickleball/releases/)
-* [Pickleball Academy@Facebook](https://www.facebook.com/groups/pickleballacademy)
 
 匹克球是一项正在风靡全球的新兴运动，它融合了网球、羽毛球、乒乓球等运动的众多特点，具有上手容易、运动量适中、娱乐性强等优势，吸引了越来越多的爱好者。
 
