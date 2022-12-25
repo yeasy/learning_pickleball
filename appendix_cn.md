@@ -2,7 +2,7 @@
 
 ## 如何评级
 
-快速评级参考如下。更详细的评级指标可以参考 [USA Pickleball Rating](https://usapickleball.org/tournaments/tournament-player-ratings/player-skill-rating-definitions/)或者通过比赛获得更准确的 [DUPR](https://mydupr.com) 评分。
+参考 [北美匹克球协会评分](https://usapickleball.org/tournaments/tournament-player-ratings/player-skill-rating-definitions/)标准（1.0~5.5），快速评级参考如下。选手也可以通过比赛获得 [DUPR](https://mydupr.com) 评分（2.0~8.0）。
 
 评分 | 级别 | 特点
 --- | --- | ---
