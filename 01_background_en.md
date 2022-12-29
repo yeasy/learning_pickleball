@@ -14,7 +14,7 @@ It is said that they both like to play tennis and badminton, but because of the 
 
 Till the year 1990, all 50 states in USA have pickleball players. In 2010, International Federation of Pickleball (IFP) was founded to help promote the sport around the world.
  
-To commemorate the invention of the pickleball, the World Pickleball Championship since 2017 named its trophy the "Bainbridge Cup". The first three championships were won by its country of origin, the United States.
+To commemorate the invention of the pickleball, the World Pickleball Championship since 2017 named its trophy the "Bainbridge Cup". It has been held successively in Spain, Italy, Germany, the United States, India and other countries.
 
 ## Ball and Paddle
 
