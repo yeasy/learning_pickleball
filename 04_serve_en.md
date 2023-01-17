@@ -30,7 +30,7 @@ Before hitting the pickleball, the body should be in a relax. At the moment of h
 
 Because the surface of pickleball is smooth, the serve should generally use more hit with less spin. Players should at least master no-spin serve and topspin serve.
 
-You can learn how to master serve quickly with multiple balls training. The goal is to serve continuously to the designated location. Practice no less than 10 groups with 50 balls per group every day.
+The first thing to serve is to keep consistency and avoid mistakes. The second is to control the placement, and then to cooperate with power and spins.
 
 ## Return the Ball
 When preparing to return the ball, keep enough space for hitting the ball. It is advisable to stay at a step back from the bottom line. The body and the racquet should face the direction of the coming ball.
