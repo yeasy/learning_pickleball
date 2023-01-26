@@ -50,7 +50,7 @@ To sum up, the most important thing is to be able to control the opponent's retu
 
 **Answer**: Sports are essentially similar with each other. Ball games are all about power (both explosive and stamina), speed, spin and placement. However, different sports differ in form and focus.
 
-Tennis has the highest requirements for strength, just like the broadsword, emphasizing wide opening and closing, and beating the opponents like breaking a bamboo; badminton has the highest requirements for speed and placement control, just like swordsmanship, pays attention to agility and elegance, and strikes back; table tennis has not only speed, but also the quickest rotation. Like a dagger, its shot is often unexpected and unpredictable; while the pickleball is like a nunchaku, both soft and firm, with both the drive and spin from tennis, the smash, drop, lob and footwork from badminton, and the push, block and dink from table tennis. 
+Tennis has the highest requirements for strength, just like the broadsword, emphasizing wide opening and closing, and beating the opponents like breaking a bamboo; badminton has the highest requirements for speed and placement control, just like swordsmanship, pays attention to agility and elegance, and strikes back; table tennis has not only the quickest rhythm, but also the strongest rotation. Like a dagger, its shot is often unexpected and unpredictable; while the pickleball is like a nunchaku, both soft and firm, with the drive skills from tennis, the smash and control from badminton, and the quick rhythm and dink from table tennis. 
 
 ## [Q6] What are the key differences between amateur players and professional players?
 
@@ -60,7 +60,9 @@ The first is **consistency**. Professional players can control the ball more sta
 
 Second is the **speed**. When the pace of the game is slow, amateurs and professional players seem to perform similar; but when the pace increases, amateurs often can't keep up, and turnovers increase.
 
-Another is the **gaming consciousness**. How to deal with the opponent's ball? Should I return a long ball or a short ball? Speed up or slow down? Where should I run after returning the ball? What is the other party's next intention? Amateur players usually don't think about these during the playing, while for professional players, these are as natural as breath. They will always choose the most favorable strategy for their own team and the most uncomfortable for the opponents.
+Another is the **ball control-ability**. Professional players have more precise control over the trajectory, landing point and rhythm of the ball, and often return a ball that is more difficult for opponents to handle. Amateur players often return the ball too high or too long, or even go out of bounds.
+
+The last one is the **gaming consciousness**. How to deal with the opponent's ball? Should I return a long ball or a short ball? Speed up or slow down? Where should I run after returning the ball? What is the other party's next intention? Amateur players usually don't think about these during the playing, while for professional players, these are as natural as breath. They will always choose the most favorable strategy for their own team and the most uncomfortable for the opponents.
 
 ## [Q7] How to choose a suitable paddle?
 **Answer**: According to the rules, the combined length and width of a pickleball paddle cannot exceed 24 inches (60.96 cm), of which the length cannot exceed 17 inches (43.18 cm). There is no limit to the thickness and weight of the paddle, but the common thickness range is 10 ~ 16 mm, and weight range is 7 ~ 9 oz.
