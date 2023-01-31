@@ -4,7 +4,7 @@
 
 ![Learning Pickleball](_images/cover.png)
 
-This book has bilingual versions of [English](https://github.com/yeasy/learning_pickleball/releases/download/v1.0.0/learning_pickleball-v1.0.0-en.pdf) and [Chinese](https://github.com/yeasy/learning_pickleball/releases/download/v1.0.0/learning_pickleball-v1.0.0-cn.pdf). 本书提供 [中文版本](https://github.com/yeasy/learning_pickleball/releases/download/v1.0.0/learning_pickleball-v1.0.0-cn.pdf) 和 [英文版本](https://github.com/yeasy/learning_pickleball/releases/download/v1.0.0/learning_pickleball-v1.0.0-en.pdf)。
+This book has bilingual versions of [English](https://github.com/yeasy/learning_pickleball/releases/download/v1.1.0/learning_pickleball-v1.1.0-en.pdf) and [Chinese](https://github.com/yeasy/learning_pickleball/releases/download/v1.1.0/learning_pickleball-v1.1.0-cn.pdf). 本书提供 [中文版本](https://github.com/yeasy/learning_pickleball/releases/download/v1.1.0/learning_pickleball-v1.1.0-cn.pdf) 和 [英文版本](https://github.com/yeasy/learning_pickleball/releases/download/v1.1.0/learning_pickleball-v1.1.0-en.pdf)。
 
 Pickleball is an emerging sport that is becoming more and more popular all over the world. It combines many appealing features from tennis, badminton, table tennis and other sports. It has the advantages of easy to begin, moderate in movement and interesting for entertainment, which attract more and more enthusiasts.
 
