@@ -19,7 +19,7 @@ Similarly, the Drops can also be divided into three types in terms of direction:
 From the perspective of spin, there are three types of Drops too: **Non-spin**, **Backspin** and **Topspin**:
 
 * **Non-spin**: Hit the ball over the net with a pushing action. It is required that the ball will not pass the net too highly, and the landing distance should be short. This way is safe as a good defense. When the space for hitting the ball is insufficient, use this way to hit the ball without a big movement;
-* **Backspin**: Return the ball to the net by chopping the bottom the ball. The backspin trajectory will be longer than non-spin one, so keep hitting the ball from a low position. When the incoming ball is low or quick, you can use the backspin Drop;
+* **Backspin**: Return the ball to the net by slicing the bottom the ball. The backspin trajectory will be longer than non-spin one, so keep hitting the ball from a low position. When the incoming ball is low or quick, you can use the backspin Drop;
 * **Topspin**: Return the ball with a drive. The topspin trajectory falls sharply after passing the net, which is more offensive. When the hitting time and space are sufficient, you can use this way.
 
 ## When to Use Drop

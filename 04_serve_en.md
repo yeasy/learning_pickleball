@@ -47,7 +47,7 @@ In double games, the ball can be returned to the space between the two opponent 
 
 The key to returning the ball is to try to make it difficult for the opponent to hit the third shot, and at the same time to provide enough time to run to the net. Therefore, pay attention to returning the ball to the base line as much as possible, but not out of bounds.
 
-The return can use a hitting action, or a chopping action. When you want to have more time to run to the net, you can return the ball high and let it fall to the opponent's backcourt.
+The return can use a hitting action, or a slicing action. When you want to have more time to run to the net, you can return the ball high and let it fall to the opponent's backcourt.
 
 ## Training Methods
 The serve and return skill can be trained with multiple balls practice. Try to continuously return the ball to the designated area. Practice no less than 10 groups with 50 balls per group every day.
