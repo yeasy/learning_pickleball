@@ -25,4 +25,5 @@ To play pickleball well, you first need to learn various skills comprehensively 
 * Return ball to an opponent in the backcourt, otherwise, to the weaker player.
 * Run to the net as soon as possible and keep the opponents in the backcourt.
 * If you don't know where to go, return the ball to the gap between the opponents.
+* For the battle in front of the net, use the forehand more for attack, and use the backhand more for defense.
 * Adjust the rhythm of your breathing, and hit the ball when you exhale, which makes the ball more stable.
