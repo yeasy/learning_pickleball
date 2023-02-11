@@ -28,15 +28,17 @@ The paddle of the Pickleball is like a large table tennis paddle without rubber,
 
 ## Basic Rules
 
-The court size is 44x20 feet (about 13.4x6.1 meters), and the net height is 34 inches and 36 inches at the center and side (about 88.36 cm and 91.44 cm), which is the same size as the badminton court. Therefore, it is very convenient to raise the net to play badminton and lower it to play pickleball on the same field.
+The pickleball field measures 44x20 feet and the net is 34 inches high in the middle and 36 inches high on the side. At least 10 feet (approximately 3 meters) of distance should remain after the baseline, and at least 5 feet of distance should be keep from the sideline. For indoor courts, there must be at least 20 feet (approximately 6.1 meters) height from the ceiling.
+
+The ground area within 7 feet (approximately 2.13 meters) on both sides of the net is called the "Non-Volley Zone (NVZ)" or "Kitchen (Kitchen)". Before, during and after the volley, no part of the player's body (including the paddle and accessories) may touch the Non-Volley Zone.
+
+A pickleball court is the same size as a badminton court. Therefore, it is very convenient to raise the net to play badminton and lower it to play pickleball in the same field.
 
 ![Pickelball Court](_images/pickleball-court.png)
 
 Pickleball scoring is similar to badminton, but only the serving team can score points during their round.
 
 Taking doubles as an example, each game has 11 points, and each player on the serving side has one chance to serve (In total two chances for each side). After serving, the opponent receives the serve and returns, and the serving party hits the ball to the opposite side. From the fourth shot,  players can either hit groundstroke or volley the ball that has not landed. If the serving team scores in this round, then switch sides with teammates and continue serving, otherwise the teammate will continue to serve. Only serving team can score points if they win the round, and the receiving team will not get points even win.
-
-In addition, the area near the net is called the "Non-Volley Zone (NVZ)" or "Kitchen". Competitors are not allowed to step into this area before and after a volley.
 
 ## Pickleball Features
 
