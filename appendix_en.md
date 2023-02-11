@@ -2,7 +2,7 @@
 
 ## Rating and Levels
 
-Based on the [USA Pickleball Rating](https://usapickleball.org/tournaments/tournament-player-ratings/player-skill-rating-definitions/), you can get a quick rating as follows. There is another [DUPR](https://mydupr.com) rating based on tournaments.
+Based on the [USA Pickleball Rating](https://usapickleball.org/tournaments/tournament-player-ratings/player-skill-rating-definitions/), you can get a quick rating (2.0 ~ 5.5) as follows. There is another [DUPR](https://mydupr.com) rating (2.0 ~ 8.0) based on tournaments.
 
 Rating | Level | Definition
 --- | --- | ---
