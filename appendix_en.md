@@ -17,14 +17,19 @@ Rating | Level | Definition
 ## Glossary
 
 * **Around The Post**: ATP, the player hits the ball from outside of the court (left side or right side), and let the ball land into the opponent court around the net post (not above the net).
+* **Dink**: Hit a ball to let it fall down to the opponent’s front court area, from our front court area.
+* **Drop**: Hit a ball to let it fall down to the opponent’s front court area, from our middle or back court area.
 * **Double-Bounce Rule**: The player serves the ball, the opponent must wait for the ball to bounce before returning the ball (first bounce), and the receiver must wait for the ball to bounce again before returning the ball (second bounce).
 * **Erne**: Hit (usually volley) a ball by jumping around the Non-Volley Zone to the side of it.
 * **Fault**: Violation of rules and results the end of the rally.
 * **Groundstroke**: After the ball bounces from the ground, hit the ball.
+* **Lob**: Hit the ball to let it fly high and land to the back court, usually near the baseline.
 * **Non-Volley Zone**: NVZ, also known as the Kitchen. Refers to the area between the net and the first line (included). It is considered a violation if the athlete's body or paddle touches the area (including the line) before and after a volley because of the volley action.
+* **Poach**: A player speeds up his movement to hit the ball on the partner’s side.
 * **Rally**: After serving, players continue to hit the ball to the opponent until there's a fault to end.
 * **Side Out**：A team has finished all the serving opportunities, and switch to the opponent team to begin to serve.
 * **Stacking**: In doubles, regardless of the initial position, after serving or receiving, players move to form a fixed divisional position. For example, a player serves from the right half, but quickly run to the left of the court after serving.
+* **Transition Zone**: The middle part of the court, which the players need to transit when he comes to the NVZ from the back court.
 * **Volley**: Hit the ball in the air before it touches the ground.
 
 ## References
