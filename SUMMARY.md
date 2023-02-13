@@ -37,7 +37,7 @@
 * [第 11 章 - 步法训练](11_footwork_cn.md)
 * [第 12 章 - 掌握旋转](12_spin_cn.md)
 * [第 13 章 - 网前攻防](13_net_battle_cn.md)
-* [第 14 章 - 绕网柱击球](14_atp_cn.md)
+* [第 14 章 - 绕网柱回球](14_atp_cn.md)
 * [第 15 章 - 跨非截击区击球](15_erne_cn.md)
 * [第 16 章 - 单打战术](16_single_strategy_cn.md)
 * [第 17 章 - 双打战术](17_double_strategy_cn.md)
