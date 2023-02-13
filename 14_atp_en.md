@@ -2,7 +2,7 @@
 
 ## What is Around The Post
 
-Around The Post (ATP) is a common technique in professional tournaments, which refers to hitting the ball from outside of the court and letting the ball fly to the court around the net post.
+Around The Post (ATP) is a common technique in professional tournaments, which refers to returning the ball from outside of the court and letting the ball fly to the court around the net post.
 
 ## When to Use
 
@@ -16,7 +16,7 @@ As shown in the picture below, the player returns the ball using ATP.
 
 The key to hit a ATP is moving to position quickly and choose the appropriate timing to do the shot.
 
-Important tips for playing a high quality ATP shot include:
+Important tips for playing a high-quality ATP shot include:
 
 * When hitting the ball, the player must stand out of the court. The farther to the outside, the greater the angle range of the return ball, and the easier the ball is to land in the court;
 * The timing of hitting the ball should be as late as possible, wait for the ball to drop near the ground before hitting it, and avoid hitting the ball at a high point. This is different from other regular scenarios. The lower the shot, the lower the flight trajectory of the ball, and the harder it is for the opponent to defend;
