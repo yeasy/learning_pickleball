@@ -8,7 +8,9 @@ Singles game players have to cover the entire court, hence will require more ski
 
 ## Serve the Ball
 
-When serving the ball, the player should stand behind the baseline, and the ball should be served to the diagonal half court in an upward arc motion (the contacting point of the paddle cannot be higher than the waist), from the NVZ line (Not included) to the baseline. Once the score has been called, the player must serve the ball within 10 seconds.
+When serving the ball, the player should stand behind the baseline, and the ball should be served to the diagonal half court, a.k.a, from the NVZ line (Not included) to the baseline. Once the score has been called, the player must serve the ball within 10 seconds.
+
+There are two kinds of servings: **toss serve** and **drop serve**. The toss serve is to throw the ball up and hit the ball to serve directly, and it is required to swing in an upward arc motion with a low hand (the contacting point of the paddle cannot be higher than the waist). The drop serve is to let the ball drop freely and hit the ball after it bounces from the ground. There is no restriction on the hitting position or swing direction.
 
 Usually serve the ball as far as possible to let it land near the baseline (but not out), in order to hamper the opponent's return and slow down the moving to net.
 
