@@ -100,4 +100,15 @@ The second is the **lack of systematic training**. When players are at different
 
 In addition, the **intensity of training is not properly arranged**. The essence of efficiency is to alternate training with rest properly. Excessive training may result in decreased physical fitness and even lead to injury. Therefore, scientific training and physical strengthening, relaxation and recovery outside of training are very important.
 
-Finally, the **lack of training the IQ of playing**. Practicing hard may build up a good strength and solid skills, but when to use what tricks, when to speed up, and when to slow down, these are the places for your IQ of playing. In addition to training, strengthening theoretical study must be taken to achieve a comprehensive improvement. 
+Finally, the **lack of training the IQ of playing**. Practicing hard may build up a good strength and solid skills, but when to use what tricks, when to speed up, and when to slow down, these are the places for your IQ of playing. In addition to training, strengthening theoretical study must be taken to achieve a comprehensive improvement.
+
+## [Q10] The ball should be hitted to the gaps, but where are the gaps?
+
+**Answer**: High-level athletes often force the opponent to make mistakes by returning the ball to the gap. Specifically, there are the following types of gaps.
+
+* **Court Gap**: Commonly used in singles. It refers to the area far away from the opponent, which can force the opponent to run to return the ball;
+* **Technical Gap**: Refers to the technical weakness of the opponent. For example, most people are weak in returning the ball from the backhand position or the shoulder position of the forehand;
+* **Intention Gap**: Refers to the area where the opponent's intention cannot cover. For example, the opponent predicts in advance and intends to move to the backhand position. At this moment, there is an intention gap in the forehand position;
+* **Cooperate Gap**: Commonly used in double games. It refers to the difficult decision-making area by the opponent's two players, such as the area between the two players, or the area where both players can return the ball;
+* **Tactical Gap**: Refers to the area to move the opponents to achieve tactical goals. For example, return the ball to a position just out of reach of the opponent, forcing the opponent to return the ball too high and creating an attack opportunity. 
+
