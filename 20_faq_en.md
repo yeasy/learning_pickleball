@@ -112,3 +112,19 @@ Finally, the **lack of training the IQ of playing**. Practicing hard may build u
 * **Cooperate Gap**: Commonly used in double games. It refers to the difficult decision-making area by the opponent's two players, such as the area between the two players, or the area where both players can return the ball;
 * **Tactical Gap**: Refers to the area to move the opponents to achieve tactical goals. For example, return the ball to a position just out of reach of the opponent, forcing the opponent to return the ball too high and creating an attack opportunity. 
 
+## [Q11] Where should I look when hitting the ball?
+
+**Answer**: This question is very critical and needs to be analyzed in detail.
+
+For amateur players whose basic skills are not solid enough, the problem that often occurs is that the hitting position is not correct, causing the ball to deviate from the expected point. Therefore, during the entire stroke, most of the eye's attention should be placed on the ball to ensure that the ball is hit on the sweet spot.
+
+For players of advanced level, they don't need to concentrate on the hitting position, and can pay more attention to controlling the entire situation of the. Specifically, when the opponent returns the ball, in addition to observing the flight path of the ball to predict the landing point, it is also necessary to observe the opponent's movement trend, judge the tactical intention, and calculate to choose the best way to return the ball. This process is dynamic and needs to be optimized and adjusted in a very short time. For the final shot moment, most of the attention should be on your opponent's stance.
+
+## [Q12] Should my backhand be two-handed or one-handed?
+
+**Answer**: Whether it is a one-handed backhand (single backhand) or a two-handed backhand (double backhand), you can hit high-quality returns. But both have their own characteristics.
+
+* **Single Backhand**: More flexible to hold the paddle, a wide range of receiving the ball, and a large return angle, making it more difficult to be predicted by the opponent. The disadvantage is that it requires higher strength and often requires more back swing. At the same time, the hitting stability is poor and it is easy to make mistakes.
+* **Double Backhand**: Can generate more power and higher stability with shorter back swing. However, there are fewer variation potentials in hitting. The receiving range is smaller, and the returning angle is relatively limited.
+
+Players should choose an appropriate backhand according to their own preference. Usually, players with weaker strength or poor backhand stability are recommended to use double backhand. 
