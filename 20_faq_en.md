@@ -102,7 +102,7 @@ In addition, the **intensity of training is not properly arranged**. The essence
 
 Finally, the **lack of training the IQ of playing**. Practicing hard may build up a good strength and solid skills, but when to use what tricks, when to speed up, and when to slow down, these are the places for your IQ of playing. In addition to training, strengthening theoretical study must be taken to achieve a comprehensive improvement.
 
-## [Q10] The ball should be hitted to the gaps, but where are the gaps?
+## [Q10] The ball should be hit to the gaps, but where are the gaps?
 
 **Answer**: High-level athletes often force the opponent to make mistakes by returning the ball to the gap. Specifically, there are the following types of gaps.
 
