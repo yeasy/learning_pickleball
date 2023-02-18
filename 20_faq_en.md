@@ -108,8 +108,8 @@ Finally, the **lack of training the IQ of playing**. Practicing hard may build u
 
 * **Court Gap**: Commonly used in singles. It refers to the area far away from the opponent, which can force the opponent to run to return the ball;
 * **Technical Gap**: Refers to the technical weakness of the opponent. For example, most people are weak in returning the ball from the backhand position or the shoulder position of the forehand;
-* **Intention Gap**: Refers to the area where the opponent's intention cannot cover. For example, the opponent predicts in advance and intends to move to the backhand position. At this moment, there is an intention gap in the forehand position;
-* **Cooperate Gap**: Commonly used in double games. It refers to the difficult decision-making area by the opponent's two players, such as the area between the two players, or the area where both players can return the ball;
+* **Awareness Gap**: Refers to the area where the opponent's awareness cannot cover. For example, the opponent predicts in advance that the return mostly goes to the backhand and prepare to move to the backhand position. At this moment, there is an awareness gap in the forehand position;
+* **Cooperation Gap**: Commonly used in double games. It refers to the difficult decision-making area by the opponent's two players, such as the area between the two players, or the area where both players can return the ball;
 * **Tactical Gap**: Refers to the area to move the opponents to achieve tactical goals. For example, return the ball to a position just out of reach of the opponent, forcing the opponent to return the ball too high and creating an attack opportunity. 
 
 ## [Q11] Where should I look when hitting the ball?
