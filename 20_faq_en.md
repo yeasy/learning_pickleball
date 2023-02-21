@@ -122,9 +122,9 @@ For players of advanced level, they don't need to concentrate on the hitting pos
 
 ## [Q12] Should my backhand be two-handed or one-handed?
 
-**Answer**: Whether it is a one-handed backhand (single backhand) or a two-handed backhand (double backhand), you can hit high-quality returns. But both have their own characteristics.
+**Answer**: Whether it is a one-handed backhand (single backhand) or a two-handed backhand (double backhand), you can make high-quality returns. But both have their own pros and cons.
 
 * **Single Backhand**: More flexible to hold the paddle, a wide range of receiving the ball, and a large return angle, making it more difficult to be predicted by the opponent. The disadvantage is that it requires higher strength and often requires more back swing. At the same time, the hitting stability is poor and it is easy to make mistakes.
 * **Double Backhand**: Can generate more power and higher stability with shorter back swing. However, there are fewer variation potentials in hitting. The receiving range is smaller, and the returning angle is relatively limited.
 
-Players should choose an appropriate backhand according to their own preference. Usually, players with weaker strength or poor backhand stability are recommended to use double backhand. 
+Players should choose an appropriate backhand according to their own preference. Usually, when to seek better power or stability, you can use double backhand. Otherwise, you can use single backhand to achieve better flexibility. 
