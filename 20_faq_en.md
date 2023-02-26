@@ -1,14 +1,12 @@
 # Frequent Questions and Answers
 
-## [Q1] Can you share how to handle lob?
+## [Q1] How to handle lob?
 
-**Answer**: Lob (Lifting the ball to the backcourt) is very challenging for amateur players to handle.
+**Answer**: For amateur players, it is often difficult to deal with lob shots (Lifting the ball to the backcourt) in the backcourt. To successfully receive a lob, the key is to have quick footwork. When the opponent's lob shot is not of high quality, one should quickly sidestep and retreat to hit a smash, forcing the opponent not to easily attempt lob shots.
 
-The first key factor is the footwork. When the opponent's lob is not high and far enough, retreat as quickly as possible and jump to volley it, which will restrict the opponents to use lob again.
+If the opponent's lob shot is of higher quality and not easily intercepted, one should promptly run to the side and back of the ball, wait for it to bounce off the ground before hitting it back. After the opponent's lob shot, their attention is often focused on the net to wait for interception. Therefore, the best way to hit the ball back is to use a drop shot or return to the opponent's open space, and avoid directly hitting the ball too high.
 
-If the opponent lobs the ball with high quality, it will be difficult to volley directly. Run to the ahead of the ball's landing position in time and wait for the ball to bounce from the ground and then hit it. When the opponent lobs the ball with high quality, he tends to wait near the net to volley. In this case, the first choice for returning the ball is to drop, or lob to the opponent's back. Do not drive the ball directly, which is expecting by the opponents in most cases.
-
-Finally, when dinking in front of the net, pay attention to the quality and try to place the ball with a wide angle and do not let the opponent return the ball very comfortably, so the opponent cannot make a high-quality lob easily.
+Finally, when playing at the net, attention should be paid to the quality of the Dink. It is best to dink the ball with a wide angle, making it difficult for the opponent to return it comfortably, so that the opponent finds it difficult to hit a high-quality lob shot.
 
 ## [Q2] When the teammate hits the third shot in doubles, should I run forward or wait in the backcourt?
 
@@ -88,6 +86,8 @@ The handling of the middle-position ball requires players to negotiate the princ
 * Let **forehand position player** handle: The power and angle of the forehand shots tend to be better;
 * Let **higher level player** handle: Higher level player usually has better stability and force;
 * Let **male player** handle (in mixed double games): Male player is usually better in strength and speed, and is usually responsible for 2/3 or more of the courts in mixed doubles.
+
+You can also use shouting to do a quick communication. For example, a more confident player can call out “Me” to return the ball.
 
 ## [Q9] I play pickleball 3 hours a day, why my skill does not improve a lot?
 **Answer**: The problem that amateur players often encounter is that they play every day, but their skills don't improve, and sometimes they even go backwards.
