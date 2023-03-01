@@ -51,7 +51,11 @@ In situations such as dink or volley, you do not need to use the motions from le
 
 ## Daily Trainings
 
-* Kick the ground, turn the waist and swing the arms, 20 sets each, 3 sets;
-* Feel to use fingers’ power by bouncing the ball, forehand, backhand, and alternative 100 times;
-* Hit the ball using forehand, 20 sets each, 3 sets;
-* Hit the ball using backhand, 20 sets each, 3 sets. 
+Here are some training exercises aimed at enhancing your hitting ability:
+
+* Waist turning exercise: 20 reps per set, 3 sets per day. This exercise is meant to build leg and waist strength to better utilize the power source of ball sports. It is recommended to gradually increase the frequency and number of sets of this exercise, but be sure to exercise in moderation to avoid excessive fatigue or injury.
+* Bouncing balls to improve finger strength: 100 reps each of forehand, backhand, and forehand-backhand. Bouncing ball is an effective way to improve hand coordination and finger strength. It is recommended to gradually increase the number of bouncing repetitions and difficulty, such as using different rhythms and speeds.
+* Forehand/Backhand multi-ball hitting training: 20 reps per set, 3 sets per day. This type of exercise can improve the strength and coordination of your arms and shoulders, as well as your ability to control the ball.
+
+These exercises require long-term training to achieve significant results, and it is important to protect your body and take adequate rest to avoid pain or injury caused by excessive fatigue or incorrect training postures.
+
