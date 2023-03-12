@@ -18,11 +18,11 @@ To commemorate the invention of the pickleball, the World Pickleball Championshi
 
 ## Ball and Paddle
 
-A pickle ball is a hard plastic ball, slightly larger than a tennis ball, and is usually colored like yellow or orange. There are 26 to 40 circular holes with a diameter of less than 1 cm on the spherical surface (there are differences between indoor and outdoor balls for different purposes, the softer indoor ball has 26 holes, and the hole diameter is larger). The rotation of the ball is not too violent, and at the same time the elasticity is not great, making it fly relatively slowly in the air.
+A pickleball ball is a hard plastic ball, slightly larger than a tennis ball, and is usually colored like yellow or orange. There are 26 to 40 circular holes with a diameter of around 1 cm on the spherical surface (there are differences between indoor and outdoor balls, the softer and lighter indoor ball has 26 holes, the hole diameter is larger and fly more slowly). The rotation of the ball is not too violent, and at the same time the elasticity is not great, making it fly relatively slowly in the air.
 
 ![Various types of Pickleballs](_images/various-type-balls.png)
 
-The paddle of the Pickleball is like a large table tennis paddle without rubber, with a length of 15.5 ~ 17 inches (39.37 ~ 43.18 cm) and a width of 7 ~ 8.25 inches (17.78 ~ 20.96 cm). At first, the rackets were mostly made of wood, but later they were also made of new materials such as glass fiber and carbon fiber. The racket is not very elastic and has a relatively smooth surface. Pickleball is very easy to play, but it takes a certain amount of time and energy to learn skills, improve physical fitness and master appropriate strategies to play well.
+The paddle of the Pickleball is like a large table tennis paddle without rubber, the sum of whose length and width cannot exceed 24 inches, where the length cannot exceed 17 inches. Usually the paddle has a length of 15.5 ~ 17 inches (39.37 ~ 43.18 cm) and a width of 7 ~ 8.25 inches (17.78 ~ 20.96 cm), and the handler length is 4~5.5 inches. At first, the rackets were mostly made of wood, but later they were also made of new materials such as glass fiber and carbon fiber. The racket is not very elastic and has a relatively smooth surface. Pickleball is very easy to play, but it takes a certain amount of time and energy to learn skills, improve physical fitness and master appropriate strategies to play well.
 
 ![Pickleball Paddles](_images/pickleball-paddles.png)
 
@@ -52,7 +52,7 @@ The overall amount of activity in pickleball is moderate, but it has rich skills
 
 ## Status and Future
 
-According to a public report, there are currently 9 million pickleball players in the United States (In comparison, tennis players are less than 20 million, badminton players are less than 1.5 million, and ping pong players are less than 1 million), and the number is growing at a rate of more than 20% per year. It is predicted that there will be around 40 million players in the year 2030. The Professional Pickleball Association (PPA) and Association of Pickleball Professionals (APP) hold 20 and 30 tournaments every year. The players in professional tournaments are usually with age between 14 years and 35 years.
+According to a public report from Sports & Fitness Industry Association in 2023, there are nearly 9 million pickleball players in the United States (In comparison, tennis players are less than 20 million, badminton players are less than 1.5 million, and ping pong players are less than 1 million), and the number is growing at a rate of more than 20% per year. It is predicted that there will be around 40 million players in the year 2030. The Professional Pickleball Association (PPA) and Association of Pickleball Professionals (APP) hold 20 and 30 tournaments every year. The players in professional tournaments are usually with age between 14 years and 35 years.
 
 In addition to North America, the pickleball has also become very popular in Europe. Asian regions including China, Japan, India, Philippines, Singapore, Indonesia, Thailand, Malaysia, Bangladesh, Pakistan, have also begun to popularize and hold big tournaments. As of the end of 2022, over 60 countries around the world have joined the International Federation of Pickleball, hosting 12 international competitions. Pickleball is a performance sport at the 2024 Paris Olympics. It is believed that in the near future, the Pickleball will become an official event in the Olympic Games and other international events.
 
