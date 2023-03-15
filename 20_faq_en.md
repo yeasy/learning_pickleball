@@ -48,7 +48,7 @@ To sum up, the most important thing is to be able to control the opponent's retu
 
 **Answer**: Sports are essentially similar with each other. Ball games are all about power (both explosive and stamina), speed, spin and placement. However, different sports differ in form and focus.
 
-Tennis has the highest requirements for strength, just like the broadsword, emphasizing wide opening and closing, and beating the opponents like breaking a bamboo; badminton has the highest requirements for speed and placement control, just like swordsmanship, pays attention to agility and elegance, and strikes back; table tennis has not only the quickest rhythm, but also the strongest rotation. Like a dagger, its shot is often unexpected and unpredictable; while the pickleball is like a nunchaku, both soft and firm, with the drive skills from tennis, the smash and control from badminton, and the quick rhythm and dink from table tennis. 
+Tennis has the highest requirements for strength, just like the broadsword, emphasizing wide opening and closing, and beating the opponents like breaking a bamboo; badminton has the highest requirements for speed and placement control, just like swordsmanship, pays attention to agility and elegance, and strikes back; table tennis has not only the quickest rhythm, but also the strongest rotation. Like a dagger, its shot is often unexpected and unpredictable; while the pickleball is like a nunchaku, both soft and firm, with the drive skills from tennis, the smash, lob and control from badminton, and the quick rhythm and dink from table tennis. 
 
 ## [Q6] What are the key differences between amateur players and professional players?
 
