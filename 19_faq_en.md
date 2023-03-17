@@ -65,6 +65,13 @@ The last one is the **gaming consciousness**. How to deal with the opponent's ba
 ## [Q7] How to choose a suitable paddle?
 **Answer**: According to the rules, the combined length and width of a pickleball paddle cannot exceed 24 inches (60.96 cm), of which the length cannot exceed 17 inches (43.18 cm). There is no limit to the thickness and weight of the paddle, but the common thickness range is 10 ~ 16 mm, and weight range is 7 ~ 9 oz.
 
+Typically, a pickleball paddle consists of several main components: paddle body (core, surface, and edge guard), handle, base grip, and overgrip.
+* **Paddle Core**: The core of the paddle plays a crucial role in the paddle's stability. Modern paddle materials usually feature a honeycomb structure made of high polymer compounds, including Polymer (soft and flexible) and Nomex (rigid nylon, somewhat hard). Earlier paddles were made from materials such as wood or aluminum alloy.
+* **Paddle Surface**: The surface of the paddle affects its power and friction. Surface materials include fiberglass (soft, with a typically smaller sweet spot), graphite, and carbon fiber (hard, with a typically larger sweet spot). Currently, professional paddles often use carbon fiber surfaces.
+* **Paddle Edge Guard**: The edge guard influences the sweet spot of the paddle. It is usually made of hard plastic materials.
+* **Handle**: The handle is crucial for the paddle's control. It typically consists of an extension of the paddle core, wrapped with cushioning materials such as foam or rubber. The bottom of the handle often has a branded end cap.
+* **Base grip and Overgrip**: The base grip and overgrip directly affect the feel of the paddle. Choosing the right overgrip can better enhance the paddle's performance. Overgrips are usually made of synthetic materials, such as polyurethane or synthetic fibers.
+
 In general, no paddle fits everyone. The following parameters can be considered based on your level:
 
 * **Weight**: The heavier the paddle, the more it can avoid the vibration caused by hitting the ball, but the swing will be harder, which requires a better power. For beginners, it is recommended to consider paddles up to 8 oz (227 g) unless you have an excellent strength.
@@ -75,7 +82,7 @@ In general, no paddle fits everyone. The following parameters can be considered 
 * **Face Thickness**: The thicker the paddle face, the better the vibration absorption when hitting the ball, and the sweet spot is often larger. Beginners are advised to consider a paddle with a thickness of at least 14 mm.
 * **Surface Roughness**: The rougher the paddle surface, the easier it is to create spin, but in turn, the more likely it is affected by the ball’s rotation. Beginners are advised to consider a paddle surface that does not have too much friction.
 
-In addition, the modern paddle body is mostly a honeycomb structure constructed of polymers, including Polypropylene (soft and flexible) and Nomex (rigid nylon, harder). In the early days, there were also materials such as wood or aluminum. Surface materials include fiberglass (soft, smaller sweet spot), graphite fiber, carbon fiber (hard, larger sweet spot), etc. At present, mainstream paddle mostly use polymers as the body and carbon fiber surfaces.
+Top paddle brands in market include Franklin, Joola, Onix, Engage and Selkirk.
 
 ## [Q8] How to deal with the ball between two players in doubles?
 
