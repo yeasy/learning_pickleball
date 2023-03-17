@@ -18,9 +18,8 @@
 * [Chapter 16 - Single Game Strategies](16_single_strategy_en.md)
 * [Chapter 17 - Double Game Strategies](17_double_strategy_en.md)
 * [Chapter 18 - Key Tips](18_key_tips_en.md)
-* [Chapter 19 - Courtesy Rules](19_courtesy_rules_en.md)
-* [Chapter 20 - Frequent Questions and Answers](20_faq_en.md)
-* [Chapter 21 - Tao of Pickleball](21_tao_en.md)
+* [Chapter 19 - Frequent Questions and Answers](19_faq_en.md)
+* [Chapter 20 - Tao of Pickleball](20_tao_en.md)
 * [Appendix](appendix_en.md)
 
 # 打好匹克球
@@ -43,7 +42,6 @@
 * [第 16 章 - 单打战术](16_single_strategy_cn.md)
 * [第 17 章 - 双打战术](17_double_strategy_cn.md)
 * [第 18 章 - 要点总结](18_key_tips_cn.md)
-* [第 19 章 - 文明运动准则](19_courtesy_rules_cn.md)
-* [第 20 章 - 常见问题与解答](20_faq_cn.md)
-* [第 21 章 - 匹克球之道](21_tao_cn.md)
+* [第 19 章 - 常见问题与解答](19_faq_cn.md)
+* [第 20 章 - 匹克球之道](20_tao_cn.md)
 * [附录](appendix_cn.md)
