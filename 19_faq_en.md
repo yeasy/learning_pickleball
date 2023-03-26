@@ -67,7 +67,7 @@ The last one is the **gaming consciousness**. How to deal with the opponent's ba
 
 Typically, a pickleball paddle consists of several main components: paddle body (core, surface, and edge guard), handle, base grip, and overgrip.
 * **Paddle Core**: The core of the paddle plays a crucial role in the paddle's stability. Modern paddle materials usually feature a honeycomb structure made of high polymer compounds, including Polymer (soft and flexible) and Nomex (rigid nylon, somewhat hard). Earlier paddles were made from materials such as wood or aluminum alloy.
-* **Paddle Surface**: The surface of the paddle affects its power and friction. Surface materials include fiberglass (soft, with a typically smaller sweet spot), graphite, and carbon fiber (hard, with a typically larger sweet spot). Currently, professional paddles often use carbon fiber surfaces.
+* **Paddle Surface**: The surface of the paddle affects its power and friction. Surface materials include fiberglass (Soft, with a typically smaller sweet spot), graphite, and carbon fiber (Hard, with a larger sweet spot. Typical model is Toray T700). Currently, professional paddles often use carbon fiber surfaces.
 * **Paddle Edge Guard**: The edge guard influences the sweet spot of the paddle. It is usually made of hard plastic materials.
 * **Handle**: The handle is crucial for the paddle's control. It typically consists of an extension of the paddle core, wrapped with cushioning materials such as foam or rubber. The bottom of the handle often has a branded end cap.
 * **Base grip and Overgrip**: The base grip and overgrip directly affect the feel of the paddle. Choosing the right overgrip can better enhance the paddle's performance. Overgrips are usually made of synthetic materials, such as polyurethane or synthetic fibers.
@@ -117,7 +117,7 @@ Finally, the **lack of training the IQ of playing**. Practicing hard may build u
 * **Technical Gap**: Refers to the technical weakness of the opponent. For example, most people are weak in returning the ball from the backhand position or the shoulder position of the forehand;
 * **Awareness Gap**: Refers to the area where the opponent's awareness cannot cover. For example, the opponent predicts in advance that the return mostly goes to the backhand and prepare to move to the backhand position. At this moment, there is an awareness gap in the forehand position;
 * **Cooperation Gap**: Commonly used in double games. It refers to the difficult decision-making area by the opponent's two players, such as the area between the two players, or the area where both players can return the ball;
-* **Tactical Gap**: Refers to the area to move the opponents to achieve tactical goals. For example, return the ball to a position just out of reach of the opponent, forcing the opponent to return the ball too high and creating an attack opportunity. 
+* **Tactical Gap**: Refers to the area to move the opponents to achieve tactical goals. For example, return the ball to a position just out of reach of the opponent, or the opponent's return can be predicted easily, in order to create an attack opportunity. 
 
 ## [Q11] Where should I look when hitting the ball?
 
