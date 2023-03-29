@@ -1,10 +1,10 @@
 # Learning Pickleball 学打匹克球
 
-**v1.3.9**
+**v1.4.0**
 
 ![Learning Pickleball](_images/cover.png)
 
-This book has bilingual versions of [English](https://github.com/yeasy/learning_pickleball/releases/download/v1.3.0/learning_pickleball-v1.3.0-en.pdf) and [Chinese](https://github.com/yeasy/learning_pickleball/releases/download/v1.3.0/learning_pickleball-v1.3.0-cn.pdf). 本书提供 [中文版本](https://github.com/yeasy/learning_pickleball/releases/download/v1.3.0/learning_pickleball-v1.3.0-cn.pdf) 和 [英文版本](https://github.com/yeasy/learning_pickleball/releases/download/v1.3.0/learning_pickleball-v1.3.0-en.pdf)。
+This book has bilingual versions of [English](https://github.com/yeasy/learning_pickleball/releases/download/v1.4.0/learning_pickleball-v1.4.0-en.pdf) and [Chinese](https://github.com/yeasy/learning_pickleball/releases/download/v1.4.0/learning_pickleball-v1.4.0-cn.pdf). 本书提供 [中文版本](https://github.com/yeasy/learning_pickleball/releases/download/v1.4.0/learning_pickleball-v1.4.0-cn.pdf) 和 [英文版本](https://github.com/yeasy/learning_pickleball/releases/download/v1.4.0/learning_pickleball-v1.4.0-en.pdf)。
 
 Pickleball is an emerging sport that is becoming more and more popular all over the world. It combines many appealing features from tennis, badminton, table tennis and other sports. It has the advantages of easy to begin, moderate in movement and interesting for entertainment, which attract more and more enthusiasts.
 
@@ -24,7 +24,9 @@ Each chapter is focused on a specific topic, players can learn them in order. Ea
 
 本书不侧重介绍匹克球的具体比赛规则，读者可以另行参考 [官方规则说明](https://usapickleball.org/what-is-pickleball/how-to-play/basics/rules-summary/)。
 
-每章围绕一项特定技术，学习者可以按照顺序依次训练。掌握每项技术可能需要几周时间。最后一章总结了[常见的问题和解答](20_faq_cn.md)。未经授权，禁止用于商业场景。
+每章围绕一项特定技术，学习者可以按照顺序依次训练。掌握每项技术可能需要几周时间。
+
+未经授权，禁止用于商业场景。
 
 * [在线阅读一](https://yeasy.gitbook.io/learning_pickleball/01_background_cn)
 * [在线阅读二](https://github.com/yeasy/learning_pickleball/blob/main/SUMMARY.md)

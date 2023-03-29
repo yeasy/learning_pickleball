@@ -57,3 +57,17 @@ The beginner understands.
 **Beginner** asks: I have studied your every move and imitated them perfectly, but I still can't reach your level. Why is that?
 
 **Master** says: Those who learn from me win, those who imitate me lose.
+
+## Strengths of Different Disciplines
+
+**Beginner** asks: I'm a ping-pong expert, how can I improve quickly?
+
+**Master** says: Go learn tennis.
+
+**Beginner** asks: Now I'm also a tennis expert, how can I improve quickly?
+
+**Master** says: Go learn badminton.
+
+**Beginner** asks: Now I'm also a badminton expert, how can I improve quickly?
+
+**Master** says: Forget what you've learned.
