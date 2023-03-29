@@ -2,7 +2,7 @@
 
 ## 如何评级
 
-参考 [美国匹克球协会评级](https://usapickleball.org/tournaments/tournament-player-ratings/player-skill-rating-definitions/)标准（1.0 ~ 5.5），快速评级参考如下。选手也可以通过比赛获得 [DUPR](https://mydupr.com) 评级（2.0 ~ 8.0）。
+参考 [美国匹克球协会评级](https://usapickleball.org/tournaments/tournament-player-ratings/player-skill-rating-definitions/)标准（1.0 ~ 5.5），快速评级参考如下。选手也可以通过比赛计算 [UTPR](https://usapickleball.org/tournaments/tournament-player-ratings/)（1.0 ~ 7.0） 或 [DUPR](https://mydupr.com) 评级（2.0 ~ 8.0）。
 
 评分 | 级别 | 特点
 --- | --- | ---
@@ -29,7 +29,6 @@
 * 以平和心态参与，除与队友必要低声交流外，不制造过多声音干扰比赛；
 * 对方得分，可适当表示鼓励；对方失分，不宜激烈庆祝；
 * 在娱乐性质的比赛中，网前杀球应尽量避免将球打到对方头部、颈部等脆弱部位。
-
 
 ## 术语
 
