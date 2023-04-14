@@ -28,7 +28,7 @@ The paddle of the Pickleball is like a large table tennis paddle without rubber,
 
 ## Basic Rules
 
-The pickleball field measures 44x20 feet and the net is 34 inches high in the middle and 36 inches high on the side. At least 10 feet (approximately 3 meters) of distance should remain after the baseline, and at least 5 feet of distance should be keep from the sideline. For indoor courts, there must be at least 20 feet (approximately 6.1 meters) height from the ceiling.
+The pickleball field measures 44x20 feet and the net is 34 inches high in the middle and 36 inches high on the side. At least 10 feet (approximately 3 meters) of distance should remain after the baseline, and at least 5 feet of distance should be remained from the sideline. The line width is 2 inches. For indoor courts, there must be at least 20 feet (approximately 6.1 meters) height from the ceiling.
 
 The ground area within 7 feet (approximately 2.13 meters) on both sides of the net is called the "Non-Volley Zone (NVZ)" or "Kitchen (Kitchen)". Before, during and after the volley, no part of the player's body (including the paddle and accessories) may touch the Non-Volley Zone.
 
