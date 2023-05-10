@@ -135,3 +135,12 @@ For players of advanced level, they don't need to concentrate on the hitting pos
 * **Double Backhand**: Can generate more power and higher stability with shorter back swing. However, there are fewer variation potentials in hitting. The receiving range is smaller, and the returning angle is relatively limited.
 
 Players should choose an appropriate backhand according to their own preference. Usually, when to seek better power or stability, you can use double backhand. Otherwise, you can use single backhand to achieve better flexibility. 
+
+## [Q13] Why does the pickleball look slow but feels fast when played?
+Answer: The speed of the pickle ball is usually only between 40~60 km/h (ie 10~16 m/s), much lower than that of badminton, tennis, and even table tennis. But in fact, when playing pickleball, you will find that the speed of the ball is very fast, and sometimes there is no time to react.
+
+The occurrence of this phenomenon is mainly due to the fact that players often need to counterattack quickly in front of the net in the pickleball game. Due to the relatively short distance and the fact that the pickleball basically does not slow down during its flight, players need to react in a very short time.
+
+The distance of about 2 meters on both sides of the pickleball net is the non-volley area. Players usually return the ball near the non-volley zone, and the actual hitting point is often above the non-volley zone, which makes the ball fly about 3 meters. If calculated at a speed of 15 m/s, it takes only 0.2 seconds from the opponent's shot to the time you need to hit the ball.
+
+In this extremely short 0.2 seconds, you need to judge the direction of the ball, move the position and swing the racket, which is almost an impossible task for ordinary people. Therefore, although the speed of the pickleball is not high, the reaction time required is extremely short, making the game even more intense than tennis, comparable to the intensity of badminton.
