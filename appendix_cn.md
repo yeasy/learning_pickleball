@@ -50,20 +50,33 @@
 
 ## 匹克球组织和机构
 
-* 中国匹克球社区：[bbs.pickleballcn.com](https://bbs.pickleballcn.com）
+* 中匹在线社区：[bbs.pickleballcn.com](https://bbs.pickleballcn.com）
 * 广州匹克球协会：[www.wgzpkq.com](https://www.gzpkq.com/)
 * 深圳匹克球协会：[www.cnpickleball.com](https://www.cnpickleball.com/)
 * 香港匹克球协会：[www.pickleball.com.hk](https://www.pickleball.com.hk/)
+* 澳门匹克球协会：[www.macaupickleball.org.mo](http://www.macaupickleball.org.mo/)
 * 北京吉星匹克球俱乐部：https://weibo.com/u/5311820345
 * 北京 MCTC 匹克球俱乐部：https://www.dianping.com/brands/b97135292
-* 天津骏豪匹克球俱乐部华夏未来体验中心：http://www.e-hxwl.com/
-* 上海山合会匹克球俱乐部
-* 上海PBC匹克球俱乐部
+* 北京 Ambassion 匹克球俱乐部
+* 上海山合会匹克球俱乐部 MounsterUnited
+* 上海 PBC 匹克球俱乐部
 * 上海多多动匹克球俱乐部 Ourpickleball
+* 上海市黄浦区申仕博体育俱乐部
+* 天津骏豪匹克球俱乐部华夏未来体验中心：http://www.e-hxwl.com/
 * 青岛水舞者匹克球俱乐部
-* 长沙乐运诺博匹克球体验中心（谷山体育公园）
-* 武汉匹克球俱乐部
-* 成都匹克球俱乐部
+* 大连羽伴匹克球俱乐部
+* 长沙乐运诺博匹克球体验中心(谷山体育公园店)
+* 贵阳小玩嘉匹克球俱乐部
+* 南京五台山匹克球俱乐部
+* 成都 pick boom 匹克球俱乐部 pickboom
+* 成都 PANG 匹克球俱乐部 pang
+* 重庆市垫江匹克球俱乐部
+* 武汉 Layeehub 來嘢匹克球俱乐部
+* 广州锦尚匹克球俱乐部
+* 深圳竞芳匹克球俱乐部
+* 深圳 SunTao 匹克球俱乐部（宝安区）
+* 福州 BONS 匹克球俱乐部
+* 佛山 EcoPickle 匹克球俱乐部
 
 ## 参考资料
 
