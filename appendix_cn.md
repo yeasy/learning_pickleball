@@ -50,11 +50,11 @@
 
 ## 匹克球组织和机构
 
-* 中匹在线社区：[bbs.pickleballcn.com](https://bbs.pickleballcn.com）
-* 广州匹克球协会：[www.wgzpkq.com](https://www.gzpkq.com/)
-* 深圳匹克球协会：[www.cnpickleball.com](https://www.cnpickleball.com/)
-* 香港匹克球协会：[www.pickleball.com.hk](https://www.pickleball.com.hk/)
-* 澳门匹克球协会：[www.macaupickleball.org.mo](http://www.macaupickleball.org.mo/)
+* 中匹在线社区：[bbs.pickleballcn.com](https://bbs.pickleballcn.com)
+* 广州匹克球协会：[www.wgzpkq.com](https://www.gzpkq.com)
+* 深圳匹克球协会：[www.cnpickleball.com](https://www.cnpickleball.com)
+* 香港匹克球协会：[www.pickleball.com.hk](https://www.pickleball.com.hk)
+* 澳门匹克球协会：[www.macaupickleball.org.mo](http://www.macaupickleball.org.mo)
 * 北京吉星匹克球俱乐部：https://weibo.com/u/5311820345
 * 北京 MCTC 匹克球俱乐部：https://www.dianping.com/brands/b97135292
 * 北京 Ambassion 匹克球俱乐部
