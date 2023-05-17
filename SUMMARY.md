@@ -1,4 +1,4 @@
-# Pickleball Guide
+# Learning Pickleball
 
 * [Chapter 1 - Background Knowledge](01_background_en.md)
 * [Chapter 2 - Warm up, Relax and Strength Training](02_fitness_en.md)
@@ -22,7 +22,7 @@
 * [Chapter 20 - Tao of Pickleball](20_tao_en.md)
 * [Appendix](appendix_en.md)
 
-# 打好匹克球
+# 学打匹克球
 
 * [第 1 章 - 背景知识](01_background_cn.md)
 * [第 2 章 - 热身、放松与体能训练](02_fitness_cn.md)
