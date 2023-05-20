@@ -137,10 +137,16 @@ For players of advanced level, they don't need to concentrate on the hitting pos
 Players should choose an appropriate backhand according to their own preference. Usually, when to seek better power or stability, you can use double backhand. Otherwise, you can use single backhand to achieve better flexibility. 
 
 ## [Q13] Why does the pickleball look slow but feels fast when played?
-Answer: The speed of the pickle ball is usually only between 40\~60 km/h (i.e., 10\~16 m/s), much lower than that of badminton, tennis, and even table tennis. But in fact, when playing pickleball, you will find that the speed of the ball is very fast, and sometimes there is no time to react.
+**Answer**: The speed of the pickle ball is usually only between 40\~60 km/h (i.e., 10\~16 m/s), much lower than that of badminton, tennis, and even table tennis. But in fact, when playing pickleball, you will find that the speed of the ball is very fast, and sometimes there is no time to react.
 
 The occurrence of this phenomenon is mainly due to the fact that players often need to counterattack quickly in front of the net in the pickleball game. Due to the relatively short distance and the fact that the pickleball basically does not slow down during its flight, players need to react in a very short time.
 
 The distance of about 2 meters on both sides of the pickleball net is the non-volley area. Players usually return the ball near the non-volley zone, and the actual hitting point is often above the non-volley zone, which makes the ball fly about 3 meters. If calculated at a speed of 15 m/s, it takes only 0.2 seconds from the opponent's shot to the time you need to hit the ball.
 
 In this extremely short 0.2 seconds, you need to judge the direction of the ball, move the position and swing the racket, which is almost an impossible task for ordinary people. Therefore, although the speed of the pickleball is not high, the reaction time required is extremely short, making the game even more intense than tennis, comparable to the intensity of badminton.
+
+[Q14] How can I avoid being shot through by the opponent from the back court while I am defending near the net in single games?
+
+**Answer**: The key to avoid being penetrated by the opponent's ball is to improve the quality of your return.
+
+First, make sure your return is deep enough, as close to the baseline as possible. The deeper the return, the harder it will be for the opponent to hit the ball aggressively, and the slower the ball will travel to the net. Secondly, try to reduce the height of the returned ball as much as possible. The lower the ball is, the opponent needs to hit it upwards, and the harder it is to attack. In addition, if the consistency of the opponent's stroke is very good, e.g., he can use similar movements to hit the ball in a straight line and diagonally, then you can consider return the ball to the middle of the court, which can effectively limit the opponent's hitting angle scope. Finally, from a defensive point of view, if the quality of the opponent's ball is high and the ball is fast, you can consider slightly adjusting your position, such as standing half a step away from the non-volley area, to increase reaction time and the flexibility of handling of the ball.
