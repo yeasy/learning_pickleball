@@ -28,7 +28,7 @@
 * [第 2 章 - 热身、放松与体能训练](02_fitness_cn.md)
 * [第 3 章 - 持拍与击球发力](03_hold_paddle_cn.md)
 * [第 4 章 - 发球与接发球](04_serve_cn.md)
-* [第 5 章 - 网前吊球技术](05_dink_cn.md)
+* [第 5 章 - 前场吊球技术](05_dink_cn.md)
 * [第 6 章 - 后场吊球技术](06_drop_cn.md)
 * [第 7 章 - 抽球技术](07_drive_cn.md)
 * [第 8 章 - 截击技术](08_volley_cn.md)
