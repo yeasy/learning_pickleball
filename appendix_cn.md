@@ -40,7 +40,7 @@
 * **过失**：Fault，违反规则，导致回合结束。
 * **击触地球**：Groundstroke，等球触地并弹起后，击打球。
 * **挑后场高球**：Lob，将球打高，使其落到对方后场，通常靠近底线。
-* **非截击区**：Non-Volley Zone (NVZ)，又叫 Kitchen。是指球网到第一条白线（包括）之间的区域，如果运动员在截击前后因为击球动作导致身体或球拍碰触该区域（包括白线），则被视为犯规。
+* **非截击区**：Non-Volley Zone (NVZ)，又叫 Kitchen（厨房）。是指球网到第一条白线（包括）之间的区域，如果运动员在截击前后因为击球动作导致身体或球拍碰触该区域（包括白线），则被视为犯规。
 * **突袭**：Poach，球员通过突然加速移动，主动进攻给到搭档侧的来球。
 * **回合**：Rally，发球后，双方击球，直到有一方因为过失结束。
 * **换对方发球**：Side Out，本队已完成所有发球机会，切换到对方队开始发球。
@@ -51,32 +51,48 @@
 ## 匹克球组织和机构
 
 * 中匹在线社区：[bbs.pickleballcn.com](https://bbs.pickleballcn.com)
-* 广州匹克球协会：[www.wgzpkq.com](https://www.gzpkq.com)
-* 深圳匹克球协会：[www.cnpickleball.com](https://www.cnpickleball.com)
-* 香港匹克球协会：[www.pickleball.com.hk](https://www.pickleball.com.hk)
-* 澳门匹克球协会：[www.macaupickleball.org.mo](http://www.macaupickleball.org.mo)
-* 北京吉星匹克球俱乐部：https://weibo.com/u/5311820345
-* 北京 MCTC 匹克球俱乐部：https://www.dianping.com/brands/b97135292
-* 北京 Ambassion 匹克球俱乐部
-* 上海山合会匹克球俱乐部 MounsterUnited
-* 上海 PBC 匹克球俱乐部
-* 上海多多动匹克球俱乐部 Ourpickleball
-* 上海市黄浦区申仕博体育俱乐部
-* 天津骏豪匹克球俱乐部华夏未来体验中心：http://www.e-hxwl.com/
+
+### 协会
+* 广州匹克球协会：https://www.gzpkq.com
+* 深圳匹克球协会：https://www.cnpickleball.com
+* 香港匹克球协会：https://www.pickleball.com.hk
+* 澳门匹克球协会：http://www.macaupickleball.org.mo
+* 珠海匹克球协会（申请中）
+* 东莞匹克球协会（申请中）
+* 大连匹克球协会（申请中）
+
+### 俱乐部（北方）
+* 北京吉星匹克球俱乐部：丰台区羽协综合训练馆
+* 北京 MCTC 匹克球俱乐部：朝阳区朝阳商业大楼
+* 北京Ambassion匹克球俱乐部
+* 北京球星运动中心：北京市朝阳区西大望路23号(九龙山地铁站G东南口步行240米)
+* 天津骏豪匹克球俱乐部华夏未来体验中心
 * 青岛水舞者匹克球俱乐部
-* 大连羽伴匹克球俱乐部
+* 辽宁大连羽伴匹克球俱乐部：大连市沙河口区大顶山生态公园
+* 辽宁大连国奥匹克球俱乐部
+* 山西太原福瑞匹克球俱乐部
+
+### 俱乐部（南方）
+* 上海山合会匹克球俱乐部 MounsterUnited
+* 上海PBC匹克球俱乐部
+* 上海多多动匹克球俱乐部 Ourpickleball
+* 上海市黄浦区申仕博体育俱乐部：上海市黄浦区半淞园路街道徽宁路503号（申仕博运动小馆）
 * 长沙乐运诺博匹克球体验中心(谷山体育公园店)
 * 贵阳小玩嘉匹克球俱乐部
 * 南京五台山匹克球俱乐部
-* 成都 pick boom 匹克球俱乐部 pickboom
-* 成都 PANG 匹克球俱乐部 pang
-* 重庆市垫江匹克球俱乐部
-* 武汉 Layeehub 來嘢匹克球俱乐部
-* 广州锦尚匹克球俱乐部
-* 深圳竞芳匹克球俱乐部
-* 深圳 SunTao 匹克球俱乐部（宝安区）
-* 福州 BONS 匹克球俱乐部
-* 佛山 EcoPickle 匹克球俱乐部
+* 成都 pick boom匹克球俱乐部 pickboom
+* 成都PANG匹克球俱乐部 pang
+* 成都奥林匹克球俱乐部
+* 重庆市垫江匹克球俱乐部：重庆市垫江县桂溪街道垫江县体育场
+* 武汉Layeehub來嘢匹克球俱乐部
+* 广州迷彩匹克球俱乐部：广州市从化区迷彩体育匹克球运动主题馆
+* 广州锦尚匹克球俱乐部：广州市花都区新华街道锦尚名苑小区
+* 珠海市横琴匹克球俱乐部：珠海市香洲区横琴镇网球中心
+* 深圳竞芳匹克球俱乐部：深圳市福田区梅林街道中康公园
+* 深圳SunTao匹克球俱乐部（宝安区）
+* 福州BONS匹克球俱乐部
+* 福州杰森匹克球俱乐部
+* 佛山EcoPickle匹克球俱乐部
 
 ## 参考资料
 
