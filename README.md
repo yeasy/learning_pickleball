@@ -1,6 +1,6 @@
 # Learning Pickleball 学打匹克球
 
-**v1.5.1**
+**v1.5.2**
 
 ![Learning Pickleball](_images/cover.png)
 
@@ -12,7 +12,9 @@ The technology and playing style of pickleball are still being explored and deve
 
 The book is NOT for explaining the detailed game rules, and you may refer to the [official rules](https://usapickleball.org/what-is-pickleball/how-to-play/basics/rules-summary/).
 
-Each chapter is focused on a specific topic, players can learn them in order. Each skill may need several weeks' training to master. The last chapter summarizes the [Frequent Questions and Answers](20_faq_en.md). No commercial usage without authorization.
+Each chapter is focused on a specific topic, players can learn them in order. Each skill may need several weeks' training to master. The last chapter summarizes the [Frequent Questions and Answers](20_faq_en.md). 
+
+The book has been authorized to numbers of pickleball clubs and schools to use for education. No commercial usage without authorization.
 
 * [Read on Gitbook](https://yeasy.gitbook.io/learning_pickleball/01_background_en)
 * [Read on Github](https://github.com/yeasy/learning_pickleball/blob/main/SUMMARY.md)
@@ -26,7 +28,7 @@ Each chapter is focused on a specific topic, players can learn them in order. Ea
 
 每章围绕一项特定技术，学习者可以按照顺序依次训练。掌握每项技术可能需要几周时间。
 
-未经授权，禁止用于商业场景。
+本书已经授权全球数个俱乐部和学校培训匹克球使用。未经授权，禁止用于商业场景。
 
 * [在线阅读一](https://yeasy.gitbook.io/learning_pickleball/01_background_cn)
 * [在线阅读二](https://github.com/yeasy/learning_pickleball/blob/main/SUMMARY.md)
