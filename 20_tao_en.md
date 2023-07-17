@@ -71,3 +71,13 @@ The beginner understands.
 **Beginner** asks: Now I'm also a badminton expert, how can I improve quickly?
 
 **Master** says: Forget what you've learned.
+
+## Sports and Arts
+
+**Beginner** asks: Is there anything in common between sports and art?
+
+**Master** says: Yes, playing ball and playing the piano are similar.
+
+**Beginner** asks: Why do you say that?
+
+**Master** says: Both require good strikes, mastery of tempo changes, and patience.
