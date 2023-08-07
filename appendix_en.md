@@ -33,10 +33,11 @@ The basic courtesy rules include:
 ## Glossary
 
 * **Around The Post**: ATP, the player hits the ball from outside of the court (left side or right side), and let the ball land into the opponent court around the net post (not above the net).
+* **Bert**: Similar as Erne, but to hit (usually volley) a ball by jumping over the Non-Volley Zone at the partner side.
 * **Dink**: Hit a ball to let it fall down to the opponent’s front court area, from our front court area.
 * **Drop**: Hit a ball to let it fall down to the opponent’s front court area, from our middle or back court area.
 * **Double-Bounce Rule**: The player serves the ball, the opponent must wait for the ball to bounce before returning the ball (first bounce), and the receiver must wait for the ball to bounce again before returning the ball (second bounce).
-* **Erne**: Hit (usually volley) a ball by jumping around the Non-Volley Zone to the side of it.
+* **Erne**: Hit (usually volley) a ball by jumping over the Non-Volley Zone to the side of it.
 * **Fault**: Violation of rules and results the end of the rally.
 * **Groundstroke**: After the ball bounces from the ground, hit the ball.
 * **Lob**: Hit the ball to let it fly high and land to the back court, usually near the baseline.
@@ -46,6 +47,7 @@ The basic courtesy rules include:
 * **Side Out**：A team has finished all the serving opportunities, and switch to the opponent team to begin to serve.
 * **Stacking**: In doubles, regardless of the initial position, after serving or receiving, players move to form a fixed divisional position. For example, a player serves from the right half, but quickly run to the left of the court after serving.
 * **Transition Zone**: The middle part of the court, which the players need to transit when he comes to the NVZ from the back court.
+* **Tweener**: Hit the ball between the legs, usually with the back facing the opponent.
 * **Volley**: Hit the ball in the air before it touches the ground.
 
 ## References
