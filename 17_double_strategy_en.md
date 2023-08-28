@@ -42,8 +42,12 @@ It should be noted that the Dinking in front of the net usually is using the dia
 
 ## Key Points
 
-In double games, the cooperation of the players is often more important than the individual ability. Therefore, always communicate tactics with your partner. At the same time, if there is no good opportunity, the defense should be the first to avoid creating good attack opportunities for the opponent.
+In double games, the cooperation of the players is often more important than the individual ability. The two players should play as a whole, rather than simply each player responsible for half of the court.
 
-* Positioning: try to stay near the net to hit the ball, and try to keep the opponents in the back court;
-* Protection of the middle ball: The middle position protection between the two players should be negotiated in time. When both of them can return the ball well, the forehand player or the higher skill level player should have the priority to return.
+Typically, one of the two players should be the dominant attacker (usually the more capable player, such as a male player in mixed doubles) who will do most of the attacking, and the other should be the controller who will help defend and create offensive opportunities. The dominant player should take the initiative to deal with most of the shots, and the game controller should reset the opponent's offensive attempts and resolutely deny the opponent a good offensive opportunity.
+
+In addition, both sides should try to let the controller return the ball. If there is no good offensive opportunity, pay attention to the shot quality to avoid creating a good offensive opportunity for the opponent.
+
+* Positioning: try to stay near the net to hit the ball, and try to keep the opponents in the back court. The dominant attacker should cover at least 2/3 of the court, while the controller should pay attention to protect the sideline on his/her side;
+* Protection of the middle ball: The middle position protection between the two players should be negotiated in time. When both can return the ball well, the forehand player or the higher skill level player should have the priority to return.
 * Protection of the backcourt ball: The backcourt ball should be handled by the one close to the backcourt or the one with faster footwork to catch the ball.
