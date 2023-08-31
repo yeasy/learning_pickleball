@@ -22,7 +22,7 @@ Consider using Spin in the following scenarios:
 * Volley: Use spins to cause the opponent to fail to return the ball;
 * ATP: Use side spin to let the ball land into the court from outside.
 
-Pay attention that when adding spin to the ball, because part of the energy turns into the rotation instead of flight speed, the ball usually flies slower than normal. Therefore, when you want to let the ball move very quickly, try to use as little spin as possible.
+Pay attention that when adding spin to the ball, because part of the energy turns into the rotation instead of flight speed, the ball usually flies slower than normal. And it will take longer time to swing the paddle. Therefore, when you want to let the ball fly very fast or return quickly, try to use as little spin as possible.
 
 ## Understand Spin
 
