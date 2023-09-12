@@ -36,7 +36,7 @@ A pickleball court is the same size as a badminton court. Therefore, it is very 
 
 ![Pickelball Court](_images/pickleball-court.png)
 
-Pickleball scoring is similar to badminton, but only the serving team can score points during their round.
+Pickleball scoring is similar to the old rules in badminton, and only the serving team can score points if they win their round.
 
 Taking doubles as an example, each game has 11 points, and each player on the serving side has one chance to serve (In total two chances for each side). After serving, the opponent receives the serve and returns, and the serving party hits the ball to the opposite side. From the fourth shot,  players can either hit groundstroke or volley the ball that has not landed. If the serving team scores in this round, then switch sides with teammates and continue serving, otherwise the teammate will continue to serve. Only serving team can score points if they win the round, and the receiving team will not get points even win.
 
