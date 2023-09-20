@@ -92,7 +92,8 @@ The handling of the middle-position ball requires players to negotiate the princ
 
 * Let **forehand position player** handle: The power and angle of the forehand shots tend to be better;
 * Let **higher level player** handle: Higher level player usually has better stability and force;
-* Let **male player** handle (in mixed double games): Male player is usually better in strength and speed, and is usually responsible for 2/3 or more of the courts in mixed doubles.
+* Let **male player** handle (in mixed double games): Male player is usually better in strength and speed, and is usually responsible for 2/3 or more of the courts in mixed doubles;
+* Let **diagonal player** handle: Usually the diagonal player has a better angle to return the ball, hence players can take this principle if the two players are of the same level.
 
 You can also use shouting to do a quick communication. For example, a more confident player can call out “Me” to return the ball.
 
