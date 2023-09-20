@@ -81,3 +81,9 @@ The beginner understands.
 **Beginner** asks: Why do you say that?
 
 **Master** says: Both require good strikes, mastery of tempo changes, and patience.
+
+## Impossible Triangle
+
+**Beginner** asks: Is there an impossible triangle in pickleball?
+
+**Master** says: Power, speed and control are the impossible triangle of most competitive sports.
