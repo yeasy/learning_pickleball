@@ -87,3 +87,17 @@ The beginner understands.
 **Beginner** asks: Is there an impossible triangle in pickleball?
 
 **Master** says: Power, speed and control are the impossible triangle of most competitive sports.
+
+## Watch Games
+
+**Beginner** asks: When I watch professional game, why does it seem so easy?
+
+**Master** says: Go play pickleball, and come back to me in a year.
+
+**Beginner** asks after a year: The game is too complicated. It turns out that every move of a professional athlete is so subtle and full of wisdom.
+
+**Master** says: Go learn how to play pickleball and come back to me in a year.
+
+**Beginner** asks again a year later: I feel it is very simple now, and it seems like it should be like this.
+
+**Master** says: You got it.
