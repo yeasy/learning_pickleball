@@ -14,7 +14,7 @@ Rating | Level | Definition
 5.0 | Professional | No longer stick to specific skills; Able to control the game rhythm; Naturally control the ball's placement, speed, and rotation.
 5.5+ | Vocational | Build a systematic understanding of pickleball theory and skills; Often win medals in professional tournaments.
 
-## Courtesy Rules
+## Court Etiquette
 
 Players should actively participate in the competition with a civilized attitude, and enjoy the fun of sports while competing for victory.
 
