@@ -30,9 +30,7 @@ Before hitting the ball, you should stand close to the NVZ line, lower the body 
 
 There are several ways to hit the Dink, the easiest and most efficient way is to push the ball.
 
-When pushing the ball, you should keep your wrist relatively fixed, stabilize the paddle surface, and send the ball from the forearm directly without swinging the arm, so that the ball falls to the target landing point. In order to stabilize the ball's trajectory, the paddle should continue to follow the ball's movement for about a foot after hitting the ball. The ball should be pushed mainly with hit, do not deliberately create spin.
-
-When dinking for defense, the ball's landing point should be in the first half of the NVZ to avoid the opponent's attack; in order to mobilize the opponent, the ball can also be placed near the NVZ line (e.g, the side corners) or to the opponent's feet.
+When pushing the ball, it's important to keep the wrist firm and control the paddle angle to ensure it's stable and pointing towards the space above the net. There is no need to draw back the paddle before hitting; instead, use your shoulder as the pivot and your arm to directly apply force forward, hitting the ball to the intended spot. To ensure a stable trajectory of the ball, continue to push the paddle forward for about 30 cm after the hit. Focus on the hitting action when pushing the ball and avoid deliberately creating spin. After the shot, quickly return to the ready position with the paddle in front of your chest.
 
 After mastering the basic push Dink, you can appropriately add spin to make it more difficult for a high-quality return, including:
 
@@ -43,6 +41,8 @@ After mastering the basic push Dink, you can appropriately add spin to make it m
 ![Trajectories Using Various Spins](_images/spin-trajectory.png)
 
 After mastering spins, the player should practice how to Dink with different spins using the same motion.
+
+When dinking defensively, aim to place the ball in the front half of the non-volley zone to prevent your opponent's attack. When proactively moving your opponent around, you can hit the ball to areas far from them (such as the outer corners of the non-volley zone line) or at their feet, forcing them to move. Additionally, you can try delivering a half-long ball, making it difficult for the opponent to decide whether to volley the ball directly or wait for it to bounce before hitting.
 
 ## Training Methods
 
