@@ -4,7 +4,7 @@ Pickleball, as an emerging sport born in the 1960s, has swept North America and 
 
 Pickleball combines the skills of tennis, badminton, table tennis and other sports. It is fun to play, easy to learn, and moderate in intensity, and it is not easy to be injured. It can be described as suitable for all ages. Anyone in their 70s or 80s, or children in their teens, can participate.
 
-## Origin of Pickleball
+## Origin and Development
 
 In the summer of 1965, the pickleball was invented by Congressman Joel Pritchard (1925 ~ 1997) and his friends Bill Bell (1923 ~ 2006) and Barney McCallum (1926 ~ 2019) while vacationing on Bainbridge Island in Seattle, USA.
 
@@ -14,8 +14,10 @@ The inventors of the Pickleball are keen on playing badminton and tennis, but du
 
 Once the sport was launched, it was loved by the locals and spread quickly. Pickleball got its name from the local rowing games, where a "Pickle Boat" is a crew of leftover rowers that no one wanted and is often the last boat in the race.
 
-Till the year 1990, all 50 states in USA have pickleball players. In 2010, International Federation of Pickleball (IFP) was founded to help promote the sport around the world.
- 
+Till the year 1990, all 50 states in USA have pickleball players. 
+
+In 2010, the International Federation of Pickleball (IFP) was officially established, dedicated to promoting the sport of pickleball around the world. In 2018, the World Pickleball Federation (WPF) was also officially established with a similar hope of advancing the development of pickleball. In October 2023, the Olympic Committee announced the acceptance of nine new sports for the 2028 Olympics, which did not include pickleball. In November, the Global Pickleball Federation (GPF) was formed as a unified international pickleball organization to promote the global development of pickleball and to ensure that pickleball becomes an official event at the 2032 Olympic Games.
+
 To commemorate the invention of the pickleball, the World Pickleball Championship since 2017 named its trophy the "Bainbridge Cup". It has been held successively in Spain, Italy, Germany, the United States, India and other countries.
 
 ## Ball and Paddle
