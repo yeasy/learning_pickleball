@@ -38,6 +38,10 @@ Typical footwork scenarios in single games include:
 
 ## Master Footwork
 
+Usually a complete footwork can be divided into four key phases: starting, movement, braking and recovery.
+
+Starting means that the athlete quickly adjusts the body to a ready state through skipping steps for movement. Movement means quickly moving your body into the best hitting position. Braking refers to decelerating the body to balance as quickly as possible and adjusting it to a relatively stationary state for hitting the ball. Recovery means to quickly move to a suitable position on the court after completing the shot to prepare for the next shot.
+
 First, you should understand the characteristics of the various footwork and their suitable scenarios, so as to achieve a natural response.
 
 Secondly, if you want to move fast with footwork, you must learn to control and adjust the height of your body's mass center. When the center of mass is high, the body can move fast, but is not stable. Therefore, when moving a long distance, it is necessary to quickly raise the center of mass by starting steps first. When you are ready to hit the ball, adjust the body’s mass center and maintain a stable hitting position.
