@@ -8,7 +8,7 @@ The purpose of footwork is to leave enough time and space for the body to hit th
 
 ## Footwork Types
 
-Common footwork includes stride step, cross steps, jump step, and skip step.
+Common footwork includes stride step, cross steps, jump step, and split step.
 
 **Stride Steps** refers to the action of striding the legs out in the direction of motion. The stride is large and is generally used for the last step in running, which can help stabilize the body.
 
@@ -16,7 +16,7 @@ Common footwork includes stride step, cross steps, jump step, and skip step.
 
 **Jumping Steps** to the action of moving quickly by jumping. The jumping speed is the fastest and the moving distance is the largest. It is generally used in the situation when you do not have enough time to hit the ball by running. You need to stabilize the body as soon as possible after landing.
 
-**Skiping Steps** are small jumps to quickly adjust the body to prepare to hit the ball or prepare to move.
+**Split Steps** are small jumps to quickly open feet to low the position, and adjust the body to prepare to hit the ball or to move.
 
 Single game player has a larger running range and can use the Cross or Stride steps mainly with the running movements. In doubles games, the players covered range is mostly not far, hence players can more Cross or Skipping steps, and pay attention to properly lowering the body and improve the stability for the shot.
 
@@ -40,7 +40,7 @@ Typical footwork scenarios in single games include:
 
 Usually a complete footwork can be divided into four key phases: starting, movement, braking and recovery.
 
-Starting means that the athlete quickly adjusts the body to a ready state through skipping steps for movement. Movement means quickly moving your body into the best hitting position. Braking refers to decelerating the body to balance as quickly as possible and adjusting it to a relatively stationary state for hitting the ball. Recovery means to quickly move to a suitable position on the court after completing the shot to prepare for the next shot.
+Starting means that the athlete quickly adjusts the body to a ready state through split steps for movement. Movement means quickly moving your body into the best hitting position. Braking refers to decelerating the body to balance as quickly as possible and adjusting it to a relatively stationary state for hitting the ball. Recovery means to quickly move to a suitable position on the court after completing the shot to prepare for the next shot.
 
 First, you should understand the characteristics of the various footwork and their suitable scenarios, so as to achieve a natural response.
 
