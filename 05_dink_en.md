@@ -42,7 +42,7 @@ After mastering the basic push Dink, you can appropriately add spin to make it m
 
 After mastering spins, the player should practice how to Dink with different spins using the same motion.
 
-When dinking defensively, aim to place the ball in the front half of the non-volley zone to prevent your opponent's attack. When proactively moving your opponent around, you can hit the ball to areas far from them (such as the outer corners of the non-volley zone line) or at their feet, forcing them to move. Additionally, you can try delivering a half-long ball, making it difficult for the opponent to decide whether to volley the ball directly or wait for it to bounce before hitting.
+When dinking defensively, aim to place the ball in the front half of the non-volley zone to prevent your opponent's attack. When proactively moving your opponent around, you can hit the ball to areas far from them (such as the outer corners of the non-volley zone line, or area between the two players in doubles) or at their feet, forcing them to move. Additionally, you can try delivering a half-long ball, making it difficult for the opponent to decide whether to volley the ball directly or wait for it to bounce before hitting.
 
 ## Training Methods
 
