@@ -151,3 +151,13 @@ In this extremely short 0.2 seconds, you need to judge the direction of the ball
 **Answer**: The key to avoid being penetrated by the opponent's ball is to improve the quality of your return.
 
 First, make sure your return is deep enough, as close to the baseline as possible. The deeper the return, the harder it will be for the opponent to hit the ball aggressively, and the slower the ball will travel to the net. Secondly, try to reduce the height of the returned ball as much as possible. The lower the ball is, the opponent needs to hit it upwards, and the harder it is to attack. In addition, if the consistency of the opponent's stroke is very good, e.g., he can use similar movements to hit the ball in a straight line and diagonally, then you can consider return the ball to the middle of the court, which can effectively limit the opponent's hitting angle scope. Finally, from a defensive point of view, if the quality of the opponent's ball is high and the ball is fast, you can consider slightly adjusting your position, such as standing half a step away from the non-volley area, to increase reaction time and the flexibility of handling of the ball.
+
+[Q15] Can you summarize the usage scenarios for various pickleball techniques?
+
+**Answer**: Based on the player's positioning, pickleball techniques can generally be categorized into three types: front court, mid-court, and back court techniques.
+
+**Front court** techniques are the relevant skills for net play and confrontation. This includes dink, volley, speed-up and reset, lob, smash, ATP, Bert, Erne, etc. These are the main elements in doubles play.
+
+**Mid-court** techniques occur as players move from the back court to the front court, and are the techniques to counter when being restricted to the mid-court by the opponent. This includes mid-to-back court drop, drive, volley, reset, etc. Mid-court play is often the most challenging.
+
+**Back court** techniques are related to playing near the baseline and include serve and return, drive, back court drop, defense, etc. Back court play is the foundation of good pickleball play. 
