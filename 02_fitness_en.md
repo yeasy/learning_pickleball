@@ -6,9 +6,9 @@ Therefore, both amateurs and professional athletes should pay attention to the i
 
 ## Warm Up
 
-The purpose of warming up is to activate the joints and associated muscles of the body to avoid injury. The joints determine the angle and range of motion, and the muscles protect the joints. Warm up should be carried out in the order from the whole to the local, from the large joints to the small joints.
+The purpose of warming up is to activate the joints and associated muscles of the body through dynamic stretch, which can improve the body’s mobility and avoid injury. The joints determine the angle and range of motion, and the muscles protect the joints. Warm up should be carried out in the order from the whole to the local, from the large joints to the small joints.
 
-Here are some common warm-up moves.
+Here are some common warm-up movements.
 
 * Activate waist by bending to front, back and side;
 * Activate shoulders and arms by moving up, down, and to the side;
@@ -18,7 +18,7 @@ Here are some common warm-up moves.
 
 ## Relax
 
-During intense exercise, muscle tissue will contract and relax rapidly, and this process may cause the originally neatly arranged muscle fibers to stagger and bend. If the muscles are in this state for a long time, they are prone to injury. The purpose of relaxation is to maintain muscle performance by relaxing and massaging muscle tissue to restore its fibers to a state of neat alignment.
+During intense exercise, muscle tissue will contract and relax rapidly, and this process may cause the originally neatly arranged muscle fibers to stagger and bend. If the muscles are in this state for a long time, they are prone to injury. The purpose of relaxation is to maintain muscle flexibility by relaxing the muscle tissue to restore its fibers to a state of neat alignment, which can be achived by static stretch.
 
 To achieve effective relaxation, it is important to focus on relaxing the larger muscle groups first, followed by the smaller muscles.
 
