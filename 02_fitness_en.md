@@ -2,7 +2,7 @@
 
 Sufficient warm-up and reasonable relaxation are the keys to avoid sports injuries and maintain long-term healthy sports. At the same time, sufficient physical fitness is also a prerequisite for high-level competition.
 
-Therefore, both amateurs and professional athletes should pay attention to the importance of warm-up, cool-down and physical training.
+Therefore, both amateurs and professional athletes should pay attention to the importance of warm-up (before playing), relax (after playing) and regular physical training.
 
 ## Warm Up
 
@@ -37,6 +37,7 @@ The sport requires a variety of physical qualities, including **strength** (powe
 
 * Kick the ground, turn the waist and swing the arms, 20 sets each, 3 sets;
 * Squat against the wall, 2 minutes each group, 3 groups;
+* Hip flexion exercises, 10 times, 3 sets;
 * Squatting without a wall, 1 minute each group, 3 groups;
 * Squat and up, 10 times, 3 sets;
 * Alternate leg lunges, 10 times, 3 sets;
