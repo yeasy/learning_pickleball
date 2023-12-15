@@ -19,7 +19,7 @@ To play pickleball well, you first need to learn various skills comprehensively 
 
 ## Tactics
 
-* If the opponent's footwork is poor, let him run more; if the opponent's reaction is fast, slow down the pace; if the opponent's near-net skill is good, try more lobs, otherwise, play more dinks.
+* If the opponent's footwork is poor, let him run more; if the opponent's reaction is fast, disrupt the pace; if the opponent's near-net skill is good, try more lobs, otherwise, play more dinks.
 * Return ball to an opponent in the backcourt, otherwise, to the weaker player.
 * Run to the net as soon as possible and keep the opponents in the backcourt.
 * If you don't know where to go, return the ball to the gap between the opponents.
@@ -32,3 +32,4 @@ To play pickleball well, you first need to learn various skills comprehensively 
 * Don't get into a groove. Adjust at any time according to the opponent.
 * Play fast against slow. Either be faster than the opponent, or make the opponent slower.
 * Those who can win the near-net battle will win the game, those who can control the rhythm will control the game.
+* Begin with the end in mind and induce the game progress with traps.
