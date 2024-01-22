@@ -14,8 +14,9 @@ To play pickleball well, you first need to learn various skills comprehensively 
 * The ball flying over waist in the midfield will go out in most cases.
 * For the battle in front of the net, use the forehand more for attack, and use the backhand more for defense.
 * Attack more in a straight direction, and defense in a cross direction.
-* Never play games before the correct action becomes your subconscious reaction.
+* During training, you should be focused and learn how to be quick; during tournament, you should be relaxed and remember to be slow as needed.
 * It is usually more effective to control the placement and the trajectory, rather than hit more powerful and more quickly.
+* Never play games before the correct action becomes your subconscious reaction.
 
 ## Tactics
 
