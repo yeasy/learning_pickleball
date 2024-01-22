@@ -45,7 +45,7 @@ Taking the driving a ball with right-handed as an example, when hitting the ball
 
 When preparing to hit the ball, push your right leg hard, turn your waist counterclockwise, and swing your arms at the same time. At this time, the force of kicking the ground and turning the waist is transmitted to the paddle through the swing of the arm. At the moment of hitting the ball, your fingers grasp the paddle tightly, which further increases the hitting power and stabilizes the paddle. Eventually, the power from the entire body hits the ball and sends it out. Now, the center of the body weight transfers to the left foot. Sequentially, turn the feet, legs, waist, torso, shoulder, upper arm, forearm, and hand in the order, and add force from each part step by step, and finally transfer the resultant force to the paddle.
 
-Note that in order to effectively transmit the power, the body parts (especially the arms and fingers) should begin from a relaxed state when turning the waist and swinging the arm, and then tightened suddenly when generating the power. From relaxing to tightening, you can generate a lot of power from small movements effectively.
+Note that in order to effectively transmit the power, the body parts (especially the arms and fingers) should begin from a relaxed state when turning the waist and swinging the arm, and then tightened suddenly when hitting the ball, and then relax after the hitting. From relaxing to tightening, you can generate a lot of power from small movements effectively.
 
 In situations such as dink or volley, you do not need to use the motions from legs or body, but the principle is the same. You still need to generate the power by tightening your fingers, and the power comes from the body.
 
