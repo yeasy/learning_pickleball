@@ -160,4 +160,12 @@ First, make sure your return is deep enough, as close to the baseline as possibl
 
 **Mid-court** techniques occur as players move from the back court to the front court, and are the techniques to counter when being restricted to the mid-court by the opponent. This includes mid-to-back court drop, drive, volley, reset, etc. Mid-court play is often the most challenging.
 
-**Back court** techniques are related to playing near the baseline and include serve and return, drive, back court drop, defense, etc. Back court play is the foundation of good pickleball play. 
+**Back court** techniques are related to playing near the baseline and include serve and return, drive, back court drop, defense, etc. Back court play is the foundation of good pickleball play.
+
+[Q16] How to improve the pickleball skills at different levels?
+
+**Answer**: Pickleball is a sport that pays great attention to skills and strategies. At different levels, players face different situations, and the key skills that need to be focused to train are different.
+
+![Skills of Different Level](_images/skills-level.png)
+
+Level 2.5-3.0 should focus on training serving and returning; level 3.0-3.5 should learn volleying and defense; level 3.5-4.0 should begin to master the drop; level 4.0-4.5 should focus on improving the dink and volley in front of the net; level 4.5-5.0 requires the ability to attack and reset in the near net battle; level 5.0-5.5 requires mastering efficient footwork; level 5.5 and above requires a strong mentality, reading the game and being able to adjust strategies in the tournaments.
