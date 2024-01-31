@@ -10,13 +10,13 @@ To play pickleball well, you first need to learn various skills comprehensively 
 * Adjust the rhythm of your breathing, and hit the ball when you exhale, which makes the ball more stable.
 * Drop is the far-net Dink; Dink is the near-net Drop. The first goal of both is not gifting an opportunity to the opponents.
 * The most effective way of Dink and Drop is to push, rather than to drive or to spin.
-* Lob must pass the opponent's top, and prepare to go to the net.
+* Lob must pass the opponent's top, and prepare to go to the net immediately.
 * The ball flying over waist in the midfield will go out in most cases.
 * For the battle in front of the net, use the forehand more for attack, and use the backhand more for defense.
-* Attack more in a straight direction, and defense in a cross direction.
+* Attack more in a straight direction, and defense more in a cross direction. Return in a cross direction for a straight attack, and vice versa.
 * During training, you should be focused and learn how to be quick; during tournament, you should be relaxed and remember to be slow as needed.
 * It is usually more effective to control the placement and the trajectory, rather than hit more powerful and more quickly.
-* Never play games before the correct action becomes your subconscious reaction.
+* Play less games before the correct action becomes your subconscious reaction.
 
 ## Tactics
 
@@ -33,4 +33,4 @@ To play pickleball well, you first need to learn various skills comprehensively 
 * Don't get into a groove. Adjust at any time according to the opponent.
 * Play fast against slow. Either be faster than the opponent, or make the opponent slower.
 * Those who can win the near-net battle will win the game, those who can control the rhythm will control the game.
-* Begin with the end in mind and induce the game progress with traps.
+* •	Begin with the end in mind, exhaust the opponents at your ease, and defeat the complication with simplification.
