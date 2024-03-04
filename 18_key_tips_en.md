@@ -7,7 +7,7 @@ To play pickleball well, you first need to learn various skills comprehensively 
 * Learn how to play hard first, then how to play softly, then play hard again. At last, master to play flexibly.
 * Being able to control power is more important than power itself. Controlling means that with the same gesture, you can generate different power, speed, placement and spin.
 * Ball follows the mind. You will see the trajectory before hitting the ball. The action of hitting the ball is just to implement it.
-* Adjust the rhythm of your breathing, and hit the ball when you exhale, which makes the ball more stable.
+* Adjust the breathing pace. Get to the ready position when you inhale, and hit the ball when you exhale, which will be more stable.
 * Drop is the far-net Dink; Dink is the near-net Drop. The first goal of both is not gifting an opportunity to the opponents.
 * The most effective way of Dink and Drop is to push, rather than to drive or to spin.
 * Lob must pass the opponent's top, and prepare to go to the net immediately.
