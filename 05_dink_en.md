@@ -44,6 +44,18 @@ After mastering spins, the player should practice how to Dink with different spi
 
 When dinking defensively, aim to place the ball in the front half of the non-volley zone to prevent your opponent's attack. When proactively moving your opponent around, you can hit the ball to areas far from them (such as the outer corners of the non-volley zone line, or area between the two players in doubles) or at their feet, forcing them to move. Additionally, you can try delivering a half-long ball, making it difficult for the opponent to decide whether to volley the ball directly or wait for it to bounce before hitting.
 
+## Speedup During Dink
+
+When the opponent’s dink is too high or too long, you can try to speedup to attack. With targeting to various positions, the defense challenge will be different, as shown in the figure below.
+
+* **Red Area**: Positions where the opponent is easy to defend or even counterattack, including most of the forehand position and the overhead area. Always avoid this area;
+* **Green Area**: Positions where it is difficult for the opponent to defend or form a high-quality return, including positions below the net, around the shoulder on the forehand, and farther area on the backhand. Try to target this area;
+* **Yellow Area**: Between the previous two areas, the opponent may form an effective defense. Prepare for the defense when attacking to this area.
+
+![Select the Targets to Attack](_images/attack-target.png)
+
+When attacking, you should try to target the green area first, and follow up to prepare to attack again when the opponent's return is poor.
+
 ## Training Methods
 
 Dink has high requirements on hand’s control. To adapt to different rhythms, you can improve Dink through the following training.
