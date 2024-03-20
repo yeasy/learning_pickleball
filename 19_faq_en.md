@@ -146,13 +146,13 @@ The distance of about 2 meters on both sides of the pickleball net is the non-vo
 
 In this extremely short 0.2 seconds, you need to judge the direction of the ball, move the position and swing the racket, which is almost an impossible task for ordinary people. Therefore, although the speed of the pickleball is not high, the reaction time required is extremely short, making the game even more intense than tennis, comparable to the intensity of badminton.
 
-[Q14] How can I avoid being shot through by the opponent from the back court while I am defending near the net in single games?
+## [Q14] How can I avoid being shot through by the opponent from the back court while I am defending near the net in single games?
 
 **Answer**: The key to avoid being penetrated by the opponent's ball is to improve the quality of your return.
 
 First, make sure your return is deep enough, as close to the baseline as possible. The deeper the return, the harder it will be for the opponent to hit the ball aggressively, and the slower the ball will travel to the net. Secondly, try to reduce the height of the returned ball as much as possible. The lower the ball is, the opponent needs to hit it upwards, and the harder it is to attack. In addition, if the consistency of the opponent's stroke is very good, e.g., he can use similar movements to hit the ball in a straight line and diagonally, then you can consider return the ball to the middle of the court, which can effectively limit the opponent's hitting angle scope. Finally, from a defensive point of view, if the quality of the opponent's ball is high and the ball is fast, you can consider slightly adjusting your position, such as standing half a step away from the non-volley area, to increase reaction time and the flexibility of handling of the ball.
 
-[Q15] Can you summarize the usage scenarios for various pickleball techniques?
+## [Q15] Can you summarize the usage scenarios for various pickleball techniques?
 
 **Answer**: Based on the player's positioning, pickleball techniques can generally be categorized into three types: front court, mid-court, and back court techniques.
 
@@ -162,10 +162,13 @@ First, make sure your return is deep enough, as close to the baseline as possibl
 
 **Back court** techniques are related to playing near the baseline and include serve and return, drive, back court drop, defense, etc. Back court play is the foundation of good pickleball play.
 
-[Q16] How to improve the pickleball skills at different levels?
+## [Q16] How to improve the pickleball skills at different levels?
 
 **Answer**: Pickleball is a sport that pays great attention to skills and strategies. At different levels, players face different situations, and the key skills that need to be focused to train are different.
 
 ![Skills of Different Level](_images/skills-level.png)
 
 Level 2.5-3.0 should focus on training serving and returning; level 3.0-3.5 should learn volleying and defense; level 3.5-4.0 should begin to master the drop; level 4.0-4.5 should focus on improving the dink and volley in front of the net; level 4.5-5.0 requires the ability to attack and reset in the near net battle; level 5.0-5.5 requires mastering efficient footwork; level 5.5 and above requires a strong mentality, reading the game and being able to adjust strategies in the tournaments.
+
+## [Q17] How to avoid sports injuries while playing pickleball?
+**Answer**: With the popularity of pickleball, related sports injuries have also increased, especially in joints such as knees, elbows, and wrists. To avoid sports injuries, you must **warm up before playing, relax after playing, standardize your movements, and play within your ability**. Before playing, you should fully warm up to improve joint lubrication; after playing, stretch and relax to restore muscle elasticity; in addition, you should learn the correct swing movements to reduce the risk of injury; finally, you should understand the limits of your body and do not exercise excessively or do movement that exceeds your physical limits.
