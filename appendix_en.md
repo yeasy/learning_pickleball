@@ -42,6 +42,7 @@ The basic courtesy rules include:
 * **Fault**: Violation of rules and results the end of the rally.
 * **Groundstroke**: After the ball bounces from the ground, hit the ball.
 * **Lob**: Hit the ball to let it fly high and land to the back court, usually near the baseline.
+* **Nasty Nelson**: When serving in doubles, serve the ball to hit the opponent's non-receiving player.
 * **Non-Volley Zone**: NVZ, also known as the Kitchen. Refers to the area between the net and the first line (included). It is considered a violation if the athlete's body or paddle touches the area (including the line) before and after a volley because of the volley action.
 * **Pickle**: The opponent did not score any points during the game. If the opponent doesn't even get a chance to serve, it's called a "Golden Pickle".
 * **Poach**: A player speeds up his movement to hit the ball on the partner’s side.
