@@ -55,7 +55,44 @@ The basic courtesy rules include:
 * **Tweener**: Hit the ball between the legs, usually with the back facing the opponent.
 * **Volley**: Hit the ball in the air before it touches the ground.
 
+
+## Common Misconceptions About Pickleball
+
+### Pickleball Is a Newly Invented Sport
+Pickleball was actually invented in 1965 and has nearly 60 years of history, which is much longer than many people think.
+
+### Pickleball Is Mainly Played by Older People
+In fact, the average age of pickleball's mainstream players is decreasing year by year, approaching 30 years old. More and more young people are joining this sport, enjoying the fun of competition and entertainment.
+
+### You Can't Get Injured Playing Pickleball
+Like any sport, pickleball carries a risk of injury, with people suffering from joint injuries, eye injuries, etc., every year. Necessary warm-ups, proper techniques, and appropriate equipment can reduce the risk of injury, but it should never be taken lightly.
+
+### Pickleball Is Slow
+In fact, the speed of a pickleball can be very fast, comparable to badminton and tennis. In high-level matches, especially during quick attacks near the net, the speed of the ball is astonishing, requiring extremely high reaction speed and skill.
+
+### Pickleball Is Easy to Learn
+Indeed, the basic rules of pickleball are relatively simple, but to play well, one needs to learn a lot of techniques, strategies, and undergo long-term training. It's easy to learn but hard to master.
+
+### Pickleball Does Not Require High Physical Fitness
+This view is completely wrong. Although recreational pickleball does not require much physical strength, professional matches, especially singles, require players to have good physical fitness, quick mobility, and sharp reaction speed, making it a sport with high physical demands.
+
+### Playing Pickleball Is Inexpensive
+Entry-level pickleball equipment is indeed relatively cheap, but pursuing professional-level gear can be costly, especially high-quality paddles and shoes. Additionally, considering the costs of professional courts, training, and participating in competitions, there is no end to the money one can spend.
+
+### Pickleball Can Only Be Played Outdoors
+Pickleball can be played both indoors and outdoors, and many places have specially designed indoor pickleball courts. It's important to note that there are different balls for outdoor and indoor play.
+
+### Equipment Used by Professional Athletes Is the Best
+The paddles used by professional athletes are not necessarily suitable for everyone. The choice of paddle depends on personal style. Moreover, the equipment used by professionals is often determined by their sponsors.
+
+### You Must Wait for the Ball to Bounce Before Entering the Non-Volley Zone
+In fact, this rule means that in the Non-Volley Zone, also known as the "kitchen," players cannot hit the ball before it bounces (volley). However, players can enter the Non-Volley Zone at any time.
+
 ## References
 
-* Official Pickleball Rules: https://usapickleball.org/what-is-pickleball/how-to-play/basics/rules-summary/.
-* International Federation of Pickleball: https://www.ifpickleball.org/.
+* USA Pickleball Rules: https://usapickleball.org/what-is-pickleball/how-to-play/basics/rules-summary;
+* USA Pickleball Association: https://usapickleball.org;
+* International Federation of Pickleball: https://www.ifpickleball.org;
+* Association of Pickleball Players: https://www.theapp.global;
+* Professional Pickleball Association: https://www.ppatour.com;
+* Major League Pickleball: https://www.majorleaguepickleball.net.

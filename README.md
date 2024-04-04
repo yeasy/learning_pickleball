@@ -1,6 +1,6 @@
 # Learning Pickleball 学打匹克球
 
-**v1.9.0**
+**v1.9.1**
 
 ![Learning Pickleball](_images/cover.png)
 
@@ -26,9 +26,9 @@ The book has been authorized to numbers of pickleball clubs and schools to use f
 
 每章围绕一项特定技术，学习者可以按照顺序依次训练。掌握每项技术可能需要几周时间。[常见问题解答](19_faq_cn.md)
 
-本书不侧重介绍匹克球的具体比赛规则，读者可以另行参考 [官方规则说明](https://usapickleball.org/what-is-pickleball/how-to-play/basics/rules-summary/)。
+本书不侧重介绍匹克球的具体比赛规则，读者可以另行参考相关规则手册。
 
-本书已经授权多家俱乐部和学校培训匹克球使用。未经授权，禁止用于商业场景。
+本书已经授权全球多家俱乐部和学校培训匹克球使用。未经授权，禁止用于商业场景。
 
 * [在线阅读一](https://yeasy.gitbook.io/learning_pickleball/01_background_cn)
 * [在线阅读二](https://github.com/yeasy/learning_pickleball/blob/main/SUMMARY.md)
