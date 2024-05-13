@@ -101,3 +101,13 @@ The beginner understands.
 **Beginner** asks again a year later: I feel it is very simple now, and it seems like it should be like this.
 
 **Master** says: You got it.
+
+## Harmony Between Player and Paddle
+
+**Beginner** asks: How can I achieve harmony between person and Paddle?
+
+**Master** replies: The Paddle flows in the palm.
+
+**Beginner** asks again: But sometimes I don't have enough time to execute the action, what should I do?
+
+**Master** replies: Move fluidly on the court.
