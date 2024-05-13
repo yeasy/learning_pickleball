@@ -106,7 +106,7 @@ The beginner understands.
 
 **Beginner** asks: How can I achieve harmony between person and Paddle?
 
-**Master** replies: The Paddle flows in the palm.
+**Master** replies: The Paddle flows and dances in the hand.
 
 **Beginner** asks again: But sometimes I don't have enough time to execute the action, what should I do?
 
