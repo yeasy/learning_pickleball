@@ -104,9 +104,9 @@ The beginner understands.
 
 ## Harmony Between Player and Paddle
 
-**Beginner** asks: How can I achieve harmony between person and Paddle?
+**Beginner** asks: How can I achieve harmony with my paddle?
 
-**Master** replies: The Paddle flows and dances in the hand.
+**Master** replies: Let the paddle flow and dance in the hand.
 
 **Beginner** asks again: But sometimes I don't have enough time to execute the action, what should I do?
 
