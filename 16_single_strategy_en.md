@@ -30,7 +30,8 @@ Once the player is suppressed to the backcourt, it is at a big disadvantage. At 
 
 ## Key Points
 
-The key to a singles game is to control the rhythm, so try to let the other side run as much as possible, and keep the body stable as much as possible. In addition, you should take the initiative to attack when you have the opportunity.
+The key to a singles match is to control the rhythm, so try to let the opponent move as much as possible, while you try to maintain a stable position. In addition, you should go to the net as quickly as possible when you have the opportunity, while pushing the opponent to stay at the backcourt.
 
-* Drive Usage: In singles, there are many usages of driving the ball, and it is necessary to precisely control the landing point of the ball. It must not be intercepted comfortably by the opponent in front of the net, otherwise it is easy to become passive;
-* Angle control: Use a wide angle to let the opponent move as much as possible, and at the same time avoid pushing the ball too long to be out.
+* Defense at the net: After receiving the serve, you must go to the net as soon as possible to block the opponent's 3rd shot. Pay attention to defending wide-angle placement on both sides;
+* Control the placement: It’s very important to accurately control the placement of the ball. Any drive must pass the opponent's interception area in front of the net, otherwise it is easy to be blocked;
+* Use angles: Use more angles when attacking, such as the backhand position. At the same time, mobilize the opponent to run first, and be careful to avoid returning the ball too long and going out of bounds.
