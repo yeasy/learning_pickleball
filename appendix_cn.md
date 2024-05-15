@@ -87,7 +87,6 @@
 ### 误区十：非截击区要等球落地才能进入。
 事实上，这个规则是指在非截击区（Non-Volley Zone），也就是常说的“厨房”区域，球员不能在球落地前击球（截击，Volley）。但球员可以在任何时候进入非截击区。
 
-
 ## 参考资料
 
 * 美国匹克球规则：https://usapickleball.org/what-is-pickleball/how-to-play/basics/rules-summary；
