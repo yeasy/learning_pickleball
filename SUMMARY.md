@@ -20,7 +20,7 @@
 * [Chapter 18 - Key Tips](18_key_tips_en.md)
 * [Chapter 19 - Frequent Questions and Answers](19_faq_en.md)
 * [Chapter 20 - Tao of Pickleball](20_tao_en.md)
-* [Chapter 21 - Top Secrets of Pickleball](20_secret_en.md)
+* [Chapter 21 - Top Secrets of Pickleball](21_secret_en.md)
 * [Appendix](appendix_en.md)
 
 # 学打匹克球
