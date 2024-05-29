@@ -1,10 +1,10 @@
 # Learning Pickleball | 学打匹克球
 
-**v1.9.9**
+**v2.0.0**
 
 ![Learning Pickleball](_images/cover.png)
 
-This book has bilingual versions of [English](https://github.com/yeasy/learning_pickleball/releases/download/v1.9.0/learning_pickleball-v1.9.0-en.pdf) and [Chinese](https://github.com/yeasy/learning_pickleball/releases/download/v1.9.0/learning_pickleball-v1.9.0-cn.pdf). 本书提供 [中文版本](https://github.com/yeasy/learning_pickleball/releases/download/v1.9.0/learning_pickleball-v1.9.0-cn.pdf) 和 [英文版本](https://github.com/yeasy/learning_pickleball/releases/download/v1.9.0/learning_pickleball-v1.9.0-en.pdf)。
+This book has bilingual versions of [English](https://github.com/yeasy/learning_pickleball/releases/download/v2.0.0/learning_pickleball-v2.0.0-en.pdf) and [Chinese](https://github.com/yeasy/learning_pickleball/releases/download/v2.0.0/learning_pickleball-v2.0.0-cn.pdf). 本书提供 [中文版本](https://github.com/yeasy/learning_pickleball/releases/download/v2.0.0/learning_pickleball-v2.0.0-cn.pdf) 和 [英文版本](https://github.com/yeasy/learning_pickleball/releases/download/v2.0.0/learning_pickleball-v2.0.0-en.pdf)。
 
 Pickleball is an emerging sport that is becoming more and more popular all over the world. It combines many appealing features from tennis, badminton, table tennis and other sports. It has the advantages of easy to begin, moderate in movement and interesting for entertainment, which attract more and more enthusiasts.
 
@@ -30,6 +30,6 @@ The book has been authorized to numbers of pickleball clubs and schools to use f
 
 本书已经授权全球多家俱乐部和学校培训匹克球使用。未经授权，禁止用于商业场景。
 
-* [在线阅读一](https://yeasy.gitbook.io/learning_pickleball/01_background_cn)
+* [在线阅读一](https://yeasy.gitbook.io/learning_pickleball)
 * [在线阅读二](https://github.com/yeasy/learning_pickleball/blob/main/SUMMARY.md)
 * [下载 PDF 版本](https://github.com/yeasy/learning_pickleball/releases/)
