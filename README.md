@@ -1,6 +1,6 @@
 # Learning Pickleball | 学打匹克球
 
-**v2.0.0**
+**v2.1.0**
 
 ![Learning Pickleball](_images/cover.png)
 
