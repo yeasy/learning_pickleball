@@ -21,6 +21,7 @@
 * [Chapter 19 - Frequent Questions and Answers](19_faq_en.md)
 * [Chapter 20 - Tao of Pickleball](20_tao_en.md)
 * [Chapter 21 - Top Secrets of Pickleball](21_secret_en.md)
+* [Chapter 22 - Pickleball Terminologies](22_terminologies_en.md)
 * [Appendix](appendix_en.md)
 
 # 学打匹克球
@@ -46,4 +47,5 @@
 * [第 19 章 - 常见问题与解答](19_faq_cn.md)
 * [第 20 章 - 匹克球之道](20_tao_cn.md)
 * [第 21 章 - 匹克球九阴真经](21_secret_cn.md)
+* [第 22 章 - 匹克球术语](22_terminologies_cn.md)
 * [附录](appendix_cn.md)
