@@ -30,51 +30,6 @@ The basic courtesy rules include:
 * When the other side scores, encourage them appropriately; when the other side loses points, it is not advisable to celebrate vigorously;
 * In recreational games, try to avoid hitting to the opponent's head, neck and other vulnerable parts when smashing the ball in front of the net. 
 
-## Glossary
-
-* **Around The Post**: ATP, the player hits the ball from outside of the court (left side or right side), and let the ball land into the opponent court around the net post (not above the net).
-* **Back Spin**: Making the ball spin backward by chopping it with the paddle.
-* **Bert**: Similar as Erne, but to hit (usually volley) a ball by jumping over the Non-Volley Zone at the partner side.
-* **Block**: Using the paddle to block the opponent's shot, causing it to fall into the opponent's court.
-* **Crosscourt**: Hitting the ball diagonally into the opponent's opposite side.
-* **Doubles**: A format where each team consists of two players.
-* **Dink**: Hit a ball to let it fall down to the opponent’s front court area, from our front court area.
-* **Drive**: By hitting the ball hard, let the ball fly quickly to the opponent's court. Usually hit from the mid court of back court.
-* **Drop**: Hit a ball to let it fall down to the opponent’s front court area, from our middle or back court area.
-* **Double-Bounce Rule**: The player serves the ball, the opponent must wait for the ball to bounce before returning the ball (first bounce), and the receiver must wait for the ball to bounce again before returning the ball (second bounce).
-* **Erne**: Hit (usually volley) a ball by jumping over the Non-Volley Zone to the side of it.
-* **Fault**: Violation of rules and results the end of the rally.
-* **Game Point**: The last point needed by one side to win a game.
-* **Groundstroke**: After the ball bounces from the ground, hit the ball.
-* **Half-Volley**: Hitting the ball immediately after it bounces, usually used in the dinking play.
-* **Let**: A serve that touches the net but lands in the correct service area, in singles, this usually requires a re-serve.
-* **Lob**: Hit the ball to let it fly high and land to the back court, usually near the baseline.
-* **Match Point**: The last point needed by one side to win the entire match.
-* **Mixed Doubles**: A doubles format with one male and one female player on each team.
-* **Nasty Nelson**: When serving in doubles, serve the ball to hit the opponent's non-receiving player.
-* **Non-Volley Zone**: NVZ, also known as the Kitchen. Refers to the area between the net and the first line (included). It is considered a violation if the athlete's body or paddle touches the area (including the line) before and after a volley because of the volley action.
-* **Overhead**: A hit made when the ball is above the head, often used for a smash.
-* **Pickle**: The opponent did not score any points during the game. If the opponent doesn't even get a chance to serve, it's called a "Golden Pickle".
-* **Poach**: A player speeds up his movement to hit the ball on the partner’s side.
-* **Rally**: After serving, players continue to hit the ball to the opponent until there's a fault to end.
-* **Rally Scoring**: A scoring system where points can be won by either the serving or receiving side.
-* **Reset**: Gently hitting the ball into the non-volley zone, preventing the opponent from attacking.
-* **Return**: Returning a serve or generally hitting the ball back into the opponent's court.
-* **Sandbagging**: Players (deliberately) to play at a lower level game than they really are.
-* Serve: Starting a rally by hitting the ball into the opponent's court.
-* **Shake and Bake**: In double games, one player hits the third shot by driving the ball, and his partner attacks the return after moving to the net quickly.
-* **Side Out**：A team has finished all the serving opportunities, and switch to the opponent team to begin to serve.
-* **Sideout Scoring**: A scoring system where only the serving side can score points. The receiving side gains the right to serve but not a point if they win the rally.
-* **Side Spin**: Making the ball spin sideways by chopping it with the paddle, including left spin and right spin.
-* **Singles**: A format where each team has only one player.
-* **Smash**: Forcefully hitting a high ball into the opponent's court, usually during a volley.
-* **Stacking**: In doubles, regardless of the initial position, after serving or receiving, players move to form a fixed divisional position. For example, a player serves from the right half, but quickly run to the left of the court after serving.
-* **Top Spin**: Making the ball spin forward by chopping it with the paddle.
-* **Transition Zone**: The middle part of the court, which the players need to transit when he comes to the NVZ from the back court.
-* **Tweener**: Hit the ball between the legs, usually with the back facing the opponent.
-* **Volley**: Hit the ball in the air before it touches the ground.
-
-
 ## Common Misconceptions About Pickleball
 
 ### Pickleball Is a Newly Invented Sport
