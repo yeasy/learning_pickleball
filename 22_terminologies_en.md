@@ -2,7 +2,7 @@
 
 * **Around The Post**: ATP, the player hits the ball from outside of the court (left side or right side), and let the ball land into the opponent court around the net post (not above the net).
 * **Backhand Roll**: A backhand shot where the wrist is rolled over the ball to impart spin and control.
-* **Back Spin**: Making the ball spin backward by chopping it with the paddle.
+* **Back Spin**: Making the ball spin backward by chopping its bottom with the paddle.
 * **Bert**: Similar as Erne, but to hit (usually volley) a ball by jumping over the Non-Volley Zone at the partner side.
 * **Block**: Using the paddle to block the opponent's shot, causing it to fall into the opponent's court.
 * **Body Bag**: A shot aimed directly at the opponent's body, making it difficult for them to return.
@@ -39,11 +39,11 @@
 * **Shake and Bake**: In double games, one player hits the third shot by driving the ball, and his partner attacks the return after moving to the net quickly.
 * **Side Out**：A team has finished all the serving opportunities, and switch to the opponent team to begin to serve.
 * **Sideout Scoring**: A scoring system where only the serving side can score points. The receiving side gains the right to serve but not a point if they win the rally.
-* **Side Spin**: Making the ball spin sideways by chopping it with the paddle, including left spin and right spin.
+* **Side Spin**: Making the ball spin sideways by brushing its side with the paddle, including left spin and right spin.
 * **Singles**: A format where each team has only one player.
 * **Smash**: Forcefully hitting a high ball into the opponent's court, usually during a volley.
 * **Stacking**: In doubles, regardless of the initial position, after serving or receiving, players move to form a fixed divisional position. For example, a player serves from the right half, but quickly run to the left of the court after serving.
-* **Top Spin**: Making the ball spin forward by chopping it with the paddle.
+* **Top Spin**: Making the ball spin forward by brushing it up with the paddle.
 * **Transition Zone**: The middle part of the court, which the players need to transit when he comes to the NVZ from the back court.
 * **Tweener**: Hit the ball between the legs, usually with the back facing the opponent.
 * **Volley**: Hit the ball in the air before it touches the ground.
