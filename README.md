@@ -1,6 +1,6 @@
 # Learning Pickleball | 学打匹克球
 
-**v2.2.1**
+**v2.2.2**
 
 ![Learning Pickleball](_images/cover.png)
 
@@ -14,7 +14,7 @@ Each chapter is focused on a specific topic, players can learn them in order. Ea
 
 The book is NOT for explaining the game rules, and you may refer to the [official rules](https://usapickleball.org/what-is-pickleball/how-to-play/basics/rules-summary/).
 
-The book has been authorized to numbers of pickleball clubs and schools to use for education. No commercial usage without authorization.
+The book has been authorized to [numbers of pickleball clubs and schools](https://github.com/yeasy/learning_pickleball/wiki/) to use for education. No commercial usage without authorization.
 
 * [Read on Gitbook](https://yeasy.gitbook.io/learning_pickleball/01_background_en)
 * [Read on Github](https://github.com/yeasy/learning_pickleball/blob/main/SUMMARY.md)
@@ -28,7 +28,7 @@ The book has been authorized to numbers of pickleball clubs and schools to use f
 
 本书不侧重介绍匹克球的具体比赛规则，读者可以另行参考相关规则手册。
 
-本书已经授权全球多家俱乐部和学校培训匹克球使用。未经授权，禁止用于商业场景。
+本书已经授权 [全球多家俱乐部和学校](https://github.com/yeasy/learning_pickleball/wiki/) 培训匹克球使用。未经授权，禁止用于商业场景。
 
 * [在线阅读一](https://yeasy.gitbook.io/learning_pickleball)
 * [在线阅读二](https://github.com/yeasy/learning_pickleball/blob/main/SUMMARY.md)
