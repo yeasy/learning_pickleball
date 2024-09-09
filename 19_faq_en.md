@@ -38,7 +38,7 @@ In ball games, athletes' "fast" and "slow" speeds are relative instead.
 
 First, look at the needed distance of movement, that is, the distance the player needs to move to do the shot. My absolute speed may be slower than yours, but I can predict and restrict your return path. In this case, I always hit the ball in front of the body; and you always have to run a few steps to catch the ball, then even if you move faster than me, it looks too slow.
 
-Second, look at the completion time, i.e., how long the player can complete the stroke. Good players can hit the ball when it's high, but the top players can sometimes wait for the ball to drop down and hit the ball at the end of the shot, and often with multiple possible paths to choose. This means that opponents cannot predict in advance, and there is much less time to reflect and move.
+Second, look at the completion time window, i.e., how long time the player can use to complete the return. Good players can hit the ball when it's high, but the top players can sometimes wait for the ball to drop down and hit the ball at the end of the shot, and often with multiple possible paths to choose. This means that opponents cannot predict in advance, and there is much less time to reflect and move.
 
 Lastly is the acceleration. Top athletes can control the tempo of the game. When you just get used to his "slow" batting rhythm, he can suddenly accelerate, and if you can't keep up, he will naturally feel faster.
 

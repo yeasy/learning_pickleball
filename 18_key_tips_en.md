@@ -31,6 +31,6 @@ To play pickleball well, you first need to learn various skills comprehensively 
 * Take advantage of one's own strengths and attack others' weaknesses; first stand undefeated, and then defeat opponents.
 * Footwork is more important than hand technique. Run into position before hitting.
 * Don't get into a groove. Adjust at any time according to the opponent.
-* Play fast against slow. Either be faster than the opponent, or make the opponent slower.
+* Hit to low from high, hit to back court from near net, hit at early stage against at late stage.
 * Those who can win the near-net battle will win the game, those who can control the rhythm will control the game.
-* •	Begin with the end in mind, exhaust the opponents at your ease, and defeat the complication with simplification.
+* Begin with the end in mind, exhaust the opponents at your ease, and defeat the complication with simplification.
