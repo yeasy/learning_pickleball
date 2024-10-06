@@ -5,6 +5,7 @@
 * **Back Spin**: Making the ball spin backward by chopping its bottom with the paddle.
 * **Bert**: Similar as Erne, but to hit (usually volley) a ball by jumping over the Non-Volley Zone at the partner side.
 * **Block**: Using the paddle to block the opponent's shot, causing it to fall into the opponent's court.
+* **Block Volley**: Using the paddle to lightly block the opponent's aggressive shot in the air, causing it to fall into the opponent's non-volley zone. It is often used for defensive resets.
 * **Body Bag**: A shot aimed directly at the opponent's body, making it difficult for them to return.
 * **Chicken Wing**: A defensive shot where the player uses their elbow in a bent position to block or return a shot, resembling the shape of a chicken wing.
 * **Crosscourt**: Hitting the ball diagonally into the opponent's opposite side.
@@ -18,6 +19,7 @@
 * **Game Point**: The last point needed by one side to win a game.
 * **Groundstroke**: After the ball bounces from the ground, hit the ball.
 * **Half-Volley**: Hitting the ball immediately after it bounces, usually used in the dinking play.
+* **Inside Out**: Swing the paddle inwards, but face the paddle outwards to hit the ball outwards.
 * **Let**: A serve that touches the net but lands in the correct service area, in singles, this usually requires a re-serve.
 * **Lob**: Hit the ball to let it fly high and land to the back court, usually near the baseline.
 * **Match Point**: The last point needed by one side to win the entire match.
