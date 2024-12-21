@@ -1,10 +1,10 @@
 # Learning Pickleball | 学打匹克球
 
-**v2.3.2**
+**v2.4.0**
 
 ![Learning Pickleball](_images/cover.png)
 
-This book has bilingual versions of [English](https://github.com/yeasy/learning_pickleball/releases/download/v2.0.0/learning_pickleball-v2.0.0-en.pdf) and [Chinese](https://github.com/yeasy/learning_pickleball/releases/download/v2.0.0/learning_pickleball-v2.0.0-cn.pdf). 本书提供 [中文版本](https://github.com/yeasy/learning_pickleball/releases/download/v2.0.0/learning_pickleball-v2.0.0-cn.pdf) 和 [英文版本](https://github.com/yeasy/learning_pickleball/releases/download/v2.0.0/learning_pickleball-v2.0.0-en.pdf)。
+This book has bilingual versions of [English](https://github.com/yeasy/learning_pickleball/releases/download/v2.4.0/learning_pickleball-v2.4.0-en.pdf) and [Chinese](https://github.com/yeasy/learning_pickleball/releases/download/v2.4.0/learning_pickleball-v2.4.0-cn.pdf). 本书提供 [中文版本](https://github.com/yeasy/learning_pickleball/releases/download/v2.4.0/learning_pickleball-v2.4.0-cn.pdf) 和 [英文版本](https://github.com/yeasy/learning_pickleball/releases/download/v2.4.0/learning_pickleball-v2.4.0-en.pdf)。
 
 Pickleball is an emerging sport that is becoming more and more popular all over the world. It combines many appealing features from tennis, badminton, table tennis and other sports. It has the advantages of easy to begin, moderate in movement and interesting for entertainment, which attract more and more enthusiasts.
 
@@ -12,7 +12,7 @@ The technology and playing style of pickleball are still being explored and deve
 
 Each chapter is focused on a specific topic, players can learn them in order. Each skill may need several weeks' training to master. And here is a quick list of [Frequent Questions and Answers](19_faq_en.md). 
 
-The book is NOT for explaining the game rules, and you may refer to the [official rules](https://usapickleball.org/what-is-pickleball/how-to-play/basics/rules-summary/).
+The book is NOT for explaining the game rules, and you may refer to the [official rules](https://usapickleball.org/what-is-pickleball/official-rules/).
 
 The book has been authorized to [numbers of pickleball clubs and schools](https://github.com/yeasy/learning_pickleball/wiki/) to use for education. No commercial usage without authorization.
 
@@ -22,7 +22,7 @@ The book has been authorized to [numbers of pickleball clubs and schools](https:
 
 匹克球是一项正在风靡全球的新兴运动，它融合了网球、羽毛球、乒乓球等运动的众多特点，具有上手容易、运动量适中、娱乐性强等优势，吸引了越来越多的爱好者。
 
-匹克球的技术和打法仍在探索发展。部分爱好者由于动作不规范，容易造成身体伤痛。结合北美匹克球的教学实践，本书系统讲解如何科学地学习匹克球，最终进阶到高级竞技水平。希望每位读者都可以强健体魄，避免伤痛，从运动中领略更多的乐趣。
+匹克球的技术和打法仍在快速发展。部分爱好者由于动作不规范，容易造成身体伤痛。结合北美匹克球的教学实践，本书系统讲解如何科学地学习匹克球，最终进阶到高级竞技水平。希望每位读者都可以强健体魄，避免伤痛，从运动中领略更多的乐趣。
 
 每章围绕一项特定技术，学习者可以按照顺序依次训练。掌握每项技术可能需要几周时间。[常见问题解答](19_faq_cn.md)
 
