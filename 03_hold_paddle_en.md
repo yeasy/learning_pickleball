@@ -19,6 +19,10 @@ The characteristics of the various styles are summarized as follows:
 
 Generally, the continental grip is recommended to use as a base, and fine-tuning can be made according to the specific situation.
 
+![Ready Position](_images/ready-position.png)
+
+After hitting the ball, the player should return to the ready position immediately, with the paddle in front of the body, the main hand holding the paddle, and the fingers of the other hand should lightly touch the surface of the paddle.
+
 When holding the paddle, the hand should be properly relaxed, and the palm should be left empty. If the most tightening holding is 10 points, it is enough to achieve 3 points.
 
 When using the forehand to do drive or drop, you can switch to Eastern style by little adjustment, and the index finger can be placed on the paddle surface to assist in feeling the angle of the paddle surface.
