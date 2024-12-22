@@ -10,6 +10,8 @@ Singles game players have to cover the entire court, hence will require more ski
 
 When serving the ball, the player should stand behind the baseline, and the ball should be served to the diagonal half court, a.k.a, from the NVZ line (Not included) to the baseline. Once the score has been called, the player must serve the ball within 10 seconds.
 
+![Pickleball Serve](_images/serve.webp)
+
 There are two kinds of servings: **Volley serve** and **Drop serve**. The volley serve is to throw the ball up and hit the ball to serve directly, and it is required to swing in an upward arc motion with a low hand (the contacting point of the paddle cannot be higher than the waist, and the paddle top cannot be above the wrist). The drop serve is to let the ball drop freely and hit the ball after it bounces from the ground. There is no restriction on the hitting position or swing direction with drop serve.
 
 Usually serve the ball as far as possible to let it land near the baseline (but not out), in order to hamper the opponent's return and slow down the moving to net.
