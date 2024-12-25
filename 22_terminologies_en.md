@@ -3,6 +3,7 @@
 * **Around The Post**: ATP, the player hits the ball from outside of the court (left side or right side), and let the ball land into the opponent court around the net post (not above the net).
 * **Backhand Roll**: A backhand shot where the wrist is rolled over the ball to impart spin and control.
 * **Back Spin**: Making the ball spin backward by chopping its bottom with the paddle.
+* **Baseline**: The line at the back of the court.
 * **Bert**: Similar as Erne, but to hit (usually volley) a ball by jumping over the Non-Volley Zone at the partner side.
 * **Block**: Using the paddle to block the opponent's shot, causing it to fall into the opponent's court.
 * **Block Volley**: Using the paddle to lightly block the opponent's aggressive shot in the air, causing it to fall into the opponent's non-volley zone. It is often used for defensive resets.
@@ -39,6 +40,7 @@
 * **Scorpion**: A high, defensive lob shot that resembles the curved tail of a scorpion, intended to give the player time to recover and reset the point.
 * **Serve**: Starting a rally by hitting the ball into the opponent's court.
 * **Shake and Bake**: In double games, one player hits the third shot by driving the ball, and his partner attacks the return after moving to the net quickly.
+* **Sideline**: The line at the side of the court.
 * **Side Out**：A team has finished all the serving opportunities, and switch to the opponent team to begin to serve.
 * **Sideout Scoring**: A scoring system where only the serving side can score points. The receiving side gains the right to serve but not a point if they win the rally.
 * **Side Spin**: Making the ball spin sideways by brushing its side with the paddle, including left spin and right spin.
