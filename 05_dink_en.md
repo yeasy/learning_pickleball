@@ -48,7 +48,17 @@ When dinking defensively, aim to place the ball in the front half of the non-vol
 
 ## Speedup During Dink
 
-When the opponent’s dink is too high or too long, you can try to speedup to attack. With targeting to various positions, the defense challenge will be different, as shown in the figure below.
+When the opponent’s dink is too high or too long, you can try to speedup to attack the opponent. 
+
+### When to Attack
+The key to a successful speedup attack is to choose the right time. If a wrong attack is made, it is often easy for the opponent to counterattack.
+So, here are the three good timings for starting a speedup attack:
+* The opponent's return is too high or too long: At this time, you can attack from top to bottom, forcing the opponent to make a mistake or retreat;
+* The opponent's position is unbalanced: At this time, you can force the opponent to have no time to return the ball or further lose position, creating a better attack opportunity;
+* Confidently to counterattack the opponent's return: At this time, you can actively induce the opponent's volley return and then counterattack. 
+
+### Attack Target Selection
+With targeting to various positions, the defense challenge will be different, as shown in the figure below.
 
 * **Red Area**: Positions where the opponent is easy to defend or even counterattack, including most of the forehand position and the overhead area. Always avoid this area;
 * **Green Area**: Positions where it is difficult for the opponent to defend or form a high-quality return, including positions below the net, around the shoulder on the forehand, and farther area on the backhand. Try to target this area;
@@ -56,7 +66,13 @@ When the opponent’s dink is too high or too long, you can try to speedup to at
 
 ![Select the Targets to Attack](_images/attack-target.png)
 
-When attacking, you should try to target the green area first, and follow up to prepare to attack again when the opponent's return is poor.
+The first principle of attack is to keep the ball going down after passing the net, so you should try to choose the green target area and follow up immediately to form a continuous attack.
+
+### How to Defense the Attack
+When the opponent suddenly speedup to attack during the dink in front of the net, there are two main ways to deal with it: counterattack and reset, which are suitable for different scenarios.
+* Counterattack: When the opponent's attack ball is slow, has a high trajectory, or moves upward after passing the net, you can easily counterattack downward;
+* Reset: When the opponent's speed ball is of high quality and moves downward after passing the net, reset is usually used, that is, using the opponent’s force to return the ball into the non-volley zone to interrupt the opponent's continuous offensive rhythm
+
 
 ## Training Methods
 
