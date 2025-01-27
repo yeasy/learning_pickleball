@@ -22,7 +22,7 @@ To commemorate the invention of the pickleball, the World Pickleball Championshi
 
 ## Ball and Paddle
 
-A pickleball ball is a hard plastic ball, slightly larger than a tennis ball, and is usually colored like yellow or orange. There are 26 to 40 circular holes with a diameter of around 1 cm on the spherical surface (there are differences between indoor and outdoor balls, the softer and lighter indoor ball has 26 holes, the hole diameter is larger and fly more slowly). The rotation of the ball is not too violent, and at the same time the elasticity is not great, making it fly relatively slowly in the air.
+A pickleball ball is a hard plastic ball, slightly larger than a tennis ball, and is usually colored like yellow or orange. The diameter is usually 2.87~2.97 inches and the weight is 0.78~0.935 ounces. There are 26 ~ 40 circular holes with a diameter of around 1 cm on the spherical surface (there are differences between indoor and outdoor balls, the softer and lighter indoor ball has 26 holes, the hole diameter is larger and fly more slowly). The rotation of the ball is not too violent, and at the same time the elasticity is not great, making it fly relatively slowly in the air.
 
 ![Various types of Pickleballs](_images/various-type-balls.png)
 
