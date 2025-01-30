@@ -10,15 +10,37 @@ In the summer of 1965, the pickleball was invented by Congressman Joel Pritchard
 
 ![The Born of Pickleball](_images/pickleball-born.png)
 
-The inventors of the Pickleball are keen on playing badminton and tennis, but due to the high entry threshold, their families cannot enjoy sports with them together. So they want to create a sport for all ages. On a summer Saturday, Joel Pritchard and his friend Bill Bell returned home from a round of golf to find that their family had nothing to do. There was an abandoned badminton court in the community, but they didn't have all the badminton equipment, so they improvised and hit a plastic ball with a hole in it with a table tennis racket. At first they played with a badminton net, but soon found that the net was lowered and played as a tennis ball. The plastic ball bounced very well on the asphalt. Later, Barney McCallum was also invited to join the game. The three refer to the badminton game at that time, and considering the convenience of family members who have no sports foundation to participate together, they formulated the game rules of pickleball.
+The inventors of the Pickleball are keen on playing badminton and tennis, but due to the high entry threshold, their families cannot enjoy sports with them together. So they want to create a sport for all ages. On a summer Saturday, Joel Pritchard and his friend Bill Bell returned home from a round of golf to find that their family had nothing to do. There was an abandoned badminton court in the community, but they didn't have all the badminton equipment, so they improvised and hit a plastic ball with a hole in it with a table tennis racket. At first they played with a badminton net, but soon found that the net was lowered and played as a tennis ball. The plastic ball bounced very well on the asphalt. Later, Barney McCallum was also invited to join the game. The three refer to the badminton game at that time, and considering the convenience of family members who have no sports foundation to participate together, they formulated the earliest game rules of pickleball. Interestingly, the name "pickleball" comes from a local rowing term. A "Pickle Boat" refers to a boat made up of rowers who were not selected by any team, usually finishing last in the race.
 
-Once the sport was launched, it was loved by the locals and spread quickly. Pickleball got its name from the local rowing games, where a "Pickle Boat" is a crew of leftover rowers that no one wanted and is often the last boat in the race.
+Over time, more and more people began to enjoy the sport. In 1967, the first dedicated pickleball court was built in Bob O’Brien’s backyard, marking the transition of pickleball from makeshift court markings to an independent sport.
 
-Till the year 1990, all 50 states in USA have pickleball players. 
+In 1968, Pritchard's son, David Pritchard, and a few friends recognized the commercial potential of the sport. They founded "Pickle-Ball Inc." and began manufacturing wooden paddles and complete pickleball equipment sets. In 1972, they successfully trademarked the name "Pickleball," officially transitioning it from a casual family game to a commercialized sport.
 
-In 2010, the International Federation of Pickleball (IFP) was officially established, dedicated to promoting the sport of pickleball around the world. In 2018, the World Pickleball Federation (WPF) was also officially established with a similar hope of advancing the development of pickleball. In October 2023, the Olympic Committee announced the acceptance of nine new sports for the 2028 Olympics, which did not include pickleball. In November, the Global Pickleball Federation (GPF) was formed as a unified international pickleball organization to promote the global development of pickleball and to ensure that pickleball becomes an official event at the 2032 Olympic Games.
+In the spring of 1976, the first known pickleball tournament was held at the South Center Athletic Club in Tukwila, Washington. Many participants were college tennis enthusiasts, and they used wooden paddles for the competition.
 
-To commemorate the invention of the pickleball, the World Pickleball Championship since 2017 named its trophy the "Bainbridge Cup". It has been held successively in Spain, Italy, Germany, the United States, India and other countries.
+By the 1980s, pickleball had gradually gained popularity across the United States. In 1984, the United States Amateur Pickleball Association (USAPA, now known as USA Pickleball) was established. That same year, the first official rulebook was published, further standardizing the sport.
+
+At the same time, paddle technology continued to evolve. In 1984, Arlen Paranto, a Boeing engineer, developed the first high-performance pickleball paddle using composite materials (fiberglass and a honeycomb core). The introduction of these materials made pickleball more professional and accelerated its development.
+
+By 1990, pickleball had spread to all 50 states in the U.S. Around 2000, the sport was introduced into school physical education programs, further expanding its audience.
+
+The real explosion in pickleball's growth began in the 2010s. As the baby boomer generation entered retirement, they sought a low-impact, easy-to-learn, and socially engaging sport—pickleball perfectly met these needs. Retirement communities in states like Florida and Arizona became the first core hubs for promoting pickleball.
+
+In 2010, with the support of USA Pickleball, the International Federation of Pickleball (IFP) was founded to promote the sport globally. It was later renamed the International Pickleball Federation (IPF).
+
+In 2016, the first U.S. Open Pickleball Championships were held in Naples, Florida, attracting around 800 professional players and 2,000 spectators, further pushing pickleball toward professionalization.
+
+In 2017, the first international pickleball tournament was held in Madrid, Spain. To honor the sport’s origins, the tournament’s trophy was named the "Bainbridge Cup." The event has since been hosted in Spain (2017), Italy (2018), Germany (2019), the U.S. (2021), and India (2022).
+
+Meanwhile, professional tournaments have been emerging rapidly. The Professional Pickleball Association (PPA) was established in 2017, followed by the Association of Pickleball Professionals (APP) in 2019 and Major League Pickleball (MLP) in 2021. These organizations have attracted numerous professional athletes and investors, including sports icons like LeBron James and Tom Brady, who have invested in pickleball clubs.
+
+In 2018, the World Pickleball Federation (WPF) was officially established, aiming to further promote the sport globally.
+
+In 2020, the COVID-19 pandemic halted most global sporting events, leading people to seek safe outdoor activities. With its small court size, low physical impact, and ease of maintaining social distance, pickleball quickly became one of the most popular sports during the pandemic. Data shows that the number of core pickleball players grew from 2.5 million in 2019 to over 13 million in 2023, with an annual growth rate of over 50%.
+
+In October 2023, the International Olympic Committee announced nine new sports for the 2028 Olympics, but pickleball was not included. However, in November 2023, the Global Pickleball Federation (GPF) was established as a unified international governing body to promote pickleball worldwide and ensure its inclusion in the 2032 Olympics.
+
+In November 2024, according to a report by the Sports & Fitness Industry Association, the U.S. had approximately 13 million pickleball enthusiasts, with the majority of players aged between 25 and 34.
 
 ## Ball and Paddle
 
@@ -56,8 +78,10 @@ The overall amount of activity in pickleball is moderate, but it has rich skills
 
 ## Status and Future
 
-According to a public report from Sports & Fitness Industry Association in 2023, there are nearly 9 million pickleball players in the United States (In comparison, tennis players are less than 20 million, badminton players are less than 1.5 million, and ping pong players are less than 1 million), and the number is growing at a rate of more than 20% per year. It is predicted that there will be around 40 million players in the year 2030. The Professional Pickleball Association (PPA) and Association of Pickleball Players (APP) hold 20 and 30 tournaments every year. The players in professional tournaments are usually with age between 14 years and 35 years.
+It is estimated that there are already 50 million pickleball enthusiasts in the United States (compared to fewer than 20 million for tennis, fewer than 1.5 million for badminton, and close to 1 million for table tennis), and the sport is growing at an annual rate of over 20%. Projections indicate that by 2030, the global pickleball player base will exceed 100 million. Additionally, the average age of players is rapidly decreasing, with most professional tournament participants now ranging from 14 to 35 years old.
 
-In addition to North America, the pickleball has also become very popular in Europe. Asian regions including China, Japan, India, Philippines, Singapore, Indonesia, Thailand, Malaysia, Bangladesh, Pakistan, have also begun to popularize and hold big tournaments. As of the end of 2022, over 60 countries around the world have joined the International Federation of Pickleball, hosting 12 international competitions. Pickleball is a performance sport at the 2024 Paris Olympics. It is believed that in the near future, the Pickleball will become an official event in the Olympic Games and other international events.
+Beyond North America, pickleball has also gained significant popularity in Europe. In Asia, the sport is becoming increasingly widespread, with countries such as China, Japan, India, the Philippines, Singapore, Indonesia, Thailand, Malaysia, Bangladesh, and Pakistan actively adopting and organizing tournaments.
+
+As of the end of 2022, more than 60 countries had joined the International Pickleball Federation, and 12 international tournaments had been held. It is widely believed that in the near future, pickleball will become an official event in the Olympics and other international competitions.
 
 In addition, as a sport suitable for all ages, pickleball has been increasingly valued by educational institutions, and more and more schools have set it up as a physical education course, with more than 500 schools in New York State alone. related courses. In other countries, more and more schools have set it as a curriculum. Pickleball helps to improve students' physical fitness, coordination and responsiveness. At the same time, the sense of teamwork and competition of pickleball can also cultivate students' social skills and team spirit.
