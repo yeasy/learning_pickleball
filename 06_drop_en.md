@@ -30,13 +30,13 @@ For example, advanced players often use drop in the third shot, in order to tran
 
 ## Master Drop
 
-When drop the ball, avoid returning the ball too far and too high, in which situation that the opponent can volley the ball or keep returning the ball to the back court easily.
+When executing a drop shot, it is important to avoid returning the ball too far or too high, as this could allow the opponent to intercept or continuously return deep shots.
 
-Compared with Dink, Drop shot needs to be hit at an earlier position and with more forward power. At the moment of hitting the ball, keep the body in a stable state to avoid shaking the paddle.After hitting the ball, the body moves forward following the hitting movement, and get ready to go to the net.
+Compared to a dink shot, the contact point for a drop shot is farther in front, with more forward force applied. The arm swing should be a low-to-high motion with a fixed wrist, ensuring maximum ball contact and using the arm to control direction. At the moment of touching the ball, the body should be in a stable position to prevent balance issues that could lead to shaky shots. After hitting the ball, the body naturally moves forward, preparing to follow up at the net.
 
-To avoid dropping the ball down to the net, the high point of the ball's flight path should be near and above the net.
+To avoid hitting the ball into the net, the highest point of its trajectory should be near the top of the net.
 
-When the quality of the drop shot is not high, you have to wait in the middle or backcourt and prepare to do drop again.
+If the quality of the drop shot is not high, do not rush forward. Instead, stay in the mid-to-backcourt, prepared to return the next shot.
 
 ## Training Methods
 
