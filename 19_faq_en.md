@@ -74,7 +74,7 @@ Typically, a pickleball paddle consists of several main components: paddle body 
 
 In general, no paddle fits everyone. The following parameters can be considered based on your level:
 
-* **Weight**: The heavier the paddle, the more it can avoid the vibration caused by hitting the ball, but the swing will be harder, which requires a better power. For beginners, it is recommended to consider paddles up to 8 oz (227 g) unless you have an excellent strength.
+* **Weight**: The heavier the paddle, the more it can avoid the vibration caused by hitting the ball, but the swing will be harder, which requires a better power. For beginners, it is recommended to consider paddles up to 8 oz (227 g) unless you have a very strong strength. In addition, pay attention to the difference between swing weight and twist weight. Generally, a lighter swing weight (100~120 $kg*cm^2$) makes the swing more flexible, while a heavier twist weight (>6.0 $kg*cm^2$) makes the shot more stable.
 * **Center of Mass**: The more forward the center of mass is, the more powerful the shot is, but it will be harder to control the paddle, which requires better hand sensitivity and higher power. Beginners are advised to consider a moderate paddle.
 * **Handle Length**: A longer handle usually means a larger hitting range, but it is more difficult to adjust the paddle, which requires better hand sensitivity and higher power. Beginners are advised to choose a handle with a moderate length.
 * **Handle Thickness**: A thicker handle handle is easier to exert force, but it is inconvenient to adjust the holding. For beginners, unless you have large hands, it is recommended to choose a thinner handle.
