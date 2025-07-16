@@ -8,13 +8,13 @@ This book has bilingual versions of [English](https://github.com/yeasy/learning_
 
 Pickleball is an emerging sport that is becoming more and more popular all over the world. It combines many appealing features from tennis, badminton, table tennis and other sports. It has the advantages of easy to begin, moderate in movement and interesting for entertainment, which attract more and more enthusiasts.
 
-The technology and playing style of pickleball are still being explored and developed. Some players got injuries due to wrong movements. Based on the teaching practice in the North America, this book will systematically introduce how to learn Pickleball efficiently and help you improve the competition skills to an advanced level, so that you can strengthen your body, avoid injuries, and enjoy more fun from the sport.
+The technology and playing style of pickleball are still being explored and developed. Some players get injured due to improper movements. Based on teaching practice in North America, this book will systematically introduce how to learn Pickleball efficiently and help you improve the competition skills to an advanced level, so that you can strengthen your body, avoid injuries, and enjoy more fun from the sport.
 
 Each chapter is focused on a specific topic, players can learn them in order. Each skill may need several weeks' training to master. And here is a quick list of [Frequent Questions and Answers](19_faq_en.md). 
 
 The book is NOT for explaining the game rules, and you may refer to the [official rules](https://usapickleball.org/what-is-pickleball/official-rules/).
 
-The book has been authorized to [numbers of pickleball clubs and schools](https://github.com/yeasy/learning_pickleball/wiki/) to use for education. No commercial usage without authorization.
+The book has been authorized for use by [numerous pickleball clubs and schools](https://github.com/yeasy/learning_pickleball/wiki/) for educational purposes. No commercial use without authorization.
 
 * [Read on Gitbook](https://yeasy.gitbook.io/learning_pickleball/01_background_en)
 * [Read on Github](https://github.com/yeasy/learning_pickleball/blob/main/SUMMARY.md)
