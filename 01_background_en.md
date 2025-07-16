@@ -60,7 +60,7 @@ The ground area within 7 feet (approximately 2.13 meters) on both sides of the n
 
 A pickleball court is the same size as a badminton court. Therefore, it is very convenient to raise the net to play badminton and lower it to play pickleball in the same field.
 
-![Pickelball Court](_images/pickleball-court.png)
+![Pickleball Court](_images/pickleball-court.png)
 
 Pickleball scoring is similar to the old rules in badminton, and only the serving team can score points if they win their round.
 
@@ -72,7 +72,7 @@ Pickleball combines elements of badminton, table tennis and tennis and is a comp
 
 Pickleball is quick to start, easy to control, moderate to run (not as high as tennis and badminton for jumping and running), etc. The reasons include: a) the court of pickleball is not large (smaller than tennis court); b) the weight of pickleball is relatively light (only more than 20 grams) and the ball does not bounce a lot; c) the paddle is light in weight and has a large hitting area. Therefore, pickleballs can be played in singles or doubles, indoor and outdoor venues, and are loved by people of different ages.
 
-![Pickelball is Loved by People of All Ages](_images/sport-lifecycle.png)
+![Pickleball is Loved by People of All Ages](_images/sport-lifecycle.png)
 
 The overall amount of activity in pickleball is moderate, but it has rich skills. In addition to drive, smash, drop, and slices, there are also volleys and lobs. The competition between the two sides is not only about strength or speed, but also about the control of the ball (which is often more important). In doubles, teamwork is especially critical. In pickleball games, one rally can last to tens of hits, there are not only the extremely fast attack like a storm, but also the softness with strength like Tai Chi, which is quite entertaining.
 
