@@ -27,7 +27,7 @@ Important tips for playing a high-quality ATP shot include:
 
 ## How to Defend
 
-When the opponent hits an ATP shot, his position is usually on the outside of the court, and the target of the ball is the edge of the court on the same side. At this time, you should adjust your position as soon as possible to prepare for defense. 
+When the opponent hits an ATP shot, his position is usually on the outside of the court, and the target of the ball is the edge of the court on the same side. At this time, you should adjust your position as soon as possible to prepare for defense.
 
 Key points include:
 

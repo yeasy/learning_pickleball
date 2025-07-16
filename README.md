@@ -10,7 +10,7 @@ Pickleball is an emerging sport that is becoming more and more popular all over 
 
 The technology and playing style of pickleball are still being explored and developed. Some players get injured due to improper movements. Based on teaching practice in North America, this book will systematically introduce how to learn Pickleball efficiently and help you improve the competition skills to an advanced level, so that you can strengthen your body, avoid injuries, and enjoy more fun from the sport.
 
-Each chapter is focused on a specific topic, players can learn them in order. Each skill may need several weeks' training to master. And here is a quick list of [Frequent Questions and Answers](19_faq_en.md). 
+Each chapter is focused on a specific topic, players can learn them in order. Each skill may need several weeks' training to master. And here is a quick list of [Frequent Questions and Answers](19_faq_en.md).
 
 The book is NOT for explaining the game rules, and you may refer to the [official rules](https://usapickleball.org/what-is-pickleball/official-rules/).
 
