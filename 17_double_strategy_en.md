@@ -6,7 +6,7 @@ Double games are common in pickleball, and the core part is the efficient collab
 
 The main process of double games is divided into two stages: a) **Move from the backcourt to the NVZ**, and b) **Battle near the net**.
 
-Suppose the two teams are A and B, respectively, including two players A1, A2, B1, B2. 
+Suppose the two teams are A and B, respectively, including two players A1, A2, B1, B2.
 
 A1 is serving, and B2 is standing in front of the net, as shown in the figure.
 

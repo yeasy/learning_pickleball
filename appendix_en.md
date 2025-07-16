@@ -28,7 +28,7 @@ The basic courtesy rules include:
 * When disturbed (if other balls enter the court), you should raise your hand and call for a pause. The score earned before the interference is valid;
 * Participate in the competition with a peaceful mind, and do not make too much noise to interfere with the game except for necessary low-voice communication with partner;
 * When the other side scores, encourage them appropriately; when the other side loses points, it is not advisable to celebrate vigorously;
-* In recreational games, try to avoid hitting to the opponent's head, neck and other vulnerable parts when smashing the ball in front of the net. 
+* In recreational games, try to avoid hitting to the opponent's head, neck and other vulnerable parts when smashing the ball in front of the net.
 
 ## Common Misconceptions About Pickleball
 
