@@ -40,7 +40,7 @@ To handle the spinning ball well, you must first understand the impact of differ
 
 In addition, to weaken the effect of spin, the simplest principle is to hit the ball in the same way as the player that creates the spin. For example, try to hit the bottom of the ball to catch a back spinning ball, and hit the ball up to avoid drop down to the net. If you use the drive to return the backs spinning ball, the pushing up more sufficiently than returning a non-spinning ball.
 
-Finally, you can hit the ball faster, to reduce the contact time between the ball and the paddle, which also reduces the impact of spin. 
+Finally, you can hit the ball faster, to reduce the contact time between the ball and the paddle, which also reduces the impact of spin.
 
 ## Training Methods
 

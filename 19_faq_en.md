@@ -22,7 +22,7 @@ Usually, you can try to take a step forward from the backcourt, while observing 
 
 It is quite popular to see that a very strong amateur player hits the ball with a big movements, but the returned ball is still not fast. But some professional player can hit a very quick ball with a small action.
 
-The reason here is the "effective force", that is, how much of the power from the body is transmitted to the ball. 
+The reason here is the "effective force", that is, how much of the power from the body is transmitted to the ball.
 
 Human body strength comes from muscle contraction from relax status, and the direction of power transmission is determined by joints. If the muscles are constantly tense or relax, force can no longer be generated; if the joints are constantly under stress, the transmission of force is hindered.
 
@@ -119,7 +119,7 @@ Finally, the **lack of training the IQ of playing**. Practicing hard may build u
 * **Awareness Gap**: Refers to the area where the opponent's awareness cannot cover. For example, the opponent predicts in advance that the return mostly goes to the backhand and prepare to move to the backhand position. At this moment, there is an awareness gap in the forehand position;
 * **Cooperation Gap**: Commonly used in double games. It refers to the difficult decision-making area by the opponent's two players, such as the area between the two players, or the area where both players can return the ball;
 * **Rhythm Gap**: This refers to the interval between the rhythms of returning the ball. For example, when the opponent intends to hit the ball, it does not come; but when they are not ready to hit, the ball suddenly arrives. Rhythm gaps can make it difficult for the opponent to return the ball consecutively, thereby increasing the likelihood of errors.
-* **Tactical Gap**: Refers to the area to move the opponents to achieve tactical goals. For example, return the ball to a position just out of reach of the opponent, or the opponent's return can be predicted easily, in order to create an attack opportunity. 
+* **Tactical Gap**: Refers to the area to move the opponents to achieve tactical goals. For example, return the ball to a position just out of reach of the opponent, or the opponent's return can be predicted easily, in order to create an attack opportunity.
 
 ## [Q11] Where should I look when hitting the ball?
 
@@ -136,7 +136,7 @@ For players of advanced level, they don't need to concentrate on the hitting pos
 * **Single Backhand**: More flexible to hold the paddle, a wide range of receiving the ball, and a large return angle, making it more difficult to be predicted by the opponent. The disadvantage is that it requires higher strength and often requires more back swing. At the same time, the hitting stability is poor and it is easy to make mistakes.
 * **Double Backhand**: Can generate more power and higher stability with shorter back swing. However, there are fewer variation potentials in hitting. The receiving range is smaller, and the returning angle is relatively limited.
 
-Players should choose an appropriate backhand according to their own preference. Usually, when to seek better power or stability, you can use double backhand. Otherwise, you can use single backhand to achieve better flexibility. 
+Players should choose an appropriate backhand according to their own preference. Usually, when to seek better power or stability, you can use double backhand. Otherwise, you can use single backhand to achieve better flexibility.
 
 ## [Q13] Why does the pickleball look slow but feels fast when played?
 **Answer**: The speed of the pickle ball is usually only between 40\~60 km/h (i.e., 10\~16 m/s), much lower than that of badminton, tennis, and even table tennis. But in fact, when playing pickleball, you will find that the speed of the ball is very fast, and sometimes there is no time to react.

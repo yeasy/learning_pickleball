@@ -1,6 +1,6 @@
 # Master Footwork
 
-Footwork is the soul of all ball sports. 
+Footwork is the soul of all ball sports.
 
 Excellent footwork allows players to always hit the ball in a comfortable position. Conversely, without good footwork, players have to hit the ball during moving, which causes more mistakes.
 
