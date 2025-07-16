@@ -1,6 +1,6 @@
 # Single Games strategy
 
-The singles game of pickleball requires the highest comprehensive ability. 
+The singles game of pickleball requires the highest comprehensive ability.
 
 It not only requires the player's running ability and hitting skills, but also demands the psychological quality and the ability to control the rhythm of the game.
 

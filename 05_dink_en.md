@@ -4,7 +4,7 @@ Dink is the most common confrontation technology of pickleball and it's also the
 
 ## What is Dink
 
-Dink refers to the action of placing the ball to the opponent's NVZ area. Usually the trajectory is flat, which goes over the net in a low position (within a ball height is good), and it falls into the front half of the opponent's NVZ area or near the NVZ line. 
+Dink refers to the action of placing the ball to the opponent's NVZ area. Usually the trajectory is flat, which goes over the net in a low position (within a ball height is good), and it falls into the front half of the opponent's NVZ area or near the NVZ line.
 
 ![Three Types of Dink Targets](_images/dink-target.png)
 
@@ -48,14 +48,14 @@ When dinking defensively, aim to place the ball in the front half of the non-vol
 
 ## Speedup During Dink
 
-When the opponent’s dink is too high or too long, you can try to speedup to attack the opponent. 
+When the opponent’s dink is too high or too long, you can try to speedup to attack the opponent.
 
 ### When to Attack
 The key to a successful speedup attack is to choose the right time. If a wrong attack is made, it is often easy for the opponent to counterattack.
 So, here are the three good timings for starting a speedup attack:
 * The opponent's return is too high or too long: At this time, you can attack from top to bottom, forcing the opponent to make a mistake or retreat;
 * The opponent's position is unbalanced: At this time, you can force the opponent to have no time to return the ball or further lose position, creating a better attack opportunity;
-* Confidently to counterattack the opponent's return: At this time, you can actively induce the opponent's volley return and then counterattack. 
+* Confidently to counterattack the opponent's return: At this time, you can actively induce the opponent's volley return and then counterattack.
 
 ### Attack Target Selection
 With targeting to various positions, the defense challenge will be different, as shown in the figure below.
