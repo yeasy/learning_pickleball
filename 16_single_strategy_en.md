@@ -1,4 +1,4 @@
-# Single Games strategy
+# Single Game Strategies
 
 The singles game of pickleball requires the highest comprehensive ability.
 
