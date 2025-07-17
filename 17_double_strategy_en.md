@@ -1,4 +1,4 @@
-# Double Game Strategy
+# Double Game Strategies
 
 Double games are common in pickleball, and the core part is the efficient collaboration between players.
 

@@ -8,7 +8,7 @@ In the single games, you can use drive to mobilize the opponents, and in the dou
 
 Drive is the action of hitting the ball quickly after it bounces up, to make the ball flies forward fast, and force the opponent to return the ball in a short time.
 
-Like the serving a ball, you need to kick the ground and turn the waist with swinging the big arm, and then drive the forearm and tighten the fingers, and finally whip the ball to a high speed.
+Similar to serving, you kick the ground, rotate the waist, swing the upper arm, then drive the forearm and tighten your fingers to whip the ball at high speed.
 
 Based on where you hit the ball, the Drive can be roughly divided into the **Back-court Drive**, the **Middle-court Drive**, and the **Near-net Drive**.
 

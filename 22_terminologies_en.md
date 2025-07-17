@@ -41,7 +41,7 @@
 * **Serve**: Starting a rally by hitting the ball into the opponent's court.
 * **Shake and Bake**: In double games, one player hits the third shot by driving the ball, and his partner attacks the return after moving to the net quickly.
 * **Sideline**: The line at the side of the court.
-* **Side Out**：A team has finished all the serving opportunities, and switch to the opponent team to begin to serve.
+* **Side Out**: A team has finished all the serving opportunities, and switch to the opponent team to begin to serve.
 * **Sideout Scoring**: A scoring system where only the serving side can score points. The receiving side gains the right to serve but not a point if they win the rally.
 * **Side Spin**: Making the ball spin sideways by brushing its side with the paddle, including left spin and right spin.
 * **Singles**: A format where each team has only one player.
