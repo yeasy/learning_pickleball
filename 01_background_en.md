@@ -6,7 +6,7 @@ Pickleball combines the skills of tennis, badminton, table tennis and other spor
 
 ## Origin and Development
 
-In the summer of 1965, the pickleball was invented by Congressman Joel Pritchard (1925 ~ 1997) and his friends Bill Bell (1923 ~ 2006) and Barney McCallum (1926 ~ 2019) while vacationing on Bainbridge Island in Seattle, USA.
+In the summer of 1965, the pickleball was invented by Congressman Joel Pritchard (1925 \~ 1997) and his friends Bill Bell (1923 \~ 2006) and Barney McCallum (1926 \~ 2019) while vacationing on Bainbridge Island in Seattle, USA.
 
 ![The Born of Pickleball](_images/pickleball-born.png)
 
@@ -44,11 +44,11 @@ In November 2024, according to a report by the Sports & Fitness Industry Associa
 
 ## Ball and Paddle
 
-A pickleball ball is a hard plastic ball, slightly larger than a tennis ball, and is usually colored like yellow or orange. The diameter is usually 2.87~2.97 inches and the weight is 0.78~0.935 ounces. There are 26 ~ 40 circular holes with a diameter of around 1 cm on the spherical surface (there are differences between indoor and outdoor balls, the softer and lighter indoor ball has 26 holes, the hole diameter is larger and fly more slowly). The rotation of the ball is not too violent, and at the same time the elasticity is not great, making it fly relatively slowly in the air.
+A pickleball ball is a hard plastic ball, slightly larger than a tennis ball, and is usually colored like yellow or orange. The diameter is usually 2.87\~2.97 inches and the weight is 0.78~0.935 ounces. There are 26 \~ 40 circular holes with a diameter of around 1 cm on the spherical surface (there are differences between indoor and outdoor balls, the softer and lighter indoor ball has 26 holes, the hole diameter is larger and fly more slowly). The rotation of the ball is not too violent, and at the same time the elasticity is not great, making it fly relatively slowly in the air.
 
 ![Various types of Pickleballs](_images/various-type-balls.png)
 
-The paddle of the Pickleball is like a large table tennis paddle without rubber, the sum of whose length and width cannot exceed 24 inches, where the length cannot exceed 17 inches. Usually the paddle has a length of 15.5 ~ 17 inches (39.37 ~ 43.18 cm) and a width of 7 ~ 8.25 inches (17.78 ~ 20.96 cm), and the handler length is 4~5.5 inches. At first, the rackets were mostly made of wood, but later they were also made of new materials such as glass fiber and carbon fiber. The racket is not very elastic and has a relatively smooth surface. Pickleball is very easy to play, but it takes a certain amount of time and energy to learn skills, improve physical fitness and master appropriate strategies to play well.
+The paddle of the Pickleball is like a large table tennis paddle without rubber, the sum of whose length and width cannot exceed 24 inches, where the length cannot exceed 17 inches. Usually the paddle has a length of 15.5 \~ 17 inches (39.37 \~ 43.18 cm) and a width of 7 \~ 8.25 inches (17.78 \~ 20.96 cm), and the handler length is 4~5.5 inches. At first, the rackets were mostly made of wood, but later they were also made of new materials such as glass fiber and carbon fiber. The racket is not very elastic and has a relatively smooth surface. Pickleball is very easy to play, but it takes a certain amount of time and energy to learn skills, improve physical fitness and master appropriate strategies to play well.
 
 ![Pickleball Paddles](_images/pickleball-paddles.png)
 
