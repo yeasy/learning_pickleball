@@ -2,7 +2,7 @@
 
 ## 如何评级
 
-参考 [美国匹克球协会评级](https://usapickleball.org/tournaments/tournament-player-ratings/player-skill-rating-definitions/)标准（1.0 ~ 5.5），快速评级参考如下。选手也可以通过比赛计算 [UTPR](https://usapickleball.org/tournaments/tournament-player-ratings/)（1.0 ~ 7.0） 或 [DUPR](https://mydupr.com) 评级（2.0 ~ 8.0）。
+参考 [美国匹克球协会评级](https://usapickleball.org/tournaments/tournament-player-ratings/player-skill-rating-definitions/)标准（1.0 \~ 5.5），快速评级参考如下。选手也可以通过比赛计算 [UTPR](https://usapickleball.org/tournaments/tournament-player-ratings/)（1.0 \~ 7.0） 或 [DUPR](https://mydupr.com) 评级（2.0 \~ 8.0）。
 
 | 评分   | 级别  | 特点                                                                      |
 | ---- | --- | ----------------------------------------------------------------------- |
