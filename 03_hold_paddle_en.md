@@ -21,9 +21,9 @@ Generally, the continental grip is recommended to use as a base, and fine-tuning
 
 ![Ready Position](_images/ready-position.png)
 
-After hitting the ball, the player should return to the ready position immediately, with the paddle in front of the body, the main hand holding the paddle, and the fingers of the other hand should lightly touch the surface of the paddle.
+After hitting the ball, players should immediately return to their ready position, keeping the paddle in front of them. Hold the paddle with your racket hand, and the fingers of your non-racquet hand should lightly touch the surface of the paddle.
 
-When holding the paddle, the hand should be properly relaxed, and the palm should be left empty. If the most tightening holding is 10 points, it is enough to achieve 3 points.
+When holding the paddle, your palm should be relaxed, with the palm of your hand empty. A 3 out of 10 is sufficient for the ready position. The player should maintain a relaxed yet steady position, and a steady yet restrained grip. At the moment of hitting the ball, apply a firm grip to maintain a stable paddle face.
 
 When using the forehand to do drive or drop, you can switch to Eastern style by little adjustment, and the index finger can be placed on the paddle surface to assist in feeling the angle of the paddle surface.
 
