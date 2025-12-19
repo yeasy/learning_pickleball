@@ -10,8 +10,9 @@
 * **Body Bag**: A shot aimed directly at the opponent's body, making it difficult for them to return.
 * **Chicken Wing**: A defensive shot where the player uses their elbow in a bent position to block or return a shot, resembling the shape of a chicken wing.
 * **Crosscourt**: Hitting the ball diagonally into the opponent's opposite side.
-* **Doubles**: A format where each team consists of two players.
 * **Dink**: Hit a ball to let it fall down to the opponent’s front court area, from our front court area.
+* **Doubles**: A format where each team consists of two players.
+* **Drip**: It's a shot that falls between a drive and a drop shot. It's slower than a regular drive but faster than a drop shot, crossing the net and dropping down, often with strong spin and lands within the NVZ, forcing the opponent to return the ball from a low position.
 * **Drive**: By hitting the ball hard, let the ball fly quickly to the opponent's court. Usually hit from the mid court of back court.
 * **Drop**: Hit a ball to let it fall down to the opponent’s front court area, from our middle or back court area.
 * **Double-Bounce Rule**: The player serves the ball, the opponent must wait for the ball to bounce before returning the ball (first bounce), and the receiver must wait for the ball to bounce again before returning the ball (second bounce).
