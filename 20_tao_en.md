@@ -1,113 +1,76 @@
-# Tao of Pickleball
+# The Tao of Pickleball
 
-## Path to Victory
-**Beginner** asks: How can I defeat opponents who are stronger than me?
+## The Path to Victory
+**Beginner**: How can I defeat an opponent stronger than me?
+**Master**: Let them play to their full potential.
 
-**Master** says: Let them play to their fullest potential.
+**Beginner**: But if they play their best, surely I will lose?
+**Master**: No. Let them over-play. Let them seek the winner too early. Let them make the mistake.
 
-**Beginner** asks further: But what if they play even better? How can I win then?
+The beginner bowed in understanding.
 
-**Master** says: Let them make mistakes.
+## Equipment
+**Beginner**: Why is the club champion playing with a cheap, beaten-up paddle?
+**Master**: He has grasped the essence. He plays with the paddle; he does not rely on the paddle to play for him.
 
-The beginner understands.
-
-## External Factors
-**Beginner** asks: Why is it that someone who doesn't use the best equipment is recognized as the best pickleball player?
-
-**Master** says: They have already grasped the essence of the Tao. They are playing with the paddle, not relying on the paddle to play.
-
-## Practice and Competition
-**Beginner** asks: I feel like I'm making great progress in practice, but I always lose in competitions. Why is that?
-
-**Master** says: A goldfish in a fishbowl cannot imagine the vastness of the ocean.
+## Perception
+**Beginner**: I practice hard, but I lose in tournaments. Why?
+**Master**: A goldfish in a bowl cannot imagine the currents of the ocean. You practice in comfort; competition is chaos. Embrace the chaos.
 
 ## The Wrong Path
-**Beginner** asks: I was called a prodigy after only three months of training, but why haven't I become a master after a year of training?
+**Beginner**: They called me a prodigy after three months. Why am I not a master after a year?
+**Master**: The prodigy relies on talent and skips the foundation. When the foundation crumbles, it is often too late to rebuild.
 
-**Master** says: When you realize that you have gone astray, it may already be too late.
+## Fame
+**Beginner**: I have won many medals, yet I lost to an old man nobody knows.
+**Master**: The true master seeks understanding, not applause. The medal gathers dust; the skill remains.
 
-## Reputation
-**Beginner** asks: I have won many matches and training certificates, but I lost to an unknown player.
+## The Ultimate Technique
+**Beginner**: What is the invincible shot?
+**Master**: The one that is not returned. It need not be fast, nor fancy. It simply must land.
 
-**Master** says: True masters may not have great reputation or participate in many competitions, but they have a deeper understanding of the Tao.
-
-## The Strongest Technique
-**Beginner** asks: What is the strongest technique?
-
-**Master** says: There is no technique.
-
-## The Source of Power
-**Beginner** asks: How can I hit a very powerful ball?
-
-**Master** says: Use your legs.
-
-**Beginner** asks: How can I hit a very fast ball?
-
-**Master** says: Use your arms.
-
-**Beginner** asks: How can I hit a very tricky ball?
-
-**Master** says: Use your fingers.
-
-**Beginner** asks: How can I hit a ball that my opponent cannot return?
-
-**Master** says: Use your mind.
+## Source of Power
+**Beginner**: How do I hit with power?
+**Master**: With the earth. Push from your legs.
+**Beginner**: How do I hit with speed?
+**Master**: With your body. Rotate your core.
+**Beginner**: How do I hit with deception?
+**Master**: With your stillness.
+**Beginner**: How do I hit the winner?
+**Master**: With your mind. See the open space before you strike.
 
 ## Imitation
-**Beginner** asks: I have studied your every move and imitated them perfectly, but I still can't reach your level. Why is that?
+**Beginner**: I copy your form perfectly, yet I fail.
+**Master**: You copy the shell, not the soul. Learn *why* I move, not just *how*.
 
-**Master** says: Those who learn from me win, those who imitate me lose.
+## Cross-Training
+**Beginner**: I am a table tennis expert. How do I improve?
+**Master**: Learn tennis.
+**Beginner**: Now I know tennis. How do I improve?
+**Master**: Learn badminton.
+**Beginner**: Now I know badminton. What next?
+**Master**: Forget them all. Play pickleball.
 
-## Strengths of Different Disciplines
+## Art and Sport
+**Beginner**: Is pickleball an art?
+**Master**: It is like jazz. You must master the scales (drills) so that you can improvise (play) when the rhythm changes.
 
-**Beginner** asks: I'm a ping-pong expert, how can I improve quickly?
+## The Impossible Triangle
+**Beginner**: What is the impossible choice?
+**Master**: Power, Speed, Control. You may often have two, but rarely all three. Choose wisely.
 
-**Master** says: Go learn tennis.
+## Perspective
+**Beginner**: Pro games look so easy. I could do that.
+**Master**: Go play. Come back in a year.
+*(A year passes)*
+**Beginner**: It is impossibly complex! Every micro-movement is calculated.
+**Master**: Good. Go play. Come back in a year.
+*(A year passes)*
+**Beginner**: It is actually quite simple. It flows naturally.
+**Master**: Now you understand.
 
-**Beginner** asks: Now I'm also a tennis expert, how can I improve quickly?
-
-**Master** says: Go learn badminton.
-
-**Beginner** asks: Now I'm also a badminton expert, how can I improve quickly?
-
-**Master** says: Forget what you've learned.
-
-## Sports and Arts
-
-**Beginner** asks: Is there anything in common between sports and art?
-
-**Master** says: Yes, playing ball and playing the piano are similar.
-
-**Beginner** asks: Why do you say that?
-
-**Master** says: Both require good strikes, mastery of tempo changes, and patience.
-
-## Impossible Triangle
-
-**Beginner** asks: Is there an impossible triangle in pickleball?
-
-**Master** says: Power, speed and control are the impossible triangle of most competitive sports.
-
-## Watch Games
-
-**Beginner** asks: When I watch professional game, why does it seem so easy?
-
-**Master** says: Go play pickleball, and come back to me in a year.
-
-**Beginner** asks after a year: The game is too complicated. It turns out that every move of a professional athlete is so subtle and full of wisdom.
-
-**Master** says: Go learn how to play pickleball and come back to me in a year.
-
-**Beginner** asks again a year later: I feel it is very simple now, and it seems like it should be like this.
-
-**Master** says: You got it.
-
-## Harmony Between Player and Paddle
-
-**Beginner** asks: How can I achieve harmony with my paddle?
-
-**Master** replies: Let the paddle flow and dance in the hand.
-
-**Beginner** asks again: But sometimes I don't have enough time to execute the action, what should I do?
-
-**Master** replies: Move fluidly on the court.
+## Harmony
+**Beginner**: How do I become one with the paddle?
+**Master**: Do not grip it like a weapon; hold it like a bird. Firm enough not to let it fly away, gentle enough not to crush it.
+**Beginner**: But I don't have time to think!
+**Master**: Then do not think. Be like water. Flow to where the ball will be, and you will already be there.
