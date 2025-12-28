@@ -16,15 +16,15 @@ There are two kinds of servings: **Volley serve** and **Drop serve**. The volley
 
 Usually serve the ball as far as possible to let it land near the baseline (but not out), in order to hamper the opponent's return and slow down the moving to net.
 
-![Serve in Double Games](_images/double-serve.png)
+![Serve in Doubles Games](_images/double-serve.png)
 
 When serving, you can probe the opponent's return skills by serving to various targets (e.g., the opponent's forehand position, backhand position or middle position) with different height and speed. Generally, fast, low and backhand-targeted ball is more threatening than slow, high and forehand-targeted ball.
 
 If the opponent's position is not neutral, or the player cannot run quickly, you can mobilize the opponent proactively by using different serving methods.
 
-In single games' serving, the player can take advantage of various spins and placement to mobilize the opponent. For example, you can combine the left-spin long serve to the backhand and the right-spin short serve to the forehand; Or using top-spin serve or non-spin to the middle path.
+In singless' serving, the player can take advantage of various spins and placement to mobilize the opponent. For example, you can combine the left-spin long serve to the backhand and the right-spin short serve to the forehand; Or using top-spin serve or non-spin to the middle path.
 
-In double games, usually serve long balls to the middle between opponents to force them to return the ball not well and not be able to follow the ball to go to the net in time.
+In doubless, usually serve long balls to the middle between opponents to force them to return the ball not well and not be able to follow the ball to go to the net in time.
 
 ## Master the Serve
 
@@ -41,11 +41,11 @@ When preparing to return the ball, keep enough space for hitting the ball. It is
 
 When returning the serve, players should follow the flying ball to go to the net (stay near the NVZ line before the ball's landing), which forces the opponent to stay in the backcourt. Therefore, the returning ball should also land as close as possible to the baseline.
 
-![Return in Double Games](_images/double-return.png)
+![Return in Doubles Games](_images/double-return.png)
 
-In single games, you can return the ball to the area far from the opponent's feet more often, in order to let the opponent move more in distance.
+In singless, you can return the ball to the area far from the opponent's feet more often, in order to let the opponent move more in distance.
 
-In double games, the ball can be returned to the space between the two opponent players (may be slightly near to the receiver's backhand), to increase the difficulty to return the ball. If the skill level of the opponent's two players is quite different, you can choose to return the ball to the weaker player.
+In doubless, the ball can be returned to the space between the two opponent players (may be slightly near to the receiver's backhand), to increase the difficulty to return the ball. If the skill level of the opponent's two players is quite different, you can choose to return the ball to the weaker player.
 
 ## Master the Return
 

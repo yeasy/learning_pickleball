@@ -40,7 +40,7 @@
 * **Sandbagging**: Players (deliberately) to play at a lower level game than they really are.
 * **Scorpion**: A high, defensive lob shot that resembles the curved tail of a scorpion, intended to give the player time to recover and reset the point.
 * **Serve**: Starting a rally by hitting the ball into the opponent's court.
-* **Shake and Bake**: In double games, one player hits the third shot by driving the ball, and his partner attacks the return after moving to the net quickly.
+* **Shake and Bake**: In doubless, one player hits the third shot by driving the ball, and his partner attacks the return after moving to the net quickly.
 * **Sideline**: The line at the side of the court.
 * **Side Out**: A team has finished all the serving opportunities, and switch to the opponent team to begin to serve.
 * **Sideout Scoring**: A scoring system where only the serving side can score points. The receiving side gains the right to serve but not a point if they win the rally.
