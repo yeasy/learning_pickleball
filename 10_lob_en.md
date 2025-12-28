@@ -2,7 +2,7 @@
 
 The Lob technique is close to the badminton technique of pushing the ball high and let it land to the backcourt.
 
-This technology is easily overlooked, but it is very useful in actual combat, which can change the pace and create new competition situation.
+This technique is easily overlooked, but it is very useful in actual combat, which can change the pace and create new competition situation.
 
 ## What is Lob
 

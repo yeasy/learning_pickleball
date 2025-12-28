@@ -22,14 +22,14 @@ Single game player has a larger running range and can use the Cross or Stride st
 
 ## When to Use
 
-Typical footwork scenarios in double games include:
+Typical footwork scenarios in doubless include:
 
 * When Dink, follow the ball to move left and right, back and forth quickly;
 * When Drop, run with the ball to the net quickly;
 * When the opponent Lobs, retreat to smash the ball quickly, or run to the backcourt;
 * When the opponents get a good volley opportunity, move back proactively to defend.
 
-Typical footwork scenarios in single games include:
+Typical footwork scenarios in singless include:
 
 * When there's a good opportunity, run to the net to prepare to attack;
 * When the opponent returns the ball with a large angle, run to the ahead of the ball  quickly to return it;

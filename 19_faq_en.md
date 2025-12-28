@@ -48,7 +48,7 @@ To sum up, the most important thing is to be able to control the opponent's retu
 
 **Answer**: Sports are essentially similar with each other. Ball games are all about power (both explosive and stamina), speed, spin and placement. However, different sports differ in form and focus.
 
-Tennis has the highest requirements for strength, just like the broadsword, emphasizing wide opening and closing, and beating the opponents like breaking a bamboo; badminton has the highest requirements for speed and placement control, just like swordsmanship, pays attention to agility and elegance, and strikes back; table tennis has not only the quickest rhythm, but also the strongest rotation. Like a dagger, its shot is often unexpected and unpredictable; while the pickleball is like a nunchaku, both soft and firm, with the drive skills from tennis, the smash, lob and control from badminton, and the quick rhythm and dink from table tennis. It can be said that pickleball is based on tennis technology as its body, badminton technology as its spirit, and table tennis technology as its soul. It is easy to get started, but it takes hard work to master it.
+Tennis has the highest requirements for strength, just like the broadsword, emphasizing wide opening and closing, and beating the opponents like breaking a bamboo; badminton has the highest requirements for speed and placement control, just like swordsmanship, pays attention to agility and elegance, and strikes back; table tennis has not only the quickest rhythm, but also the strongest rotation. Like a dagger, its shot is often unexpected and unpredictable; while the pickleball is like a nunchaku, both soft and firm, with the drive skills from tennis, the smash, lob and control from badminton, and the quick rhythm and dink from table tennis. It can be said that pickleball is based on tennis technique as its body, badminton technique as its spirit, and table tennis technique as its soul. It is easy to get started, but it takes hard work to master it.
 
 ## [Q6] What are the key differences between amateur players and professional players?
 
@@ -86,13 +86,13 @@ Top paddle brands in market include Franklin, Joola, Onix, Engage and Selkirk.
 
 ## [Q8] How to deal with the ball between two players in doubles?
 
-**Answer**: In double games, there are often situations where two players rush to hit the ball in the middle position together, or let the other side deal with it, resulting in loss of points.
+**Answer**: In doubless, there are often situations where two players rush to hit the ball in the middle position together, or let the other side deal with it, resulting in loss of points.
 
 The handling of the middle-position ball requires players to negotiate the principles in advance. Generally speaking, here are some common principles:
 
 * Let **forehand position player** handle: The power and angle of the forehand shots tend to be better;
 * Let **higher level player** handle: Higher level player usually has better stability and force;
-* Let **male player** handle (in mixed double games): Male player is usually better in strength and speed, and is usually responsible for 2/3 or more of the courts in mixed doubles;
+* Let **male player** handle (in mixed doubless): Male player is usually better in strength and speed, and is usually responsible for 2/3 or more of the courts in mixed doubles;
 * Let **diagonal player** handle: Usually the diagonal player has a better angle to return the ball, hence players can take this principle if the two players are of the same level.
 
 You can also use shouting to do a quick communication. For example, a more confident player can call out “Me” to return the ball.
@@ -117,7 +117,7 @@ Finally, the **lack of training the IQ of playing**. Practicing hard may build u
 * **Court Gap**: Commonly used in singles. It refers to the area far away from the opponent, which can force the opponent to run to return the ball;
 * **Technical Gap**: Refers to the technical weakness of the opponent. For example, most people are weak in returning the ball from the backhand position or the shoulder position of the forehand;
 * **Awareness Gap**: Refers to the area where the opponent's awareness cannot cover. For example, the opponent predicts in advance that the return mostly goes to the backhand and prepare to move to the backhand position. At this moment, there is an awareness gap in the forehand position;
-* **Cooperation Gap**: Commonly used in double games. It refers to the difficult decision-making area by the opponent's two players, such as the area between the two players, or the area where both players can return the ball;
+* **Cooperation Gap**: Commonly used in doubless. It refers to the difficult decision-making area by the opponent's two players, such as the area between the two players, or the area where both players can return the ball;
 * **Rhythm Gap**: This refers to the interval between the rhythms of returning the ball. For example, when the opponent intends to hit the ball, it does not come; but when they are not ready to hit, the ball suddenly arrives. Rhythm gaps can make it difficult for the opponent to return the ball consecutively, thereby increasing the likelihood of errors.
 * **Tactical Gap**: Refers to the area to move the opponents to achieve tactical goals. For example, return the ball to a position just out of reach of the opponent, or the opponent's return can be predicted easily, in order to create an attack opportunity.
 
@@ -145,9 +145,9 @@ The occurrence of this phenomenon is mainly due to the fact that players often n
 
 The distance of about 2 meters on both sides of the pickleball net is the non-volley area. Players usually return the ball near the non-volley zone, and the actual hitting point is often above the non-volley zone, which makes the ball fly about 3 meters. If calculated at a speed of 15 m/s, it takes only 0.2 seconds from the opponent's shot to the time you need to hit the ball.
 
-In this extremely short 0.2 seconds, you need to judge the direction of the ball, move the position and swing the racket, which is almost an impossible task for ordinary people. Therefore, although the speed of the pickleball is not high, the reaction time required is extremely short, making the game even more intense than tennis, comparable to the intensity of badminton.
+In this extremely short 0.2 seconds, you need to judge the direction of the ball, move the position and swing the paddle, which is almost an impossible task for ordinary people. Therefore, although the speed of the pickleball is not high, the reaction time required is extremely short, making the game even more intense than tennis, comparable to the intensity of badminton.
 
-## [Q14] How can I avoid being shot through by the opponent from the back court while I am defending near the net in single games?
+## [Q14] How can I avoid being shot through by the opponent from the back court while I am defending near the net in singless?
 
 **Answer**: The key to avoid being penetrated by the opponent's ball is to improve the quality of your return.
 
@@ -175,4 +175,4 @@ Level 2.5-3.0 should focus on training serving and returning; level 3.0-3.5 shou
 **Answer**: With the popularity of pickleball, related sports injuries have also increased, especially in joints such as knees, elbows, and wrists. To avoid sports injuries, you must **warm up before playing, relax after playing, standardize your movements, and play within your ability**. Before playing, you should fully warm up to improve joint lubrication; after playing, stretch and relax to restore muscle elasticity; in addition, you should learn the correct swing movements to reduce the risk of injury; finally, you should understand the limits of your body and do not exercise excessively or do movement that exceeds your physical limits.
 
 ## [Q18] How do you return a fast, spin-heavy serve?
-**Answer**: If you encounter a high-quality serve that is both fast and has strong spin, it can easily lead to mistakes in receiving. To properly return such serves, first, find the right position to receive the ball. For fast serves, you need to leave enough space, which means positioning yourself a bit farther back, possibly one or two steps behind the baseline. Next, once the ball bounces, move actively towards the direction of the incoming ball to strike it, and grip your racket tightly to control the direction of your return. Additionally, anticipate the direction the spin will cause the ball to deviate after it bounces; for example, a ball with sidespin might deviate to the left or right. Predict this shift early and adjust your position accordingly. Lastly, for high-quality serves, aim your return towards the center of the court as much as possible to minimize the risk of the ball going out.
+**Answer**: If you encounter a high-quality serve that is both fast and has strong spin, it can easily lead to mistakes in receiving. To properly return such serves, first, find the right position to receive the ball. For fast serves, you need to leave enough space, which means positioning yourself a bit farther back, possibly one or two steps behind the baseline. Next, once the ball bounces, move actively towards the direction of the incoming ball to strike it, and grip your paddle tightly to control the direction of your return. Additionally, anticipate the direction the spin will cause the ball to deviate after it bounces; for example, a ball with sidespin might deviate to the left or right. Predict this shift early and adjust your position accordingly. Lastly, for high-quality serves, aim your return towards the center of the court as much as possible to minimize the risk of the ball going out.

@@ -1,26 +1,26 @@
-# Double Game Strategies
+# Doubles Game Strategies
 
 Double games are common in pickleball, and the core part is the efficient collaboration between players.
 
 ## Basic Process
 
-The main process of double games is divided into two stages: a) **Move from the backcourt to the NVZ**, and b) **Battle near the net**.
+The main process of doubless is divided into two stages: a) **Move from the backcourt to the NVZ**, and b) **Battle near the net**.
 
 Suppose the two teams are A and B, respectively, including two players A1, A2, B1, B2.
 
 A1 is serving, and B2 is standing in front of the net, as shown in the figure.
 
-![Serve in Double Games](_images/double-serve.png)
+![Serve in Doubles Games](_images/double-serve.png)
 
 A1 serves the ball to the diagonal opponent B1. B1 tries to return the ball to the baseline of team A, and at the same time, B1 follows the ball to run to the net.
 
-![Return in Double Games](_images/double-return.png)
+![Return in Doubles Games](_images/double-return.png)
 
 At this moment, two players of team B are in front of the net to try attacking, and two players of team A are in the backcourt.
 
 Assuming A2 will hit the third shot, A1 takes a step forward and prepares to go to the net, while observing the third shot. A2 hits the third shot by dropping the ball, and A2 follows the ball to go to the net at the same time. Now the phase of going to the net ends.
 
-![Drop in Double Games](_images/double-drop.png)
+![Drop in Doubles Games](_images/double-drop.png)
 
 Now, the players of team A and B are both in front of the net, the game enters the most critical **near net battle phase**.
 
@@ -28,7 +28,7 @@ Usually players use the Dink technique to mobilize the opponents, and try to cre
 
 Assuming that A1 returns the ball too high, B1 gets the opportunity and takes the initiative to attack. The two sides enter the fast volley interaction. One party can return to the battle in front of the net again by taking the initiative to Dink.
 
-![Dink in Double Games](_images/double-dink.png)
+![Dink in Doubles Games](_images/double-dink.png)
 
 Assuming that the return quality by the team A is not good and the ball is pushed to the backcourt by the team B, at this time, the team A should try to go back to the net again by dropping the ball. The team B suppresses the team A players in the backcourt by giving long balls in succession, and try to find opportunities to volley to score.
 
@@ -42,7 +42,7 @@ It should be noted that the Dinking in front of the net usually is using the dia
 
 ## Key Points
 
-In double games, the cooperation of the players is often more important than the individual ability. The two players should play as a whole, rather than simply each player responsible for half of the court.
+In doubless, the cooperation of the players is often more important than the individual ability. The two players should play as a whole, rather than simply each player responsible for half of the court.
 
 Typically, one of the two players should be the dominant attacker (usually the more capable player, such as a male player in mixed doubles) who will do most of the attacking, and the other should be the controller who will help defend and create offensive opportunities. The dominant player should take the initiative to deal with most of the shots, and the game controller should reset the opponent's offensive attempts and resolutely deny the opponent a good offensive opportunity.
 
