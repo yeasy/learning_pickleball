@@ -15,7 +15,6 @@
 * **Drip**: It's a shot that falls between a drive and a drop shot. It's slower than a regular drive but faster than a drop shot, crossing the net and dropping down, often with strong spin and lands within the NVZ, forcing the opponent to return the ball from a low position.
 * **Drive**: By hitting the ball hard, let the ball fly quickly to the opponent's court. Usually hit from the mid court of back court.
 * **Drop**: Hit a ball to let it fall down to the opponent’s front court area, from our middle or back court area.
-* **Double-Bounce Rule**: The player serves the ball, the opponent must wait for the ball to bounce before returning the ball (first bounce), and the receiver must wait for the ball to bounce again before returning the ball (second bounce).
 * **Erne**: Hit (usually volley) a ball by jumping over the Non-Volley Zone to the side of it.
 * **Fault**: Violation of rules and results the end of the rally.
 * **Game Point**: The last point needed by one side to win a game.
@@ -51,4 +50,5 @@
 * **Top Spin**: Making the ball spin forward by brushing it up with the paddle.
 * **Transition Zone**: The middle part of the court, which the players need to transit when he comes to the NVZ from the back court.
 * **Tweener**: Hit the ball between the legs, usually with the back facing the opponent.
+* **Two-Bounce Rule**: The player serves the ball, the opponent must wait for the ball to bounce before returning the ball (first bounce), and the receiver must wait for the ball to bounce again before returning the ball (second bounce).
 * **Volley**: Hit the ball in the air before it touches the ground.
