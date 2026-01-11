@@ -4,7 +4,7 @@ Double games are common in pickleball, and the core part is the efficient collab
 
 ## Basic Process
 
-The main process of doubless is divided into two stages: a) **Move from the backcourt to the NVZ**, and b) **Battle near the net**.
+The main process of doubles is divided into two stages: a) **Move from the backcourt to the NVZ**, and b) **Battle near the net**.
 
 Suppose the two teams are A and B, respectively, including two players A1, A2, B1, B2.
 
@@ -42,7 +42,7 @@ It should be noted that the Dinking in front of the net usually is using the dia
 
 ## Key Points
 
-In doubless, the cooperation of the players is often more important than the individual ability. The two players should play as a whole, rather than simply each player responsible for half of the court.
+In doubles, the cooperation of the players is often more important than the individual ability. The two players should play as a whole, rather than simply each player responsible for half of the court.
 
 Typically, one of the two players should be the dominant attacker (usually the more capable player, such as a male player in mixed doubles) who will do most of the attacking, and the other should be the controller who will help defend and create offensive opportunities. The dominant player should take the initiative to deal with most of the shots, and the game controller should reset the opponent's offensive attempts and resolutely deny the opponent a good offensive opportunity.
 

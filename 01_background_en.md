@@ -78,7 +78,7 @@ The overall amount of activity in pickleball is moderate, but it has rich skills
 
 ## Status and Future
 
-It is estimated that there are already 50 million pickleball enthusiasts in the United States (compared to fewer than 20 million for tennis, fewer than 1.5 million for badminton, and close to 1 million for table tennis), and the sport is growing at an annual rate of over 20%. Projections indicate that by 2030, the global pickleball player base will exceed 100 million. Additionally, the average age of players is rapidly decreasing, with most professional tournament participants now ranging from 14 to 35 years old.
+According to the APP (Association of Pickleball Professionals) report, nearly 50 million adults played pickleball at least once in 2024 in the United States (compared to fewer than 20 million for tennis, fewer than 1.5 million for badminton, and close to 1 million for table tennis), and the sport is growing at an annual rate of over 20%. Projections indicate that by 2030, the global pickleball player base will exceed 100 million. Additionally, the average age of players is rapidly decreasing, with most professional tournament participants now ranging from 14 to 35 years old.
 
 Beyond North America, pickleball has also gained significant popularity in Europe. In Asia, the sport is becoming increasingly widespread, with countries such as China, Japan, India, the Philippines, Singapore, Indonesia, Thailand, Malaysia, Bangladesh, and Pakistan actively adopting and organizing tournaments.
 

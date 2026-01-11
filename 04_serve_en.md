@@ -43,9 +43,9 @@ When returning the serve, players should follow the flying ball to go to the net
 
 ![Return in Doubles Games](_images/double-return.png)
 
-In singless, you can return the ball to the area far from the opponent's feet more often, in order to let the opponent move more in distance.
+In singles, you can return the ball to the area far from the opponent's feet more often, in order to let the opponent move more in distance.
 
-In doubless, the ball can be returned to the space between the two opponent players (may be slightly near to the receiver's backhand), to increase the difficulty to return the ball. If the skill level of the opponent's two players is quite different, you can choose to return the ball to the weaker player.
+In doubles, the ball can be returned to the space between the two opponent players (may be slightly near to the receiver's backhand), to increase the difficulty to return the ball. If the skill level of the opponent's two players is quite different, you can choose to return the ball to the weaker player.
 
 ## Master the Return
 
