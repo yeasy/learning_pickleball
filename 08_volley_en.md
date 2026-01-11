@@ -48,6 +48,33 @@ If the opponent is attacking you with volleys:
 3.  **Reset**: Don't try to out-hit a smash. Softly block the ball into the kitchen (a reset) to force them to dink, neutralizing their offense.
 4.  **Counter-Attack**: If they hit a "lazy" volley (not fast enough), quickly punch it back at them (a "firefight").
 
+## Block Volley (Reset)
+
+The block volley is a critical defensive technique for handling aggressive attacks. When the opponent hits a high-quality offensive volley, a soft block can reset the ball into their NVZ, breaking their attacking rhythm.
+
+### Technique
+
+*   **Loose Grip**: Unlike offensive volleys, block volleys require a relaxed grip to absorb the incoming ball's pace with "soft hands";
+*   **Minimal Motion**: No swing is needed—simply position the paddle face in the path of the ball;
+*   **Paddle Angle**: Adjust the paddle face based on the incoming ball height. For high balls, angle slightly downward; for low balls, angle slightly upward;
+*   **Absorb and Redirect**: Use the ball's own speed, controlling placement through paddle angle to send it into the opponent's NVZ.
+
+### When to Use Block Volleys
+
+*   **Against Power Attacks**: When the opponent hits a fast volley and you don't have time to generate power;
+*   **Body Shots**: When the ball is aimed directly at your body and you can't move out of the way;
+*   **Defensive Reset**: When you're on the defensive and need to return to a neutral dinking rally.
+
+### Block Volley Targets
+
+The primary goal of a block volley is to safely return the ball into the opponent's NVZ without popping it up. An ideal block volley should:
+
+*   Land in the front half of the opponent's NVZ;
+*   Clear the net by just enough margin;
+*   Prevent the opponent from continuing their attack.
+
+After a successful block volley, both sides typically return to a dinking rally.
+
 ## Training Methods
 
 1.  **Wall Volleys**: Stand 4-5 feet from a wall. Volley rapidly against it without letting the ball bounce. Aim for 50 in a row (forehand, backhand, alternating).

@@ -53,6 +53,34 @@ Once consistent, add spin to pressure the opponent:
 *   **Defensive**: Aim for the center of the NVZ to stay safe.
 *   **Offensive**: Push the ball intothe corners or at the opponent's feet to force movement. A "dead dink" deep in the kitchen can also freeze the opponent, forcing a decision between volleying or letting it bounce.
 
+### Two-Handed Backhand Dink
+
+The two-handed backhand dink has become increasingly popular in professional play. Compared to the single-handed backhand, it offers more stability and the ability to generate aggressive topspin.
+
+**Technique**:
+*   **Grip**: The non-paddle hand grips above the paddle hand, with both hands working in coordination;
+*   **Motion**: Use coordinated rotation of both arms to brush up on the ball and generate topspin;
+*   **Power Control**: Two-handed power is more stable, allowing for faster and spinnier dinks;
+*   **When to Use**: Use when receiving high balls on the backhand side and you want to apply pressure offensively.
+
+The downside of the two-handed backhand dink is a reduced reach. When the ball is far from your body, a single-handed backhand is more flexible. Players should choose based on the situation.
+
+### Offensive Dinking
+
+Traditional thinking views the dink as a defensive shot, but in modern pickleball, dinking has evolved into an offensive weapon.
+
+**Characteristics of Offensive Dinks**:
+*   **Topspin**: The spin causes the ball to drop quickly after crossing the net and kick forward on bounce, forcing the opponent to pop it up;
+*   **Speed**: Slightly faster than defensive dinks, compressing the opponent's reaction time;
+*   **Placement**: Target the opponent's feet, backhand side, or the gap between two players.
+
+**When to Use Offensive Dinks**:
+*   When the opponent is in a stable position and a direct volley attack would likely be defended;
+*   When you want to pressure the opponent into making unforced errors;
+*   As a setup for a volley attack, creating an opportunity for the opponent to pop the ball up.
+
+Compared to direct volley attacks, offensive dinking carries lower risk but requires better spin control. It's recommended to master basic dinking before practicing offensive dinks.
+
 ## Speeding Up (The Attack)
 
 When dinking, watch for a ball that floats too high. This is your cue to "speed up" or attack.

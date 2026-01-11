@@ -24,6 +24,33 @@ Lobing the ball can save you from passive to proactive. At the same time, it can
 
 After lobing the ball, move to the net in time and prepare to attack when the opponent returns the ball too high.
 
+## Tactical Lobbing
+
+In recent years, tactical lobbing has gained more attention in professional play. The lob is not just a passive defensive tool, but a tactical weapon for actively changing the game's rhythm and creating offensive opportunities.
+
+### Offensive Lobs
+
+The goal of an offensive lob is not simply to hit the ball to the backcourt, but to force the opponent into a disadvantaged position through precise placement and timing.
+
+**Characteristics**:
+*   **Precise Placement**: Target the opponent's baseline corners, especially the backhand corner;
+*   **Timing**: Lob suddenly when the opponent's weight is forward and they're preparing to volley;
+*   **Topspin**: Adding topspin causes the ball to continue running backward after landing, increasing difficulty for the opponent.
+
+### Rhythm-Changing Lobs
+
+During dinking rallies at the net, both sides may be looking for attack opportunities. An unexpected lob can break the deadlock:
+
+*   **Disrupt Attack Preparation**: When the opponent is about to speed up, a lob removes their attack opportunity;
+*   **Buy Recovery Time**: When you're on the defensive or physically fatigued, a lob gives you time to recover;
+*   **Change the Battle Location**: Shift from a net battle to a backcourt exchange, favoring players with better conditioning and backcourt skills.
+
+### Tactical Lobbing Considerations
+
+*   **Don't Overuse**: Lobbing too often becomes predictable and can turn into easy put-aways for opponents;
+*   **Disguise**: The lob motion should closely resemble your dink motion to prevent early detection;
+*   **Follow to the Net**: After lobbing, quickly move forward to the net, preparing to intercept the opponent's return.
+
 ## Master the Lob
 
 The core point of lobing the ball is to keep the ball’s trajectory higher than the opponent's top after jump to avoid the opponent volleying in the air. Therefore, the parabolic high point of the Lob ball should be close to the opponent's middle court, so that the ball falls vertically near the baseline and does not go out.

@@ -28,6 +28,33 @@ When you are at the middle court or back court and the opponent side is waiting 
 
 For example, advanced players often use drop in the third shot, in order to transit to the near net rallies from the back court.
 
+## The Drip Shot
+
+The Drip is an intermediate technique between the drive and the drop, becoming increasingly common in professional play.
+
+### What is a Drip Shot
+
+A drip shot is slower than a regular drive but faster than a drop, typically with strong topspin. The ball drops sharply after crossing the net, landing in the opponent's NVZ and forcing them to return from a low position.
+
+### When to Use the Drip Shot
+
+The drip shot is suitable in the following scenarios:
+
+* **Third Shot Transition**: When the opponent's return is high quality and a direct drive isn't advisable, but you have enough time and space, use a drip shot;
+* **Mid-court Transition**: When you're stuck in mid-court and can't safely drop, the drip can serve as a transition shot;
+* **Changing Rhythm**: Using a drip shot suddenly during a rally can disrupt the opponent's defensive rhythm.
+
+### Mastering the Drip Shot
+
+Key points for executing a quality drip shot:
+
+* **Contact Point**: Hit the ball at a higher position in front of your body, making it easier to apply downward force;
+* **Topspin Control**: Generate topspin by brushing up on the ball, causing it to drop quickly after crossing the net;
+* **Power Control**: Use about 60-70% of the power of a drive, somewhere between a drive and a drop;
+* **Placement**: Target the middle-to-back portion of the opponent's NVZ, forcing an uncomfortable return position.
+
+The main difference between a drip and a drop is speed and aggression. A drop is more defensive, aiming for safe transition to the net; a drip combines transition with offense, directly creating difficulty for the opponent's return.
+
 ## Master Drop
 
 When executing a drop shot, it is important to avoid returning the ball too far or too high, as this could allow the opponent to intercept or continuously return deep shots.
