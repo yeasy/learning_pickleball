@@ -1,4 +1,4 @@
-# Warm up, Relax and Strength Training
+# Warm-up, Relax and Fitness
 
 Sufficient warm-up and reasonable relaxation are the keys to avoid sports injuries and maintain long-term healthy sports. At the same time, sufficient physical fitness is also a prerequisite for high-level competition.
 
