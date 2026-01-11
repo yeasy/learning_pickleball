@@ -1,4 +1,4 @@
-# Near-Net Battle
+# Net Battle: Attack and Defense
 
 Attack and defense in front of the net are often used in doubles games. It is the key for the game result. The rhythm is very fast and has high requirement on players' reaction.
 

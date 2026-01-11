@@ -14,7 +14,7 @@ Similarly, the Drops can also be divided into three types in terms of direction:
 
 * **Straight Drop**: The straight drop has a shorter trajectory and is usually easier to achieve, but it is prone to a higher or farther trajectory. At the same time, the ball lands quicker to leave a shorter time window to go to the net;
 * **Cross-court Drop**: A cross-court drop is when the ball is dropped into the opposing opponent's area. The distance is longer, the ball lands later, and you have more time to go to the net.
-* **Middle Drop**: The middle ball refers to placing the ball in the space between the two opponents, which is often used in doubless. Since both of them can catch the ball, it will cause some trouble to make decision immediately.
+* **Middle Drop**: The middle ball refers to placing the ball in the space between the two opponents, which is often used in doubles. Since both of them can catch the ball, it will cause some trouble to make decision immediately.
 
 From the perspective of spin, there are three types of Drops too: **Non-spin**, **Backspin** and **Topspin**:
 

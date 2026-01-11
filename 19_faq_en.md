@@ -92,7 +92,7 @@ The handling of the middle-position ball requires players to negotiate the princ
 
 * Let **forehand position player** handle: The power and angle of the forehand shots tend to be better;
 * Let **higher level player** handle: Higher level player usually has better stability and force;
-* Let **male player** handle (in mixed doubless): Male player is usually better in strength and speed, and is usually responsible for 2/3 or more of the courts in mixed doubles;
+* Let **male player** handle (in mixed doubles): Male player is usually better in strength and speed, and is usually responsible for 2/3 or more of the courts in mixed doubles;
 * Let **diagonal player** handle: Usually the diagonal player has a better angle to return the ball, hence players can take this principle if the two players are of the same level.
 
 You can also use shouting to do a quick communication. For example, a more confident player can call out “Me” to return the ball.
@@ -117,7 +117,7 @@ Finally, the **lack of training the IQ of playing**. Practicing hard may build u
 * **Court Gap**: Commonly used in singles. It refers to the area far away from the opponent, which can force the opponent to run to return the ball;
 * **Technical Gap**: Refers to the technical weakness of the opponent. For example, most people are weak in returning the ball from the backhand position or the shoulder position of the forehand;
 * **Awareness Gap**: Refers to the area where the opponent's awareness cannot cover. For example, the opponent predicts in advance that the return mostly goes to the backhand and prepare to move to the backhand position. At this moment, there is an awareness gap in the forehand position;
-* **Cooperation Gap**: Commonly used in doubless. It refers to the difficult decision-making area by the opponent's two players, such as the area between the two players, or the area where both players can return the ball;
+* **Cooperation Gap**: Commonly used in doubles. It refers to the difficult decision-making area by the opponent's two players, such as the area between the two players, or the area where both players can return the ball;
 * **Rhythm Gap**: This refers to the interval between the rhythms of returning the ball. For example, when the opponent intends to hit the ball, it does not come; but when they are not ready to hit, the ball suddenly arrives. Rhythm gaps can make it difficult for the opponent to return the ball consecutively, thereby increasing the likelihood of errors.
 * **Tactical Gap**: Refers to the area to move the opponents to achieve tactical goals. For example, return the ball to a position just out of reach of the opponent, or the opponent's return can be predicted easily, in order to create an attack opportunity.
 
@@ -147,7 +147,7 @@ The distance of about 2 meters on both sides of the pickleball net is the non-vo
 
 In this extremely short 0.2 seconds, you need to judge the direction of the ball, move the position and swing the paddle, which is almost an impossible task for ordinary people. Therefore, although the speed of the pickleball is not high, the reaction time required is extremely short, making the game even more intense than tennis, comparable to the intensity of badminton.
 
-## [Q14] How can I avoid being shot through by the opponent from the back court while I am defending near the net in singless?
+## [Q14] How can I avoid being shot through by the opponent from the back court while I am defending near the net in singles?
 
 **Answer**: The key to avoid being penetrated by the opponent's ball is to improve the quality of your return.
 

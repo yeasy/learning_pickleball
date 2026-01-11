@@ -1,8 +1,8 @@
 # How to Drive
 
-The drive is one of the most common techniques to attack. Especially in singless, drive is often the key to win the game.
+The drive is one of the most common techniques to attack. Especially in singles, drive is often the key to win the game.
 
-In the singless, you can use drive to mobilize the opponents, and in the doubles game, you can use drive to attack or transit to the next shot. A high-quality drive can even score directly.
+In the singles, you can use drive to mobilize the opponents, and in the doubles game, you can use drive to attack or transit to the next shot. A high-quality drive can even score directly.
 
 ## What is Drive
 
@@ -30,9 +30,9 @@ It should be noted that the surface of the Pickleball and paddle is relatively s
 
 The backhand is basically symmetrical with the forehand. Try to hit with one hand to have more space to generate power and send the ball with a wider angular range. If you do not have enough power using one backhand, you can use both hands to hit the back hand shot in a shorter movement, which can stabilize the paddle.
 
-In doubless, the Drive can generally target the space between players, or the gap of defense. When the opponent's defensive ability is weak, you can also deliberately hit the ball to the body (such as the shoulder of the holding paddle side), causing the opponent to make mistakes.
+In doubles, the Drive can generally target the space between players, or the gap of defense. When the opponent's defensive ability is weak, you can also deliberately hit the ball to the body (such as the shoulder of the holding paddle side), causing the opponent to make mistakes.
 
-In singless, the Drive should mainly aim at the opponent's defense gap, and the gesture should be as small as possible, in order to prevent the opponent from predicting easily.
+In singles, the Drive should mainly aim at the opponent's defense gap, and the gesture should be as small as possible, in order to prevent the opponent from predicting easily.
 
 ## Training Methods
 

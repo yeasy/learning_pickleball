@@ -71,6 +71,6 @@ The beginner bowed in understanding.
 
 ## Harmony
 **Beginner**: How do I become one with the paddle?
-**Master**: Do not grip it like a weapon; hold it like a bird. Firm enough not to let it fly away, gentle enough not to crush it.
-**Beginner**: But I don't have time to think!
-**Master**: Then do not think. Be like water. Flow to where the ball will be, and you will already be there.
+**Master**: Let the paddle turn in your palm.
+**Beginner**: But sometimes I don't have time to swing the paddle. What should I do?
+**Master**: Let the body float on the court.

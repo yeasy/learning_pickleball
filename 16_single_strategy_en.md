@@ -22,9 +22,9 @@ A tries to let B run by driving the ball or dropping the ball.
 
 Suppose B successfully blocks the ball in front of the net, pushes the ball to A's backcourt or mobilizes A's angle near the net.
 
-At this moment, A and B enter the mutual position mobilizing phase. If one player has a gap, or the return quality is not good, it will be attacked and enter the stage of offense and defense. Unlike doubless, players in the backcourt often do not have to use the drop technique to return to the net, but can flexibly choose driving, dropping, or lobbing to force the opponent to run.
+At this moment, A and B enter the mutual position mobilizing phase. If one player has a gap, or the return quality is not good, it will be attacked and enter the stage of offense and defense. Unlike doubles, players in the backcourt often do not have to use the drop technique to return to the net, but can flexibly choose driving, dropping, or lobbing to force the opponent to run.
 
-In singless, the player needs to cover the whole court, it is generally necessary to find offensive opportunities by mobilizing the opponent's position, or to suppress the opponent to the backcourt.
+In singles, the player needs to cover the whole court, it is generally necessary to find offensive opportunities by mobilizing the opponent's position, or to suppress the opponent to the backcourt.
 
 Once the player is suppressed to the backcourt, it is at a big disadvantage. At this situation, if the player returns the ball too high, the opponent can volley the ball to earn the score.
 
