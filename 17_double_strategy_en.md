@@ -51,3 +51,74 @@ In addition, both sides should try to let the controller return the ball. If the
 * Positioning: try to stay near the net to hit the ball, and try to keep the opponents in the back court. The dominant attacker should cover at least 2/3 of the court, while the controller should pay attention to protect the sideline on his/her side;
 * Protection of the middle ball: The middle position protection between the two players should be negotiated in time. When both can return the ball well, the forehand player or the higher skill level player should have the priority to return.
 * Protection of the backcourt ball: The backcourt ball should be handled by the one close to the backcourt or the one with faster footwork to catch the ball.
+
+## Offensive Third Shot: Shake and Bake
+
+Traditional strategy favors the third-shot drop for safe transition to the net. However, in modern professional play, the offensive third shot (Shake and Bake) has become increasingly common.
+
+### Strategy Overview
+
+The offensive third shot consists of two parts:
+*   **Shake (Drive)**: One player hits a fast, powerful third-shot drive, targeting the return player or the gap between opponents;
+*   **Bake (Poach Volley)**: Simultaneously, the partner rushes to the net to intercept the opponent's defensive return.
+
+### When to Use
+
+*   When the opponent's return is poor—high or long;
+*   When your team has strong driving ability and the opponents have weak defense;
+*   When you want to break the opponent's rhythm and actively seek points.
+
+### Technique
+
+*   The driving player should hit a fast, low drive, targeting the opponent's feet or the middle gap;
+*   The volleying partner should rush to the net simultaneously, ready to intercept;
+*   If the opponent successfully defends, be prepared to reset into a dinking rally.
+
+## Mixed Doubles Strategy
+
+In mixed doubles, the skill gap between male and female players requires thoughtful division of responsibilities.
+
+### Positioning Principles
+
+*   **Male Player as Dominant**: Responsible for 2/3 or more of the court, actively handling most attacks and middle balls;
+*   **Female Player as Controller**: Responsible for sideline defense, resetting the opponent's attacks, and creating offensive opportunities;
+*   **Protect the Female Player**: Opponents typically target the female player, so the male player should actively cover and protect.
+
+### Offensive Strategy
+
+*   **Target the Female Player**: Create more pressure on the opponent's female player's side;
+*   **Move the Male Player**: Use wide-angle shots to move the opponent's male player, creating opportunities to attack the female player;
+*   **Middle Ball Coordination**: Middle balls should be handled by the male player primarily to avoid confusion.
+
+### Defensive Strategy
+
+*   **Female Player Prioritizes Resets**: When under pressure, the female player should focus on stable resets rather than forcing attacks;
+*   **Male Player Covers Actively**: When the female player is pulled wide, the male player should quickly cover;
+*   **Communication**: Use verbal calls to clarify who takes the ball, avoiding both players going for or leaving the same ball.
+
+## Stacking
+
+Stacking is a tactical positioning commonly used in mixed doubles and same-gender doubles, allowing both players to maintain their most advantageous court positions.
+
+### What is Stacking
+
+According to the rules, players must stand in their designated half during serve and return. However, after the serve/return, players can move freely. Stacking means that after serving or returning, both players quickly adjust to fixed positions (e.g., male player always on the left, female player always on the right).
+
+### Advantages of Stacking
+
+*   **Maximize Forehand Coverage**: Both players' forehands face the middle, strengthening middle-court protection;
+*   **Fixed Responsibilities**: Players always cover the same areas, improving coordination;
+*   **Play to Strengths**: Allows the stronger player to cover more territory.
+
+### Disadvantages of Stacking
+
+*   **Longer Movement**: Players must quickly switch positions after serving/returning, consuming more energy;
+*   **Short Switching Window**: If the opponent's return is fast, there may not be enough time to complete the switch;
+*   **Potential Gaps**: Defensive gaps may appear during the switching process.
+
+### Executing Stacking
+
+*   **On Serve**: The server moves quickly to their target position after serving; the partner simultaneously moves in the opposite direction;
+*   **On Return**: The returner switches positions quickly after hitting the second shot; the partner moves accordingly;
+*   **Timing**: The switch should be completed before the opponent hits the ball, otherwise gaps may be exploited.
+

@@ -72,6 +72,17 @@ Typically, a pickleball paddle consists of several main components: paddle body 
 * **Handle**: The handle is crucial for the paddle's control. It typically consists of an extension of the paddle core, wrapped with cushioning materials such as foam or rubber. The bottom of the handle often has a branded end cap.
 * **Base grip and Overgrip**: The base grip and overgrip directly affect the feel of the paddle. Choosing the right overgrip can better enhance the paddle's performance. Overgrips are usually made of synthetic materials, such as polyurethane or synthetic fibers.
 
+**Modern Paddle Technologies**
+
+In recent years, paddle manufacturing technology has evolved rapidly. Professional paddles have entered the era of "Thermoforming + Carbon Fiber":
+
+* **Thermoforming Technology**: Uses high heat and pressure to mold carbon fiber, edge walls, and core into a single integrated piece. Compared to traditional manufacturing, thermoformed paddles offer a larger sweet spot, improved durability, and more stable feel. The downsides include higher cost and potentially increased vibration.
+* **Raw Carbon Fiber Surface**: Features an unmilled, textured carbon fiber surface that significantly increases friction with the ball, making it easier to generate spin. Common types include T700 carbon fiber (balancing power and feel) and textured carbon fiber (enhanced spin capability).
+* **Foam Edge Wall Technology**: Foam material is injected into the edges, increasing the sweet spot area and stability while reducing vibration.
+* **Paddle Generations**: Professional paddles are roughly categorized into generations—Generation 2 (thermoformed + foam edge walls + carbon surface), Generation 3 (adds EVA foam ring around the core), and Generation 4 (full foam core, eliminating traditional honeycomb structure).
+
+When purchasing professional paddles, note that some "power" paddles may not comply with tournament regulations. Always confirm USA Pickleball certification before purchase.
+
 In general, no paddle fits everyone. The following parameters can be considered based on your level:
 
 * **Weight**: The heavier the paddle, the more it can avoid the vibration caused by hitting the ball, but the swing will be harder, which requires a better power. For beginners, it is recommended to consider paddles up to 8 oz (227 g) unless you have a very strong strength. In addition, pay attention to the difference between swing weight and twist weight. Generally, a lighter swing weight (100 \~120 $kg*cm^2$) makes the swing more flexible, while a heavier twist weight (>6.0 $kg*cm^2$) makes the shot more stable.
