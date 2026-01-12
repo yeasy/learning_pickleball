@@ -38,9 +38,9 @@ In 2018, the World Pickleball Federation (WPF) was officially established, aimin
 
 In 2020, the COVID-19 pandemic halted most global sporting events, leading people to seek safe outdoor activities. With its small court size, low physical impact, and ease of maintaining social distance, pickleball quickly became one of the most popular sports during the pandemic. Data shows that the number of core pickleball players grew from 2.5 million in 2019 to over 13 million in 2023, with an annual growth rate of over 50%.
 
-In October 2023, the International Olympic Committee announced nine new sports for the 2028 Olympics, but pickleball was not included. However, in November 2023, the Global Pickleball Federation (GPF) was established as a unified international governing body to promote pickleball worldwide and ensure its inclusion in the 2032 Olympics.
+In October 2023, the International Olympic Committee announced new sports for the 2028 Los Angeles Games, but pickleball was not included. Currently, the Global Pickleball Federation (GPF) is actively working towards ensuring pickleball's inclusion as an official sport in the 2032 Brisbane Olympics.
 
-In November 2024, according to a report by the Sports & Fitness Industry Association, the U.S. had approximately 13 million pickleball enthusiasts, with the majority of players aged between 25 and 34.
+According to the latest projections, the number of pickleball players in the U.S. is expected to exceed 20 million by 2026, maintaining a rapid growth rate. The 25-34 age group has become the fastest-growing segment, indicating that the sport is becoming increasingly youthful and trendy.
 
 ## Ball and Paddle
 
