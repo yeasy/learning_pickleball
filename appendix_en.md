@@ -62,6 +62,14 @@ The paddles used by professional athletes are not necessarily suitable for every
 ### You Must Wait for the Ball to Bounce Before Entering the Non-Volley Zone
 In fact, this rule means that in the Non-Volley Zone, also known as the "kitchen," players cannot hit the ball before it bounces (volley). However, players can enter the Non-Volley Zone at any time.
 
+## Key 2026 Rule Updates
+
+As pickleball evolves, rules continue to be refined. Here are notable updates for 2026:
+
+1.  **Partner Disagreement Rule**: In doubles, if partners disagree on a line call (one calls "out", the other "in" or unsure), the ball must be ruled **IN**, and the rally cannot be replayed.
+2.  **Dropped Ball Fault**: If an extra ball carried by a player falls onto the court during a rally, it is an immediate **Fault**, rather than a replay.
+3.  **Volley Serve Clarification**: The volley serve must have a visibly clear upward arc. Failure to demonstrate this upward motion is a violation.
+
 ## References
 
 * USA Pickleball Rules: https://usapickleball.org/what-is-pickleball/how-to-play/basics/rules-summary;
