@@ -14,6 +14,8 @@ When serving the ball, the player should stand behind the baseline, and the ball
 
 There are two kinds of servings: **Volley serve** and **Drop serve**. The volley serve is to throw the ball up and hit the ball to serve directly, and it is required to swing in an upward arc motion with a low hand (the contacting point of the paddle cannot be higher than the waist, and the paddle top cannot be above the wrist). The drop serve is to let the ball drop freely and hit the ball after it bounces from the ground. There is no restriction on the hitting position or swing direction with drop serve.
 
+> Note: Starting in 2025, the rules allow players to release the ball with their paddle (instead of only by hand), but imparting spin during the release is still prohibited. **The 2026 rules reinforce and emphasize that at the moment of impact, the hand must be below the waist, and the paddle head must be swung in an obvious upward arc (visibly moving upward), with the highest point of the paddle head not above the wrist.**
+
 Usually serve the ball as far as possible to let it land near the baseline (but not out), in order to hamper the opponent's return and slow down the moving to net.
 
 ![Serve in Doubles Games](_images/double-serve.png)
@@ -22,9 +24,9 @@ When serving, you can probe the opponent's return skills by serving to various t
 
 If the opponent's position is not neutral, or the player cannot run quickly, you can mobilize the opponent proactively by using different serving methods.
 
-In singless' serving, the player can take advantage of various spins and placement to mobilize the opponent. For example, you can combine the left-spin long serve to the backhand and the right-spin short serve to the forehand; Or using top-spin serve or non-spin to the middle path.
+In singles' serving, the player can take advantage of various spins and placement to mobilize the opponent. For example, you can combine the left-spin long serve to the backhand and the right-spin short serve to the forehand; Or using top-spin serve or non-spin to the middle path.
 
-In doubless, usually serve long balls to the middle between opponents to force them to return the ball not well and not be able to follow the ball to go to the net in time.
+In doubles, usually serve long balls to the middle between opponents to force them to return the ball not well and not be able to follow the ball to go to the net in time.
 
 ## Master the Serve
 
