@@ -52,3 +52,12 @@
 * **Tweener**: Hit the ball between the legs, usually with the back facing the opponent.
 * **Two-Bounce Rule**: The player serves the ball, the opponent must wait for the ball to bounce before returning the ball (first bounce), and the receiver must wait for the ball to bounce again before returning the ball (second bounce).
 * **Volley**: Hit the ball in the air before it touches the ground.
+
+## Modern Terminology (2025+)
+
+* **Counter Attack**: Instead of resetting, attacking back when defending opponent's aggressive shot by seizing the right moment.
+* **Firefight**: Intense exchange of rapid volleys at the net between both sides, also called Hand Battle.
+* **Hand Battle**: Synonym for Firefight, emphasizing the reaction speed competition.
+* **Raw Carbon**: Unmilled carbon fiber surface texture that increases friction with the ball, enhancing spin capability.
+* **Speed Up**: Suddenly accelerating the shot during dinking rallies to attack the opponent.
+* **Thermoforming**: High-heat and high-pressure paddle manufacturing technology that molds components into a single integrated piece, providing larger sweet spot and better durability.
