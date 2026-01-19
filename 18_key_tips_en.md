@@ -34,3 +34,14 @@ To play pickleball well, you first need to learn various skills comprehensively 
 * Hit to low from high, hit to back court from near net, hit at early stage against at late stage.
 * Those who can win the near-net battle will win the game, those who can control the rhythm will control the game.
 * Begin with the end in mind, exhaust the opponents at your ease, and defeat the complication with simplification.
+
+## Mental Game
+
+* Focus on the present, don't dwell on past mistakes, don't imagine victory prematurely.
+* Play one point at a time, each point is a fresh start.
+* Take deep breaths before critical points to stay calm.
+* Moderate nervousness is normal and can improve focus.
+* Transform "I can't lose" into "I'll give my best effort."
+* When behind, analyze the cause—is the opponent playing well or are you making errors?
+* When ahead, keep executing, don't become conservative just because you're leading.
+* Use positive self-talk during matches, replace negative thoughts with encouragement.

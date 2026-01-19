@@ -58,3 +58,35 @@ The sport requires a variety of physical qualities, including **strength** (powe
 * Bounce the ball with paddle, 100 times for each set, 3 sets by forehand, backhand and alternate;
 * Toss balls into buckets, 20 times per group, 3 groups;
 * Toss the ball to a point on the wall and then catch the ball, 20 times each, 3 sets;
+
+## Level-Based Training Recommendations
+
+Different skill levels require different training focus and duration.
+
+### Beginner (2.5-3.0 Level)
+
+* **Weekly Training**: 3-4 times, 30-60 minutes each
+* **Key Focus**: Serve consistency, return of serve, basic footwork
+* **Training Ratio**: Technical practice 70%, Match play 30%
+* **Special Note**: Establish correct movement habits, avoid developing bad habits
+
+### Intermediate (3.5-4.0 Level)
+
+* **Weekly Training**: 4-5 times, 1-2 hours each
+* **Key Focus**: Drop shots, dinks, volleys, spin control
+* **Training Ratio**: Technical practice 50%, Tactical drills 30%, Matches 20%
+* **Special Note**: Start systematic tactical training
+
+### Advanced (4.5-5.0 Level)
+
+* **Weekly Training**: 5-6 times, 2-3 hours each
+* **Key Focus**: Advanced techniques (ATP, Erne), match strategy, mental training
+* **Training Ratio**: Technical refinement 30%, Tactical drills 40%, Match simulation 30%
+* **Special Note**: Focus on weakness improvement
+
+### Professional/Elite (5.5+ Level)
+
+* **Weekly Training**: 4-6 hours daily
+* **Key Focus**: Technical fine-tuning, fitness, match analysis, mental conditioning
+* **Training Ratio**: Adjust based on competition schedule
+* **Special Note**: Scientific recovery, injury prevention

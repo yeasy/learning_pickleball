@@ -34,6 +34,31 @@ The key tips of defending include:
 * Make sure the ball flight trajectory is low, try to reset the ball to the front of the net;
 * The return is mainly to the position between the two players to avoid going out of bounds.
 
+## Firefight (Hand Battle)
+
+When both sides engage in rapid volley exchanges at the net, it creates a high-speed "Firefight," also called Hand Battle. This has become increasingly common in modern professional matches.
+
+### When Firefight Occurs
+
+* When opponent speeds up and you choose to counter rather than reset;
+* When both sides are looking for attack opportunities and refuse to back down;
+* During critical points when both want to resolve through offense.
+
+### Key Techniques in Firefight
+
+* **Minimize Motion**: Smaller movements mean faster reactions;
+* **Track the Ball**: Keep eyes following the ball's movement;
+* **Maintain Paddle Stability**: In high-speed exchanges, stability is crucial;
+* **Know When to Reset**: When in disadvantageous position, decisively reset to exit the battle.
+
+### When to Exit Firefight
+
+* After two or more consecutive defensive shots;
+* When you feel you can't keep up with opponent's rhythm;
+* When opponent's shot quality remains consistently high.
+
+At this point, use a soft reset shot to place the ball gently into opponent's NVZ and return to the dinking phase.
+
 ## Training Method
 
 Training can be done as follows:
