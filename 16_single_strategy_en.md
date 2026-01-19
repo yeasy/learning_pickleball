@@ -35,3 +35,48 @@ The key to a singles match is to control the rhythm, so try to let the opponent 
 * Defense at the net: After receiving the serve, you must go to the net as soon as possible to block the opponent's 3rd shot. Pay attention to defending wide-angle placement on both sides;
 * Control the placement: It’s very important to accurately control the placement of the ball. Any drive must pass the opponent's interception area in front of the net, otherwise it is easy to be blocked;
 * Use angles: Use more angles when attacking, such as the backhand position. At the same time, mobilize the opponent to run first, and be careful to avoid returning the ball too long and going out of bounds.
+
+## Serving Strategies
+
+Singles serving carries more tactical significance than doubles, directly affecting third shot advantage.
+
+### Serve Pattern Variations
+
+* **Deep Serve**: Serve near the baseline, forcing opponent to receive from backcourt, giving you better approach timing;
+* **Short Serve**: Occasionally serve to front half of service area to disrupt rhythm, but higher risk;
+* **Spin Variations**: Combine left and right sidespin to make landing point unpredictable.
+
+### Serve Placement Selection
+
+* **Deep Backhand Corner**: Most players' backhand is weaker, deep corner serves are most effective;
+* **Fast Forehand**: Occasionally serve fast to forehand side to test opponent's reaction;
+* **Center Serve**: Makes opponent's positioning awkward, difficult to hit wide-angle returns.
+
+## Third Shot Decision
+
+The third shot in singles is the most critical turning point, requiring quick and accurate decisions.
+
+| Opponent's Return Position | Suggested Third Shot | Reason |
+|---------------------------|---------------------|--------|
+| Short ball (mid-court) | Drive attack | Opponent gave attacking opportunity |
+| Medium depth | Drop shot | Safe transition to net |
+| Very deep (baseline) | Lob or drive | Buy yourself time |
+| Wide angle | Return to center | Limit opponent's angles |
+
+## Energy Management
+
+Singles demands extremely high fitness levels. Proper energy distribution is key to winning.
+
+* **Early Game**: Maintain steady rhythm, don't expend energy too early;
+* **Critical Points**: Focus intensely, can increase intensity appropriately;
+* **When Defensive**: Use lobs to buy recovery time;
+* **When Offensive**: Continuous pressure, but avoid errors from rushing.
+
+## Mental Game
+
+Singles is a one-on-one psychological battle:
+
+* **Hide Intentions**: Keep stroke motions consistent to prevent predictions;
+* **Read Opponent**: Observe opponent's positioning and body weight to anticipate next shot;
+* **Control Rhythm**: Maintain pressure when ahead, slow down when behind;
+* **Use Timeouts**: Use timeouts at critical moments to adjust state and strategy.

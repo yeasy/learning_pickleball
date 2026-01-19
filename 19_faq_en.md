@@ -95,6 +95,16 @@ In general, no paddle fits everyone. The following parameters can be considered 
 
 Top paddle brands in market include Franklin, Joola, Onix, Engage and Selkirk.
 
+## [Q7.5] How much does paddle surface roughness affect spin?
+
+**Answer**: Paddle surface roughness directly impacts spin generation capability and has become a critical factor in paddle selection since 2025.
+
+* **Smooth Surface**: Suitable for beginners, less affected by opponent's spin, but limited ability to generate spin;
+* **Medium Roughness Surface**: Such as standard carbon fiber surface, balances spin capability and control, suitable for most intermediate players;
+* **High Roughness Surface**: Such as Raw Carbon or textured surfaces, can significantly increase spin. Professional players can generate over 30 revolutions per second. However, requires stronger technique to control and is more susceptible to opponent's spin.
+
+Since 2025, more and more professional players have switched to high roughness surface paddles to gain stronger spin advantage. Note that some "ultra-spin" paddles may not comply with tournament regulations. Always confirm USA Pickleball certification before purchase.
+
 ## [Q8] How to deal with the ball between two players in doubles?
 
 **Answer**: In doubless, there are often situations where two players rush to hit the ball in the middle position together, or let the other side deal with it, resulting in loss of points.
