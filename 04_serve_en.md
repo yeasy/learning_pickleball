@@ -39,7 +39,7 @@ Since pickleballs have a smooth surface, the serve should primarily focus on str
 The key to serving effectively is consistency to avoid errors. The next priority is to aim for deep placement to make it difficult for the opponent to return. Finally, incorporating power and spin—mainly topspin and sidespin—can further improve the effectiveness of the serve.
 
 ## Return the Ball
-When preparing to return the ball, keep enough space for hitting the ball. It is advisable to stay at a step back from the bottom line. The body and the racquet should face the direction of the coming ball.
+When preparing to return the ball, keep enough space for hitting the ball. It is advisable to stay at a step back from the bottom line. The body and the paddle should face the direction of the coming ball.
 
 When returning the serve, players should follow the flying ball to go to the net (stay near the NVZ line before the ball's landing), which forces the opponent to stay in the backcourt. Therefore, the returning ball should also land as close as possible to the baseline.
 

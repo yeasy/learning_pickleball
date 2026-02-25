@@ -17,7 +17,7 @@ Different spins can cause different offset of the ball’s flight path. Accordin
 Consider using Spin in the following scenarios:
 
 * Serve: Use spins to cause the opponent's prediction error on the ball's trajectory;
-* Dink or Drop: Use spins to cause the opponent to hit the ball at a discomfortable position, forcing the return ball too high or too low;
+* Dink or Drop: Use spins to cause the opponent to hit the ball at an uncomfortable position, forcing the return ball too high or too low;
 * Drive or lob: Use topspin to avoid letting the ball go out;
 * Volley: Use spins to cause the opponent to fail to return the ball;
 * ATP: Use side spin to let the ball land into the court from outside.
@@ -38,7 +38,7 @@ The spin of the pickleball typically ranges from 15 to 35 revolutions per second
 
 To handle the spinning ball well, you must first understand the impact of different spins on the ball's flight path and behavior after landing, and move proactively to have a solid hit. For example, if the opponent hits a topspin ball, the return position should be more forward, and at the same time, the surface of the paddle should not be too high. Conversely, you can also consider taking the initiative to use the power of the opponent's topspin to hit the ball.
 
-In addition, to weaken the effect of spin, the simplest principle is to hit the ball in the same way as the player that creates the spin. For example, try to hit the bottom of the ball to catch a back spinning ball, and hit the ball up to avoid drop down to the net. If you use the drive to return the backs spinning ball, the pushing up more sufficiently than returning a non-spinning ball.
+In addition, to weaken the effect of spin, the simplest principle is to hit the ball in the same way as the player that creates the spin. For example, try to hit the bottom of the ball to catch a back spinning ball, and hit the ball up to avoid drop down to the net. If you use the drive to return the backspin ball, you need to push up more sufficiently than returning a non-spinning ball.
 
 Finally, you can hit the ball faster, to reduce the contact time between the ball and the paddle, which also reduces the impact of spin.
 

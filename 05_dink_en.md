@@ -51,7 +51,7 @@ Once consistent, add spin to pressure the opponent:
 
 **Placement Strategy**:
 *   **Defensive**: Aim for the center of the NVZ to stay safe.
-*   **Offensive**: Push the ball intothe corners or at the opponent's feet to force movement. A "dead dink" deep in the kitchen can also freeze the opponent, forcing a decision between volleying or letting it bounce.
+*   **Offensive**: Push the ball into the corners or at the opponent's feet to force movement. A "dead dink" deep in the kitchen can also freeze the opponent, forcing a decision between volleying or letting it bounce.
 
 ### Two-Handed Backhand Dink
 

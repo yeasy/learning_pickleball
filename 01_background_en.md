@@ -2,11 +2,11 @@
 
 Pickleball, as an emerging sport born in the 1960s, has swept North America and attracted more and more interests among people worldwide.
 
-Pickleball combines the skills of tennis, badminton, table tennis and other sports. It is fun to play, easy to learn, and moderate in intensity, and it is not easy to be injured. It can be described as suitable for all ages. Anyone in their 70s or 80s, or children in their teens, can participate.
+Pickleball combines the skills of tennis, badminton, table tennis and other sports. It is fun to play, easy to learn, and moderate in intensity, and players are unlikely to get injured. It can be described as suitable for all ages. Anyone in their 70s or 80s, or children in their teens, can participate.
 
 ## Origin and Development
 
-In the summer of 1965, the pickleball was invented by Congressman Joel Pritchard (1925 \~ 1997) and his friends Bill Bell (1923 \~ 2006) and Barney McCallum (1926 \~ 2019) while vacationing on Bainbridge Island in Seattle, USA.
+In the summer of 1965, pickleball was invented by Congressman Joel Pritchard (1925 \~ 1997) and his friends Bill Bell (1923 \~ 2006) and Barney McCallum (1926 \~ 2019) while vacationing on Bainbridge Island in Seattle, USA.
 
 ![The Born of Pickleball](_images/pickleball-born.png)
 
@@ -20,7 +20,7 @@ In the spring of 1976, the first known pickleball tournament was held at the Sou
 
 By the 1980s, pickleball had gradually gained popularity across the United States. In 1984, the United States Amateur Pickleball Association (USAPA, now known as USA Pickleball) was established. That same year, the first official rulebook was published, further standardizing the sport.
 
-At the same time, paddle technique continued to evolve. In 1984, Arlen Paranto, a Boeing engineer, developed the first high-performance pickleball paddle using composite materials (fiberglass and a honeycomb core). The introduction of these materials made pickleball more professional and accelerated its development.
+At the same time, paddle technology continued to evolve. In 1984, Arlen Paranto, a Boeing engineer, developed the first high-performance pickleball paddle using composite materials (fiberglass and a honeycomb core). The introduction of these materials made pickleball more professional and accelerated its development.
 
 By 1990, pickleball had spread to all 50 states in the U.S. Around 2000, the sport was introduced into school physical education programs, further expanding its audience.
 
@@ -84,4 +84,4 @@ Beyond North America, pickleball has also gained significant popularity in Europ
 
 As of the end of 2022, more than 60 countries had joined the International Pickleball Federation, and 12 international tournaments had been held. It is widely believed that in the near future, pickleball will become an official event in the Olympics and other international competitions.
 
-In addition, as a sport suitable for all ages, pickleball has been increasingly valued by educational institutions, and more and more schools have set it up as a physical education course, with more than 500 schools in New York State alone. related courses. In other countries, more and more schools have set it as a curriculum. Pickleball helps to improve students' physical fitness, coordination and responsiveness. At the same time, the sense of teamwork and competition of pickleball can also cultivate students' social skills and team spirit.
+In addition, as a sport suitable for all ages, pickleball has been increasingly valued by educational institutions, and more and more schools have set it up as a physical education course, with more than 500 schools in New York State alone offering related courses. In other countries, more and more schools have also added it to their curriculum. Pickleball helps to improve students' physical fitness, coordination and responsiveness. At the same time, the sense of teamwork and competition of pickleball can also cultivate students' social skills and team spirit.

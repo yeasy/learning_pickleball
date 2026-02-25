@@ -41,7 +41,7 @@
 * **Return**: Returning a serve or generally hitting the ball back into the opponent's court.
 * **Roll Volley**: A volley shot executed with a rolling motion of the wrist to create spin and keep the ball low over the net.
 * **Sandbagging**: Players (deliberately) to play at a lower level game than they really are.
-* **Scorpion**: A high, defensive lob shot that resembles the curved tail of a scorpion, intended to give the player time to recover and reset the point.
+* **Scorpion**: A shot where the player quickly ducks down and raises the paddle behind or above the head to return a ball aimed at the head or neck area. The motion resembles a scorpion's curved tail.
 * **Serve**: Starting a rally by hitting the ball into the opponent's court.
 * **Shake and Bake**: In doubles, one player hits the third shot by driving the ball, and his partner attacks the return after moving to the net quickly.
 * **Sideline**: The line at the side of the court.

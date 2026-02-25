@@ -14,11 +14,11 @@ Common footwork includes stride step, cross steps, jump step, and split step.
 
 **Cross Steps** are the movements of moving your legs crossed quickly. Cross steps are smaller steps and are generally used to move quickly or fine-tune your body position.
 
-**Jumping Steps** to the action of moving quickly by jumping. The jumping speed is the fastest and the moving distance is the largest. It is generally used in the situation when you do not have enough time to hit the ball by running. You need to stabilize the body as soon as possible after landing.
+**Jumping Steps** refers to the action of moving quickly by jumping. The jumping speed is the fastest and the moving distance is the largest. It is generally used in the situation when you do not have enough time to hit the ball by running. You need to stabilize the body as soon as possible after landing.
 
 **Split Steps** are small jumps to quickly open feet to low the position, and adjust the body to prepare to hit the ball or to move.
 
-Single game player has a larger running range and can use the Cross or Stride steps mainly with the running movements. In doubles games, the players covered range is mostly not far, hence players can more Cross or Skipping steps, and pay attention to properly lowering the body and improve the stability for the shot.
+Singles players have a larger running range and can use Cross or Stride steps mainly with the running movements. In doubles games, the players' covered range is mostly not far, hence players can use more Cross or Split steps, and pay attention to properly lowering the body and improve the stability for the shot.
 
 ## When to Use
 
