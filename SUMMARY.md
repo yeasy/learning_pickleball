@@ -44,7 +44,7 @@
 * [Chapter 16 - Single Game Strategies](16_single_strategy_en.md)
 * [Chapter 17 - Double Game Strategies](17_double_strategy_en.md)
 * [Chapter 18 - Key Tips](18_key_tips_en.md)
-* [Chapter 19 - Frequent Questions and Answers](19_faq_en.md)
+* [Chapter 19 - Frequently Asked Questions](19_faq_en.md)
 * [Chapter 20 - The Tao of Pickleball](20_tao_en.md)
 * [Chapter 21 - Top Secrets of Pickleball](21_secret_en.md)
 * [Chapter 22 - Pickleball Terminologies](22_terminologies_en.md)
