@@ -18,7 +18,7 @@ According to the trajectory height, the Slice can be roughly divided into the fo
 
 When the opponent hits the ball with strong backspin, or when your hitting point is low, you can use the slice.
 
-Compared with driving the ball, the slice is small in action, the ball's trajectory is easy to control, and the ball flies slowly. It is very use in setup, which can bring more time for going to the net. For example, professional players usually use slice in their second or third shot.
+Compared with driving the ball, the slice is small in action, the ball's trajectory is easy to control, and the ball flies slowly. It is very useful in setup, which can bring more time for going to the net. For example, professional players usually use slice in their second or third shot.
 
 Another situation is that when the opponent's return is high in front of the net, players can use slice in cooperation with other shots such as drive or volley to change the rhythm and placement, to cause the opponent to make mistakes.
 

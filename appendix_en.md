@@ -12,7 +12,7 @@ Rating | Level | Definition
 4.0 | Advanced Intermediate | Master basic skills solidly; Master the variation of rotation and placement, and can hit different shots with the same action; Can attack during Dink and reset the opponent’s attack; Observe other players during the game and adjust strategies in real time.
 4.5 | Advanced | Comprehensive and flexible use of techniques; Few unforced errors; Able to return the ball when forced.
 5.0 | Professional | No longer stick to specific skills; Able to control the game rhythm; Naturally control the ball's placement, speed, and rotation.
-5.5+ | Vocational | Build a systematic understanding of pickleball theory and skills; Often win medals in professional tournaments.
+5.5+ | Master | Build a systematic understanding of pickleball theory and skills; Often win medals in professional tournaments.
 
 ## Court Etiquette
 

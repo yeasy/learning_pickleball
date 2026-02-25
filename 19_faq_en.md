@@ -1,4 +1,4 @@
-# Frequent Questions and Answers
+# Frequently Asked Questions
 
 ## [Q1] How to handle lob?
 
@@ -107,7 +107,7 @@ Since 2025, more and more professional players have switched to high roughness s
 
 ## [Q8] How to deal with the ball between two players in doubles?
 
-**Answer**: In doubless, there are often situations where two players rush to hit the ball in the middle position together, or let the other side deal with it, resulting in loss of points.
+**Answer**: In doubles, there are often situations where two players rush to hit the ball in the middle position together, or let the other side deal with it, resulting in loss of points.
 
 The handling of the middle-position ball requires players to negotiate the principles in advance. Generally speaking, here are some common principles:
 
