@@ -6,6 +6,8 @@ The **Volley** is a primary attacking shot in pickleball, often used to finish p
 
 A volley is hitting the ball out of the air before it bounces. Volleys reduce the opponent's reaction time and allow you to maintain an offensive position at the net. In professional play, "hands battles" (rapid-fire volley exchanges) often require reaction times of under 0.25 seconds.
 
+![Volley Shot](_images/volley-shot.png)
+
 Types of volleys based on location:
 *   **Backcourt Volley**: Usually a defensive block against a deep, high ball (like a lob or deep drive).
 *   **Transition Volley (Mid-court)**: Often a "Reset". As you move from the baseline to the NVZ, you may need to softly block a hard shot into the kitchen to neutralize the point.
@@ -37,6 +39,8 @@ Types of volleys based on location:
 *   **Open Space**: Angle the ball away from the opponent.
 *   **The Body**: "Jam" the opponent by aiming at their right hip/shoulder.
 *   **The Middle**: In doubles, confusion often occurs down the center line.
+
+![Volley Target Areas](_images/volley-target.png)
 
 **Note**: Avoid aiming too close to the sidelines unless you have a clear opening, as the margin for error is small.
 
