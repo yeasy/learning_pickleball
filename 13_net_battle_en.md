@@ -2,6 +2,8 @@
 
 Attack and defense in front of the net are often used in doubles games. It is the key for the game result. The rhythm is very fast and has high requirement on players' reaction.
 
+![Net Battle](_images/net-battle.png)
+
 ## How to Attack
 
 Near-net attack means that during the Dink process between players, one player actively hits the ball at a high speed to attack the opponent. Near-net attacks usually use volleys.
