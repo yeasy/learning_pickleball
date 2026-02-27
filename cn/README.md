@@ -1,0 +1,57 @@
+# 学打匹克球
+
+[![GitHub stars](https://img.shields.io/github/stars/yeasy/learning_pickleball.svg?style=social&label=Star)](https://github.com/yeasy/learning_pickleball)
+[![GitHub release](https://img.shields.io/github/release/yeasy/learning_pickleball.svg)](https://github.com/yeasy/learning_pickleball/releases)
+[![License](https://img.shields.io/github/license/yeasy/learning_pickleball)](../LICENSE)
+
+<p align="center">
+  <img src="../../_images/cover.jpg" alt="Learning Pickleball" width="400">
+</p>
+
+## 简介
+
+**匹克球** 是一项风靡全球的新兴运动，融合了网球、羽毛球和乒乓球的特点。它上手容易、运动量适中且趣味性强。本书结合北美教学实践，系统讲解匹克球技术，帮助读者科学训练，避免伤痛，享受运动乐趣。
+
+> 本书提供 [中文版 PDF](https://github.com/yeasy/learning_pickleball/releases/download/v2.6.0/learning_pickleball-v2.6.0-cn.pdf) 下载。
+
+## 阅读方式
+
+### 在线阅读
+
+*   [**GitBook (推荐)**](https://yeasy.gitbook.io/learning_pickleball/)
+*   [GitHub](https://github.com/yeasy/learning_pickleball/blob/main/zh-hans/SUMMARY.md)
+
+### 下载 PDF
+
+*   [最新版下载](https://github.com/yeasy/learning_pickleball/releases/)
+
+### 本地阅读
+
+本项目使用 [HonKit](https://github.com/honkit/honkit) 进行本地构建。
+
+```bash
+npm install        # 安装依赖
+npx honkit serve   # 启动本地服务
+```
+
+随后访问: http://localhost:4000。
+
+## 内容概览
+
+本书内容涵盖系统的匹克球训练体系：
+
+*   **基础技术**: 握拍、发球、网前吊球 (Dink)、后场吊球 (Drop)、抽球 (Drive)、截击 (Volley)、挑球 (Lob)。
+*   **进阶技术**: 旋转球、高压球、ATP、Erne。
+*   **比赛策略**: 单打与双打策略。
+*   **资源合集**: [要点总结](18_key_tips.md) & [常见问题](19_faq.md).
+
+*注：具体比赛规则请参考 [官方手册](https://usapickleball.org/what-is-pickleball/official-rules/)。*
+
+## 授权与版权
+
+本书已授权 [全球多家俱乐部和学校](https://github.com/yeasy/learning_pickleball/wiki/) 用于公益培训。
+**未经授权，禁止用于商业用途。**
+
+## 参与贡献
+
+欢迎提交 PR 修复错误或完善内容！

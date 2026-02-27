@@ -16,7 +16,7 @@
 
 > 此项目采用多语言构建。
 > This project supports multiple languages.
-> - 🇨🇳 **[阅读中文版 (Read in Chinese)](zh-hans/README.md)**
+> - 🇨🇳 **[阅读中文版 (Read in Chinese)](cn/README.md)**
 > - 🇺🇸 **[Read in English (阅读英文版)](en/README.md)**
 > 
 > 下载 PDF / Download PDF: [中文版 (CN)](https://github.com/yeasy/learning_pickleball/releases/download/v2.6.0/learning_pickleball-v2.6.0-cn.pdf) | [English (EN)](https://github.com/yeasy/learning_pickleball/releases/download/v2.6.0/learning_pickleball-v2.6.0-en.pdf)

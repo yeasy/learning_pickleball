@@ -17,6 +17,8 @@ _book
 
 # others
 *.sublime-project
+*.sublime-workspace
 *.graffle
 *.obsidian
 .idea/
+.DS_Store
