@@ -1,0 +1,9 @@
+{
+    "language": "en",
+    "title": "Learning Pickleball",
+    "pluginsConfig": {
+        "image-captions": {
+            "caption": "Figure _PAGE_IMAGE_NUMBER_ - _CAPTION_"
+        }
+    }
+}
