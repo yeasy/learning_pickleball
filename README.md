@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/github/license/yeasy/learning_pickleball)](LICENSE)
 
 <p align="center">
-  <img src="_images/cover.png" alt="Learning Pickleball" width="400">
+  <img src="_images/cover.jpg" alt="Learning Pickleball" width="400">
 </p>
 
 ## Introduction | 简介
@@ -14,51 +14,36 @@
 
 **匹克球** 是一项风靡全球的新兴运动，融合了网球、羽毛球和乒乓球的特点。它上手容易、运动量适中且趣味性强。本书结合北美教学实践，系统讲解匹克球技术，帮助读者科学训练，避免伤痛，享受运动乐趣。
 
-> This book is available in both [English](https://github.com/yeasy/learning_pickleball/releases/download/v2.6.0/learning_pickleball-v2.6.0-en.pdf) and [Chinese](https://github.com/yeasy/learning_pickleball/releases/download/v2.6.0/learning_pickleball-v2.6.0-cn.pdf).
-> 本书提供 [中文版本](https://github.com/yeasy/learning_pickleball/releases/download/v2.6.0/learning_pickleball-v2.6.0-cn.pdf) 和 [英文版本](https://github.com/yeasy/learning_pickleball/releases/download/v2.6.0/learning_pickleball-v2.6.0-en.pdf)。
+> 此项目采用多语言构建。
+> This project supports multiple languages.
+> - 🇨🇳 **[阅读中文版 (Read in Chinese)](zh-hans/README.md)**
+> - 🇺🇸 **[Read in English (阅读英文版)](en/README.md)**
+> 
+> 下载 PDF / Download PDF: [中文版 (CN)](https://github.com/yeasy/learning_pickleball/releases/download/v2.6.0/learning_pickleball-v2.6.0-cn.pdf) | [English (EN)](https://github.com/yeasy/learning_pickleball/releases/download/v2.6.0/learning_pickleball-v2.6.0-en.pdf)
 
-## How to Read | 阅读方式
+## Online Reading | 在线阅读
 
-### Online Reading | 在线阅读
+Hosted on GitBook / 托管于 GitBook:
+👉 **[yeasy.gitbook.io/learning_pickleball](https://yeasy.gitbook.io/learning_pickleball/)**
 
-*   [**GitBook (Recommended)**](https://yeasy.gitbook.io/learning_pickleball/)
-*   [GitHub](https://github.com/yeasy/learning_pickleball/blob/main/SUMMARY.md)
+**💡 Tip for GitBook Users | GitBook 读者提示：**
+When reading on GitBook, you can seamlessly switch between English and Chinese by clicking the **Language Globe Icon (🌐)** or dropdown at the top of the navigation bar.
+在 GitBook 网站上阅读时，您可以通过点击页面上方导航栏的 **语言下拉菜单 (🌐 图标)** 随时在中文和英文之间进行无缝切换。
 
-### Download PDF | 下载 PDF
-
-*   [Latest Release / 最新版下载](https://github.com/yeasy/learning_pickleball/releases/)
-
-### Local Build | 本地阅读
+## Local Build | 本地阅读
 
 This project uses [HonKit](https://github.com/honkit/honkit) to build the book locally.
+本项目使用 HonKit 进行本地构建。
 
 ```bash
 npm install        # Install dependencies / 安装依赖
-npx honkit serve   # Start local server / 启动本地服务
+npx honkit serve   # Start local server / 启动本地服
 ```
-
-Then visit / 访问: http://localhost:4000.
-
-## Contents | 内容概览
-
-This book covers systematic training for pickleball:
-本书内容涵盖系统的匹克球训练体系：
-
-*   **Basics**: Hold Paddle, Serve, Dinking, Dropping, Driving, Volleying, Lobbing.
-*   **Advanced**: Spin, Overhead Smash, ATP, Erne.
-*   **Strategy**: Singles and Doubles strategies.
-*   **Resources**: [Key Tips](18_key_tips_en.md) & [FAQ](19_faq_en.md).
-
-*Note: For official rules, please refer to [USA Pickleball Rules](https://usapickleball.org/what-is-pickleball/official-rules/).*
-*注：具体比赛规则请参考官方手册。*
 
 ## License & Authorization | 授权与版权
 
-This book is authorized for educational use by [numerous clubs and schools](https://github.com/yeasy/learning_pickleball/wiki/).
-**Commercial use is prohibited without authorization.**
-
-本书已授权 [全球多家俱乐部和学校](https://github.com/yeasy/learning_pickleball/wiki/) 用于公益培训。
-**未经授权，禁止用于商业用途。**
+This book is authorized for educational use by [numerous clubs and schools](https://github.com/yeasy/learning_pickleball/wiki/). **Commercial use is prohibited without authorization.**
+本书已授权 [全球多家俱乐部和学校](https://github.com/yeasy/learning_pickleball/wiki/) 用于公益培训。**未经授权，禁止用于商业用途。**
 
 ## Contributing | 贡献
 
