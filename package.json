@@ -39,7 +39,7 @@
     "esprima": "^4.0.1",
     "estree-walker": "^2.0.2",
     "expand-range": "^1.8.2",
-    "extend": "^1.2.1",
+    "extend": "^2.0.2",
     "extend-shallow": "^2.0.1",
     "fill-range": "^2.2.4",
     "focus-trap": "^7.7.0",
