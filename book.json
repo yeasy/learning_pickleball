@@ -1,5 +1,5 @@
 {
-    "title": "打好匹克球 Pickleball Guide",
+    "title": "学打匹克球 | Learning Pickleball",
     "author": "yeasy",
     "output.name": "learning_pickleball",
     "gitbook": "3.2.3",
@@ -12,24 +12,14 @@
         "footerTemplate": "null"
     },
     "plugins": [
-        "-anchors@^0.7.1",
-        "-autocover",
-        "chapter-numbering@^1.2.0",
-        "-emphasize@^1.1.0",
-        "fontsettings@^2.0.0",
-        "-github-buttons",
-        "image-captions@^3.1.0",
-        "-latex-codecogs",
-        "-livereload",
-        "-lunr@^1.2.0",
-        "-mathjax",
-        "prism@^2.4.0",
-        "prism-themes@^0.0.2",
+        "chapter-numbering",
+        "image-captions",
+        "prism",
+        "prism-themes",
         "-highlight",
-        "-search@^2.2.1",
-        "-sharing",
-        "-simple-page-toc@^0.1.2",
-        "theme-default@^1.0.7"
+        "-lunr",
+        "-search",
+        "-sharing"
     ],
     "pluginsConfig": {
         "autocover": {
