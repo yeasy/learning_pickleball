@@ -1,0 +1,9 @@
+{
+    "language": "zh-hans",
+    "title": "学打匹克球",
+    "pluginsConfig": {
+        "image-captions": {
+            "caption": "图 _PAGE_IMAGE_NUMBER_ - _CAPTION_"
+        }
+    }
+}

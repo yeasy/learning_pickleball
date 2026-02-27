@@ -1,7 +1,6 @@
 {
     "title": "打好匹克球 Pickleball Guide",
     "author": "yeasy",
-    "language" : "zh-hans",
     "output.name": "learning_pickleball",
     "gitbook": "3.2.3",
     "root": ".",
@@ -48,17 +47,17 @@
             }
         },
         "fontSettings": {
-                        "family": "msyh",
-                        "size": 4
+            "family": "msyh",
+            "size": 4
         },
         "image-captions": {
-            "attributes": { "width": "400" },
+            "attributes": {
+                "width": "400"
+            },
             "caption": "Figure _PAGE_IMAGE_NUMBER_ - _CAPTION_"
         },
         "theme-default": {
             "showLevel": true
         }
-
     }
 }
-
