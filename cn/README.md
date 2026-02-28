@@ -19,7 +19,7 @@
 ### 在线阅读
 
 *   [**GitBook (推荐)**](https://yeasy.gitbook.io/learning_pickleball/)
-*   [GitHub](https://github.com/yeasy/learning_pickleball/blob/main/zh-hans/SUMMARY.md)
+*   [GitHub](https://github.com/yeasy/learning_pickleball/blob/main/cn/SUMMARY.md)
 
 ### 下载 PDF
 
