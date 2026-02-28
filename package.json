@@ -141,7 +141,7 @@
     "tabbable": "^6.3.0",
     "through2": "^2.0.5",
     "to-object-path": "^0.3.0",
-    "toml": "^2.3.6",
+    "toml": "^3.0.0",
     "trim-lines": "^3.0.1",
     "typedarray": "^0.0.6",
     "unist-util-is": "^6.0.1",
