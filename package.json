@@ -53,7 +53,7 @@
     "hookable": "^5.5.3",
     "html-entities": "^1.2.0",
     "html-void-elements": "^3.0.0",
-    "htmlparser2": "^3.10.1",
+    "htmlparser2": "^10.1.0",
     "inherits": "^2.0.4",
     "is-buffer": "^1.1.6",
     "is-number": "^2.1.0",
