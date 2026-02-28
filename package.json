@@ -42,7 +42,7 @@
     "extend": "^3.0.2",
     "extend-shallow": "^2.0.1",
     "fill-range": "^2.2.4",
-    "focus-trap": "^7.7.0",
+    "focus-trap": "^8.0.0",
     "for-in": "^1.0.2",
     "geopattern": "^1.2.3",
     "github-slugid": "^1.0.1",
