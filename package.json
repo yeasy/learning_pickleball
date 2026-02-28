@@ -138,7 +138,7 @@
     "stringify-entities": "^4.0.4",
     "strip-color": "^0.1.0",
     "superjson": "^2.2.6",
-    "tabbable": "^6.3.0",
+    "tabbable": "^6.4.0",
     "through2": "^2.0.5",
     "to-object-path": "^0.3.0",
     "toml": "^2.3.6",
