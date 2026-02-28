@@ -139,7 +139,7 @@
     "strip-color": "^0.1.0",
     "superjson": "^2.2.6",
     "tabbable": "^6.3.0",
-    "through2": "^2.0.5",
+    "through2": "^4.0.2",
     "to-object-path": "^0.3.0",
     "toml": "^3.0.0",
     "trim-lines": "^3.0.1",
