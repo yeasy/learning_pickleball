@@ -4,7 +4,7 @@
   "description": "[![GitHub stars](https://img.shields.io/github/stars/yeasy/learning_pickleball.svg?style=social&label=Star)](https://github.com/yeasy/learning_pickleball) [![GitHub release](https://img.shields.io/github/release/yeasy/learning_pickleball.svg)](https://github.com/yeasy/learning_pickleball/releases) [![License](https://img.shields.io/github/license/yeasy/learning_pickleball)](LICENSE)",
   "main": "index.js",
   "dependencies": {
-    "algoliasearch": "^5.46.2",
+    "algoliasearch": "^5.49.1",
     "ansi-red": "^0.1.1",
     "ansi-wrap": "^0.1.0",
     "argparse": "^1.0.10",
