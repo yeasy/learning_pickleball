@@ -152,7 +152,7 @@
     "util-deprecate": "^1.0.2",
     "vfile": "^6.0.3",
     "vfile-message": "^4.0.3",
-    "vite": "^5.4.21",
+    "vite": "^7.3.1",
     "vitepress": "^1.6.4",
     "vue": "^3.5.26",
     "xmldom": "^0.1.31",
