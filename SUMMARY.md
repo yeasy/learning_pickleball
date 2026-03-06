@@ -22,6 +22,11 @@
 * [第 20 章 - 匹克球之道](cn/20_tao.md)
 * [第 21 章 - 匹克球九阴真经](cn/21_secret.md)
 * [第 22 章 - 匹克球术语](cn/22_terminologies.md)
+* [第 23 章 - 运动医学与伤害预防](cn/23_injury_prevention.md)
+* [第 24 章 - 技术原理的物理与生物力学解释](cn/24_physics_biomechanics.md)
+* [第 25 章 - 针对不同水平的差异化学习路径](cn/25_learning_pathways.md)
+* [第 26 章 - 与其他球类的系统对标分析](cn/26_comparison_other_sports.md)
+* [第 27 章 - 装备选购的决策支持矩阵](cn/27_equipment_guide.md)
 * [附录](cn/appendix.md)
 
 # Learning Pickleball
@@ -48,4 +53,9 @@
 * [Chapter 20 - The Tao of Pickleball](en/20_tao.md)
 * [Chapter 21 - Top Secrets of Pickleball](en/21_secret.md)
 * [Chapter 22 - Pickleball Terminologies](en/22_terminologies.md)
+* [Chapter 23 - Sports Medicine and Injury Prevention](en/23_injury_prevention.md)
+* [Chapter 24 - Physics and Biomechanics of Techniques](en/24_physics_biomechanics.md)
+* [Chapter 25 - Differentiated Learning Pathways by Skill Level](en/25_learning_pathways.md)
+* [Chapter 26 - Comparative Analysis with Other Racquet Sports](en/26_comparison_other_sports.md)
+* [Chapter 27 - Equipment Selection Decision Matrix](en/27_equipment_guide.md)
 * [Appendix](en/appendix.md)
