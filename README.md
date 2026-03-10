@@ -37,6 +37,40 @@ npm install        # Install dependencies / 安装依赖
 npx honkit serve   # Start local server / 启动本地服
 ```
 
+## 五分钟快速上手
+
+"5分钟了解匹克球"——跟随以下步骤快速掌握基础：
+
+1. **什么是匹克球**（第1章）：了解匹克球的来源、基本规则和与其他球拍运动的区别
+2. **基本规则**（第2-3章）：掌握计分制、发球规则、边界判定和基本得分情形
+3. **首次发球**（第5章）：学习正确的发球技术、握拍方式和发球的常见错误
+4. **基础击球**（第6-8章）：练习前场和后场的基本击球技术，建立运动感觉
+5. **开始实战**：在球场上应用学到的知识，逐步提升水平
+
+## 学习路线图
+
+```mermaid
+graph LR
+    Start[匹克球学习入口] --> Ch1[第1章：基础认知]
+
+    Ch1 --> Role1["完全新手<br/>第1-8章"]
+    Ch1 --> Role2["有球拍基础<br/>第1-3章 → 第9-15章"]
+    Ch1 --> Role3["竞技提高<br/>第1章 → 第9-15章 → 第20-24章"]
+    Ch1 --> Role4["教练/裁判<br/>第1-3章 → 第25-27章"]
+
+    Role1 --> End1["入门基础技能"]
+    Role2 --> End2["进阶战术应用"]
+    Role3 --> End3["竞赛训练方法"]
+    Role4 --> End4["教学与执裁能力"]
+```
+
+| 读者角色 | 学习重点 | 核心成果 |
+|---------|---------|---------|
+| **完全新手** | 第1-8章 | 掌握匹克球基础技能与规则 |
+| **有基础** | 第1-3章 → 第9-15章 | 快速迁移经验、学习进阶战术 |
+| **竞技提高** | 第1章 → 第9-15章 → 第20-24章 | 系统训练与比赛策略 |
+| **教练/裁判** | 第1-3章 → 第25-27章 | 教学执裁与运动科学知识 |
+
 ## License & Authorization | 授权与版权
 
 This book is authorized for educational use by [numerous clubs and schools](https://github.com/yeasy/learning_pickleball/wiki/). **Commercial use is prohibited without authorization.**
