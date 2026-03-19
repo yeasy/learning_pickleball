@@ -27,23 +27,14 @@
 
 ### 本地阅读
 
-本项目使用 [HonKit](https://github.com/honkit/honkit) 进行本地构建。
+使用 [mdPress](https://github.com/yeasy/mdpress) 进行本地构建：
 
 ```bash
-npm install        # 安装依赖
-npx honkit serve   # 启动本地服务
+brew tap yeasy/tap && brew install mdpress
+mdpress serve cn/
 ```
 
 随后访问: http://localhost:4000。
-
-也可使用 [mdpress](https://github.com/yeasy/mdpress) 进行本地构建。
-
-```bash
-# 使用 mdpress（推荐）
-brew tap yeasy/tap && brew install mdpress
-mdpress build --format html cn/
-mdpress serve cn/
-```
 
 ## 内容概览
 

@@ -29,19 +29,12 @@ When reading on GitBook, you can seamlessly switch between English and Chinese b
 
 ## Local Build | 本地阅读
 
-This project uses [HonKit](https://github.com/honkit/honkit) to build the book locally.
-本项目使用 HonKit 进行本地构建。
+Use [mdPress](https://github.com/yeasy/mdpress) to build locally / 使用 [mdPress](https://github.com/yeasy/mdpress) 进行本地构建：
 
 ```bash
-npm install        # Install dependencies / 安装依赖
-npx honkit serve   # Start local server / 启动本地服
-```
-
-Or use [mdpress](https://github.com/yeasy/mdpress) / 或使用 mdpress 构建：
-
-```bash
-go install github.com/yeasy/mdpress@latest
-mdpress serve
+brew tap yeasy/tap && brew install mdpress
+mdpress serve cn/   # Chinese / 中文版
+mdpress serve en/   # English / 英文版
 ```
 
 ## 五分钟快速上手
