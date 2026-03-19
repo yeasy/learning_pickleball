@@ -36,6 +36,15 @@ npx honkit serve   # 启动本地服务
 
 随后访问: http://localhost:4000。
 
+也可使用 [mdpress](https://github.com/yeasy/mdpress) 进行本地构建。
+
+```bash
+# 使用 mdpress（推荐）
+brew tap yeasy/tap && brew install mdpress
+mdpress build --format html cn/
+mdpress serve cn/
+```
+
 ## 内容概览
 
 本书内容涵盖系统的匹克球训练体系：

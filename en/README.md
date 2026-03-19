@@ -36,6 +36,15 @@ npx honkit serve   # Start local server
 
 Then visit: http://localhost:4000.
 
+You can also use [mdpress](https://github.com/yeasy/mdpress) to build locally.
+
+```bash
+# Using mdpress (recommended)
+brew tap yeasy/tap && brew install mdpress
+mdpress build --format html en/
+mdpress serve en/
+```
+
 ## Contents
 
 This book covers systematic training for pickleball:
