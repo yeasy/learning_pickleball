@@ -37,6 +37,13 @@ npm install        # Install dependencies / 安装依赖
 npx honkit serve   # Start local server / 启动本地服
 ```
 
+Or use [mdpress](https://github.com/yeasy/mdpress) / 或使用 mdpress 构建：
+
+```bash
+go install github.com/yeasy/mdpress@latest
+mdpress serve
+```
+
 ## 五分钟快速上手
 
 "5分钟了解匹克球"——跟随以下步骤快速掌握基础：
