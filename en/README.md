@@ -27,23 +27,14 @@
 
 ### Local Build
 
-This project uses [HonKit](https://github.com/honkit/honkit) to build the book locally.
+Use [mdPress](https://github.com/yeasy/mdpress) to build locally:
 
 ```bash
-npm install        # Install dependencies
-npx honkit serve   # Start local server
+brew tap yeasy/tap && brew install mdpress
+mdpress serve en/
 ```
 
 Then visit: http://localhost:4000.
-
-You can also use [mdpress](https://github.com/yeasy/mdpress) to build locally.
-
-```bash
-# Using mdpress (recommended)
-brew tap yeasy/tap && brew install mdpress
-mdpress build --format html en/
-mdpress serve en/
-```
 
 ## Contents
 
