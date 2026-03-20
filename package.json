@@ -7,7 +7,7 @@
     "gitbook-plugin-chapter-numbering": "^1.2.0",
     "gitbook-plugin-image-captions": "^3.1.0",
     "gitbook-plugin-prism-themes": "^0.0.2",
-    "honkit": "^6.1.6",
+    "honkit": "^6.1.7",
     "honkit-plugin-prism": "^2.5.4"
   },
   "scripts": {
