@@ -1,3 +1,5 @@
+[中文版](../cn/README.md)
+
 # Learning Pickleball
 
 [![GitHub stars](https://img.shields.io/github/stars/yeasy/learning_pickleball.svg?style=social&label=Star)](https://github.com/yeasy/learning_pickleball)
