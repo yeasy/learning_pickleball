@@ -82,6 +82,6 @@ According to the APP (Association of Pickleball Professionals) report, over 50 m
 
 Beyond North America, pickleball has also gained significant popularity in Europe. In Asia, the sport is becoming increasingly widespread, with countries such as China, Japan, India, the Philippines, Singapore, Indonesia, Thailand, Malaysia, Bangladesh, and Pakistan actively adopting and organizing tournaments.
 
-As of the end of 2022, more than 60 countries had joined the International Pickleball Federation, and 12 international tournaments had been held. It is widely believed that in the near future, pickleball will become an official event in the Olympics and other international competitions.
+As of early 2026, more than 60 countries had joined the International Pickleball Federation, and numerous international tournaments have been held. It is widely believed that in the near future, pickleball will become an official event in the Olympics and other international competitions.
 
 In addition, as a sport suitable for all ages, pickleball has been increasingly valued by educational institutions, and more and more schools have set it up as a physical education course, with more than 500 schools in New York State alone offering related courses. In other countries, more and more schools have also added it to their curriculum. Pickleball helps to improve students' physical fitness, coordination and responsiveness. At the same time, the sense of teamwork and competition of pickleball can also cultivate students' social skills and team spirit.
