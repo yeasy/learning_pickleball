@@ -1,4 +1,10 @@
-# 学打匹克球
+# Learning Pickleball | 学打匹克球
+
+* [语言选择 / Choose Language](README.md)
+* [中文版简介](cn/README.md)
+* [English Introduction](en/README.md)
+
+## 中文目录
 
 * [第 1 章 - 背景知识](cn/01_background.md)
 * [第 2 章 - 热身、放松与体能训练](cn/02_fitness.md)
@@ -29,7 +35,7 @@
 * [第 27 章 - 装备选购的决策支持矩阵](cn/27_equipment_guide.md)
 * [附录](cn/appendix.md)
 
-# Learning Pickleball
+## English Contents
 
 * [Chapter 1 - Background Knowledge](en/01_background.md)
 * [Chapter 2 - Warm-up, Relax and Fitness](en/02_fitness.md)

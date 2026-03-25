@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/github/license/yeasy/learning_pickleball)](../LICENSE)
 
 <p align="center">
-  <img src="../../_images/cover.jpg" alt="Learning Pickleball" width="400">
+  <img src="../_images/cover.jpg" alt="Learning Pickleball" width="400">
 </p>
 
 ## 简介
@@ -43,7 +43,7 @@ mdpress serve cn/
 本书内容涵盖系统的匹克球训练体系：
 
 *   **基础技术**: 握拍、发球、网前吊球 (Dink)、后场吊球 (Drop)、抽球 (Drive)、截击 (Volley)、挑球 (Lob)。
-*   **进阶技术**: 旋转球、高压球、ATP、Erne。
+*   **进阶技术**: 旋转球、网前攻防、ATP、Erne。
 *   **比赛策略**: 单打与双打策略。
 *   **资源合集**: [要点总结](18_key_tips.md) & [常见问题](19_faq.md).
 
