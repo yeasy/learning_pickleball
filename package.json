@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "[![GitHub stars](https://img.shields.io/github/stars/yeasy/learning_pickleball.svg?style=social&label=Star)](https://github.com/yeasy/learning_pickleball) [![GitHub release](https://img.shields.io/github/release/yeasy/learning_pickleball.svg)](https://github.com/yeasy/learning_pickleball/releases) [![License](https://img.shields.io/github/license/yeasy/learning_pickleball)](LICENSE)",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "build": "rm -rf _site* && mdpress build --format site --output _site",
     "serve": "mdpress serve",
