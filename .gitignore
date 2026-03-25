@@ -9,6 +9,8 @@ node_modules
 
 # Book build output
 _book
+_mdpress_langs.html
+**/.mdpress_temp/
 
 # eBook build output
 *.epub

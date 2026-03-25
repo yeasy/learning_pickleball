@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/github/license/yeasy/learning_pickleball)](../LICENSE)
 
 <p align="center">
-  <img src="../../_images/cover.jpg" alt="Learning Pickleball" width="400">
+  <img src="../_images/cover.jpg" alt="Learning Pickleball" width="400">
 </p>
 
 ## Introduction
@@ -43,7 +43,7 @@ Then visit: http://localhost:4000.
 This book covers systematic training for pickleball:
 
 *   **Basics**: Hold Paddle, Serve, Dinking, Dropping, Driving, Volleying, Lobbing.
-*   **Advanced**: Spin, Overhead Smash, ATP, Erne.
+*   **Advanced**: Spin, Net Battle, ATP, Erne.
 *   **Strategy**: Singles and Doubles strategies.
 *   **Resources**: [Key Tips](18_key_tips.md) & [FAQ](19_faq.md).
 
