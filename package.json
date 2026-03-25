@@ -11,6 +11,11 @@
     "honkit-plugin-prism": "^2.5.4"
   },
   "scripts": {
+    "build": "rm -rf _site* && mdpress build --format site --output _site",
+    "serve": "mdpress serve",
+    "start": "mdpress serve",
+    "pdf": "mdpress build --format pdf",
+    "clean": "rm -rf _site*",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

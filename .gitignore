@@ -9,6 +9,7 @@ node_modules
 
 # Book build output
 _book
+_site*
 _mdpress_langs.html
 **/.mdpress_temp/
 
