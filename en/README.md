@@ -14,7 +14,7 @@
 
 **Pickleball** is an emerging sport combining features from tennis, badminton, and table tennis. It's easy to start, moderate in intensity, and highly entertaining. This book systematically introduces techniques from beginner to advanced levels to help you enjoy the sport safely.
 
-> This book is available as a [PDF Document](https://github.com/yeasy/learning_pickleball/releases/download/v2.6.0/learning_pickleball-v2.6.0-en.pdf).
+> This book is available as a [PDF Document](https://github.com/yeasy/learning_pickleball/releases/latest).
 
 ## How to Read
 
