@@ -23,9 +23,9 @@
 *   [**GitBook (推荐)**](https://yeasy.gitbook.io/learning_pickleball/)
 *   [GitHub](https://github.com/yeasy/learning_pickleball/blob/main/cn/SUMMARY.md)
 
-### 下载 PDF
+## 下载离线版本
 
-*   [最新版下载](https://github.com/yeasy/learning_pickleball/releases/)
+本书提供 PDF 版本供离线阅读，可前往 [GitHub Releases](https://github.com/yeasy/learning_pickleball/releases/latest) 页面下载最新版本。
 
 ### 本地阅读
 
