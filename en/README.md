@@ -23,9 +23,9 @@
 *   [**GitBook (Recommended)**](https://yeasy.gitbook.io/learning_pickleball/)
 *   [GitHub](https://github.com/yeasy/learning_pickleball/blob/main/en/SUMMARY.md)
 
-### Download PDF
+## Download PDF
 
-*   [Latest Release](https://github.com/yeasy/learning_pickleball/releases/)
+PDF version is available for offline reading at [GitHub Releases](https://github.com/yeasy/learning_pickleball/releases/latest).
 
 ### Local Build
 
