@@ -1,20 +1,19 @@
-name: Build PDF on Release
+name: Auto Release
 
 on:
-  release:
-    types: [published]
+  push:
+    tags:
+      - 'v*'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  build-pdf:
-    name: Generate PDF
+  release:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v6
+      - uses: actions/checkout@v6
 
       - name: Install Chromium and CJK fonts
         run: |
@@ -33,15 +32,16 @@ jobs:
 
       - name: Extract tag name
         id: tag
-        run: echo "TAG_NAME=$(git describe --tags --abbrev=0)" >> $GITHUB_OUTPUT
+        run: echo "TAG_NAME=${GITHUB_REF#refs/tags/}" >> $GITHUB_OUTPUT
 
       - name: Build PDF
         run: mdpress build --format pdf --output learning_pickleball-${{ steps.tag.outputs.TAG_NAME || 'latest' }}.pdf
 
-      - name: Upload PDF to Release
-        if: github.event_name == 'release'
+      - name: Create Release with PDF
+        if: startsWith(github.ref, 'refs/tags/')
         uses: softprops/action-gh-release@v2
         with:
+          generate_release_notes: true
           files: learning_pickleball-${{ steps.tag.outputs.TAG_NAME }}.pdf
 
       - name: Upload PDF as artifact
