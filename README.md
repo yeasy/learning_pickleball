@@ -2,6 +2,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/yeasy/learning_pickleball.svg?style=social&label=Star)](https://github.com/yeasy/learning_pickleball)
 [![GitHub release](https://img.shields.io/github/release/yeasy/learning_pickleball.svg)](https://github.com/yeasy/learning_pickleball/releases)
+[![PDF](https://img.shields.io/badge/PDF-下载-orange)](https://github.com/yeasy/learning_pickleball/releases/latest)
 [![License](https://img.shields.io/github/license/yeasy/learning_pickleball)](LICENSE)
 
 <p align="center">
@@ -28,13 +29,18 @@ Hosted on GitBook / 托管于 GitBook:
 When reading on GitBook, you can seamlessly switch between English and Chinese by clicking the **Language Globe Icon (🌐)** or dropdown at the top of the navigation bar.
 在 GitBook 网站上阅读时，您可以通过点击页面上方导航栏的 **语言下拉菜单 (🌐 图标)** 随时在中文和英文之间进行无缝切换。
 
+## Download PDF | 下载 PDF
+
+PDF versions are available at [GitHub Releases](https://github.com/yeasy/learning_pickleball/releases/latest) for offline reading.
+PDF 版本可在 [GitHub Releases](https://github.com/yeasy/learning_pickleball/releases/latest) 下载以供离线阅读。
+
 ## Local Build | 本地阅读
 
 Install [mdPress](https://github.com/yeasy/mdpress) first, then preview from the repository root / 先安装 [mdPress](https://github.com/yeasy/mdpress)，再在仓库根目录预览：
 
 ```bash
 brew tap yeasy/tap && brew install mdpress
-npm run serve
+mdpress serve
 ```
 
 ## 五分钟快速上手
