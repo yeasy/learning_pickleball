@@ -1,4 +1,4 @@
-[English Version](../en/README.md)
+[English Version](https://github.com/yeasy/learning_pickleball/blob/main/en/README.md)
 
 # 学打匹克球
 

@@ -1,6 +1,7 @@
 # Learning Pickleball | 学打匹克球
 
 * [语言选择 / Choose Language](README.md)
+* [语言入口 / Language Index](LANGS.md)
 * [中文版简介](cn/README.md)
 * [English Introduction](en/README.md)
 
@@ -52,8 +53,8 @@
 * [Chapter 13 - Net Battle: Attack and Defense](en/13_net_battle.md)
 * [Chapter 14 - Around The Post](en/14_atp.md)
 * [Chapter 15 - Erne Shot](en/15_erne.md)
-* [Chapter 16 - Single Game Strategies](en/16_single_strategy.md)
-* [Chapter 17 - Double Game Strategies](en/17_double_strategy.md)
+* [Chapter 16 - Singles Game Strategies](en/16_single_strategy.md)
+* [Chapter 17 - Doubles Game Strategies](en/17_double_strategy.md)
 * [Chapter 18 - Key Tips](en/18_key_tips.md)
 * [Chapter 19 - Frequently Asked Questions](en/19_faq.md)
 * [Chapter 20 - The Tao of Pickleball](en/20_tao.md)

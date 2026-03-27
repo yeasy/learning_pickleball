@@ -1,4 +1,4 @@
-[中文版](../cn/README.md)
+[中文版](https://github.com/yeasy/learning_pickleball/blob/main/cn/README.md)
 
 # Learning Pickleball
 
