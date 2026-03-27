@@ -28,4 +28,4 @@
 * [第 25 章 - 针对不同水平的差异化学习路径](25_learning_pathways.md)
 * [第 26 章 - 与其他球类的系统对标分析](26_comparison_other_sports.md)
 * [第 27 章 - 装备选购的决策支持矩阵](27_equipment_guide.md)
-* [附录](appendix.md)
+* [附录 - 学打匹克球](appendix.md)
