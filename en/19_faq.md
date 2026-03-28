@@ -18,8 +18,6 @@ Usually, you can try to take a step forward from the backcourt, while observing 
 
 ## [Q3] I have used a lot of strength, but my shot is still not fast.
 
-
-
 **Answer**: A very typical question.
 
 It is quite popular to see that a very strong amateur player hits the ball with a big movements, but the returned ball is still not fast. But some professional player can hit a very quick ball with a small action.
@@ -48,15 +46,11 @@ To sum up, the most important thing is to be able to control the opponent's retu
 
 ## [Q5] It is often heard that pickleball has some features of tennis, badminton and table tennis. What are them?
 
-
-
 **Answer**: Sports are essentially similar with each other. Ball games are all about power (both explosive and stamina), speed, spin and placement. However, different sports differ in form and focus.
 
 Tennis has the highest requirements for strength, just like the broadsword, emphasizing wide opening and closing, and beating the opponents like breaking a bamboo; badminton has the highest requirements for speed and placement control, just like swordsmanship, pays attention to agility and elegance, and strikes back; table tennis has not only the quickest rhythm, but also the strongest rotation. Like a dagger, its shot is often unexpected and unpredictable; while the pickleball is like a nunchaku, both soft and firm, with the drive skills from tennis, the smash, lob and control from badminton, and the quick rhythm and dink from table tennis. It can be said that pickleball is based on tennis technique as its body, badminton technique as its spirit, and table tennis technique as its soul. It is easy to get started, but it takes hard work to master it.
 
 ## [Q6] What are the key differences between amateur players and professional players?
-
-
 
 **Answer**: There are several key differences.
 
@@ -69,8 +63,6 @@ Another is the **ball control-ability**. Professional players have more precise 
 The last one is the **gaming consciousness**. How to deal with the opponent's ball? Should I return a long ball or a short ball? Speed up or slow down? Where should I run after returning the ball? What is the other party's next intention? Amateur players usually don't think about these during the playing, while for professional players, these are as natural as breath. They will always choose the most favorable strategy for their own team and the most uncomfortable for the opponents.
 
 ## [Q7] How to choose a suitable paddle?
-
-
 
 **Answer**: According to the rules, the combined length and width of a pickleball paddle cannot exceed 24 inches (60.96 cm), of which the length cannot exceed 17 inches (43.18 cm). There is no limit to the thickness and weight of the paddle, but the common thickness range is 10 \~ 16 mm, and weight range is 7\~9 oz.
 
@@ -186,8 +178,6 @@ In this extremely short 0.2 seconds, you need to judge the direction of the ball
 First, make sure your return is deep enough, as close to the baseline as possible. The deeper the return, the harder it will be for the opponent to hit the ball aggressively, and the slower the ball will travel to the net. Secondly, try to reduce the height of the returned ball as much as possible. The lower the ball is, the opponent needs to hit it upwards, and the harder it is to attack. In addition, if the consistency of the opponent's stroke is very good, e.g., he can use similar movements to hit the ball in a straight line and diagonally, then you can consider return the ball to the middle of the court, which can effectively limit the opponent's hitting angle scope. Finally, from a defensive point of view, if the quality of the opponent's ball is high and the ball is fast, you can consider slightly adjusting your position, such as standing half a step away from the non-volley area, to increase reaction time and the flexibility of handling of the ball.
 
 ## [Q15] Can you summarize the usage scenarios for various pickleball techniques?
-
-
 
 **Answer**: Based on the player's positioning, pickleball techniques can generally be categorized into three types: front court, mid-court, and back court techniques.
 
