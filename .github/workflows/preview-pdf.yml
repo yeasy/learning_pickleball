@@ -42,11 +42,11 @@ jobs:
           mkdir -p dist
           (
             cd cn
-            mdpress build --format pdf --output ../dist/latest-cn.pdf
+            mdpress build --format pdf --output ../dist/learning_pickleball-cn.pdf
           )
           (
             cd en
-            mdpress build --format pdf --output ../dist/latest-en.pdf
+            mdpress build --format pdf --output ../dist/learning_pickleball-en.pdf
           )
 
       - name: Write release notes
@@ -77,5 +77,10 @@ jobs:
             --prerelease \
             --target "$GITHUB_SHA"
 
+      - name: Remove legacy preview assets
+        run: |
+          gh release delete-asset preview-pdf latest-cn.pdf -y || true
+          gh release delete-asset preview-pdf latest-en.pdf -y || true
+
       - name: Upload preview PDFs
-        run: gh release upload preview-pdf dist/latest-cn.pdf dist/latest-en.pdf --clobber
+        run: gh release upload preview-pdf dist/learning_pickleball-cn.pdf dist/learning_pickleball-en.pdf --clobber
