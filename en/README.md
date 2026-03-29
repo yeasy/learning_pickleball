@@ -27,6 +27,8 @@
 
 PDF version is available for offline reading at [GitHub Releases](https://github.com/yeasy/learning_pickleball/releases/latest).
 
+For the auto-updated preview built from the default branch, download [latest-en.pdf](https://github.com/yeasy/learning_pickleball/releases/download/preview-pdf/latest-en.pdf). This file is overwritten as the mainline changes and is not a formal release artifact.
+
 ### Local Build
 
 Use [mdPress](https://github.com/yeasy/mdpress) to build locally:
