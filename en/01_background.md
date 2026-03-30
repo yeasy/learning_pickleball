@@ -40,7 +40,7 @@ In 2020, the COVID-19 pandemic halted most global sporting events, leading peopl
 
 In October 2023, the International Olympic Committee announced new sports for the 2028 Los Angeles Games, but pickleball was not included. Currently, the Global Pickleball Federation (GPF) is actively working towards ensuring pickleball's inclusion as an official sport in the 2032 Brisbane Olympics.
 
-As of early 2026, the number of pickleball players in the U.S. has exceeded 22 million and continues to grow rapidly. The 25-34 age group has become the fastest-growing segment, indicating that the sport is becoming increasingly youthful and trendy.
+As of early 2026, recent APP and SFIA survey methodologies suggest that pickleball participation in the U.S. has reached the tens-of-millions scale. Figures such as “22 million+ core active players” and “50 million+ people who played at least once” refer to different survey definitions. The 25-34 age group has become the fastest-growing segment, indicating that the sport is becoming increasingly youthful and trendy.
 
 ## Ball and Paddle
 
@@ -78,10 +78,10 @@ The overall amount of activity in pickleball is moderate, but it has rich skills
 
 ## Status and Future
 
-According to the APP (Association of Pickleball Professionals) report, over 50 million adults played pickleball at least once in 2025 in the United States (compared to fewer than 20 million for tennis, fewer than 1.5 million for badminton, and close to 1 million for table tennis), and the sport is growing at an annual rate of over 20%. Projections indicate that by 2030, the global pickleball player base will exceed 100 million. Additionally, the average age of players continues to decrease, with most professional tournament participants now ranging from 14 to 35 years old.
+According to recent participation surveys from APP (Association of Pickleball Professionals), the number of U.S. adults who played pickleball at least once in the past 12 months has reached roughly the 50-million range. This figure uses a different definition from the "core active player" count mentioned earlier, so the two numbers should not be mixed. The average age of players continues to decrease, with most professional tournament participants now ranging from 14 to 35 years old.
 
 Beyond North America, pickleball has also gained significant popularity in Europe. In Asia, the sport is becoming increasingly widespread, with countries such as China, Japan, India, the Philippines, Singapore, Indonesia, Thailand, Malaysia, Bangladesh, and Pakistan actively adopting and organizing tournaments.
 
-As of early 2026, more than 60 countries had joined the International Pickleball Federation, and numerous international tournaments have been held. It is widely believed that in the near future, pickleball will become an official event in the Olympics and other international competitions.
+According to recent public statements from international pickleball organizations, dozens of countries and regions have joined relevant international federations and hosted tournaments. Whether pickleball will become an official Olympic or multi-sport event still depends on future progress in governance, global participation, and international federation development.
 
 In addition, as a sport suitable for all ages, pickleball has been increasingly valued by educational institutions, and more and more schools have set it up as a physical education course, with more than 500 schools in New York State alone offering related courses. In other countries, more and more schools have also added it to their curriculum. Pickleball helps to improve students' physical fitness, coordination and responsiveness. At the same time, the sense of teamwork and competition of pickleball can also cultivate students' social skills and team spirit.
