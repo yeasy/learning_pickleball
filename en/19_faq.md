@@ -104,7 +104,7 @@ Top paddle brands in market include Franklin, Joola, Onix, Engage and Selkirk.
 * **Medium Roughness Surface**: Such as standard carbon fiber surface, balances spin capability and control, suitable for most intermediate players;
 * **High Roughness Surface**: Such as Raw Carbon or textured surfaces, can significantly increase spin. Professional players can generate over 30 revolutions per second. However, requires stronger technique to control and is more susceptible to opponent's spin.
 
-Since 2025, more and more professional players have switched to high roughness surface paddles to gain stronger spin advantage. Note that some "ultra-spin" paddles may not comply with tournament regulations. Always confirm USA Pickleball certification before purchase.
+In recent years, high-roughness surface paddles have become increasingly popular among competitive players, and professional players also pay more attention to their spin potential. Note that some "ultra-spin" paddles may not comply with tournament regulations. Always confirm USA Pickleball certification before purchase.
 
 ## [Q8] How to deal with the ball between two players in doubles?
 

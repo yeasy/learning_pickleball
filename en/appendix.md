@@ -74,7 +74,7 @@ In fact, this rule means that in the Non-Volley Zone, also known as the "kitchen
 
 ## Key 2026 Rule Updates
 
-As pickleball evolves, rules continue to be refined. Here are notable updates for 2026:
+As pickleball evolves, rules continue to be refined. The summary below is based on USA Pickleball's 2026 rules guidance; actual officiating should always follow the formal rule text adopted by the event:
 
 1.  **Partner Disagreement Rule**: In doubles, if partners disagree on a line call (one calls "out", the other "in" or unsure), the ball must be ruled **IN**, and the rally cannot be replayed.
 2.  **Dropped Ball Fault**: If an extra ball carried by a player falls onto the court during a rally, it is an immediate **Fault**, rather than a replay.
