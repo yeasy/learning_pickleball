@@ -8,7 +8,7 @@ Pickleball combines the skills of tennis, badminton, table tennis and other spor
 
 In the summer of 1965, pickleball was invented by Congressman Joel Pritchard (1925 \~ 1997) and his friends Bill Bell (1923 \~ 2006) and Barney McCallum (1926 \~ 2019) while vacationing on Bainbridge Island in Seattle, USA.
 
-![The Born of Pickleball](../_images/pickleball-born.png)
+![The Birth of Pickleball](../_images/pickleball-born.png)
 
 The inventors of the Pickleball are keen on playing badminton and tennis, but due to the high entry threshold, their families cannot enjoy sports with them together. So they want to create a sport for all ages. On a summer Saturday, Joel Pritchard and his friend Bill Bell returned home from a round of golf to find that their family had nothing to do. There was an abandoned badminton court in the community, but they didn't have all the badminton equipment, so they improvised and hit a plastic ball with a hole in it with a table tennis paddle. At first they played with a badminton net, but soon found that the net was lowered and played as a tennis ball. The plastic ball bounced very well on the asphalt. Later, Barney McCallum was also invited to join the game. The three refer to the badminton game at that time, and considering the convenience of family members who have no sports foundation to participate together, they formulated the earliest game rules of pickleball. Interestingly, the name "pickleball" comes from a local rowing term. A "Pickle Boat" refers to a boat made up of rowers who were not selected by any team, usually finishing last in the race.
 
