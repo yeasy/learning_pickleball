@@ -90,6 +90,15 @@ graph LR
 | **竞技提高** | 第1章 → 第9-17章 → 第23-24章 | 系统训练与比赛策略 |
 | **教练/进阶教学者** | 第1-3章 → 第23-27章 | 教学设计、运动科学与装备决策支持 |
 
+## Recommended Reading | 推荐阅读
+
+本书是技术丛书的一部分。以下书籍与本书形成互补：
+
+| 书名 | 与本书的关系 |
+|------|------------|
+| [《零基础学 AI》](https://yeasy.gitbook.io/ai_beginner_guide) | 了解 AI 基础概念，探索 AI 在体育训练中的应用 |
+| [《大模型提示词工程指南》](https://yeasy.gitbook.io/prompt_engineering_guide) | 利用 AI 辅助训练计划制定与技术分析 |
+
 ## License & Authorization | 授权与版权
 
 This book is authorized for educational use by [numerous clubs and schools](https://github.com/yeasy/learning_pickleball/wiki/). **Commercial use is prohibited without authorization.**
