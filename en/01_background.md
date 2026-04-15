@@ -38,7 +38,7 @@ In 2018, the World Pickleball Federation (WPF) was officially established, aimin
 
 In 2020, the COVID-19 pandemic halted most global sporting events, leading people to seek safe outdoor activities. With its small court size, low physical impact, and ease of maintaining social distance, pickleball quickly became one of the most popular sports during the pandemic. Data shows that the number of core pickleball players grew from 2.5 million in 2019 to over 13 million in 2023, with an annual growth rate of over 50%.
 
-In October 2023, the International Olympic Committee announced new sports for the 2028 Los Angeles Games, but pickleball was not included. Currently, the Global Pickleball Federation (GPF) is actively working towards ensuring pickleball's inclusion as an official sport in the 2032 Brisbane Olympics.
+In October 2023, the International Olympic Committee announced new sports for the 2028 Los Angeles Games, but pickleball was not included. Currently, the Global Pickleball Federation (GPF) is actively working towards promoting pickleball's inclusion as an official sport in the 2032 Brisbane Olympics.
 
 As of early 2026, recent APP and SFIA survey methodologies suggest that pickleball participation in the U.S. has reached the tens-of-millions scale. Figures such as “22 million+ core active players” and “50 million+ people who played at least once” refer to different survey definitions. The 25-34 age group has become the fastest-growing segment, indicating that the sport is becoming increasingly youthful and trendy.
 
@@ -48,7 +48,7 @@ A pickleball ball is a hard plastic ball, slightly larger than a tennis ball, an
 
 ![Various types of Pickleballs](../_images/various-type-balls.png)
 
-The paddle of the Pickleball is like a large table tennis paddle without rubber, the sum of whose length and width cannot exceed 24 inches, where the length cannot exceed 17 inches. Usually the paddle has a length of 15.5 \~ 17 inches (39.37 \~ 43.18 cm) and a width of 7 \~ 8.25 inches (17.78 \~ 20.96 cm), and the handler length is 4~5.5 inches. At first, the paddles were mostly made of wood, but later they were also made of new materials such as glass fiber and carbon fiber. The paddle is not very elastic and has a relatively smooth surface. Pickleball is very easy to play, but it takes a certain amount of time and energy to learn skills, improve physical fitness and master appropriate strategies to play well.
+The paddle of the Pickleball is like a large table tennis paddle without rubber, the sum of whose length and width cannot exceed 24 inches, where the length cannot exceed 17 inches. Usually the paddle has a length of 15.5 \~ 17 inches (39.37 \~ 43.18 cm) and a width of 7 \~ 8.25 inches (17.78 \~ 20.96 cm), and the handle length is 4~5.5 inches. At first, the paddles were mostly made of wood, but later they were also made of new materials such as glass fiber and carbon fiber. The paddle is not very elastic and has a relatively smooth surface. Pickleball is very easy to play, but it takes a certain amount of time and energy to learn skills, improve physical fitness and master appropriate strategies to play well.
 
 ![Pickleball Paddles](../_images/pickleball-paddles.png)
 
