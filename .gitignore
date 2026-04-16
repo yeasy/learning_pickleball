@@ -25,3 +25,5 @@ _mdpress_langs.html
 *.obsidian
 .idea/
 .DS_Store
+
+.agent/
