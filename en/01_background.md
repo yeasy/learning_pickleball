@@ -66,6 +66,10 @@ Pickleball scoring is similar to the old rules in badminton, and only the servin
 
 Taking doubles as an example, each game has 11 points, and each player on the serving side has one chance to serve (In total two chances for each side). After serving, the opponent receives the serve and returns, and the serving party hits the ball to the opposite side. From the fourth shot,  players can either hit groundstroke or volley the ball that has not landed. If the serving team scores in this round, then switch sides with teammates and continue serving, otherwise the teammate will continue to serve. Only serving team can score points if they win the round, and the receiving team will not get points even win.
 
+**Note: Evolution of Scoring Rules**
+
+Traditional pickleball rules employed "Side-out Scoring," where only the serving team can earn points when they win a rally. However, with the growth of professional pickleball, the PPA (Professional Pickleball Association) and other professional tours have adopted "Rally Scoring," where the winner of every rally scores points, regardless of whether they are the serving team. This makes matches faster-paced and more exciting, and easier to watch. Beginners should understand both scoring systems to adapt to different tournaments and opponents of varying levels.
+
 ## Pickleball Features
 
 Pickleball combines elements of badminton, table tennis and tennis and is a comprehensive sport. In a common doubles match, four players are divided into two teams, and because the court is relatively small, the requirements for running are not high. Sometimes people jokingly refer to Pickleball as seniors' tennis. But in fact, the intensity of professional games is often more than tennis, requiring superb skills and strategies.
