@@ -1,4 +1,4 @@
-# Chapter 25 Equipment Selection Guide
+# Appendix VI Equipment Selection Guide
 
 Choosing appropriate equipment is an important factor in improving your pickleball experience and performance. However, the market offers many types of pickleball equipment at widely varying prices, which confuses many players. This chapter provides practical equipment selection guidance to help players make optimal choices within different budgets and needs.
 

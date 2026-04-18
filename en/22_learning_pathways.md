@@ -1,4 +1,4 @@
-# Chapter 23 Differentiated Learning Pathways for Different Skill Levels
+# Chapter 22 Differentiated Learning Pathways for Different Skill Levels
 
 Pickleball players span a wide range of skill levels, from complete beginners to professional competitors. Different skill levels face completely different learning challenges and priorities. This chapter provides detailed learning paths, training plans, and breakthrough methods for players at different levels.
 
