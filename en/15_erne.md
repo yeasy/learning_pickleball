@@ -1,10 +1,10 @@
-# Erne Shot
+# Chapter 15 Erne Shot
 
-## What is Erne
+## 15.1 What is Erne
 
 According to the rules, players cannot touch the non-volley zone before and after a volley shot. However, players may jump over the non-volley zone instead. This kind of volley over the non-volley area is Erne, which is common in professional tournaments.
 
-## When to Use
+## 15.2 When to Use
 
 When the opponent player is dinking the ball, if the ball passes the net high and close to the sideline, then you can consider block the ball using Erne and quickly hit it to the opponent's feet.
 
@@ -12,7 +12,7 @@ As shown in the picture below, the player hits an Erne shot.
 
 ![Erne Shot](../_images/erne-shot.jpg)
 
-## Hit Erne Shot
+## 15.3 Hit Erne Shot
 
 The Erne shot must be sudden, so as to cause a greater threat to the opponent.
 
@@ -27,7 +27,7 @@ Key points for hitting a high-quality erne include:
 
 ![Erne Shot Targets](../_images/erne-target.png)
 
-## How to Defend
+## 15.4 How to Defend
 
 The Erne shot is usually fast and needs to be moved to the appropriate position as soon as possible to defend. Key points include:
 
@@ -35,7 +35,7 @@ The Erne shot is usually fast and needs to be moved to the appropriate position 
 * If possible, control the height of the return ball and don't let it go too high over the net. Otherwise, you can lob the ball to the backcourt;
 * The return ball should be as close as possible to the side of the player who ran off the court, and you can hit to his backcourt;
 
-## Training Method
+## 15.5 Training Method
 
 * Multi-ball practice: one player stands in the non-volley area and repeatedly gives volleys. Another player practices defense;
 * Interactive practice: Both sides simulate the game scene, practice hitting and defending Erne shots.
