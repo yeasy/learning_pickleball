@@ -47,7 +47,7 @@ This book covers systematic training for pickleball:
 *   **Basics**: Hold Paddle, Serve, Dinking, Dropping, Driving, Volleying, Lobbing.
 *   **Advanced**: Spin, Net Battle, ATP, Erne.
 *   **Strategy**: Singles and Doubles strategies.
-*   **Resources**: [Key Tips](18_key_tips.md) & [FAQ](19_faq.md).
+*   **Resources**: [Key Tips](19_key_tips.md) & [FAQ](20_faq.md).
 
 *Note: For official rules, please refer to [USA Pickleball Rules](https://usapickleball.org/what-is-pickleball/official-rules/).*
 
