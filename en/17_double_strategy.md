@@ -121,3 +121,40 @@ According to the rules, players must stand in their designated half during serve
 *   **On Serve**: The server moves quickly to their target position after serving; the partner simultaneously moves in the opposite direction;
 *   **On Return**: The returner switches positions quickly after hitting the second shot; the partner moves accordingly;
 *   **Timing**: The switch should be completed before the opponent hits the ball, otherwise gaps may be exploited.
+
+## 17.6 Switching & Poaching
+
+Beyond Stacking, two other core tactical concepts in doubles are Switching and Poaching.
+
+### Switching
+
+Switching means temporarily swapping sides during a rally. Unlike Stacking, which is a pre-planned fixed positioning, switching is an in-rally reaction to changing situations.
+
+**When to Switch:**
+
+* When one player is pulled out of position by a wide-angle shot, the partner covers the vacated side, naturally resulting in a switch;
+* After a lob or wide-angle shot, the closer player chases the ball while the other moves to the opposite side;
+* When current positioning is disadvantageous (e.g., both players shifted to the same side), proactively switch to rebalance.
+
+**Switching Tips:**
+
+* Always communicate verbally before switching (e.g., call "Switch!") to avoid both players moving to the same side;
+* After switching, immediately adapt to the new coverage—don't try to switch back right away;
+* Complete the switch before the opponent's next shot to avoid being caught in transition.
+
+### Poaching
+
+Poaching means one player suddenly crosses the center line to intercept a ball that would normally be handled by their partner. It is a high-risk, high-reward offensive tactic.
+
+**When to Poach:**
+
+* When the opponent's return is high and drifting toward the middle, the net player can suddenly intercept;
+* When the opponent habitually returns to a fixed position (e.g., always hitting crosscourt), you can anticipate and poach;
+* After your partner hits a strong serve or drive, the opponent's return quality may drop—an ideal poaching opportunity.
+
+**Poaching Tips:**
+
+* **Be decisive**: Once you commit to a poach, don't hesitate—move quickly and strike firmly;
+* **Communicate**: Signal your partner before poaching (e.g., hand signals behind your back) so they can prepare to cover your side;
+* **Target selection**: Poach shots should target the opponent's feet or open court, not float high for a counter-attack;
+* **Partner coverage**: After the poacher moves, the partner must immediately shift to cover the vacated position.
