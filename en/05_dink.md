@@ -1,8 +1,8 @@
-# How to Dink
+# Chapter 5 How to Dink
 
 The **Dink** is the most common engagement shot in pickleball and serves as the foundation for the drop shot. Mastering the dink is essential for high-level play.
 
-## What is a Dink?
+## 5.1 What is a Dink?
 
 A dink is a soft shot hit into the opponent's Non-Volley Zone (NVZ). The ball should travel in a low, flat trajectory over the net (ideally clearing it by just a ball's height) and land in the front half of the opponent's NVZ or near the kitchen line.
 
@@ -20,7 +20,7 @@ Dinking is crucial in doubles. Based on placement, it falls into three categorie
 
 **Strategy Tip**: Generally, favor the cross-court dink. It minimizes unforced errors and limits the opponent's ability to volley. For example, to attack a straight dink, your return speed needs to be precise (5.0–6.8 m/s), whereas a cross-court dink allows for more speed (6.4–9.2 m/s). When scrambling or off-balance, aim for the middle to buy time and safely clear the low part of the net.
 
-## When to Use the Dink
+## 5.2 When to Use the Dink
 
 Use a dink when:
 *   The opponent is at the net and you want to neutralize their attack.
@@ -29,7 +29,7 @@ Use a dink when:
 
 The primary goal of dinking is patience: keep the ball low to prevent the opponent from attacking (volleying/smashing) while waiting for them to make a mistake or pop the ball up.
 
-## Mastering the Dink
+## 5.3 Mastering the Dink
 
 A good dink is unattackable—it stays low and lands shallow. If it's too high or deep, the opponent can slam it.
 
@@ -81,7 +81,7 @@ Traditional thinking views the dink as a defensive shot, but in modern picklebal
 
 Compared to direct volley attacks, offensive dinking carries lower risk but requires better spin control. It's recommended to master basic dinking before practicing offensive dinks.
 
-## Speeding Up （The Attack）
+## 5.4 Speeding Up （The Attack）
 
 When dinking, watch for a ball that floats too high. This is your cue to "speed up" or attack.
 
@@ -105,7 +105,7 @@ When the opponent speeds up:
 *   **Counter-Attack**: If the ball is high/slow enough, slap it back.
 *   **Reset**: If the shot is good (fast/low), soft-block it back into the kitchen (drop volley) to neutralize the rally back to a dinking game.
 
-## Training Methods
+## 5.5 Training Methods
 
 1.  **Wall Dinks**: Stand 7 feet from a wall. Volley or bounce-hit continuously to a target mark 34 inches high. Aim for 100 consecutive hits.
 2.  **Multi-Ball Drills**: Have a partner feed balls to your feet; practice lifting them gently into the NVZ target zones.

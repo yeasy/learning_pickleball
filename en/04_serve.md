@@ -1,4 +1,4 @@
-# Serve and Return
+# Chapter 4 Serve and Return
 
 The purpose of serving and receiving is to prepare for the next shot, and to avoid giving the opponent a good opportunity to attack or approach the net.
 
@@ -6,7 +6,7 @@ In advanced-level games, it is generally difficult to score directly by serving 
 
 Singles game players have to cover the entire court, hence will require more skills in serving and returning.
 
-## Serve the Ball
+## 4.1 Serve the Ball
 
 When serving the ball, the player should stand behind the baseline, and the ball should be served to the diagonal half court, a.k.a, from the NVZ line (Not included) to the baseline. Once the score has been called, the player must serve the ball within 10 seconds.
 
@@ -28,7 +28,7 @@ In singles' serving, the player can take advantage of various spins and placemen
 
 In doubles, usually serve long balls to the middle between opponents to force them to return the ball not well and not be able to follow the ball to go to the net in time.
 
-## Master the Serve
+## 4.2 Master the Serve
 
 The power of a serve comes from the legs. By pushing off the ground and rotating the waist, the force is transferred from the legs to the torso, which then drives the arm to swing. This power is further transmitted through the fingers to the paddle, ultimately whipping the ball with the full force of the body.
 
@@ -38,7 +38,7 @@ Since pickleballs have a smooth surface, the serve should primarily focus on str
 
 The key to serving effectively is consistency to avoid errors. The next priority is to aim for deep placement to make it difficult for the opponent to return. Finally, incorporating power and spin—mainly topspin and sidespin—can further improve the effectiveness of the serve.
 
-## Return the Ball
+## 4.3 Return the Ball
 
 When preparing to return the ball, keep enough space for hitting the ball. It is advisable to stay at a step back from the bottom line. The body and the paddle should face the direction of the coming ball.
 
@@ -50,13 +50,13 @@ In singles, you can return the ball to the area far from the opponent's feet mor
 
 In doubles, the ball can be returned to the space between the two opponent players (may be slightly near to the receiver's backhand), to increase the difficulty to return the ball. If the skill level of the opponent's two players is quite different, you can choose to return the ball to the weaker player.
 
-## Master the Return
+## 4.4 Master the Return
 
 The key to returning the ball is to try to make it difficult for the opponent to hit the third shot, and at the same time to provide enough time to run to the net. Therefore, pay attention to returning the ball to the base line as much as possible, but not out of bounds.
 
 The return can use a hitting action, or a slicing action. When you want to have more time to run to the net, you can return the ball high and let it fall to the opponent's backcourt.
 
-## Training Methods
+## 4.5 Training Methods
 
 The serve and return skill can be trained with multiple balls practice. Try to continuously return the ball to the designated area. Practice no less than 10 groups with 50 balls per group every day.
 
