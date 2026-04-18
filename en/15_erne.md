@@ -29,11 +29,24 @@ Key points for hitting a high-quality erne include:
 
 ## 15.4 How to Defend
 
-The Erne shot is usually fast and needs to be moved to the appropriate position as soon as possible to defend. Key points include:
+Erne attacks are fast with tricky angles, making them difficult to defend. Effective defense requires early anticipation and correct reaction.
 
-* Try to defend by a volley shot;
-* If possible, control the height of the return ball and don't let it go too high over the net. Otherwise, you can lob the ball to the backcourt;
-* The return ball should be as close as possible to the side of the player who ran off the court, and you can hit to his backcourt;
+**Recognizing Erne Intent:**
+
+* Watch if your opponent is quietly edging toward the sideline at the net—this is a precursor signal for an Erne;
+* When their body weight shifts noticeably sideways, or they start lateral movement, prepare to defend immediately.
+
+**Defensive Strategies:**
+
+* **Change your dink placement**: When you spot your opponent setting up an Erne, immediately redirect your dink to the middle of the court or away from their side, disrupting their jump timing;
+* **Lower net clearance**: Keep your dinks as low over the net as possible, so even if they complete the Erne, they can only hit upward, making it hard to attack;
+* **Block volley defense**: Against an Erne attack, use a block volley to absorb their power and redirect the ball to their backcourt or open space;
+* **Lob to backcourt**: If your opponent has already left their normal position and moved off-court, lobbing to the open backcourt behind them is the safest choice;
+* **Target their body**: If the opponent is mid-jump, aim directly at their body (especially the paddle-side shoulder), making it difficult for them to adjust their paddle face.
+
+**Erne vs. ATP Defense Differences:**
+
+An Erne involves jumping over the NVZ from the side to intercept, with the attacker typically at the net; an ATP involves hitting around the net post from off-court, with the attacker at the court's edge. Erne defense focuses on "don't give high balls" and "change dink placement early"; ATP defense focuses on "quickly moving to cover the open space."
 
 ## 15.5 Training Method
 
