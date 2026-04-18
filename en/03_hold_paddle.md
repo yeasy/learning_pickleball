@@ -17,7 +17,7 @@ The characteristics of the various styles are summarized as follows:
 * **Semi-Western Style**: The purlicue faces the position 3. When holding with the right hand, the paddle's forehand surface will face to the lower left after straightening the arm. The semi-western grip can produce more topspin with larger hitting range by the forehand than the eastern grip, but it is difficult to hit the ball from backhand or generate backspin. This style can be used in the drive from backcourt or volley in the front-court by the forehand.
 * **Western Style**: The purlicue faces position 4, the so-called lucky cat grip. When holding with the right hand, the paddle's forehand surface will face towards the ground after straightening the arm. The Western grip is an extreme grip that gives up the backhand, and is rarely used in pickleball games except occasional usage in smash in the front-court by forehand.
 
-Generally, the continental grip is recommended to use as a base, and fine-tuning can be made according to the specific situation.
+Generally, the continental grip and eastern grip are recommended as the base grips, and fine-tuning can be made according to the specific situation.
 
 ![Ready Position](../_images/ready-position.jpg)
 
