@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/github/license/yeasy/learning_pickleball)](LICENSE)
 
 <p align="center">
-  <img src="_images/cover.jpg" alt="Learning Pickleball" width="400">
+  <img src="_images/cover.jpg" alt="Learning Pickleball" width="300">
 </p>
 
 ## Introduction | 简介
