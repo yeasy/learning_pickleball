@@ -14,7 +14,7 @@
 
 **匹克球** 是一项风靡全球的新兴运动，融合了网球、羽毛球和乒乓球的特点。它上手容易、运动量适中且趣味性强。本书结合北美教学实践，系统讲解匹克球技术，帮助读者科学训练，避免伤痛，享受运动乐趣。
 
-> 本书提供 [中文版 PDF](https://github.com/yeasy/learning_pickleball/releases/latest) 下载。
+> 本书提供 [PDF](https://github.com/yeasy/learning_pickleball/releases/latest) 下载。
 
 ## 阅读方式
 
