@@ -32,7 +32,9 @@
 * [第 23 章 - 针对不同水平的差异化学习路径](cn/23_learning_pathways.md)
 * [第 24 章 - 与其他球类的系统对标分析](cn/24_comparison_other_sports.md)
 * [第 25 章 - 装备选购的决策支持矩阵](cn/25_equipment_guide.md)
-* [附录](cn/appendix.md)
+* [附录一 - 参考资料](cn/appendix.md)
+* [附录二 - 匹克球之道](cn/appendix_tao.md)
+* [附录三 - 匹克球九阴真经](cn/appendix_secret.md)
 
 ## English Contents
 
@@ -61,4 +63,6 @@
 * [Chapter 23 - Differentiated Learning Pathways by Skill Level](en/23_learning_pathways.md)
 * [Chapter 24 - Comparative Analysis with Other Racquet Sports](en/24_comparison_other_sports.md)
 * [Chapter 25 - Equipment Selection Decision Matrix](en/25_equipment_guide.md)
-* [Appendix](en/appendix.md)
+* [Appendix I - Reference](en/appendix.md)
+* [Appendix II - The Tao of Pickleball](en/appendix_tao.md)
+* [Appendix III - Top Secrets of Pickleball](en/appendix_secret.md)
