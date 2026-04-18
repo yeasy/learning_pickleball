@@ -1,4 +1,4 @@
-# Chapter 24 Systematic Comparison with Other Racquet Sports
+# Appendix V Comparative Analysis with Other Racquet Sports
 
 Many players have backgrounds in other racquet sports (tennis, badminton, table tennis, etc.) before taking up pickleball. Understanding the similarities and differences between pickleball and other sports can help players with existing racquet sports experience adapt and improve faster, while avoiding improper technique transfer.
 
