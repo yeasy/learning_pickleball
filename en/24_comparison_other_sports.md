@@ -1,8 +1,8 @@
-# Chapter 26 Systematic Comparison with Other Racquet Sports
+# Chapter 24 Systematic Comparison with Other Racquet Sports
 
 Many players have backgrounds in other racquet sports (tennis, badminton, table tennis, etc.) before taking up pickleball. Understanding the similarities and differences between pickleball and other sports can help players with existing racquet sports experience adapt and improve faster, while avoiding improper technique transfer.
 
-## 26.1 Pickleball vs Tennis: Technical Transition Guide
+## 24.1 Pickleball vs Tennis: Technical Transition Guide
 
 ### Similarities
 
@@ -79,7 +79,7 @@ Tennis players transitioning to pickleball have several advantages:
 - Apply match experience to make better decisions on important points
 - Use speed and power to attack against defensive opponents
 
-## 26.2 Pickleball vs Badminton: Similarities and Differences
+## 24.2 Pickleball vs Badminton: Similarities and Differences
 
 ### Similarities
 
@@ -142,7 +142,7 @@ Badminton players are accustomed to starting from the backcourt and gradually ad
 - Use your quick reaction ability to respond to fast shots from opponents
 - Emphasize control and strategy rather than power
 
-## 26.3 Pickleball vs Table Tennis: Hand and Wrist Technique Transfer
+## 24.3 Pickleball vs Table Tennis: Hand and Wrist Technique Transfer
 
 ### Similarities
 
@@ -206,7 +206,7 @@ In table tennis, footwork is typically small steps with in-place rotation. In pi
 - Use your quick reaction ability for rapid movement and striking
 - Leverage mental toughness to perform steadily on important points
 
-## 26.4 General Advice for Converting from Other Racquet Sports
+## 24.4 General Advice for Converting from Other Racquet Sports
 
 Regardless of your racquet sports background, the following general advice can help you adapt to pickleball faster:
 
@@ -259,7 +259,7 @@ Finally, the most important point is psychological adjustment. Many athletes tra
 - Respect each sport's unique qualities: Acknowledge pickleball's unique appeal and demands
 - Set realistic goals: Expect 3-6 months to reach competitive level
 
-## 26.5 The Science of Cross-Sport Skill Transfer
+## 24.5 The Science of Cross-Sport Skill Transfer
 
 Although different racquet sports have differences, certain core skills can transfer between them:
 

@@ -1,8 +1,8 @@
-# Chapter 27 Equipment Selection Guide
+# Chapter 25 Equipment Selection Guide
 
 Choosing appropriate equipment is an important factor in improving your pickleball experience and performance. However, the market offers many types of pickleball equipment at widely varying prices, which confuses many players. This chapter provides practical equipment selection guidance to help players make optimal choices within different budgets and needs.
 
-## 27.1 Paddle Selection Decision Matrix
+## 25.1 Paddle Selection Decision Matrix
 
 The paddle is the most critical equipment in pickleball. Selecting the right paddle should consider multiple dimensions: skill level, playing style, and budget constraints.
 
@@ -182,7 +182,7 @@ Standard length is 4.5-5.5 inches. Although rules allow longer grips, standard l
 
 *(Note: Brand and product information above is for reference only; consult manufacturers for latest models and specifications.)*
 
-## 27.2 Ball Classification and Selection
+## 25.2 Ball Classification and Selection
 
 Different pickleball types suit different scenarios. Understanding ball characteristics is important.
 
@@ -228,7 +228,7 @@ Different pickleball types suit different scenarios. Understanding ball characte
 - Beginners: Buy one can (3 balls) to test before buying more
 - Intermediate and above: Purchase enough quantity based on match and training needs (usually 2-3 cans per person)
 
-## 27.3 Shoe Selection Key Points
+## 25.3 Shoe Selection Key Points
 
 Choosing proper athletic shoes is important for injury prevention and performance improvement.
 
@@ -283,7 +283,7 @@ Choosing proper athletic shoes is important for injury prevention and performanc
    - Synthetic courts: Standard support suffices
 4. **Replacement Cycle**: Usually need replacement after 500-1000 km of activity (approximately 1-2 pairs per year)
 
-## 27.4 Accessory Recommendations
+## 25.4 Accessory Recommendations
 
 While not absolutely necessary, the following accessories can improve comfort and prevent injury:
 
@@ -347,7 +347,7 @@ While not absolutely necessary, the following accessories can improve comfort an
 - Beginners: Base grip usually sufficient, no need for overgrip yet
 - Intermediate and Advanced: Can prepare overgrips to maintain grip feel
 
-## 27.5 Equipment Budget Reference
+## 25.5 Equipment Budget Reference
 
 ### Beginner Total Budget
 
@@ -385,7 +385,7 @@ While not absolutely necessary, the following accessories can improve comfort an
 - Ball: $300+ (ample competitive-grade supply)
 - Accessories and Professional Support: $500+ (various supports, equipment, coaching, etc.)
 
-## 27.6 Equipment Maintenance
+## 25.6 Equipment Maintenance
 
 ### Paddle Maintenance
 
@@ -422,7 +422,7 @@ While not absolutely necessary, the following accessories can improve comfort an
    - Replace when sole wears or cushioning noticeably decreases
    - Usually after 500-1000 km need replacement
 
-## 27.7 Summary and Recommendations
+## 25.7 Summary and Recommendations
 
 Choosing the right equipment is a balancing process requiring consideration of:
 
