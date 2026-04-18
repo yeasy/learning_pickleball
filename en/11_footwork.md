@@ -1,4 +1,4 @@
-# Master Footwork
+# Chapter 11 Master Footwork
 
 Footwork is the soul of all ball sports.
 
@@ -6,7 +6,7 @@ Excellent footwork allows players to always hit the ball in a comfortable positi
 
 The purpose of footwork is to leave enough time and space for the body to hit the ball from a comfortable position.
 
-## Footwork Types
+## 11.1 Footwork Types
 
 Common footwork includes stride step, cross steps, jump step, and split step.
 
@@ -20,7 +20,7 @@ Common footwork includes stride step, cross steps, jump step, and split step.
 
 Singles players have a larger running range and can use Cross or Stride steps mainly with the running movements. In doubles games, the players' covered range is mostly not far, hence players can use more Cross or Split steps, and pay attention to properly lowering the body and improve the stability for the shot.
 
-## When to Use
+## 11.2 When to Use
 
 Typical footwork scenarios in doubles include:
 
@@ -36,7 +36,7 @@ Typical footwork scenarios in singles include:
 * When the opponent Lobs, retreat to smash the ball quickly, or run to the backcourt;
 * When the opponent gets a good volley opportunity, move back proactively and defend.
 
-## Master Footwork
+## 11.3 Master Footwork
 
 Usually a complete footwork can be divided into four key phases: starting, movement, braking and recovery.
 
@@ -48,7 +48,7 @@ Secondly, if you want to move fast with footwork, you must learn to control and 
 
 Finally, you should use the training to improve the leg strength and the torso core strength.
 
-## Training Methods
+## 11.4 Training Methods
 
 Footwork trainings mainly include two parts, one is leg and core strength exercises, and the other is footwork dexterity exercises.
 

@@ -1,10 +1,10 @@
-# Net Battle: Attack and Defense
+# Chapter 13 Net Battle: Attack and Defense
 
 Attack and defense in front of the net are often used in doubles games. It is the key for the game result. The rhythm is very fast and has high requirement on players' reaction.
 
 ![Net Battle](../_images/net-battle.png)
 
-## How to Attack
+## 13.1 How to Attack
 
 Near-net attack means that during the Dink process between players, one player actively hits the ball at a high speed to attack the opponent. Near-net attacks usually use volleys.
 
@@ -19,7 +19,7 @@ When attacking, pay attention to the following points:
 * Keep the ball's flight trajectory not high, e.g., just passing the net. It is easy to be defended if it is too high;
 * The attack target is mainly between the two players, and you can also try the backhand position or the shoulder of the paddle side.
 
-## How to Defense
+## 13.2 How to Defense
 
 Due to the short flight distance of the attacking ball in front of the net, players often need to make decisions and correct responses in a very short time (usually less than 0.2 seconds).
 
@@ -36,7 +36,7 @@ The key tips of defending include:
 * Make sure the ball flight trajectory is low, try to reset the ball to the front of the net;
 * The return is mainly to the position between the two players to avoid going out of bounds.
 
-## Firefight （Hand Battle）
+## 13.3 Firefight （Hand Battle）
 
 When both sides engage in rapid volley exchanges at the net, it creates a high-speed "Firefight," also called Hand Battle. This has become increasingly common in modern professional matches.
 
@@ -61,7 +61,7 @@ When both sides engage in rapid volley exchanges at the net, it creates a high-s
 
 At this point, use a soft reset shot to place the ball gently into opponent's NVZ and return to the dinking phase.
 
-## Training Method
+## 13.4 Training Method
 
 Training can be done as follows:
 

@@ -1,8 +1,8 @@
-# Chapter 24 - Physics and Biomechanics Behind Pickleball Technique
+# Chapter 24 Physics and Biomechanics Behind Pickleball Technique
 
 Understanding the physics and biomechanical principles underlying pickleball technique can help players improve scientifically, increase efficiency, and reduce injury risk. This chapter explores the scientific foundations of hitting, spin, footwork, and other technical skills.
 
-## Mechanics of Striking
+## 24.1 Mechanics of Striking
 
 ### The Kinetic Chain (Force Transfer)
 
@@ -81,7 +81,7 @@ When a paddle at speed v strikes a ball of mass m, the momentum transferred is p
    - Modern paddle honeycomb cores and flexible edges can absorb part of the impact energy, reducing shock
    - This both protects the player's arm (reducing vibration transmission) and improves ball control
 
-## Physics of Spin
+## 24.2 Physics of Spin
 
 ### Magnus Effect
 
@@ -132,7 +132,7 @@ Compared to tennis and table tennis, pickleball's spin characteristics are as fo
 
 The distinctive characteristic of pickleball is: **the effect on post-bounce motion is more significant than the effect on flight trajectory**. This means the "sliding" effect of backspin and the "acceleration" effect of topspin are most pronounced after the bounce.
 
-## The Optimal Striking Point
+## 24.3 The Optimal Striking Point
 
 ### The Sweet Spot
 
@@ -175,7 +175,7 @@ The coefficient of restitution is the ratio of the ball's rebound speed after im
 - If a paddle strikes a ball at 50 mph (approximately 80.5 km/h), the ball's rebound speed is approximately 42.5-45 mph (approximately 68-72 km/h)
 - Energy loss is approximately 10-15%, with this energy converted to heat and sound
 
-## Biomechanics of Footwork Efficiency
+## 24.4 Biomechanics of Footwork Efficiency
 
 ### Optimal Initiation (First Step Quickness)
 
@@ -236,7 +236,7 @@ Balance in pickleball is crucial for effective striking, since any instability c
    - Eyes should focus on the ball or opponent, not the ground or paddle
    - Visual feedback helps the central nervous system make real-time balance adjustments
 
-## Biomechanics of Specific Techniques
+## 24.5 Biomechanics of Specific Techniques
 
 ### Serve Mechanics
 
@@ -299,7 +299,7 @@ The volley is striking before the ball bounces, a key offensive technique.
    - The opponent's ball speed itself provides most of the power
    - The volleyer only needs to provide directional and spin adjustments
 
-## Optimizing Movement Efficiency
+## 24.6 Optimizing Movement Efficiency
 
 ### Energy Cost
 
@@ -336,7 +336,7 @@ Key indicators for assessing technical efficiency:
 
 By targeting these metrics for improvement through training, players can significantly elevate their match level while reducing injury risk.
 
-## Summary
+## 24.7 Summary
 
 Pickleball is a sport requiring both power and speed, as well as precise control. Understanding the physics and biomechanical principles behind these techniques can help players:
 

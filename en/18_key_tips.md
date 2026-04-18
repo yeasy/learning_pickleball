@@ -1,8 +1,8 @@
-# Key Tips
+# Chapter 18 Key Tips
 
 To play pickleball well, you first need to learn various skills comprehensively through a scientific training and master basic skills solidly. If you want to achieve excellent results in the tournament, you need to master more professional skills and apply them flexibly in the competition. These skills have higher requirements on players' physical strength, consciousness judgment, reaction speed and hand sensitivity.
 
-## Practices
+## 18.1 Practices
 
 * Learn how to play hard first, then how to play softly, then play hard again. At last, master to play flexibly.
 * Being able to control power is more important than power itself. Controlling means that with the same gesture, you can generate different power, speed, placement and spin.
@@ -18,7 +18,7 @@ To play pickleball well, you first need to learn various skills comprehensively 
 * It is usually more effective to control the placement and the trajectory, rather than hit more powerful and more quickly. Still as a sick tiger, swift as a fleeing hare.
 * Play less games before the correct action becomes your subconscious reaction.
 
-## Tactics
+## 18.2 Tactics
 
 * If the opponent's footwork is poor, let him run more; if the opponent's reaction is fast, disrupt the pace; if the opponent's near-net skill is good, try more lobs, otherwise, play more dinks.
 * Return ball to an opponent in the backcourt, otherwise, to the weaker player.
@@ -27,7 +27,7 @@ To play pickleball well, you first need to learn various skills comprehensively 
 * The offense should be aggressive, more hard shots and deep shots should be played; the defense should be gentle, and more soft shots and short shots should be played.
 * The best footwork is to move least. The less to move, the more stable to hit.
 
-## Strategies
+## 18.3 Strategies
 
 * Take advantage of one's own strengths and attack others' weaknesses; first stand undefeated, and then defeat opponents.
 * Footwork is more important than hand technique. Run into position before hitting.
@@ -36,7 +36,7 @@ To play pickleball well, you first need to learn various skills comprehensively 
 * Those who can win the near-net battle will win the game, those who can control the rhythm will control the game.
 * Begin with the end in mind, exhaust the opponents at your ease, and defeat the complication with simplification.
 
-## Mental Game
+## 18.4 Mental Game
 
 * Focus on the present, don't dwell on past mistakes, don't imagine victory prematurely.
 * Play one point at a time, each point is a fresh start.

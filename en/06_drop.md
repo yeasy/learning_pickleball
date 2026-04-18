@@ -1,8 +1,8 @@
-# How to Drop
+# Chapter 6 How to Drop
 
 Drop is the core technique to allow players to go to the net from backcourt. If you don't master the drop technique, you can't improve to an advanced level.
 
-## What is Drop
+## 6.1 What is Drop
 
 Drop refers to the action of placing the ball into the opponent's NVZ area (as close as possible to the front half) from the middle court or back court. At the same time, players need to run to the net before the opponent hits the ball.
 
@@ -22,13 +22,13 @@ From the perspective of spin, there are three types of Drops too: **Non-spin**, 
 * **Backspin**: Return the ball to the net by slicing the bottom the ball. The backspin trajectory will be longer than non-spin one, so keep hitting the ball from a low position. When the incoming ball is low or quick, you can use the backspin Drop;
 * **Topspin**: Return the ball with a drive. The topspin trajectory falls sharply after passing the net, which is more offensive. When the hitting time and space are sufficient, you can use this way.
 
-## When to Use Drop
+## 6.2 When to Use Drop
 
 When you are at the middle court or back court and the opponent side is waiting in front of the net, at this time, you can use drop to prevent the opponents to attack and let your team run to the front of the net in time.
 
 For example, advanced players often use drop in the third shot, in order to transit to the near net rallies from the back court.
 
-## The Drip Shot
+## 6.3 The Drip Shot
 
 The Drip is an intermediate technique between the drive and the drop, becoming increasingly common in professional play.
 
@@ -55,7 +55,7 @@ Key points for executing a quality drip shot:
 
 The main difference between a drip and a drop is speed and aggression. A drop is more defensive, aiming for safe transition to the net; a drip combines transition with offense, directly creating difficulty for the opponent's return.
 
-## Master Drop
+## 6.4 Master Drop
 
 When executing a drop shot, it is important to avoid returning the ball too far or too high, as this could allow the opponent to intercept or continuously return deep shots.
 
@@ -65,7 +65,7 @@ To avoid hitting the ball into the net, the highest point of its trajectory shou
 
 If the quality of the drop shot is not high, do not rush forward. Instead, stay in the mid-to-backcourt, prepared to return the next shot.
 
-## Training Methods
+## 6.5 Training Methods
 
 First practice defensive non-spin Drop, and then practice Drop with spins. Pay attention to run to the net with the ball.
 
