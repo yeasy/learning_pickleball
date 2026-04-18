@@ -88,6 +88,15 @@ Core and surface materials determine paddle feel, durability, and performance.
    - Price: High
    - Best for: Players wanting both performance and comfort
 
+4. **Foam Core (Gen-4)**
+   - Material: Solid foam core (typically Expanded Polypropylene / EPP), replacing traditional honeycomb structure
+   - Characteristics: The most significant paddle innovation of 2025-2026. Larger and more uniform sweet spot, excellent vibration absorption, high shot consistency
+   - Advantages: Larger effective hitting area, better durability (no honeycomb crushing), soft feel without sacrificing power transfer
+   - Disadvantages: Higher price, feel differs significantly from traditional honeycomb paddles, may require adjustment period
+   - Price: High ($200-450)
+   - Best for: Intermediate to advanced players seeking consistency and comfort
+   - Notable brands/tech: CRBN TruFoam, Joola Hyperion series, Selkirk Vanguard series, etc.
+
 **Surface Materials:**
 
 1. **Fiberglass**
@@ -144,8 +153,8 @@ Standard length is 4.5-5.5 inches. Although rules allow longer grips, standard l
 | | Medium | Hybrid | Carbon | Medium (8-8.5 oz) | Medium to Thin (13-14mm) | Good balance |
 | | High | Nomex | Carbon | Medium to Heavy (8.5-9 oz) | Thin (12-13mm) | Optimal for performance |
 | **Advanced** | Low | Nomex | Carbon | Medium to Heavy (8.5-9 oz) | Thin (11-13mm) | Not recommended, increase budget |
-| | Medium | Nomex | Carbon or Raw Carbon | Heavy (9-9.5 oz) | Thin (11-12mm) | Competitive-grade performance |
-| | High | High-End Hybrid | Raw Carbon | Heavy (9-9.5 oz) | Thin (10-11mm) | Top-tier performance |
+| | Medium | Nomex or Foam Core | Carbon or Raw Carbon | Heavy (9-9.5 oz) | Thin (11-12mm) | Competitive-grade performance |
+| | High | Foam Core (Gen-4) | Raw Carbon | Medium to Heavy (8.5-9.5 oz) | Medium to Thin (13-16mm) | 2025-2026 latest tech, large sweet spot + high consistency |
 
 ### Popular Brands and Value Analysis
 
