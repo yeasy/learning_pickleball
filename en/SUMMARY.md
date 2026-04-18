@@ -26,4 +26,6 @@
 * [Chapter 23 - Differentiated Learning Pathways by Skill Level](23_learning_pathways.md)
 * [Chapter 24 - Comparative Analysis with Other Racquet Sports](24_comparison_other_sports.md)
 * [Chapter 25 - Equipment Selection Decision Matrix](25_equipment_guide.md)
-* [Appendix](appendix.md)
+* [Appendix I - Reference](appendix.md)
+* [Appendix II - The Tao of Pickleball](appendix_tao.md)
+* [Appendix III - Top Secrets of Pickleball](appendix_secret.md)
