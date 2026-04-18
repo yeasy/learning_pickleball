@@ -1,10 +1,10 @@
-# Singles Game Strategies
+# Chapter 16 Singles Game Strategies
 
 The singles game of pickleball requires the highest comprehensive ability.
 
 It not only requires the player's running ability and hitting skills, but also demands the psychological quality and the ability to control the rhythm of the game.
 
-## Basic Process
+## 16.1 Basic Process
 
 Suppose the two players are A and B. A is serving first.
 
@@ -28,7 +28,7 @@ In singles, the player needs to cover the whole court, it is generally necessary
 
 Once the player is suppressed to the backcourt, it is at a big disadvantage. At this situation, if the player returns the ball too high, the opponent can volley the ball to earn the score.
 
-## Key Points
+## 16.2 Key Points
 
 The key to a singles match is to control the rhythm, so try to let the opponent move as much as possible, while you try to maintain a stable position. In addition, you should go to the net as quickly as possible when you have the opportunity, while pushing the opponent to stay at the backcourt.
 
@@ -36,7 +36,7 @@ The key to a singles match is to control the rhythm, so try to let the opponent 
 * Control the placement: It’s very important to accurately control the placement of the ball. Any drive must pass the opponent's interception area in front of the net, otherwise it is easy to be blocked;
 * Use angles: Use more angles when attacking, such as the backhand position. At the same time, mobilize the opponent to run first, and be careful to avoid returning the ball too long and going out of bounds.
 
-## Serving Strategies
+## 16.3 Serving Strategies
 
 Singles serving carries more tactical significance than doubles, directly affecting third shot advantage.
 
@@ -52,7 +52,7 @@ Singles serving carries more tactical significance than doubles, directly affect
 * **Fast Forehand**: Occasionally serve fast to forehand side to test opponent's reaction;
 * **Center Serve**: Makes opponent's positioning awkward, difficult to hit wide-angle returns.
 
-## Third Shot Decision
+## 16.4 Third Shot Decision
 
 The third shot in singles is the most critical turning point, requiring quick and accurate decisions.
 
@@ -63,7 +63,7 @@ The third shot in singles is the most critical turning point, requiring quick an
 | Very deep (baseline) | Lob or drive | Buy yourself time |
 | Wide angle | Return to center | Limit opponent's angles |
 
-## Energy Management
+## 16.5 Energy Management
 
 Singles demands extremely high fitness levels. Proper energy distribution is key to winning.
 
@@ -72,7 +72,7 @@ Singles demands extremely high fitness levels. Proper energy distribution is key
 * **When Defensive**: Use lobs to buy recovery time;
 * **When Offensive**: Continuous pressure, but avoid errors from rushing.
 
-## Mental Game
+## 16.6 Mental Game
 
 Singles is a one-on-one psychological battle:
 

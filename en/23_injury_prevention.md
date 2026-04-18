@@ -1,8 +1,8 @@
-# Chapter 23 - Sports Medicine and Injury Prevention
+# Chapter 23 Sports Medicine and Injury Prevention
 
 Although pickleball is renowned as a low-impact, easy-to-learn sport, it can still lead to sports injuries without proper scientific training and body protection. This chapter systematically introduces common types of injuries in pickleball, scientific warm-up and stretching methods, age-specific protection recommendations, and recovery strategies from a sports medicine perspective.
 
-## Common Pickleball Injuries
+## 23.1 Common Pickleball Injuries
 
 ### Rotator Cuff Injuries
 
@@ -100,7 +100,7 @@ The knee bears much of the body's weight while requiring frequent directional ch
 - Choose supportive athletic shoes and regularly check for sole wear
 - Gradually increase training time and intensity on hard courts
 
-## Scientific Warm-up and Stretching
+## 23.2 Scientific Warm-up and Stretching
 
 ### Pre-Exercise Warm-up (Dynamic Stretching)
 
@@ -161,7 +161,7 @@ The goal of static stretching is to release muscle tension, restore joint range 
 - **Shoulder Stretch**: One arm crossing body, other hand gently pressing elbow, stretching outer shoulder. Hold 45 seconds per side, 2 sets.
 - **Spinal Rotation Stretch**: Lying on back, one leg crossed over to opposite side, gently rotating to stretch spine and glutes. Hold 45 seconds per side, 2 sets.
 
-## Age-Specific Protection Recommendations
+## 23.3 Age-Specific Protection Recommendations
 
 ### Youth Athletes (12-18 years)
 
@@ -223,7 +223,7 @@ With advancing age, muscle mass and bone density naturally decline, and movement
 - Regularly check vision and hearing to ensure proper ball tracking and understanding opponent instructions
 - Communicate any pain or discomfort with your doctor; do not endure pain silently
 
-## Post-Exercise Recovery Strategies
+## 23.4 Post-Exercise Recovery Strategies
 
 ### Acute Phase Recovery (0-48 hours)
 
@@ -289,7 +289,7 @@ The 30-120 minute period after exercise is optimal for muscle protein synthesis 
 - Timing: Avoid intense training or caffeine consumption within 3 hours of bedtime
 - Quality Optimization: Maintain consistent sleep schedule; create a dark, cool, quiet sleeping environment
 
-## When to Seek Medical Help
+## 23.5 When to Seek Medical Help
 
 The following situations warrant immediate cessation of training and medical attention:
 
@@ -330,7 +330,7 @@ If injuries involve joints, muscles, or bones, referral to specialists may be ne
 - **Sports Medicine Physician**: Specializes in sports-related injuries
 - **Physical Therapist**: Assists with rehabilitation and prevention
 
-## Creating a Personalized Injury Prevention Plan
+## 23.6 Creating a Personalized Injury Prevention Plan
 
 Effective injury prevention is not one-size-fits-all and should be tailored to individual circumstances.
 

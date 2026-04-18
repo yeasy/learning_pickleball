@@ -1,10 +1,10 @@
-# Hold Paddle and Hit the Ball
+# Chapter 3 Hold Paddle and Hit the Ball
 
 Holding the paddle to hit the ball with power correctly is the most fundamental skill of learning to play pickleball. Players should be able to hit the ball with different power, speed, placement and spin in the correct way.
 
 Using a wrong way of holding paddle or generating force will restrict the improvement of the player's level and easily bring injuries.
 
-## Hold Paddle
+## 3.1 Hold Paddle
 
 The pickleball paddle handle can divide into 8 side faces, as shown in the figure below. According to the position that the purlicue (the area between the thumb and index finger) touches the paddle handle, there are four major paddle holding styles: **Continental style** (also called neutral style), **Eastern style**, **Semi-western style**, and **Western style**.
 
@@ -29,7 +29,7 @@ When using the forehand to do drive or drop, you can switch to Eastern style by 
 
 When using the backhand, the thumb can be placed on the position 7 to assist with more power and to keep the paddle stable.
 
-## Hit the Ball
+## 3.2 Hit the Ball
 
 Players should keep their body facing the incoming ball at all times, and place the paddle in front of their chest (the head of the paddle can be pointed straight up ahead or slightly to the backhand), be ready to hit the ball.
 
@@ -41,7 +41,7 @@ In order to learn how to hit the ball accurately, always pay attention to the in
 
 From practices, the players should be able to feel and understand how to use appropriate power, speed, placement and spin when hitting the ball.
 
-## Use Power
+## 3.3 Use Power
 
 The source of power in pickleball comes from the legs rather than the arms, which may seem surprising. However, if you have ever tried playing on an ice rink, you would realize how difficult it is to generate power.
 
@@ -53,7 +53,7 @@ It is important to keep all parts of the body (especially the arms and fingers) 
 
 In situations such as dink or volley, you do not need to use the motions from legs or body, but the principle is the same. You still need to generate the power by tightening your fingers, and the power comes from the body.
 
-## Daily Trainings
+## 3.4 Daily Trainings
 
 Here are some training exercises aimed at enhancing your hitting ability:
 
