@@ -47,7 +47,7 @@ mdpress serve cn/
 *   **基础技术**: 握拍、发球、网前吊球 (Dink)、后场吊球 (Drop)、抽球 (Drive)、截击 (Volley)、挑球 (Lob)。
 *   **进阶技术**: 旋转球、网前攻防、ATP、Erne。
 *   **比赛策略**: 单打与双打策略。
-*   **资源合集**: [要点总结](18_key_tips.md) & [常见问题](19_faq.md).
+*   **资源合集**: [要点总结](19_key_tips.md) & [常见问题](20_faq.md).
 
 *注：具体比赛规则请参考 [官方手册](https://usapickleball.org/what-is-pickleball/official-rules/)。*
 

@@ -1,0 +1,81 @@
+# Chapter 11 How to Lob
+
+The Lob technique is close to the badminton technique of pushing the ball high and let it land to the backcourt.
+
+This technique is easily overlooked, but it is very useful in actual combat, which can change the pace and create new competition situation.
+
+## 11.1 What is Lob
+
+Lobing the ball mainly refers to the technique of lifting the ball into the opponent's backcourt. Proper use of the Lob technique can mobilize the opponent's movement, change the rhythm of the game, and create opportunities for attack.
+
+![Lob Trajectories](../_images/lob-trajectory.png)
+
+Based on the position of lob, there are majorly three types:
+
+* **Backcourt Lob**: Lobing the ball from the backcourt to the opponent's backcourt, in order to change the game pace. In order to avoid hitting the ball out, you can use top spin appropriately;
+* **Mid-court Lob**: Lob the ball to the opponent's backcourt from the mid-court position, which is more offensive. For example, if the opponents are running to the net, a lob can prevents them and disorder the pace;
+* **Near-net Lob**: when the opponent's return is high or far in front of the net, the lob can force the opponents to go to the back court, which can create a good attack opportunity for next shot.
+
+## 11.2 When to Use Lob
+
+When the opponent's position or attention is in the frontcourt, and the jump or retreat footwork is not good, you can use the Lob to force the opponent to stay at the backcourt.
+
+Lobing the ball can save you from passive to proactive. At the same time, it can be used when you want to create opportunities from a dink or drive rally.
+
+After lobing the ball, move to the net in time and prepare to attack when the opponent returns the ball too high.
+
+## 11.3 Tactical Lobbing
+
+In recent years, tactical lobbing has gained more attention in professional play. The lob is not just a passive defensive tool, but a tactical weapon for actively changing the game's rhythm and creating offensive opportunities.
+
+### Offensive Lobs
+
+The goal of an offensive lob is not simply to hit the ball to the backcourt, but to force the opponent into a disadvantaged position through precise placement and timing.
+
+**Characteristics**:
+*   **Precise Placement**: Target the opponent's baseline corners, especially the backhand corner;
+*   **Timing**: Lob suddenly when the opponent's weight is forward and they're preparing to volley;
+*   **Topspin**: Adding topspin causes the ball to continue running backward after landing, increasing difficulty for the opponent.
+
+### Rhythm-Changing Lobs
+
+During dinking rallies at the net, both sides may be looking for attack opportunities. An unexpected lob can break the deadlock:
+
+*   **Disrupt Attack Preparation**: When the opponent is about to speed up, a lob removes their attack opportunity;
+*   **Buy Recovery Time**: When you're on the defensive or physically fatigued, a lob gives you time to recover;
+*   **Change the Battle Location**: Shift from a net battle to a backcourt exchange, favoring players with better conditioning and backcourt skills.
+
+### Tactical Lobbing Considerations
+
+*   **Don't Overuse**: Lobbing too often becomes predictable and can turn into easy put-aways for opponents;
+*   **Disguise**: The lob motion should closely resemble your dink motion to prevent early detection;
+*   **Follow to the Net**: After lobbing, quickly move forward to the net, preparing to intercept the opponent's return.
+
+## 11.4 Master the Lob
+
+The core point of lobing the ball is to keep the ball’s trajectory higher than the opponent's top after jump to avoid the opponent volleying in the air. Therefore, the parabolic high point of the Lob ball should be close to the opponent's middle court, so that the ball falls vertically near the baseline and does not go out.
+
+When lobbing the ball, keep in mind:
+
+* Keep a similar action as Dink or Drive, to avoid the opponent's prejudgment.
+* Control the trajectory's height, let it stay just above the opponent's volley top.
+* Control the ball's landing point, let it land as close to the baseline as possible. Usually let it land near opponent's backhand side, which is harder to handle.
+
+When the opponent lobs the ball, you should first quickly judge whether you can jump and volley the ball back. If not, you should quickly run to the position the ball is flying to. Wait for the ball to land and bounce, and then hit it back. Usually use Drop or Lob to return the ball in this situation.
+
+## 11.5 Defend a Lob
+
+When the opponent lobs the ball, you should first quickly judge whether you can jump and volley the ball back. If you can, jump up quickly, and use the power from wrist turning and finger tightening to hit the ball down, targeting the opponent feet or empty space.
+
+If not, you should quickly turn to the forehand side, and run back to the position the ball is flying to. Wait for the ball to land and bounce, and then hit it back. Usually you can use Drop to return the ball in this situation, and run to the net following the ball.
+
+Pay attention to kicking the ground directly when turning around, and do not step forward with the non-paddle-holding side foot first, otherwise it is easy to touch the non-volley area and lose the point. This is also common in professional tournaments, as shown below.
+
+![Foot at Non-paddle Side Touches the NVZ when Jumping to Attack Lob](../_images/foot-fault.jpg)
+
+## 11.6 Training Methods
+
+Lobing the ball and its defense can be trained in following ways:
+
+* Multi-ball practice: Repeatedly Lob the ball to correct the trajectory and landing point;
+* Ball feeding practice: One party does the lobing training and the other party does the return training.
