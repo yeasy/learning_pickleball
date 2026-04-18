@@ -1,10 +1,10 @@
-# Background Knowledge
+# Chapter 1 Background Knowledge
 
 Pickleball, as an emerging sport born in the 1960s, has swept North America and attracted more and more interests among people worldwide.
 
 Pickleball combines the skills of tennis, badminton, table tennis and other sports. It is fun to play, easy to learn, and moderate in intensity, and players are unlikely to get injured. It can be described as suitable for all ages. Anyone in their 70s or 80s, or children in their teens, can participate.
 
-## Origin and Development
+## 1.1 Origin and Development
 
 In the summer of 1965, pickleball was invented by Congressman Joel Pritchard (1925 \~ 1997) and his friends Bill Bell (1923 \~ 2006) and Barney McCallum (1926 \~ 2019) while vacationing on Bainbridge Island in Seattle, USA.
 
@@ -42,7 +42,7 @@ In October 2023, the International Olympic Committee announced new sports for th
 
 As of early 2026, recent APP and SFIA survey methodologies suggest that pickleball participation in the U.S. has reached the tens-of-millions scale. Figures such as “22 million+ core active players” and “50 million+ people who played at least once” refer to different survey definitions. The 25-34 age group has become the fastest-growing segment, indicating that the sport is becoming increasingly youthful and trendy.
 
-## Ball and Paddle
+## 1.2 Ball and Paddle
 
 A pickleball ball is a hard plastic ball, slightly larger than a tennis ball, and is usually colored like yellow or orange. The diameter is usually 2.87\~2.97 inches and the weight is 0.78~0.935 ounces. There are 26 \~ 40 circular holes with a diameter of around 1 cm on the spherical surface (there are differences between indoor and outdoor balls, the softer and lighter indoor ball has 26 holes, the hole diameter is larger and fly more slowly). The rotation of the ball is not too violent, and at the same time the elasticity is not great, making it fly relatively slowly in the air.
 
@@ -52,7 +52,7 @@ The paddle of the Pickleball is like a large table tennis paddle without rubber,
 
 ![Pickleball Paddles](../_images/pickleball-paddles.png)
 
-## Basic Rules
+## 1.3 Basic Rules
 
 The pickleball field measures 44x20 feet and the net is 34 inches high in the middle and 36 inches high on the side. At least 10 feet (approximately 3 meters) of distance should remain after the baseline, and at least 7 feet of distance should be remained from the sideline. The line width is 2 inches. For indoor courts, there must be at least 20 feet (approximately 6.1 meters) height from the ceiling.
 
@@ -70,7 +70,7 @@ Taking doubles as an example, each game has 11 points, and each player on the se
 
 Traditional pickleball rules employed "Side-out Scoring," where only the serving team can earn points when they win a rally. However, with the growth of professional pickleball, the PPA (Professional Pickleball Association) and other professional tours have adopted "Rally Scoring," where the winner of every rally scores points, regardless of whether they are the serving team. This makes matches faster-paced and more exciting, and easier to watch. Beginners should understand both scoring systems to adapt to different tournaments and opponents of varying levels.
 
-## Pickleball Features
+## 1.4 Pickleball Features
 
 Pickleball combines elements of badminton, table tennis and tennis and is a comprehensive sport. In a common doubles match, four players are divided into two teams, and because the court is relatively small, the requirements for running are not high. Sometimes people jokingly refer to Pickleball as seniors' tennis. But in fact, the intensity of professional games is often more than tennis, requiring superb skills and strategies.
 
@@ -80,7 +80,7 @@ Pickleball is quick to start, easy to control, moderate to run (not as high as t
 
 The overall amount of activity in pickleball is moderate, but it has rich skills. In addition to drive, smash, drop, and slices, there are also volleys and lobs. The competition between the two sides is not only about strength or speed, but also about the control of the ball (which is often more important). In doubles, teamwork is especially critical. In pickleball games, one rally can last to tens of hits, there are not only the extremely fast attack like a storm, but also the softness with strength like Tai Chi, which is quite entertaining.
 
-## Status and Future
+## 1.5 Status and Future
 
 According to recent participation surveys from APP (Association of Pickleball Professionals), the number of U.S. adults who played pickleball at least once in the past 12 months has reached roughly the 50-million range. This figure uses a different definition from the "core active player" count mentioned earlier, so the two numbers should not be mixed. The average age of players continues to decrease, with most professional tournament participants now ranging from 14 to 35 years old.
 

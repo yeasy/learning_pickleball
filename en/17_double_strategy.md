@@ -1,8 +1,8 @@
-# Doubles Game Strategies
+# Chapter 17 Doubles Game Strategies
 
 Double games are common in pickleball, and the core part is the efficient collaboration between players.
 
-## Basic Process
+## 17.1 Basic Process
 
 The main process of doubles is divided into two stages: a) **Move from the backcourt to the NVZ**, and b) **Battle near the net**.
 
@@ -40,7 +40,7 @@ The other is the battle in front of the network. The two sides look for attack o
 
 It should be noted that the Dinking in front of the net usually is using the diagonal direction or to the middle. Watch out for the opponent’s ATP attack when the ball lands close to the sideline. Be careful to defend the opponent's Erne attack when the ball is passing the net near its side.
 
-## Key Points
+## 17.2 Key Points
 
 In doubles, the cooperation of the players is often more important than the individual ability. The two players should play as a whole, rather than simply each player responsible for half of the court.
 
@@ -52,7 +52,7 @@ In addition, both sides should try to let the controller return the ball. If the
 * Protection of the middle ball: The middle position protection between the two players should be negotiated in time. When both can return the ball well, the forehand player or the higher skill level player should have the priority to return.
 * Protection of the backcourt ball: The backcourt ball should be handled by the one close to the backcourt or the one with faster footwork to catch the ball.
 
-## Offensive Third Shot: Shake and Bake
+## 17.3 Offensive Third Shot: Shake and Bake
 
 Traditional strategy favors the third-shot drop for safe transition to the net. However, in modern professional play, the offensive third shot (Shake and Bake) has become increasingly common.
 
@@ -74,7 +74,7 @@ The offensive third shot consists of two parts:
 *   The volleying partner should rush to the net simultaneously, ready to intercept;
 *   If the opponent successfully defends, be prepared to reset into a dinking rally.
 
-## Mixed Doubles Strategy
+## 17.4 Mixed Doubles Strategy
 
 In mixed doubles, the skill gap between male and female players requires thoughtful division of responsibilities.
 
@@ -96,7 +96,7 @@ In mixed doubles, the skill gap between male and female players requires thought
 *   **Male Player Covers Actively**: When the female player is pulled wide, the male player should quickly cover;
 *   **Communication**: Use verbal calls to clarify who takes the ball, avoiding both players going for or leaving the same ball.
 
-## Stacking
+## 17.5 Stacking
 
 Stacking is a tactical positioning commonly used in mixed doubles and same-gender doubles, allowing both players to maintain their most advantageous court positions.
 

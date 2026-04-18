@@ -1,6 +1,6 @@
-# The Tao of Pickleball
+# Chapter 20 The Tao of Pickleball
 
-## The Path to Victory
+## 20.1 The Path to Victory
 
 **Beginner**: How can I defeat an opponent stronger than me?
 **Master**: Let them play to their full potential.
@@ -10,32 +10,32 @@
 
 The beginner bowed in understanding.
 
-## Equipment
+## 20.2 Equipment
 
 **Beginner**: Why is the club champion playing with a cheap, beaten-up paddle?
 **Master**: He has grasped the essence. He plays with the paddle; he does not rely on the paddle to play for him.
 
-## Perception
+## 20.3 Perception
 
 **Beginner**: I practice hard, but I lose in tournaments. Why?
 **Master**: A goldfish in a bowl cannot imagine the currents of the ocean. You practice in comfort; competition is chaos. Embrace the chaos.
 
-## The Wrong Path
+## 20.4 The Wrong Path
 
 **Beginner**: They called me a prodigy after three months. Why am I not a master after a year?
 **Master**: The prodigy relies on talent and skips the foundation. When the foundation crumbles, it is often too late to rebuild.
 
-## Fame
+## 20.5 Fame
 
 **Beginner**: I have won many medals, yet I lost to an old man nobody knows.
 **Master**: The true master seeks understanding, not applause. The medal gathers dust; the skill remains.
 
-## The Ultimate Technique
+## 20.6 The Ultimate Technique
 
 **Beginner**: What is the invincible shot?
 **Master**: The one that is not returned. It need not be fast, nor fancy. It simply must land.
 
-## Source of Power
+## 20.7 Source of Power
 
 **Beginner**: How do I hit with power?
 **Master**: With the earth. Push from your legs.
@@ -46,12 +46,12 @@ The beginner bowed in understanding.
 **Beginner**: How do I hit the winner?
 **Master**: With your mind. See the open space before you strike.
 
-## Imitation
+## 20.8 Imitation
 
 **Beginner**: I copy your form perfectly, yet I fail.
 **Master**: You copy the shell, not the soul. Learn *why* I move, not just *how*.
 
-## Cross-Training
+## 20.9 Cross-Training
 
 **Beginner**: I am a table tennis expert. How do I improve?
 **Master**: Learn tennis.
@@ -60,17 +60,17 @@ The beginner bowed in understanding.
 **Beginner**: Now I know badminton. What next?
 **Master**: Forget them all. Play pickleball.
 
-## Art and Sport
+## 20.10 Art and Sport
 
 **Beginner**: Is pickleball an art?
 **Master**: It is like jazz. You must master the scales (drills) so that you can improvise (play) when the rhythm changes.
 
-## The Impossible Triangle
+## 20.11 The Impossible Triangle
 
 **Beginner**: What is the impossible choice?
 **Master**: Power, Speed, Control. You may often have two, but rarely all three. Choose wisely.
 
-## Perspective
+## 20.12 Perspective
 
 **Beginner**: Pro games look so easy. I could do that.
 **Master**: Go play. Come back in a year.
@@ -81,7 +81,7 @@ The beginner bowed in understanding.
 **Beginner**: It is actually quite simple. It flows naturally.
 **Master**: Now you understand.
 
-## Harmony
+## 20.13 Harmony
 
 **Beginner**: How do I become one with the paddle?
 **Master**: Let the paddle turn in your palm.

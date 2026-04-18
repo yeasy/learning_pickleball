@@ -1,8 +1,8 @@
-# Chapter 25 - Differentiated Learning Pathways for Different Skill Levels
+# Chapter 25 Differentiated Learning Pathways for Different Skill Levels
 
 Pickleball players span a wide range of skill levels, from complete beginners to professional competitors. Different skill levels face completely different learning challenges and priorities. This chapter provides detailed learning paths, training plans, and breakthrough methods for players at different levels.
 
-## Pickleball Rating System
+## 25.1 Pickleball Rating System
 
 Two commonly used rating frameworks should be distinguished:
 
@@ -20,7 +20,7 @@ For the purposes of this chapter and to help beginners establish training pathwa
 | 5.0-5.5 | Professional/Elite | Comprehensive technique, outstanding match awareness, capable of professional events |
 | 6.0+ | Elite Professional | Rare, typically top professional tour players |
 
-## 2.0-2.5 Level: Foundation Building and Stability Training
+## 25.2 2.0-2.5 Level: Foundation Building and Stability Training
 
 ### Current Status Assessment
 
@@ -187,7 +187,7 @@ Breakthrough Methods:
 - Lateral shuffle drills: Add 5-10 minutes of lateral shuffle movements to basic training to improve sideways movement efficiency
 - Early start: Don't wait for opponent to finish their swing; begin anticipating position as they prepare
 
-## 3.0-3.5 Level: Skill Deepening and Tactical Awareness Building
+## 25.3 3.0-3.5 Level: Skill Deepening and Tactical Awareness Building
 
 ### Current Status Assessment
 
@@ -363,7 +363,7 @@ Breakthrough Methods:
 - "Tactical rally training": Coach or partner sets specific match scenarios to practice tactical responses
 - "Commentary practice": Call out player decisions while watching matches
 
-## 4.0-4.5 Level: Competitive Training and Specialized Development
+## 25.4 4.0-4.5 Level: Competitive Training and Specialized Development
 
 ### Current Status Assessment
 
@@ -494,7 +494,7 @@ Players at 5.0 level and above have achieved professional or near-professional l
 - **Multi-disciplinary Support**: Professional team including coaches, conditioning coaches, sports psychologists, nutritionists, etc.
 - **Continuous Innovation**: Constantly research new techniques, tactics, and training methods
 
-## Self-Assessment Tools
+## 25.6 Self-Assessment Tools
 
 Regardless of your current level, the following tools can help you objectively assess your skill level:
 
@@ -531,7 +531,7 @@ Analyze the data to identify patterns:
 - What are your advantages compared to opponents?
 - What are your main weaknesses?
 
-## Summary
+## 25.7 Summary
 
 The learning journey in pickleball is progressive with no shortcuts. Each level has its specific challenges and opportunities. The key is:
 

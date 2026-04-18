@@ -1,10 +1,10 @@
-# How to Drive
+# Chapter 7 How to Drive
 
 The drive is one of the most common techniques to attack. Especially in singles, drive is often the key to win the game.
 
 In the singles, you can use drive to mobilize the opponents, and in the doubles game, you can use drive to attack or transit to the next shot. A high-quality drive can even score directly.
 
-## What is Drive
+## 7.1 What is Drive
 
 Drive is the action of hitting the ball quickly after it bounces up, to make the ball flies forward fast, and force the opponent to return the ball in a short time.
 
@@ -20,13 +20,13 @@ Based on where you hit the ball, the Drive can be roughly divided into the **Bac
 * **Middle-court Drive**: The middle-court Drive is an attack or transition by hitting when the opponent returns the ball to the midfield and it bounces high. The general target is the opposing near-net area or midfield.
 * **Near-net Drive**: The near-net is to attack the ball by hitting the ball when the opponent's return ball bounces high. Pay attention do not let the ball go out.
 
-## When to Use Drive
+## 7.2 When to Use Drive
 
 When the ball bounces high, and the opponent does not form an effective near-net block, you can try to Drive the ball.
 
 The first purpose of driving the ball is to mobilize the opponent, or make the opponent to return the ball in a hurry, so as to score a point or form a chance for the next shot.
 
-## Master Drive
+## 7.3 Master Drive
 
 The most important thing in driving the ball is to hit the ball in front of you, to hit the ball with a stable body, and to hit the ball when the ball is near the top of its trajectory. Another thing is to take advantage of the whip, and release the whole body's power into turning the waist through the stable hitting surface formed by the hand.
 
@@ -38,7 +38,7 @@ In doubles, the Drive can generally target the space between players, or the gap
 
 In singles, the Drive should mainly aim at the opponent's defense gap, and the gesture should be as small as possible, in order to prevent the opponent from predicting easily.
 
-## Training Methods
+## 7.4 Training Methods
 
 The Drive can be trained through the following steps:
 

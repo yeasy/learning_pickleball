@@ -1,10 +1,10 @@
-# Warm-up, Relax and Fitness
+# Chapter 2 Warm-up, Relax and Fitness
 
 Sufficient warm-up and reasonable relaxation are the keys to avoid sports injuries and maintain long-term healthy sports. At the same time, sufficient physical fitness is also a prerequisite for high-level competition.
 
 Therefore, both amateurs and professional athletes should pay attention to the importance of warm-up (before playing), relax (after playing) and regular physical training.
 
-## Warm Up
+## 2.1 Warm Up
 
 The purpose of warming up is to activate the joints and associated muscles of the body through dynamic stretch, which can improve the body’s mobility and avoid injury. The joints determine the angle and range of motion, and the muscles protect the joints. Warm up should be carried out in the order from the whole to the local, from the large joints to the small joints.
 
@@ -18,7 +18,7 @@ Here are some common warm-up movements.
 * Activate wrist and ankle joints;
 * Jogging and jumping exercises.
 
-## Relax
+## 2.2 Relax
 
 During intense exercise, muscle tissue will contract and relax rapidly, and this process may cause the originally neatly arranged muscle fibers to stagger and bend. If the muscles are in this state for a long time, they are prone to injury. The purpose of relaxation is to maintain muscle flexibility by relaxing the muscle tissue to restore its fibers to a state of neat alignment, which can be achieved by static stretch.
 
@@ -31,7 +31,7 @@ To achieve effective relaxation, it is important to focus on relaxing the larger
 
 Relaxation can also be achieved through techniques such as stretching, self-massage, and pressure point therapy. Equipment such as foam rollers and yoga mats can be useful for enhancing relaxation exercises and providing additional support.
 
-## Physical Training
+## 2.3 Physical Training
 
 The sport requires a variety of physical qualities, including **strength** (power and stamina), **speed** and **accuracy**. The following are common physical training items, and players can moderately adjust the training volume according to their personal physical conditions.
 
@@ -61,7 +61,7 @@ The sport requires a variety of physical qualities, including **strength** (powe
 * Toss balls into buckets, 20 times per group, 3 groups;
 * Toss the ball to a point on the wall and then catch the ball, 20 times each, 3 sets;
 
-## Level-Based Training Recommendations
+## 2.4 Level-Based Training Recommendations
 
 Different skill levels require different training focus and duration.
 
