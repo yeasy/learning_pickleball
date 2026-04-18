@@ -28,6 +28,7 @@
 * **Lob**: Hit the ball to let it fly high and land to the back court, usually near the baseline.
 * **Match Point**: The last point needed by one side to win the entire match.
 * **Mixed Doubles**: A doubles format with one male and one female player on each team.
+* **Foam Core (Gen-4)**: Fourth-generation paddle core technology that replaces the traditional honeycomb structure with a solid foam core (typically Expanded Polypropylene / EPP), providing a larger sweet spot, better vibration absorption, and improved durability. The most significant paddle innovation of 2025-2026.
 * **Nasty Nelson**: When serving in doubles, serve the ball to hit the opponent's non-receiving player.
 * **Non-Volley Zone**: NVZ, also known as the Kitchen. Refers to the area between the net and the first line (included). It is considered a violation if the athlete's body or paddle touches the area (including the line) before and after a volley because of the volley action.
 * **Overhead**: A hit made when the ball is above the head, often used for a smash.
@@ -52,6 +53,7 @@
 * **Smash**: Forcefully hitting a high ball into the opponent's court, usually during a volley.
 * **Speed Up**: Suddenly accelerating the shot during dinking rallies to attack the opponent.
 * **Stacking**: In doubles, regardless of the initial position, after serving or receiving, players move to form a fixed divisional position. For example, a player serves from the right half, but quickly run to the left of the court after serving.
+* **Supercritical Foam**: An emerging paddle core material created by injecting gas into molten polymer to form uniform micro-bubbles, achieving a lighter weight-to-strength ratio than traditional EPP. A rising trend in 2026.
 * **Thermoforming**: High-heat and high-pressure paddle manufacturing technology that molds components into a single integrated piece, providing larger sweet spot and better durability.
 * **Top Spin**: Making the ball spin forward by brushing it up with the paddle.
 * **Transition Zone**: The middle part of the court, which the players need to transit when he comes to the NVZ from the back court.
