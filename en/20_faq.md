@@ -1,4 +1,4 @@
-# Chapter 20 Frequently Asked Questions
+# Chapter 20 FAQ
 
 ## 20.1 [Q1] How to handle lob?
 
