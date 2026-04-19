@@ -21,7 +21,7 @@
 * [第 18 章 - 双打策略](18_double_strategy.md)
 * [第 19 章 - 要点总结](19_key_tips.md)
 * [第 20 章 - 常见问题](20_faq.md)
-* [第 21 章 - 物理与生物力学](21_physics_biomechanics.md)
+* [第 21 章 - 匹克球背后的科学原理](21_physics_biomechanics.md)
 * [附录一 - 参考资料](appendix.md)
 * [附录二 - 匹克球之道](appendix_tao.md)
 * [附录三 - 匹克球九阴真经](appendix_secret.md)

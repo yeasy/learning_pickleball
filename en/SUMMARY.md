@@ -21,7 +21,7 @@
 * [Chapter 18 - Doubles Game Strategies](18_double_strategy.md)
 * [Chapter 19 - Key Tips](19_key_tips.md)
 * [Chapter 20 - FAQ](20_faq.md)
-* [Chapter 21 - Physics and Biomechanics of Techniques](21_physics_biomechanics.md)
+* [Chapter 21 - The Science Behind Pickleball of Techniques](21_physics_biomechanics.md)
 * [Appendix I - Reference](appendix.md)
 * [Appendix II - The Tao of Pickleball](appendix_tao.md)
 * [Appendix III - Top Secrets of Pickleball](appendix_secret.md)
