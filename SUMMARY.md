@@ -32,7 +32,7 @@
 * [附录二 - 匹克球之道](cn/appendix_tao.md)
 * [附录三 - 匹克球九阴真经](cn/appendix_secret.md)
 * [附录四 - 匹克球术语](cn/appendix_terminologies.md)
-* [附录五 - 与其他球类的系统对标分析](cn/appendix_comparison.md)
+* [附录五 - 球类运动对比](cn/appendix_comparison.md)
 * [附录六 - 装备选购指南](cn/appendix_equipment.md)
 
 ## English Contents
