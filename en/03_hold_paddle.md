@@ -65,3 +65,17 @@ Here are some training exercises aimed at enhancing your hitting ability:
 * Forehand/Backhand multi-ball hitting training: 20 reps per set, 3 sets per day. This type of exercise can improve the strength and coordination of your arms and shoulders, as well as your ability to control the ball.
 
 These exercises require long-term training to achieve significant results, and it is important to protect your body and take adequate rest to avoid pain or injury caused by excessive fatigue or incorrect training postures.
+
+## 3.5 Footwork Awareness: Get in Position Before You Hit
+
+Before diving into the various stroke techniques in the following chapters, there is one core principle to internalize: **move into position first, then execute the stroke**.
+
+Every stroke technique — whether serving, dinking, or volleying — relies on your body being in the right position. No matter how perfect your hand technique is, you cannot hit a quality shot if your feet are not set. The most common mistake among beginners is "standing still and swinging": waiting for the ball to come to you rather than actively moving to the optimal hitting position.
+
+As you practice each technique in the subsequent chapters, always keep this awareness in mind:
+
+* **Before the shot**: Use small adjustment steps to position yourself so your body faces the incoming ball.
+* **During the shot**: Stay balanced with knees slightly bent, and execute the stroke within your comfortable hitting zone.
+* **After the shot**: Immediately recover to a sensible court position to prepare for the next shot.
+
+A comprehensive guide to footwork is provided in [Chapter 12](12_footwork.md), but start building this "position first, hit second" mindset right now.
