@@ -212,12 +212,12 @@ Different pickleball types suit different scenarios. Understanding ball characte
 ### Indoor Ball Recommendations
 
 **Entry-Level:**
-- Penn 100: Durable, suitable for beginners
-- Onix Pure 2: Reliable, affordable
+- HEAD C26 (formerly Penn 26): Designed for indoor wooden courts, stable bounce with no skid, high visibility
+- Onix Fuse G2: Successor to the Onix Pure 2, stable flight, affordable
 
 **Intermediate to Advanced:**
-- Franklin X-26 (Indoor): Excellent flight stability and durability
-- Selkirk Pro S1 (Indoor): Competitive-grade, comes with no-crack warranty
+- Franklin X-26 (Indoor): Excellent flight stability and durability, USAPA certified
+- Gamma Photon Indoor: Lightweight and soft, consistent indoor bounce, great for competitive training
 
 ### Outdoor Ball Recommendations
 
@@ -227,7 +227,7 @@ Different pickleball types suit different scenarios. Understanding ball characte
 
 **Intermediate to Advanced:**
 - Franklin X-40 (same as above): Standard competition ball; recommended to use the same ball for training and matches
-- Selkirk Pro S1 Outdoor: Next-generation competitive ball with no-crack warranty, outstanding durability
+- Selkirk Pro S1: 38-hole rotomolded design, excellent wind resistance, 1-year no-crack warranty, outstanding durability
 
 ### How to Choose a Ball
 
