@@ -1,4 +1,4 @@
-# Chapter 4 Warm-up, Relaxation, Fitness Training and Injury Prevention
+# Chapter 4 Fitness and Injury Prevention
 
 Sufficient warm-up and reasonable relaxation are the keys to avoiding sports injuries and maintaining long-term health. At the same time, sufficient physical fitness is a prerequisite for high-level competition. Although pickleball is renowned as a low-impact, easy-to-learn sport, it can still lead to sports injuries without proper scientific training and body protection.
 

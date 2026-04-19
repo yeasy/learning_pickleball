@@ -1,4 +1,4 @@
-# Chapter 21 Physics and Biomechanics Behind Pickleball Technique
+# Chapter 21 Physics and Biomechanics
 
 Understanding the physics and biomechanical principles underlying pickleball technique can help players improve scientifically, increase efficiency, and reduce injury risk. This chapter explores the scientific foundations of hitting, spin, footwork, and other technical skills.
 
