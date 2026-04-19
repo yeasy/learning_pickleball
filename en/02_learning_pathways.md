@@ -2,6 +2,21 @@
 
 Pickleball players span a wide range of skill levels, from complete beginners to professional competitors. Different skill levels face completely different learning challenges and priorities. This chapter provides detailed learning paths, training plans, and breakthrough methods for players at different levels.
 
+## 2.0 Quick Self-Assessment
+
+Before creating a training plan, use the following simple test to determine your approximate skill level:
+
+| Test Item | Beginner (2.0-2.5) | Intermediate (3.0-3.5) | Advanced (4.0+) |
+|-----------|-------------------|----------------------|----------------|
+| Consecutive rally count | < 20 | 20-100 | > 100 |
+| Serve success rate | < 70% | 70-85% | > 85% |
+| Can use different techniques (dink, volley, etc.) | Rarely | Frequently | Flexibly and consistently |
+| Can identify and exploit opponent weaknesses | Cannot | Sometimes | Frequently |
+| Backhand vs. forehand level | Large gap | Some gap | Roughly equal |
+| Can sustain 60 min moderate-intensity play | Difficult | Mostly yes | Easily |
+
+Based on your results, find the corresponding learning pathway section below.
+
 ## 2.1 Pickleball Rating System
 
 Two commonly used rating frameworks should be distinguished:
@@ -44,7 +59,7 @@ Players at the 2.0-2.5 level are just entering pickleball and may come from vari
 
 **Training Focus:**
 
-1. **Grip and Ready Position** (see [Chapter 4](04_hold_paddle.md))
+1. **Grip and Ready Position** (see [Chapter 3](03_hold_paddle.md))
    - Daily 10 minutes: Practice correct continental grip and ready position
    - Standing in place, repeatedly perform the "button" motion of the ready position (tapping the paddle face lightly on the ground)
    - Goal: Make grip and positioning automatic through muscle memory
@@ -103,7 +118,7 @@ Players at the 2.0-2.5 level are just entering pickleball and may come from vari
    - Understand the importance of "controlling the ball rather than hitting hard"
 
 3. **Basic Conditioning**
-   - 10 minutes warm-up before each training session (see [Chapter 3](03_fitness.md))
+   - 10 minutes warm-up before each training session (see [Chapter 4](04_fitness.md))
    - 10 minutes stretching after each training session
    - Simple strength exercises: bodyweight squats, push-ups (optional)
 
@@ -186,6 +201,24 @@ Breakthrough Methods:
 - Split-step training: Perform a small jump each time your opponent is about to hit
 - Lateral shuffle drills (see [Chapter 12 Footwork](12_footwork.md)): Add 5-10 minutes of lateral shuffle movements to basic training to improve sideways movement efficiency
 - Early start: Don't wait for opponent to finish their swing; begin anticipating position as they prepare
+
+### Simplified Plan for 1-2 Sessions Per Week
+
+For players with limited court access, especially older adults with recovery needs, here is a condensed training plan:
+
+**Once per week (90-120 minutes)**
+- Warm-up 15 minutes (see [Chapter 4](04_fitness.md))
+- Multi-ball training 30 minutes: focus on 1-2 techniques most needing improvement
+- Rally/match play 45-60 minutes
+- Cool-down stretching 15 minutes
+- At home: 2-3 fitness sessions per week (core and leg strength, 20-30 minutes each)
+
+**Twice per week (60-90 minutes each)**
+- Session 1 (technique focus): warm-up + multi-ball 40 min + rally 30 min + cool-down
+- Session 2 (match focus): warm-up + light rally 15 min + match play 45-60 min + cool-down
+- At home: 1-2 fitness sessions per week
+
+**Key principle**: When training time is limited, quality matters more than quantity. Master a few skills well rather than spreading too thin. Consider recording your play for video analysis at home (see Chapter 20 FAQ).
 
 ## 2.3 3.0-3.5 Level: Skill Deepening and Tactical Awareness Building
 
