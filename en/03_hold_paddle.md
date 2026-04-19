@@ -18,6 +18,9 @@ The characteristics of the various styles are summarized as follows:
 * **Western Style**: The purlicue faces position 4, the so-called lucky cat grip. When holding with the right hand, the paddle's forehand surface will face towards the ground after straightening the arm. The Western grip is an extreme grip that gives up the backhand, and is rarely used in pickleball games except occasional usage in smash in the front-court by forehand.
 
 Generally, the continental grip and eastern grip are recommended as the base grips, and fine-tuning can be made according to the specific situation.
+> **Two-Handed Backhand Trend**: In recent years, an increasing number of professional players have adopted the two-handed backhand in pickleball (similar to the two-handed backhand in tennis). It provides greater stability and power, especially for backhand drives and lobs. However, it sacrifices some reach and net flexibility. Players with a tennis or badminton two-handed backhand background can continue using it in pickleball. Beginners are recommended to master single-handed backhand fundamentals first, then decide whether to develop a two-handed backhand based on personal preference.
+
+
 
 ![Ready Position](../_images/ready-position.jpg)
 

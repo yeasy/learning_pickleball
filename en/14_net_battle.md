@@ -61,10 +61,58 @@ When both sides engage in rapid volley exchanges at the net, it creates a high-s
 
 At this point, use a soft reset shot to place the ball gently into opponent's NVZ and return to the dinking phase.
 
-## 14.4 Training Method
+## 14.4 Backhand Attack Techniques: Poke, Roll, Flick
+
+While "attack with forehand, defend with backhand" is the general principle at the net, intermediate and advanced players should also master backhand offensive techniques to add variety and surprise to their attacks.
+
+### Poke
+
+A quick, compact backhand "push" with minimal swing. Almost no backswing.
+
+* **Technique**: Lock the wrist and use a small forward push from the forearm and fingers to send the ball quickly
+* **When to use**: When opponent's dink is slightly high (above net tape) and close
+* **Target**: Opponent's feet or the gap between partners—prioritize speed over power
+* **Advantage**: Extremely concealed and fast, very hard to react to
+
+### Roll
+
+A backhand shot using an upward wrist roll to create topspin, causing the ball to dip quickly after crossing the net.
+
+* **Technique**: Start with paddle face slightly closed (angled down), roll the wrist upward to generate topspin. The swing path follows an upward arc
+* **When to use**: When the ball is around net-tape height with enough time to execute
+* **Target**: Opponent's body or feet—topspin causes rapid descent after clearing the net
+* **Advantage**: Topspin makes the ball difficult to volley cleanly, good placement control
+
+### Flick
+
+A quick wrist "snap" that suddenly accelerates the ball, similar to a whip action.
+
+* **Technique**: Keep the arm relatively still; use rapid wrist rotation and finger squeeze for instant paddle acceleration
+* **When to use**: When changing pace from dinking to attacking
+* **Target**: Opponent's backhand side or the middle gap
+* **Advantage**: Strong burst of speed, dramatic pace change—the most common speed-up from a dink rally
+
+### Choosing Between the Three
+
+| Technique | Ball Height | Swing Size | Ball Speed | Spin | Concealment |
+|-----------|------------|------------|------------|------|-------------|
+| Poke | Slightly above tape | Minimal | Med-Fast | None/Low | Highest |
+| Roll | Near tape | Medium | Medium | Heavy topspin | Medium |
+| Flick | Any | Small | Fastest | Medium | High |
+
+## 14.5 Training Method
 
 Training can be done as follows:
 
 * Multi-ball attack practice: one player repeatedly gives the ball in front of the net at a fixed position, and the other player attacks;
 * Multi-ball defensive practice: one player repeatedly gives a faster flat shot, simulating an attacking ball in front of the net, and the other player defends;
 * Interactive practice: Both players Dink in front of the net, one player tries to attack, and the other player tries to defend.
+**Fast Hands Specific Training:**
+
+Fast hands are the core skill for net battles. Here are specialized drills:
+
+* **Timed rapid volley**: Two players engage in continuous net volleys for 60 seconds, counting successful rallies. Weekly goal: increase the count.
+* **Reaction drill**: One player randomly sends fast balls to the other's left and right sides. The receiver volleys back to a designated area. 30 seconds per set, 15 seconds rest, 6-8 sets.
+* **Wall drill**: Practice continuous rapid volleys against a wall from 2-3 meters away. Target: 50 consecutive hits without error.
+* **Escalating Firefight**: Start with slow dinks, then both players increase speed by one level every 5 shots until one player can't maintain—trains hand stability at varying speeds.
+
