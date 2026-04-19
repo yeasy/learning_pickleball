@@ -2,7 +2,14 @@
 
 Choosing appropriate equipment is an important factor in improving your pickleball experience and performance. However, the market offers many types of pickleball equipment at widely varying prices, which confuses many players. This chapter provides practical equipment selection guidance to help players make optimal choices within different budgets and needs.
 
-## 25.1 Paddle Selection Decision Matrix
+> **Important Note**: Starting January 2025, USA Pickleball implemented new paddle certification standards. Always verify that a paddle is certified before purchasing. Key changes include:
+> - **PBCoR Test** (Paddle/Ball Coefficient of Restitution): Limits paddle elasticity output to prevent excessive ball speed. Non-compliant paddles were decertified as of July 1, 2025.
+> - **Surface Roughness Limit**: Average roughness must not exceed 40 micrometers, limiting extreme spin generation.
+> - **Deflection Test**: Paddle surface deflection must not exceed 0.005 inches under 3kg of pressure, preventing "trampoline effect."
+> 
+> Check [USA Pickleball Equipment](https://equipment.usapickleball.org/) to verify paddle certification status before purchasing.
+
+## A6.1 Paddle Selection Decision Matrix
 
 The paddle is the most critical equipment in pickleball. Selecting the right paddle should consider multiple dimensions: skill level, playing style, and budget constraints.
 
@@ -88,14 +95,18 @@ Core and surface materials determine paddle feel, durability, and performance.
    - Price: High
    - Best for: Players wanting both performance and comfort
 
+
+> **Thermoforming Technology**: The dominant manufacturing process for mid-to-high-end paddles in 2024-2026. Heat-molding fuses the paddle frame and face into a unibody construction, eliminating traditional glued-edge seams. Benefits include more consistent weight distribution, larger effective hitting area, and better edge stability. JOOLA, Selkirk, CRBN, and virtually all major brands now use thermoforming for their competitive-grade paddles. When shopping for mid-to-high-end paddles, thermoforming is no longer a bonus feature—it's the baseline.
+
 4. **Foam Core (Gen-4)**
-   - Material: Solid foam core (typically Expanded Polypropylene / EPP), replacing traditional honeycomb structure
-   - Characteristics: The most significant paddle innovation of 2025-2026. Larger and more uniform sweet spot, excellent vibration absorption, high shot consistency
-   - Advantages: Larger effective hitting area, better durability (no honeycomb crushing), soft feel without sacrificing power transfer
-   - Disadvantages: Higher price, feel differs significantly from traditional honeycomb paddles, may require adjustment period
-   - Price: High ($200-450)
-   - Best for: Intermediate to advanced players seeking consistency and comfort
-   - Notable brands/tech: CRBN TruFoam, Joola Hyperion series, Selkirk Vanguard series, etc.
+   - Material: Solid foam core (typically Expanded Polypropylene / EPP or similar), replacing traditional honeycomb structure
+   - Characteristics: The biggest breakthrough in paddle technology for 2025-2026, known as "Generation 4" (Gen-4). By 2026, virtually all major brands offer foam core products
+   - Advantages: Larger and more uniform sweet spot (no honeycomb boundary effects), no core crushing issues, extremely consistent shot performance, excellent vibration absorption
+   - Disadvantages: Higher price, feel differs significantly from traditional honeycomb paddles (more "dense"), requires 1-2 weeks adjustment period
+   - Price: $200-450
+   - Best for: Intermediate to advanced players seeking consistency and comfort; increasingly popular among progressing beginners
+   - Notable products: CRBN TruFoam Genesis (first mass-produced foam core), Selkirk Boomstik (BoomCore technology), JOOLA Perseus Pro IV (high-density foam ring design), Ronbus series, etc.
+   - Note: Pay special attention to Gen-4 paddle certification status—some early models did not pass the 2025 PBCoR standards
 
 **Surface Materials:**
 
@@ -146,15 +157,15 @@ Standard length is 4.5-5.5 inches. Although rules allow longer grips, standard l
 
 | Skill Level | Budget | Recommended Core | Recommended Surface | Recommended Weight | Recommended Thickness | Notes |
 |-------------|--------|------------------|---------------------|-------------------|----------------------|-------|
-| **Beginner** | Low | Polymer | Fiberglass | Light (7-7.5 oz) | Thick (16-18mm) | Prioritize forgiveness and ease |
-| | Medium | Polymer | Stone Fiber | Light to Medium (7.5-8 oz) | Medium Thick (14-16mm) | Balance performance and ease |
-| | High | Hybrid | Carbon | Medium (8-8.5 oz) | Medium (13-15mm) | Room for growth |
-| **Intermediate** | Low | Nomex | Stone Fiber | Medium (8-8.5 oz) | Medium (13-15mm) | Best value option |
-| | Medium | Hybrid | Carbon | Medium (8-8.5 oz) | Medium to Thin (13-14mm) | Good balance |
-| | High | Nomex | Carbon | Medium to Heavy (8.5-9 oz) | Thin (12-13mm) | Optimal for performance |
-| **Advanced** | Low | Nomex | Carbon | Medium to Heavy (8.5-9 oz) | Thin (11-13mm) | Not recommended, increase budget |
-| | Medium | Nomex or Foam Core | Carbon or Raw Carbon | Heavy (9-9.5 oz) | Thin (11-12mm) | Competitive-grade performance |
-| | High | Foam Core (Gen-4) | Raw Carbon | Medium to Heavy (8.5-9.5 oz) | Medium to Thin (13-16mm) | 2025-2026 latest tech, large sweet spot + high consistency |
+| **Beginner** | Low | Polymer | Fiberglass | Light (7-7.5 oz) | Thick (15-16mm) | Prioritize forgiveness and ease |
+| | Medium | Polymer | Carbon | Light to Medium (7.5-8 oz) | Medium Thick (14-16mm) | Balance performance and ease |
+| | High | Polymer (Thermoformed) | Carbon | Light to Medium (7.5-8 oz) | Medium Thick (14-16mm) | Thermoforming improves consistency |
+| **Intermediate** | Low | Polymer | Carbon | Medium (7.8-8.2 oz) | Medium (14-16mm) | Best value option |
+| | Medium | Polymer (Thermoformed) | Carbon | Medium (7.8-8.4 oz) | Medium (14-16mm) | Mainstream competitive setup |
+| | High | Foam Core (Gen-4) | Carbon or Raw Carbon | Medium (7.8-8.4 oz) | Medium (14-16mm) | Latest tech, large sweet spot + high consistency |
+| **Advanced** | Low | Polymer (Thermoformed) | Carbon | Medium (7.8-8.4 oz) | Medium (14-16mm) | Thermoforming is baseline |
+| | Medium | Foam Core (Gen-4) | Carbon or Raw Carbon | Medium (7.8-8.4 oz) | Medium (14-16mm) | Competitive-grade performance |
+| | High | Foam Core (Gen-4) | Raw Carbon | Medium (7.8-8.4 oz) | Medium (14-16mm) | Top-tier setup, verify PBCoR certification |
 
 ### Popular Brands and Value Analysis
 
@@ -182,7 +193,7 @@ Standard length is 4.5-5.5 inches. Although rules allow longer grips, standard l
 
 *(Note: Brand and product information above is for reference only; consult manufacturers for latest models and specifications.)*
 
-## 25.2 Ball Classification and Selection
+## A6.2 Ball Classification and Selection
 
 Different pickleball types suit different scenarios. Understanding ball characteristics is important.
 
@@ -205,18 +216,18 @@ Different pickleball types suit different scenarios. Understanding ball characte
 - Onix Pure 2: Reliable, affordable
 
 **Intermediate to Advanced:**
-- Selkirk Pro: Competitive-grade, recommended by pros
-- Franklin Pro Picklecore: Excellent control and durability
+- Franklin X-26 (Indoor): Excellent flight stability and durability
+- Selkirk Pro S1 (Indoor): Competitive-grade, comes with no-crack warranty
 
 ### Outdoor Ball Recommendations
 
 **Entry-Level:**
-- Penn Pro: Suitable for outdoor, durable
-- Wilson Evolution: Reliable choice
+- Franklin X-40: Official APP Tour ball (since 2024), stable flight, good durability—the most mainstream outdoor ball
+- Onix Dura Fast 40: Classic outdoor ball, consistent bounce
 
 **Intermediate to Advanced:**
-- Selkirk Premium Pro: Outdoor competitive ball
-- Onix Pure 2 Outdoor: Popular outdoor choice
+- Franklin X-40 (same as above): Standard competition ball; recommended to use the same ball for training and matches
+- Selkirk Pro S1 Outdoor: Next-generation competitive ball with no-crack warranty, outstanding durability
 
 ### How to Choose a Ball
 
@@ -228,7 +239,7 @@ Different pickleball types suit different scenarios. Understanding ball characte
 - Beginners: Buy one can (3 balls) to test before buying more
 - Intermediate and above: Purchase enough quantity based on match and training needs (usually 2-3 cans per person)
 
-## 25.3 Shoe Selection Key Points
+## A6.3 Shoe Selection Key Points
 
 Choosing proper athletic shoes is important for injury prevention and performance improvement.
 
@@ -256,20 +267,18 @@ Choosing proper athletic shoes is important for injury prevention and performanc
 
 ### Recommended Brands and Models
 
-**Budget-Friendly ($60-100)**
-- New Balance 696: Balanced choice
-- Wilson Kaos Swift: Tennis shoe adapted, suitable for pickleball
-- Saucony Omni Walker: Stable and comfortable
+As of 2025-2026, pickleball-specific shoes have become a mature product category. Prioritize pickleball-specific models over tennis shoes when shopping.
 
-**Mid-Range ($100-150)**
-- Nike Court Lite: Basketball shoe adapted, good support
-- Adidas adizero Ubersonic: Lightweight and responsive
-- Asics Gel-Court: Comfort and durability balance
+**Pickleball-Specific Shoes (Recommended First Choice)**
+- Skechers Viper Court Pro 2.0 ($100-130): Best-selling pickleball shoe, excellent lateral support and cushioning
+- SQAIRZ XRZ ($140-160): Co-designed with ProXR Pickleball, optimized for pickleball biomechanics
+- Babolat Jet Mach Pickleball ($130-160): Pro tour validated, lightweight and stable
+- K-Swiss Express Light Pickleball ($80-110): Excellent value entry-level pickleball shoe
 
-**Premium ($150-200+)**
-- Nike Zoom Vapor Pro: Professional tennis shoe, adaptable to pickleball
-- Adidas Barricade: Stable and durable
-- New Balance MC996: High-end stability shoe
+**Court/Tennis Shoes (Alternative Choice)**
+- New Balance Fresh Foam X ($100-140): Outstanding cushioning, good for joint protection
+- Asics Gel-Resolution ($120-160): Extremely durable, ideal for hard courts
+- Nike Court Air Zoom Vapor ($150-180): Lightweight and agile, suited for quick movers
 
 ### Selection Tips
 
@@ -283,7 +292,7 @@ Choosing proper athletic shoes is important for injury prevention and performanc
    - Synthetic courts: Standard support suffices
 4. **Replacement Cycle**: Usually need replacement after 500-1000 km of activity (approximately 1-2 pairs per year)
 
-## 25.4 Accessory Recommendations
+## A6.4 Accessory Recommendations
 
 While not absolutely necessary, the following accessories can improve comfort and prevent injury:
 
@@ -347,7 +356,7 @@ While not absolutely necessary, the following accessories can improve comfort an
 - Beginners: Base grip usually sufficient, no need for overgrip yet
 - Intermediate and Advanced: Can prepare overgrips to maintain grip feel
 
-## 25.5 Equipment Budget Reference
+## A6.5 Equipment Budget Reference
 
 ### Beginner Total Budget
 
@@ -385,7 +394,7 @@ While not absolutely necessary, the following accessories can improve comfort an
 - Ball: $300+ (ample competitive-grade supply)
 - Accessories and Professional Support: $500+ (various supports, equipment, coaching, etc.)
 
-## 25.6 Equipment Maintenance
+## A6.6 Equipment Maintenance
 
 ### Paddle Maintenance
 
@@ -422,7 +431,7 @@ While not absolutely necessary, the following accessories can improve comfort an
    - Replace when sole wears or cushioning noticeably decreases
    - Usually after 500-1000 km need replacement
 
-## 25.7 Summary and Recommendations
+## A6.7 Summary and Recommendations
 
 Choosing the right equipment is a balancing process requiring consideration of:
 
