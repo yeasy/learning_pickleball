@@ -9,8 +9,8 @@
 
 * [第 1 章 - 背景知识](cn/01_background.md)
 * [第 2 章 - 针对不同水平的差异化学习路径](cn/02_learning_pathways.md)
-* [第 3 章 - 热身、放松、体能训练与伤害预防](cn/03_fitness.md)
-* [第 4 章 - 持拍与击球发力](cn/04_hold_paddle.md)
+* [第 3 章 - 持拍与击球发力](cn/03_hold_paddle.md)
+* [第 4 章 - 热身、放松、体能训练与伤害预防](cn/04_fitness.md)
 * [第 5 章 - 发球与接发球](cn/05_serve.md)
 * [第 6 章 - 前场吊球技术](cn/06_dink.md)
 * [第 7 章 - 后场吊球技术](cn/07_drop.md)
@@ -39,8 +39,8 @@
 
 * [Chapter 1 - Background Knowledge](en/01_background.md)
 * [Chapter 2 - Differentiated Learning Pathways by Skill Level](en/02_learning_pathways.md)
-* [Chapter 3 - Warm-up, Relaxation, Fitness Training and Injury Prevention](en/03_fitness.md)
-* [Chapter 4 - Hold Paddle and Hit the Ball](en/04_hold_paddle.md)
+* [Chapter 3 - Hold Paddle and Hit the Ball](en/03_hold_paddle.md)
+* [Chapter 4 - Warm-up, Relaxation, Fitness Training and Injury Prevention](en/04_fitness.md)
 * [Chapter 5 - Serve and Return](en/05_serve.md)
 * [Chapter 6 - How to Dink](en/06_dink.md)
 * [Chapter 7 - How to Drop](en/07_drop.md)

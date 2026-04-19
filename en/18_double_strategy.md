@@ -2,6 +2,8 @@
 
 Double games are common in pickleball, and the core part is the efficient collaboration between players.
 
+> **Related technique chapters**: [Dink](06_dink.md), [Drop](07_drop.md), [Drive](08_drive.md), [Volley](09_volley.md), [Net Battle](14_net_battle.md), [ATP](15_atp.md), [Erne](16_erne.md)
+
 ## 18.1 Basic Process
 
 The main process of doubles is divided into two stages: a) **Move from the backcourt to the NVZ**, and b) **Battle near the net**.
