@@ -267,18 +267,18 @@ Choosing proper athletic shoes is important for injury prevention and performanc
 
 ### Recommended Brands and Models
 
-As of 2025-2026, pickleball-specific shoes have become a mature product category. Prioritize pickleball-specific models over tennis shoes when shopping.
+In practice, many pickleball players wear tennis shoes on the court. Tennis shoes are a more mature product category with wider selection, and their lateral support and durability have been proven over many years, making them the go-to choice for most players. Pickleball-specific shoes have also emerged in recent years and can be chosen based on personal preference.
 
-**Pickleball-Specific Shoes (Recommended First Choice)**
+**Tennis/Court Shoes (Primary Choice)**
+- New Balance Fresh Foam X ($100-140): Outstanding cushioning, good for joint protection
+- Asics Gel-Resolution ($120-160): Extremely durable, ideal for hard courts
+- Nike Court Air Zoom Vapor ($150-180): Lightweight and agile, suited for quick movers
+
+**Pickleball-Specific Shoes (Optional)**
 - Skechers Viper Court Pro 2.0 ($100-130): Best-selling pickleball shoe, excellent lateral support and cushioning
 - SQAIRZ XRZ ($140-160): Co-designed with ProXR Pickleball, optimized for pickleball biomechanics
 - Babolat Jet Mach Pickleball ($130-160): Pro tour validated, lightweight and stable
 - K-Swiss Express Light Pickleball ($80-110): Excellent value entry-level pickleball shoe
-
-**Court/Tennis Shoes (Alternative Choice)**
-- New Balance Fresh Foam X ($100-140): Outstanding cushioning, good for joint protection
-- Asics Gel-Resolution ($120-160): Extremely durable, ideal for hard courts
-- Nike Court Air Zoom Vapor ($150-180): Lightweight and agile, suited for quick movers
 
 ### Selection Tips
 
