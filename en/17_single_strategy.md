@@ -4,6 +4,8 @@ The singles game of pickleball requires the highest comprehensive ability.
 
 It not only requires the player's running ability and hitting skills, but also demands the psychological quality and the ability to control the rhythm of the game.
 
+> **Related technique chapters**: [Serve](05_serve.md), [Dink](06_dink.md), [Drop](07_drop.md), [Drive](08_drive.md), [Volley](09_volley.md), [Lob](11_lob.md), [Footwork](12_footwork.md)
+
 ## 17.1 Basic Process
 
 Suppose the two players are A and B. A is serving first.

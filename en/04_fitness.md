@@ -1,4 +1,4 @@
-# Chapter 3 Warm-up, Relaxation, Fitness Training and Injury Prevention
+# Chapter 4 Warm-up, Relaxation, Fitness Training and Injury Prevention
 
 Sufficient warm-up and reasonable relaxation are the keys to avoiding sports injuries and maintaining long-term health. At the same time, sufficient physical fitness is a prerequisite for high-level competition. Although pickleball is renowned as a low-impact, easy-to-learn sport, it can still lead to sports injuries without proper scientific training and body protection.
 
@@ -8,7 +8,7 @@ Sufficient warm-up and reasonable relaxation are the keys to avoid sports injuri
 
 Therefore, both amateurs and professional athletes should pay attention to the importance of warm-up (before playing), relax (after playing) and regular physical training.
 
-## 3.1 Warm Up
+## 4.1 Warm Up
 
 The purpose of warming up is to activate the joints and associated muscles of the body through dynamic stretch, which can improve the body’s mobility and avoid injury. The joints determine the angle and range of motion, and the muscles protect the joints. Warm up should be carried out in the order from the whole to the local, from the large joints to the small joints.
 
@@ -22,7 +22,7 @@ Here are some common warm-up movements.
 * Activate wrist and ankle joints;
 * Jogging and jumping exercises.
 
-## 3.2 Relax
+## 4.2 Relax
 
 During intense exercise, muscle tissue will contract and relax rapidly, and this process may cause the originally neatly arranged muscle fibers to stagger and bend. If the muscles are in this state for a long time, they are prone to injury. The purpose of relaxation is to maintain muscle flexibility by relaxing the muscle tissue to restore its fibers to a state of neat alignment, which can be achieved by static stretch.
 
@@ -35,7 +35,7 @@ To achieve effective relaxation, it is important to focus on relaxing the larger
 
 Relaxation can also be achieved through techniques such as stretching, self-massage, and pressure point therapy. Equipment such as foam rollers and yoga mats can be useful for enhancing relaxation exercises and providing additional support.
 
-## 3.3 Physical Training
+## 4.3 Physical Training
 
 The sport requires a variety of physical qualities, including **strength** (power and stamina), **speed** and **accuracy**. The following are common physical training items, and players can moderately adjust the training volume according to their personal physical conditions.
 
@@ -65,7 +65,7 @@ The sport requires a variety of physical qualities, including **strength** (powe
 * Toss balls into buckets, 20 times per group, 3 groups;
 * Toss the ball to a point on the wall and then catch the ball, 20 times each, 3 sets;
 
-## 3.4 Level-Based Training Recommendations
+## 4.4 Level-Based Training Recommendations
 
 Different skill levels require different training focus and duration.
 
@@ -98,7 +98,7 @@ Different skill levels require different training focus and duration.
 * **Special Note**: Scientific recovery, injury prevention
 
 
-## 3.5 Common Pickleball Injuries
+## 4.5 Common Pickleball Injuries
 
 ### Rotator Cuff Injuries
 
@@ -196,7 +196,7 @@ The knee bears much of the body's weight while requiring frequent directional ch
 - Choose supportive athletic shoes and regularly check for sole wear
 - Gradually increase training time and intensity on hard courts
 
-## 3.6 Scientific Warm-up and Stretching
+## 4.6 Scientific Warm-up and Stretching
 
 ### Pre-Exercise Warm-up (Dynamic Stretching)
 
@@ -257,7 +257,7 @@ The goal of static stretching is to release muscle tension, restore joint range 
 - **Shoulder Stretch**: One arm crossing body, other hand gently pressing elbow, stretching outer shoulder. Hold 45 seconds per side, 2 sets.
 - **Spinal Rotation Stretch**: Lying on back, one leg crossed over to opposite side, gently rotating to stretch spine and glutes. Hold 45 seconds per side, 2 sets.
 
-## 3.7 Age-Specific Protection Recommendations
+## 4.7 Age-Specific Protection Recommendations
 
 ### Youth Athletes (12-18 years)
 
@@ -319,7 +319,7 @@ With advancing age, muscle mass and bone density naturally decline, and movement
 - Regularly check vision and hearing to ensure proper ball tracking and understanding opponent instructions
 - Communicate any pain or discomfort with your doctor; do not endure pain silently
 
-## 3.8 Post-Exercise Recovery Strategies
+## 4.8 Post-Exercise Recovery Strategies
 
 ### Acute Phase Recovery (0-48 hours)
 
@@ -385,7 +385,7 @@ The 30-120 minute period after exercise is optimal for muscle protein synthesis 
 - Timing: Avoid intense training or caffeine consumption within 3 hours of bedtime
 - Quality Optimization: Maintain consistent sleep schedule; create a dark, cool, quiet sleeping environment
 
-## 3.9 When to Seek Medical Help
+## 4.9 When to Seek Medical Help
 
 The following situations warrant immediate cessation of training and medical attention:
 
@@ -426,7 +426,7 @@ If injuries involve joints, muscles, or bones, referral to specialists may be ne
 - **Sports Medicine Physician**: Specializes in sports-related injuries
 - **Physical Therapist**: Assists with rehabilitation and prevention
 
-## 3.10 Creating a Personalized Injury Prevention Plan
+## 4.10 Creating a Personalized Injury Prevention Plan
 
 Effective injury prevention is not one-size-fits-all and should be tailored to individual circumstances.
 
@@ -457,3 +457,45 @@ If you have a history of Achilles tendinitis, your plan should include:
 - Wearing supportive athletic shoes and athletic socks
 
 Following such a personalized plan can significantly reduce injury risk.
+
+## 4.11 Return-to-Play Guide After Injury
+
+After recovering from an injury, do not immediately resume full-intensity training. Premature return is the leading cause of re-injury. Follow a progressive return-to-play protocol.
+
+### Prerequisites for Return
+
+Begin return-to-play training only after meeting ALL of the following conditions:
+
+- No pain at the injury site during daily activities and light exercise
+- Joint range of motion restored to at least 90% of pre-injury levels
+- Muscle strength restored to at least 80% of pre-injury levels
+- Clearance from a doctor or physical therapist
+
+### Four-Phase Return Plan
+
+**Phase 1 (Weeks 1-2): Basic Activity Restoration**
+- Light aerobic activity: walking, cycling (50% intensity)
+- Non-weight-bearing or light-weight exercises for the injured area
+- Goal: Verify that basic activities cause no pain
+
+**Phase 2 (Weeks 3-4): Sport-Specific Preparation**
+- Light hitting practice (60-70% intensity), primarily slow multi-ball drills
+- Simple movement drills, avoiding sudden stops and turns
+- Gradually increase training duration (30-45 minutes per session)
+
+**Phase 3 (Weeks 5-6): Restricted Match Play**
+- Participate in casual rallies (75-85% intensity)
+- Gradually incorporate match elements, but avoid full competition
+- Monitor the injured area's response; stop immediately if discomfort occurs
+
+**Phase 4 (Weeks 7-8): Full Recovery**
+- Gradually restore normal training intensity and frequency
+- Participate in official matches
+- Continue preventive training and stretching
+
+### Key Principles
+
+- **Better slow than sorry**: Premature return is the leading cause of re-injury
+- **Pain is a signal**: Stop or reduce intensity immediately if pain occurs during training
+- **Maintain preventive training**: Continue targeted exercises for the injured area even after full recovery
+- **Monitor progress**: Evaluate recovery weekly; extend phases as needed
