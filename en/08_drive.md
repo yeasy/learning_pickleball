@@ -44,3 +44,10 @@ The Drive can be trained through the following steps:
 
 * Multi-ball practice: The assistant staff throws the ball to the hitting player, and the player hits the ball into the designated target area after it bounces up, and the ball should not go too high over the net. There should be no less than 50 consecutive draws each time, and no less than 10 sets of exercises every day. You can practice hitting the ball to different positions on the court later.
 * Returning practice: The assistant staff and players practice driving the ball together. First practice at a fixed location, and then free practice with a larger area. There should be no less than 50 consecutive draws each time, and no less than 10 sets of exercises every day.
+**Advanced Practice Drills:**
+
+* **Drive on the move**: Partner randomly feeds balls to left and right sides. Player moves to position before hitting the drive. Focus on getting set before striking, not hitting while running. 20 balls per set, 3 sets daily.
+* **Power gradient drill**: Hit to the same target at 50%, 70%, and 90% power. Feel the difference in ball control at varying intensities—develop the ability to dial power up and down at will.
+* **Drive and follow**: After hitting a baseline drive, immediately advance 2-3 steps toward the net, simulating the match rhythm of driving then approaching.
+* **Competitive baseline rally**: Two players rally drives from the baseline. One attacks, the other defends. Switch roles every 5 balls. The defender focuses on resetting fast drives into drops or lobs.
+
