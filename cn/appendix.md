@@ -89,9 +89,10 @@
 
 ## 参考资料
 
-* 美国匹克球规则：https://usapickleball.org/what-is-pickleball/how-to-play/basics/rules-summary；
-* 美国匹克球协会：https://usapickleball.org；
-* 国际匹克球联盟：https://www.ifpickleball.org；
-* APP 锦标赛：https://www.theapp.global；
-* PPA 锦标赛：https://www.ppatour.com；
-* MLP 联盟赛：https://www.majorleaguepickleball.net。
+* [美国匹克球规则](https://usapickleball.org/what-is-pickleball/how-to-play/basics/rules-summary)；
+* [美国匹克球协会](https://usapickleball.org)；
+* [国际匹克球联盟](https://www.ifpickleball.org)；
+* [APP 锦标赛（Association of Pickleball Players）](https://www.theapp.global)；
+* [PPA 锦标赛（Professional Pickleball Association）](https://www.ppatour.com)；
+* [MLP 联盟赛](https://www.majorleaguepickleball.net)；
+* [中匹在线](https://pickleballcn.com)。

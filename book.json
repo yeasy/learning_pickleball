@@ -1,6 +1,8 @@
 {
     "title": "学打匹克球 | Learning Pickleball",
     "author": "yeasy",
+    "output.name": "learning_pickleball",
+    "gitbook": "3.2.3",
     "root": ".",
     "pdf": {
         "fontSize": 16,
@@ -8,5 +10,44 @@
         "paperSize": "letter",
         "headerTemplate": "_TITLE_ - _SECTION_",
         "footerTemplate": "null"
+    },
+    "plugins": [
+        "chapter-numbering",
+        "image-captions",
+        "prism",
+        "prism-themes",
+        "-highlight",
+        "-lunr",
+        "-search",
+        "-sharing"
+    ],
+    "pluginsConfig": {
+        "autocover": {
+            "font": {
+                "size": null,
+                "family": "msyh",
+                "color": "#000"
+            },
+            "size": {
+                "w": 1800,
+                "h": 2360
+            },
+            "background": {
+                "color": "#FFF"
+            }
+        },
+        "fontSettings": {
+            "family": "msyh",
+            "size": 4
+        },
+        "image-captions": {
+            "attributes": {
+                "width": "400"
+            },
+            "caption": "Figure _PAGE_IMAGE_NUMBER_ - _CAPTION_"
+        },
+        "theme-default": {
+            "showLevel": true
+        }
     }
 }
