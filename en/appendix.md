@@ -1,4 +1,4 @@
-# Appendix I Reference
+# Appendix I Ratings, Rules, and References
 
 ## Rating and Levels
 
