@@ -30,9 +30,17 @@ In doubles, usually serve long balls to the middle between opponents to force th
 
 ## 5.2 Master the Serve
 
+### Serving Stance and Posture
+
+Keep the back foot near the baseline, place the front foot about one foot inside your stance, and turn the body roughly 45 degrees toward the target area.
+
+### Power Generation
+
 The power of a serve comes from the legs. By pushing off the ground and rotating the waist, the force is transferred from the legs to the torso, which then drives the arm to swing. This power is further transmitted through the fingers to the paddle, ultimately whipping the ball with the full force of the body.
 
 Before striking the pickleball, the body should remain relaxed. At the moment of impact, the fingers grip the paddle firmly, and after hitting the ball, the follow-through ensures that the body's power is released in a controlled and stable manner. Additionally, footwork and shifting body weight forward can be used to enhance the power of the serve.
+
+### Serve Types and Strategy
 
 Since pickleballs have a smooth surface, the serve should primarily focus on striking the ball while incorporating a moderate amount of spin. Players should at least master topspin serves and flat (non-spinning) serves.
 
@@ -56,8 +64,33 @@ The key to returning the ball is to try to make it difficult for the opponent to
 
 The return can use a hitting action, or a slicing action. When you want to have more time to run to the net, you can return the ball high and let it fall to the opponent's backcourt.
 
-## 5.5 Training Methods
+## 5.5 Common Mistakes and Corrections
 
-The serve and return skill can be trained with multiple balls practice. Try to continuously return the ball to the designated area. Practice no less than 10 groups with 50 balls per group every day.
+| Common Mistake | Cause | Correction |
+|---|---|---|
+| Rushing the swing | The body has not fully loaded before contact | Let the lower body start the motion and swing only after turning toward the target |
+| Standing too close to the line | Momentum makes balance and control worse | Keep a stable serving stance with clear space behind the baseline |
+| Netted or long serves | Power control or paddle angle is inconsistent | Prioritize consistency first, then move the target deeper over time |
+| Slow return reaction | Positioning is too deep or attention is late | Stand about one step behind the baseline and track the server's arm carefully |
+| Not moving forward after the return | Hesitation gives away the net | Start moving to the kitchen line as soon as the return leaves the paddle |
 
-After you are proficient, you can practice serving different spins with the same movement, and returning the ball of different spins.
+## 5.6 Training Methods
+
+### Beginner
+
+* Serve to the target area: 20 successful balls in a row x 3 sets
+* Large target zone inside the diagonal service court
+
+### Intermediate
+
+* Serve to the target area: 30 successful balls in a row x 5 sets
+* Aim near the baseline with no more than 0.5 meter error
+* Master 2 serve types: topspin and flat
+
+### Advanced
+
+* Serve to the target area: 50 successful balls in a row x 10 sets
+* Aim close to the baseline with controlled pace and spin changes
+* Master 3 serve types: topspin, flat, and backspin
+
+After you are proficient, practice serving different spins with the same motion and returning serves with different spins.

@@ -56,17 +56,37 @@ It is important to keep all parts of the body (especially the arms and fingers) 
 
 In situations such as dink or volley, you do not need to use the motions from legs or body, but the principle is the same. You still need to generate the power by tightening your fingers, and the power comes from the body.
 
-## 3.4 Daily Trainings
+## 3.4 Common Mistakes and Corrections
 
-Here are some training exercises aimed at enhancing your hitting ability:
+* **Grip too tight**: A tense palm and forearm reduce touch and can lead to strain. Correction: Keep the grip relaxed in ready position and tighten only at contact.
+* **Wrong paddle face angle**: A paddle face that is too closed sends the ball low; too open sends it high. Correction: Track the bounce and adjust the paddle face to the shot.
+* **Using only the arm**: Ignoring the legs and torso leads to weak, tiring strokes. Correction: Start from the ground and let the force travel upward.
+* **Poor contact height**: Contact that is too low or too high makes the shot unstable. Correction: Move earlier and try to meet the ball around waist height when possible.
+* **No follow-through**: Stopping right after contact reduces power transfer. Correction: Let the arm continue naturally in the ball's direction.
 
-* Waist turning exercise: 20 reps per set, 3 sets per day. This exercise is meant to build leg and waist strength to better utilize the power source of ball sports. It is recommended to gradually increase the frequency and number of sets of this exercise, but be sure to exercise in moderation to avoid excessive fatigue or injury.
-* Bouncing balls to improve finger strength: 100 reps each of forehand, backhand, and forehand-backhand. Bouncing ball is an effective way to improve hand coordination and finger strength. It is recommended to gradually increase the number of bouncing repetitions and difficulty, such as using different rhythms and speeds.
-* Forehand/Backhand multi-ball hitting training: 20 reps per set, 3 sets per day. This type of exercise can improve the strength and coordination of your arms and shoulders, as well as your ability to control the ball.
+## 3.5 Training Methods
+
+### Beginner
+
+* Ground push and waist rotation: 20 reps x 3 sets
+* Ball bouncing (forehand, backhand, alternating): 50 reps x 3 sets
+* Light wall hitting: 1 minute x 2 sets
+
+### Intermediate
+
+* Ground push and waist rotation swings: 30 reps x 5 sets
+* Ball bouncing with rhythm changes: 100 reps x 3 sets
+* Forehand/backhand multi-ball hitting: 30 reps x 5 sets
+
+### Advanced
+
+* Explosive ground push and waist rotation swings: 50 reps x 10 sets
+* Ball bouncing with speed and placement changes: 150 reps x 4 sets
+* Multi-ball hitting with footwork movement: 50 reps x 10 sets
 
 These exercises require long-term training to achieve significant results, and it is important to protect your body and take adequate rest to avoid pain or injury caused by excessive fatigue or incorrect training postures.
 
-## 3.5 Footwork Awareness: Get in Position Before You Hit
+## 3.6 Footwork Awareness: Get in Position Before You Hit
 
 Before diving into the various stroke techniques in the following chapters, there is one core principle to internalize: **move into position first, then execute the stroke**.
 

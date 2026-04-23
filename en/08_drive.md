@@ -38,7 +38,17 @@ In doubles, the Drive can generally target the space between players, or the gap
 
 In singles, the Drive should mainly aim at the opponent's defense gap, and the gesture should be as small as possible, in order to prevent the opponent from predicting easily.
 
-## 8.4 Training Methods
+## 8.4 Common Mistakes and Corrections
+
+| Common Mistake | Symptom | Correction |
+|---|---|---|
+| Ball travels too high over the net | Opponent gets an easy block or volley | Contact near the top of the bounce and finish through a lower trajectory |
+| No body rotation | The shot relies only on the arm and loses power | Build the full chain from legs to torso to arm |
+| Poor spacing | Balance is unstable at contact | Set up slightly behind and to the side of the ball before swinging |
+| Eyes not tracking the ball | Contact drifts away from the sweet spot | Follow the bounce closely and strike near the top |
+| Contact is too late | Power transfer is weak and timing collapses | Prepare earlier and meet the ball before it starts to drop |
+
+## 8.5 Training Methods
 
 The Drive can be trained through the following steps:
 
@@ -50,4 +60,3 @@ The Drive can be trained through the following steps:
 * **Power gradient drill**: Hit to the same target at 50%, 70%, and 90% power. Feel the difference in ball control at varying intensities—develop the ability to dial power up and down at will.
 * **Drive and follow**: After hitting a baseline drive, immediately advance 2-3 steps toward the net, simulating the match rhythm of driving then approaching.
 * **Competitive baseline rally**: Two players rally drives from the baseline. One attacks, the other defends. Switch roles every 5 balls. The defender focuses on resetting fast drives into drops or lobs.
-

@@ -73,7 +73,16 @@ Pay attention to kicking the ground directly when turning around, and do not ste
 
 ![Foot at Non-paddle Side Touches the NVZ when Jumping to Attack Lob](../_images/foot-fault.jpg)
 
-## 11.6 Training Methods
+## 11.6 Common Mistakes and Corrections
+
+| Common Mistake | Cause | Correction |
+|---|---|---|
+| Lob lands out | Trajectory is too flat or the swing is too strong | Add more height and reduce force |
+| Lob gets smashed | The ball does not clear the opponent's reach | Raise the arc so it travels safely over the opponent |
+| No net recovery after the lob | The player stays back or hesitates | Move forward right after the lob and prepare for the next ball |
+| Lob drops into the NVZ | Distance control is too short | Focus on sending the ball close to the baseline |
+
+## 11.7 Training Methods
 
 Lobing the ball and its defense can be trained in following ways:
 

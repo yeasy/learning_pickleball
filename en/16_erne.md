@@ -48,7 +48,16 @@ Erne attacks are fast with tricky angles, making them difficult to defend. Effec
 
 An Erne involves jumping over the NVZ from the side to intercept, with the attacker typically at the net; an ATP involves hitting around the net post from off-court, with the attacker at the court's edge. Erne defense focuses on "don't give high balls" and "change dink placement early"; ATP defense focuses on "quickly moving to cover the open space."
 
-## 16.5 Training Method
+## 16.5 Common Mistakes and Corrections
+
+| Common Mistake | Cause | Correction |
+|---|---|---|
+| Touching the NVZ on the Erne | Landing order or balance is wrong | Land with the outside foot sequence that keeps your momentum away from the NVZ |
+| Erne shot goes out | Force is too large or paddle angle is off | Keep the paddle face stable and focus on direction before pace |
+| Erne attack gets blocked | The move is not sudden enough or the ball is hit too high | Jump decisively and target the feet or middle gap |
+| Erne defense is late | The opponent's setup is not recognized early | Watch for side movement and stay ready to shift along the line |
+
+## 16.6 Training Methods
 
 * Multi-ball practice: one player stands in the non-volley area and repeatedly gives volleys. Another player practices defense;
 * Interactive practice: Both sides simulate the game scene, practice hitting and defending Erne shots.
