@@ -28,7 +28,19 @@ When you are at the middle court or back court and the opponent side is waiting 
 
 For example, advanced players often use drop in the third shot, in order to transit to the near net rallies from the back court.
 
-## 7.3 The Drip Shot
+## 7.3 Master Drop
+
+When executing a drop shot, it is important to avoid returning the ball too far or too high, as this could allow the opponent to intercept or continuously return deep shots.
+
+Compared to a dink shot, the contact point for a drop shot is farther in front, with more forward force applied. The arm swing should be a low-to-high motion with a fixed wrist, ensuring maximum ball contact and using the arm to control direction. At the moment of touching the ball, the body should be in a stable position to prevent balance issues that could lead to shaky shots. After hitting the ball, the body naturally moves forward, preparing to follow up at the net.
+
+To avoid hitting the ball into the net, the highest point of its trajectory should be near the top of the net.
+
+![Third-Shot Drop Example](../_images/third-shot-drop.jpg)
+
+If the quality of the drop shot is not high, do not rush forward. Instead, stay in the mid-to-backcourt, prepared to return the next shot.
+
+## 7.4 The Drip Shot
 
 The Drip is an intermediate technique between the drive and the drop, becoming increasingly common in professional play.
 
@@ -55,17 +67,17 @@ Key points for executing a quality drip shot:
 
 The main difference between a drip and a drop is speed and aggression. A drop is more defensive, aiming for safe transition to the net; a drip combines transition with offense, directly creating difficulty for the opponent's return.
 
-## 7.4 Master Drop
+## 7.5 Common Mistakes and Corrections
 
-When executing a drop shot, it is important to avoid returning the ball too far or too high, as this could allow the opponent to intercept or continuously return deep shots.
+| Common Mistake | Symptom | Correction |
+|---|---|---|
+| Contact too high or too low | The ball sits up or falls into the net | Contact the ball in front of the body at a comfortable height below the shoulder |
+| Swing too small | The ball does not reach the front half of the NVZ | Use a fuller low-to-high motion and the full arm length |
+| Rushing to the net | A weak drop gets attacked immediately | Move forward only after confirming the drop quality is good enough |
+| Unstable balance | Placement and speed fluctuate | Set the feet, keep the upper body steady, and avoid leaning forward |
+| Wrist flipping | The launch angle becomes hard to control | Keep the wrist firm and drive the motion with the arm and shoulder |
 
-Compared to a dink shot, the contact point for a drop shot is farther in front, with more forward force applied. The arm swing should be a low-to-high motion with a fixed wrist, ensuring maximum ball contact and using the arm to control direction. At the moment of touching the ball, the body should be in a stable position to prevent balance issues that could lead to shaky shots. After hitting the ball, the body naturally moves forward, preparing to follow up at the net.
-
-To avoid hitting the ball into the net, the highest point of its trajectory should be near the top of the net.
-
-If the quality of the drop shot is not high, do not rush forward. Instead, stay in the mid-to-backcourt, prepared to return the next shot.
-
-## 7.5 Training Methods
+## 7.6 Training Methods
 
 First practice defensive non-spin Drop, and then practice Drop with spins. Pay attention to run to the net with the ball.
 
