@@ -6,12 +6,6 @@ It not only requires the player's running ability and hitting skills, but also d
 
 > **Related technique chapters**: [Serve](05_serve.md), [Dink](06_dink.md), [Drop](07_drop.md), [Drive](08_drive.md), [Volley](09_volley.md), [Lob](11_lob.md), [Footwork](12_footwork.md)
 
-## Singles vs. Doubles: The Essential Difference
-
-* **Court coverage**: In singles, one player must defend the full 20x44 foot court, so movement range and frequency are much higher.
-* **Physical demand**: Singles requires more long-distance movement and repeated direction changes than doubles.
-* **Net strategy**: Unlike doubles, singles does not always require rushing forward immediately; many points are built through deep shots and court positioning first.
-
 ## 17.1 Basic Process
 
 Suppose the two players are A and B. A is serving first.
@@ -36,7 +30,15 @@ In singles, the player needs to cover the whole court, it is generally necessary
 
 Once the player is suppressed to the backcourt, it is at a big disadvantage. At this situation, if the player returns the ball too high, the opponent can volley the ball to earn the score.
 
-## 17.2 Serving Strategies
+## 17.2 Key Points
+
+The key to a singles match is to control the rhythm, so try to let the opponent move as much as possible, while you try to maintain a stable position. In addition, you should go to the net as quickly as possible when you have the opportunity, while pushing the opponent to stay at the backcourt.
+
+* Defense at the net: After receiving the serve, you must go to the net as soon as possible to block the opponent's 3rd shot. Pay attention to defending wide-angle placement on both sides;
+* Control the placement: It’s very important to accurately control the placement of the ball. Any drive must pass the opponent's interception area in front of the net, otherwise it is easy to be blocked;
+* Use angles: Use more angles when attacking, such as the backhand position. At the same time, mobilize the opponent to run first, and be careful to avoid returning the ball too long and going out of bounds.
+
+## 17.3 Serving Strategies
 
 Singles serving carries more tactical significance than doubles, directly affecting third shot advantage.
 
@@ -52,11 +54,9 @@ Singles serving carries more tactical significance than doubles, directly affect
 * **Fast Forehand**: Occasionally serve fast to forehand side to test opponent's reaction;
 * **Center Serve**: Makes opponent's positioning awkward, difficult to hit wide-angle returns.
 
-## 17.3 Third Shot Decision
+## 17.4 Third Shot Decision
 
-The third shot in singles is the key turning point. The decision should consider the ball's height, depth, and speed at the same time.
-
-### Third Shot Decision Framework
+The third shot in singles is the most critical turning point, requiring quick and accurate decisions.
 
 | Opponent's Return Position | Suggested Third Shot | Reason |
 |---------------------------|---------------------|--------|
@@ -65,13 +65,7 @@ The third shot in singles is the key turning point. The decision should consider
 | Very deep (baseline) | Lob or drive | Buy yourself time |
 | Wide angle | Return to center | Limit opponent's angles |
 
-### Applying the Core Techniques in Singles
-
-* **Drop**: Use it for a stable transition, ideally landing the ball close to the NVZ.
-* **Drive**: Use it when you get an attacking ball and can pressure the opponent's feet or corners.
-* **Lob**: Use it when you are under pressure or need more time to recover position.
-
-## 17.4 Energy Management
+## 17.5 Energy Management
 
 Singles demands extremely high fitness levels. Proper energy distribution is key to winning.
 
@@ -80,13 +74,7 @@ Singles demands extremely high fitness levels. Proper energy distribution is key
 * **When Defensive**: Use lobs to buy recovery time;
 * **When Offensive**: Continuous pressure, but avoid errors from rushing.
 
-**Watch for opponent fatigue signs:**
-
-* **Slower movement**: shorter steps and delayed reactions;
-* **Lower shot quality**: higher balls and longer misses;
-* **Broken rhythm**: unstable breathing and disrupted tempo.
-
-## 17.5 Mental Game
+## 17.6 Mental Game
 
 Singles is a one-on-one psychological battle:
 
@@ -94,11 +82,3 @@ Singles is a one-on-one psychological battle:
 * **Read Opponent**: Observe opponent's positioning and body weight to anticipate next shot;
 * **Control Rhythm**: Maintain pressure when ahead, slow down when behind;
 * **Use Timeouts**: Use timeouts at critical moments to adjust state and strategy.
-
-## 17.6 Key Points
-
-The key to singles is rhythm control, so try to move the opponent as much as possible while keeping your own position stable. Whenever the opportunity is right, move forward aggressively and keep the opponent pinned in the backcourt.
-
-* **Defense at the net**: After the return, move forward quickly and be ready to protect both wide angles.
-* **Control placement**: Drives need to clear the opponent's interception area and land with purpose, otherwise they are easy to block.
-* **Use angles**: Attack more often to the backhand side or other open space, but do not rush into overhitting.

@@ -36,16 +36,7 @@ Key points include:
 * Try to volley to intercept, and adjust the surface of the paddle according to the height of the incoming ball. Especially when the opponent's incoming ball is low, take the initiative to hit the ball by chopping the ball, but don't let the ball pass the net too high;
 * The first return target is the gap by the opponent's player to run off the court, and try to hit the ball to the backcourt. If it is observed that his teammates have the intention to run to the position, then can consider hitting the other side.
 
-## 15.5 Common Mistakes and Corrections
-
-| Common Mistake | Cause | Correction |
-|---|---|---|
-| ATP balls often go out | Contact is too high or too forceful | Wait longer, contact lower, and prioritize trajectory control |
-| ATP gets blocked easily | The ball travels too high after passing the post | Keep the contact point low and drive a flatter path |
-| Slow ATP defense | The intention is read too late or the position is wrong | Watch the opponent outside the court and shift early toward the sideline |
-| Preventive positioning fails | The previous shot leaves too much angle | Dink more to the middle or closer to the opponent and lower the net clearance |
-
-## 15.6 Training Methods
+## 15.5 Training Method
 
 * Multi-ball practice: One player stands on the sidelines and repeatedly practice hitting the ATP. Another player practices defense;
 * Interactive practice: Both sides simulate the game scene, practice hitting and defending ATP shots.

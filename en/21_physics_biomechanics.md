@@ -8,8 +8,6 @@ Understanding the physics and biomechanical principles underlying pickleball tec
 
 The foundation of all paddle movement is the effective transfer of body power to the ball. This process involves a "kinetic chain," beginning with the ground push, progressing through the legs, trunk, shoulders, and arms, and ultimately transmitting to the paddle and ball.
 
-![Pickleball Kinetic Chain](../_images/kinetic-chain.jpg)
-
 **Stages of the kinetic chain:**
 
 1. **Foundation Stage (Ground Reaction Force)**
