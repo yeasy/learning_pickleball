@@ -100,16 +100,7 @@ A quick wrist "snap" that suddenly accelerates the ball, similar to a whip actio
 | Roll | Near tape | Medium | Medium | Heavy topspin | Medium |
 | Flick | Any | Small | Fastest | Medium | High |
 
-## 14.5 Common Mistakes and Corrections
-
-| Common Mistake | Cause | Correction |
-|---|---|---|
-| Attack flies out | Paddle face is too upright or force is excessive | Keep the paddle face level or slightly down and drive the ball just over the net |
-| Attack gets blocked easily | Contact is too high or the target is obvious | Prioritize the middle gap and backhand side with better disguise |
-| Defensive reaction is late | Position is too far back or balance is too high | Stay close to the NVZ line with weight ready on the front of the feet |
-| Too many mistakes in firefights | Rally control is lost and pace stays too high | Reset earlier and keep the reply below net height |
-
-## 14.6 Training Methods
+## 14.5 Training Method
 
 Training can be done as follows:
 
@@ -124,3 +115,4 @@ Fast hands are the core skill for net battles. Here are specialized drills:
 * **Reaction drill**: One player randomly sends fast balls to the other's left and right sides. The receiver volleys back to a designated area. 30 seconds per set, 15 seconds rest, 6-8 sets.
 * **Wall drill**: Practice continuous rapid volleys against a wall from 2-3 meters away. Target: 50 consecutive hits without error.
 * **Escalating Firefight**: Start with slow dinks, then both players increase speed by one level every 5 shots until one player can't maintain—trains hand stability at varying speeds.
+

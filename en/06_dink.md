@@ -105,17 +105,7 @@ When the opponent speeds up:
 *   **Counter-Attack**: If the ball is high/slow enough, slap it back.
 *   **Reset**: If the shot is good (fast/low), soft-block it back into the kitchen (drop volley) to neutralize the rally back to a dinking game.
 
-## 6.5 Common Mistakes and Corrections
-
-| Common Mistake | Symptom | Correction |
-|---|---|---|
-| Loose or flipping wrist | Ball direction changes and net clearance is unstable | Fix the wrist before contact and let the shoulder and arm guide the shot |
-| Oversized backswing | Slow reactions and too much lift over the net | Remove the backswing and use a short forward push |
-| Standing too far back | Late contact and weak control on higher bounces | Move closer to the NVZ line and contact the ball earlier |
-| Eyes leaving the ball | Contact quality and spin control drop | Keep tracking the ball through contact |
-| Unstable balance | Direction and pace vary from shot to shot | Stay low with a solid base and let the lower body support the touch |
-
-## 6.6 Training Methods
+## 6.5 Training Methods
 
 1.  **Wall Dinks**: Stand 7 feet from a wall. Volley or bounce-hit continuously to a target mark 34 inches high. Aim for 100 consecutive hits.
 2.  **Multi-Ball Drills**: Have a partner feed balls to your feet; practice lifting them gently into the NVZ target zones.
