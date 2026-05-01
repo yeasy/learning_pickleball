@@ -86,8 +86,7 @@ Tennis players transitioning to pickleball have several advantages:
 | Aspect | Similarity |
 |--------|-----------|
 | **Serving Style** | Both use underhand serving |
-| **Court** | Both courts are similar in size |
-| **Net Height** | Similar (Badminton: 17 ft net height of 17 in; Pickleball: similar) |
+| **Court** | Similar in size (Badminton doubles: 44×20 ft; Pickleball: 44×20 ft) |
 | **Speed Characteristic** | Relatively slow, emphasizing control |
 | **Net Play** | Both require fine manipulation at the net |
 
@@ -96,6 +95,7 @@ Tennis players transitioning to pickleball have several advantages:
 | Aspect | Badminton | Pickleball | Impact |
 |--------|-----------|-----------|--------|
 | **Ball Characteristics** | Light (2.6g), rapid deceleration | Light (22-26g), slower deceleration | Pickleball is better suited for longer-distance shots |
+| **Net Height** | High (5 ft / 152 cm at center) | Low (34 in / 86 cm at center) | Net-clearance strategy and ball arc differ entirely |
 | **Swing Amplitude** | Large, especially for attacks | Medium to small | Pickleball requires more refined control rather than large movements |
 | **Emphasis** | Power and high-point striking | Control and consistency | Pickleball matches are longer, requiring better endurance |
 | **No-Volley Zone** | None | Present (kitchen) | Pickleball adds tactical complexity |
