@@ -150,7 +150,7 @@ Finally, the **lack of training the IQ of playing**. Practicing hard may build u
 
 For amateur players whose basic skills are not solid enough, the problem that often occurs is that the hitting position is not correct, causing the ball to deviate from the expected point. Therefore, during the entire stroke, most of the eye's attention should be placed on the ball to ensure that the ball is hit on the sweet spot.
 
-For players of advanced level, they don't need to concentrate on the hitting position, and can pay more attention to controlling the entire situation of the. Specifically, when the opponent returns the ball, in addition to observing the flight path of the ball to predict the landing point, it is also necessary to observe the opponent's movement trend, judge the tactical intention, and calculate to choose the best way to return the ball. This process is dynamic and needs to be optimized and adjusted in a very short time. For the final shot moment, most of the attention should be on your opponent's stance.
+For players of advanced level, they don't need to concentrate on the hitting position, and can pay more attention to controlling the entire rally. Specifically, when the opponent returns the ball, in addition to observing the flight path of the ball to predict the landing point, it is also necessary to observe the opponent's movement trend, judge the tactical intention, and calculate to choose the best way to return the ball. This process is dynamic and needs to be optimized and adjusted in a very short time. For the final shot moment, most of the attention should be on your opponent's stance.
 
 ## 20.13 [Q12] Should my backhand be two-handed or one-handed?
 
