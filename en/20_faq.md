@@ -195,6 +195,8 @@ First, make sure your return is deep enough, as close to the baseline as possibl
 
 Level 2.5-3.0 should focus on training serving and returning; level 3.0-3.5 should learn volleying and defense; level 3.5-4.0 should begin to master the drop; level 4.0-4.5 should focus on improving the dink and volley in front of the net; level 4.5-5.0 requires the ability to attack and reset in the near net battle; level 5.0-5.5 requires mastering efficient footwork; level 5.5 and above requires a strong mentality, reading the game and being able to adjust strategies in the tournaments.
 
+As of 2026, tournament rules, scoring formats, and equipment certification are still evolving. Traditional side-out scoring remains the basis of standard pickleball, while rally scoring has been provisionally approved as an optional format. Before tournament play, confirm the event's scoring format, the current USA Pickleball approved paddle list, and the rating system being used, such as DUPR or UTPR.
+
 ## 20.18 [Q17] How to avoid injuries while playing pickleball?
 
 **Answer**: With the popularity of pickleball, related sports injuries have also increased, especially in joints such as knees, elbows, and wrists. To avoid sports injuries, you must **warm up before playing, relax after playing, standardize your movements, and play within your ability**. Before playing, you should fully warm up to improve joint lubrication; after playing, stretch and relax to restore muscle elasticity; in addition, you should learn the correct swing movements to reduce the risk of injury; finally, you should understand the limits of your body and do not exercise excessively or do movement that exceeds your physical limits.
@@ -213,6 +215,7 @@ Level 2.5-3.0 should focus on training serving and returning; level 3.0-3.5 shou
 * **Fitness training**: Use the court for shuttle runs, jump rope, and core exercises (see [Chapter 4](04_fitness.md)).
 * **Shadow swings**: Practice swing mechanics in front of a mirror or while recording video to check form.
 * **Ball machine**: If available, use a ball machine to practice returns at different speeds and angles.
+* **Video and AI-assisted review**: Record practice from a side-back angle with a phone or action camera, then review serves, third shots, net positioning, and unforced errors. AI pose-analysis tools can help identify rhythm and balance issues, but they do not replace live coaching.
 
 ## 20.21 [Q20] What should I watch out for when transitioning from tennis, badminton, or table tennis?
 
