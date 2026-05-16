@@ -24,7 +24,7 @@
 * **Half-Volley**: Hitting the ball immediately after it bounces, usually used in the dinking play.
 * **Hand Battle**: Synonym for Firefight, emphasizing the reaction speed competition.
 * **Inside Out**: Swing the paddle inwards, but face the paddle outwards to hit the ball outwards.
-* **Let**: A serve that touches the net but lands in the correct service area, in singles, this usually requires a re-serve.
+* **Let**: An old term for a serve that touched the net and was replayed. Under the 2026 USA Pickleball official rules, a served ball that touches the net and lands in the correct service court remains live; it is not replayed merely because it touched the net.
 * **Lob**: Hit the ball to let it fly high and land to the back court, usually near the baseline.
 * **Match Point**: The last point needed by one side to win the entire match.
 * **Mixed Doubles**: A doubles format with one male and one female player on each team.
