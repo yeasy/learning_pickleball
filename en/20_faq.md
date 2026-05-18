@@ -8,7 +8,7 @@ If the opponent's lob shot is of higher quality and not easily intercepted, one 
 
 Finally, when playing at the net, attention should be paid to the quality of the Dink. It is best to dink the ball with a wide angle, making it difficult for the opponent to return it comfortably, so that the opponent finds it difficult to hit a high-quality lob shot.
 
-## 20.2 [Q2] When the teammate hits the third shot in doubles, should I run forward or wait in the backcourt?
+## 20.2 [Q2] Third shot: move up or wait?
 
 **Answer**: There is no fixed answer to this question, it depends on the quality of your teammate’s third shot.
 
@@ -28,7 +28,7 @@ Human body strength comes from muscle contraction from relax status, and the dir
 
 Therefore, in order to generate effective force, the muscles must be tightened quickly from loosened, and the joints must be loosened first and then tightened. Of course, it requires a lot of scientific training to allow the body to become familiar with this process in a natural way.
 
-## 20.4 [Q4] Some players don't run too much, but they can move the opponents to run around. Why?
+## 20.4 [Q4] Why do some players move less but control opponents?
 
 **Answer**: It is often seen in the tournaments that some athletes do not seem to move very much, but can always return the ball comfortably; Some others are always running with lots of turning around, but lose a lot.
 
@@ -44,13 +44,13 @@ Lastly is the acceleration. Top athletes can control the tempo of the game. When
 
 To sum up, the most important thing is to be able to control the opponent's return path and the rhythm of the game, and these require solid skills and excellent physical quality.
 
-## 20.5 [Q5] It is often heard that pickleball has some features of tennis, badminton and table tennis. What are them?
+## 20.5 [Q5] How does pickleball combine other racquet sports?
 
 **Answer**: Sports are essentially similar with each other. Ball games are all about power (both explosive and stamina), speed, spin and placement. However, different sports differ in form and focus.
 
 Tennis has the highest requirements for strength, just like the broadsword, emphasizing wide opening and closing, and beating the opponents like breaking a bamboo; badminton has the highest requirements for speed and placement control, just like swordsmanship, pays attention to agility and elegance, and strikes back; table tennis has not only the quickest rhythm, but also the strongest rotation. Like a dagger, its shot is often unexpected and unpredictable; while the pickleball is like a nunchaku, both soft and firm, with the drive skills from tennis, the smash, lob and control from badminton, and the quick rhythm and dink from table tennis. It can be said that pickleball is based on tennis technique as its body, badminton technique as its spirit, and table tennis technique as its soul. It is easy to get started, but it takes hard work to master it.
 
-## 20.6 [Q6] What are the key differences between amateur players and professional players?
+## 20.6 [Q6] Amateur vs. professional players?
 
 **Answer**: There are several key differences.
 
@@ -96,7 +96,7 @@ In general, no paddle fits everyone. The following parameters can be considered 
 
 Top paddle brands in market include Franklin, Joola, Onix, Engage and Selkirk.
 
-## 20.8 [Q7.5] How much does paddle surface roughness affect spin?
+## 20.8 [Q8] How much does paddle roughness affect spin?
 
 **Answer**: Paddle surface roughness directly impacts spin generation capability and has become a critical factor in paddle selection since 2025.
 
@@ -106,7 +106,7 @@ Top paddle brands in market include Franklin, Joola, Onix, Engage and Selkirk.
 
 In recent years, high-roughness surface paddles have become increasingly popular among competitive players, and professional players also pay more attention to their spin potential. Note that some "ultra-spin" paddles may not comply with tournament regulations. Always confirm USA Pickleball certification before purchase.
 
-## 20.9 [Q8] How to deal with the ball between two players in doubles?
+## 20.9 [Q9] How to deal with the ball between two players in doubles?
 
 **Answer**: In doubles, there are often situations where two players rush to hit the ball in the middle position together, or let the other side deal with it, resulting in loss of points.
 
@@ -119,7 +119,7 @@ The handling of the middle-position ball requires players to negotiate the princ
 
 You can also use shouting to do a quick communication. For example, a more confident player can call out “Me” to return the ball.
 
-## 20.10 [Q9] I play pickleball 3 hours a day, why my skill does not improve a lot?
+## 20.10 [Q10] I play pickleball daily. Why am I not improving?
 
 **Answer**: The problem that amateur players often encounter is that they play every day, but their skills don't improve, and sometimes they even go backwards.
 
@@ -133,7 +133,7 @@ In addition, the **intensity of training is not properly arranged**. The essence
 
 Finally, the **lack of training the IQ of playing**. Practicing hard may build up a good strength and solid skills, but when to use what tricks, when to speed up, and when to slow down, these are the places for your IQ of playing. In addition to training, strengthening theoretical study must be taken to achieve a comprehensive improvement.
 
-## 20.11 [Q10] The ball should be hit to the gaps, but where are the gaps?
+## 20.11 [Q11] Where are the gaps?
 
 **Answer**: High-level athletes often force the opponent to make mistakes by returning the ball to the gap. Specifically, there are the following types of gaps.
 
@@ -144,7 +144,7 @@ Finally, the **lack of training the IQ of playing**. Practicing hard may build u
 * **Rhythm Gap**: This refers to the interval between the rhythms of returning the ball. For example, when the opponent intends to hit the ball, it does not come; but when they are not ready to hit, the ball suddenly arrives. Rhythm gaps can make it difficult for the opponent to return the ball consecutively, thereby increasing the likelihood of errors.
 * **Tactical Gap**: Refers to the area to move the opponents to achieve tactical goals. For example, return the ball to a position just out of reach of the opponent, or the opponent's return can be predicted easily, in order to create an attack opportunity.
 
-## 20.12 [Q11] Where should I look when hitting the ball?
+## 20.12 [Q12] Where should I look when hitting the ball?
 
 **Answer**: This question is very critical and needs to be analyzed in detail.
 
@@ -152,7 +152,7 @@ For amateur players whose basic skills are not solid enough, the problem that of
 
 For players of advanced level, they don't need to concentrate on the hitting position, and can pay more attention to controlling the entire rally. Specifically, when the opponent returns the ball, in addition to observing the flight path of the ball to predict the landing point, it is also necessary to observe the opponent's movement trend, judge the tactical intention, and calculate to choose the best way to return the ball. This process is dynamic and needs to be optimized and adjusted in a very short time. For the final shot moment, most of the attention should be on your opponent's stance.
 
-## 20.13 [Q12] Should my backhand be two-handed or one-handed?
+## 20.13 [Q13] Should my backhand be two-handed or one-handed?
 
 **Answer**: Whether it is a one-handed backhand (single backhand) or a two-handed backhand (double backhand), you can make high-quality returns. But both have their own pros and cons.
 
@@ -161,7 +161,7 @@ For players of advanced level, they don't need to concentrate on the hitting pos
 
 Players should choose an appropriate backhand according to their own preference. Usually, when to seek better power or stability, you can use double backhand. Otherwise, you can use single backhand to achieve better flexibility.
 
-## 20.14 [Q13] Why does the pickleball look slow but feels fast when played?
+## 20.14 [Q14] Why does pickleball look slow but feel fast?
 
 **Answer**: The speed of the pickle ball is usually only between 40\~60 km/h (i.e., 10\~16 m/s), much lower than that of badminton, tennis, and even table tennis. But in fact, when playing pickleball, you will find that the speed of the ball is very fast, and sometimes there is no time to react.
 
@@ -171,13 +171,13 @@ The distance of about 2 meters on both sides of the pickleball net is the non-vo
 
 In this extremely short 0.2 seconds, you need to judge the direction of the ball, move the position and swing the paddle, which is almost an impossible task for ordinary people. Therefore, although the speed of the pickleball is not high, the reaction time required is extremely short, making the game even more intense than tennis, comparable to the intensity of badminton.
 
-## 20.15 [Q14] How can I avoid being shot through by the opponent from the back court while I am defending near the net in singles?
+## 20.15 [Q15] How do I avoid getting passed at the net in singles?
 
 **Answer**: The key to avoid being penetrated by the opponent's ball is to improve the quality of your return.
 
 First, make sure your return is deep enough, as close to the baseline as possible. The deeper the return, the harder it will be for the opponent to hit the ball aggressively, and the slower the ball will travel to the net. Secondly, try to reduce the height of the returned ball as much as possible. The lower the ball is, the opponent needs to hit it upwards, and the harder it is to attack. In addition, if the consistency of the opponent's stroke is very good, e.g., he can use similar movements to hit the ball in a straight line and diagonally, then you can consider return the ball to the middle of the court, which can effectively limit the opponent's hitting angle scope. Finally, from a defensive point of view, if the quality of the opponent's ball is high and the ball is fast, you can consider slightly adjusting your position, such as standing half a step away from the non-volley area, to increase reaction time and the flexibility of handling of the ball.
 
-## 20.16 [Q15] Can you summarize the usage scenarios for various pickleball techniques?
+## 20.16 [Q16] When should I use each pickleball technique?
 
 **Answer**: Based on the player's positioning, pickleball techniques can generally be categorized into three types: front court, mid-court, and back court techniques.
 
@@ -187,7 +187,7 @@ First, make sure your return is deep enough, as close to the baseline as possibl
 
 **Back court** techniques are related to playing near the baseline and include serve and return, drive, back court drop, defense, etc. Back court play is the foundation of good pickleball play.
 
-## 20.17 [Q16] How to improve the pickleball skills at different levels?
+## 20.17 [Q17] How should players improve at different levels?
 
 **Answer**: Pickleball is a sport that pays great attention to skills and strategies. At different levels, players face different situations, and the key skills that need to be focused to train are different.
 
@@ -197,15 +197,15 @@ Level 2.5-3.0 should focus on training serving and returning; level 3.0-3.5 shou
 
 As of 2026, tournament rules, scoring formats, and equipment certification are still evolving. Traditional side-out scoring remains the basis of standard pickleball, while rally scoring has been provisionally approved as an optional format. Before tournament play, confirm the event's scoring format, the current USA Pickleball approved paddle list, and the rating system being used, such as DUPR or UTPR.
 
-## 20.18 [Q17] How to avoid injuries while playing pickleball?
+## 20.18 [Q18] How to avoid injuries while playing pickleball?
 
 **Answer**: With the popularity of pickleball, related sports injuries have also increased, especially in joints such as knees, elbows, and wrists. To avoid sports injuries, you must **warm up before playing, relax after playing, standardize your movements, and play within your ability**. Before playing, you should fully warm up to improve joint lubrication; after playing, stretch and relax to restore muscle elasticity; in addition, you should learn the correct swing movements to reduce the risk of injury; finally, you should understand the limits of your body and do not exercise excessively or do movement that exceeds your physical limits.
 
-## 20.19 [Q18] How do you return a fast, spin-heavy serve?
+## 20.19 [Q19] How do you return a fast, spin-heavy serve?
 
 **Answer**: If you encounter a high-quality serve that is both fast and has strong spin, it can easily lead to mistakes in receiving. To properly return such serves, first, find the right position to receive the ball. For fast serves, you need to leave enough space, which means positioning yourself a bit farther back, possibly one or two steps behind the baseline. Next, once the ball bounces, move actively towards the direction of the incoming ball to strike it, and grip your paddle tightly to control the direction of your return. Additionally, anticipate the direction the spin will cause the ball to deviate after it bounces; for example, a ball with sidespin might deviate to the left or right. Predict this shift early and adjust your position accordingly. Lastly, for high-quality serves, aim your return towards the center of the court as much as possible to minimize the risk of the ball going out.
 
-## 20.20 [Q19] How to practice effectively alone?
+## 20.20 [Q20] How to practice effectively alone?
 
 **Answer**: There are many effective drills you can do on your own.
 
@@ -217,7 +217,7 @@ As of 2026, tournament rules, scoring formats, and equipment certification are s
 * **Ball machine**: If available, use a ball machine to practice returns at different speeds and angles.
 * **Video and AI-assisted review**: Record practice from a side-back angle with a phone or action camera, then review serves, third shots, net positioning, and unforced errors. AI pose-analysis tools can help identify rhythm and balance issues, but they do not replace live coaching.
 
-## 20.21 [Q20] What should I watch out for when transitioning from tennis, badminton, or table tennis?
+## 20.21 [Q21] What changes when switching from another racquet sport?
 
 **Answer**: Transitioning from other racquet sports brings both advantages and adjustment needs.
 
@@ -227,7 +227,7 @@ As of 2026, tournament rules, scoring formats, and equipment certification are s
 
 Common note: The pickleball grip (continental grip) may differ from your previous sport (see [Chapter 3](03_hold_paddle.md)). Rebuilding muscle memory takes time.
 
-## 20.22 [Q21] How to use video analysis to improve technique?
+## 20.22 [Q22] How to use video analysis to improve technique?
 
 **Answer**: Video analysis is an effective tool for improvement at any level.
 
@@ -236,7 +236,7 @@ Common note: The pickleball grip (continental grip) may differ from your previou
 * **Comparative learning**: Find videos of slightly higher-level players and compare their technique with yours.
 * **Tools**: Use slow-motion playback to analyze key strokes frame by frame.
 
-## 20.23 [Q22] How to maintain paddles and equipment?
+## 20.23 [Q23] How to maintain paddles and equipment?
 
 **Answer**: Proper maintenance extends equipment lifespan and preserves performance.
 
@@ -244,7 +244,7 @@ Common note: The pickleball grip (continental grip) may differ from your previou
 * **Shoes**: Check sole wear regularly and replace when worn. Air dry after playing. Use separate shoes for indoor and outdoor courts.
 * **Pickleballs**: Indoor and outdoor balls differ — don't mix them. Replace balls with visible cracks or deformation. Balls become harder and more brittle in cold weather.
 
-## 20.24 [Q23] How to deal with windy conditions in outdoor play?
+## 20.24 [Q24] How to deal with windy conditions in outdoor play?
 
 **Answer**: Wind is the biggest environmental challenge for outdoor play.
 
@@ -254,7 +254,7 @@ Common note: The pickleball grip (continental grip) may differ from your previou
 * **Serve adjustments**: Lower the toss in strong wind. Reduce power downwind; increase power upwind.
 * **General strategy**: Use low, flat shots to minimize wind impact on trajectory. Stay patient — wind affects both sides equally.
 
-## 20.25 [Q24] How to find practice partners and local communities?
+## 20.25 [Q25] How to find practice partners and local communities?
 
 **Answer**: Finding the right practice partners and community is important for improvement and enjoyment.
 
@@ -265,7 +265,7 @@ Common note: The pickleball grip (continental grip) may differ from your previou
 * **Partner selection**: Ideal practice partners are slightly above your level (about half a level higher). Also practice with equal-level players to consolidate technique.
 * **Tournaments**: Joining local small tournaments or club leagues is the fastest way to expand your player network.
 
-## 20.26 [Q25] Is muscle soreness after playing normal?
+## 20.26 [Q26] Is muscle soreness after playing normal?
 
 **Answer**: Delayed-onset muscle soreness (DOMS) is normal to a degree, especially after increasing training intensity or trying new movements.
 
@@ -274,7 +274,7 @@ Common note: The pickleball grip (continental grip) may differ from your previou
 * **Warning signs**: If pain is severe, lasts more than 5 days, involves swelling or limited range of motion, or is concentrated in joints (not muscles), seek medical attention. See [Chapter 4](04_fitness.md).
 * **Prevention**: Gradually increase training volume, warm up and cool down thoroughly, and maintain regular training frequency.
 
-## 20.27 [Q26] How to manage nervousness during matches?
+## 20.27 [Q27] How to manage nervousness during matches?
 
 **Answer**: Match nervousness is a normal physiological response, and moderate anxiety can actually enhance focus. The key is learning to manage it.
 

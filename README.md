@@ -3,7 +3,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/yeasy/learning_pickleball.svg?style=social&label=Star)](https://github.com/yeasy/learning_pickleball)
 [![GitHub release](https://img.shields.io/github/release/yeasy/learning_pickleball.svg)](https://github.com/yeasy/learning_pickleball/releases)
 [![PDF](https://img.shields.io/badge/PDF-下载-orange)](https://github.com/yeasy/learning_pickleball/releases/latest)
-[![License](https://img.shields.io/github/license/yeasy/learning_pickleball)](LICENSE)
+[![License](https://img.shields.io/badge/license-custom-blue)](LICENSE)
 
 <p align="center">
   <img src="_images/cover.jpg" alt="Learning Pickleball" width="300">
@@ -31,8 +31,8 @@ When reading on GitBook, you can seamlessly switch between English and Chinese b
 
 ## Download PDF | 下载 PDF
 
-PDF versions are available at [GitHub Releases](https://github.com/yeasy/learning_pickleball/releases/latest) for offline reading.
-PDF 版本可在 [GitHub Releases](https://github.com/yeasy/learning_pickleball/releases/latest) 下载以供离线阅读。
+Formal release PDFs are available at [GitHub Releases](https://github.com/yeasy/learning_pickleball/releases/latest) for offline reading.
+正式发布版 PDF 可在 [GitHub Releases](https://github.com/yeasy/learning_pickleball/releases/latest) 下载以供离线阅读。
 
 Latest preview PDFs are updated from the default branch:
 [learning_pickleball-cn.pdf](https://github.com/yeasy/learning_pickleball/releases/download/preview-pdf/learning_pickleball-cn.pdf) |
