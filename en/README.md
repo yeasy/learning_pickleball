@@ -4,7 +4,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/yeasy/learning_pickleball.svg?style=social&label=Star)](https://github.com/yeasy/learning_pickleball)
 [![GitHub release](https://img.shields.io/github/release/yeasy/learning_pickleball.svg)](https://github.com/yeasy/learning_pickleball/releases)
-[![License](https://img.shields.io/github/license/yeasy/learning_pickleball)](../LICENSE)
+[![License](https://img.shields.io/badge/license-custom-blue)](../LICENSE)
 
 <p align="center">
   <img src="../_images/cover.jpg" alt="Learning Pickleball" width="400">
@@ -49,7 +49,7 @@ This book covers systematic training for pickleball:
 *   **Strategy**: Singles and Doubles strategies.
 *   **Resources**: [Key Tips](19_key_tips.md) & [FAQ](20_faq.md).
 
-*Note: For official rules, please refer to [USA Pickleball Rules](https://usapickleball.org/what-is-pickleball/official-rules/).*
+*Note: For official rules, please refer to [USA Pickleball Official Rules](https://usapickleball.org/rules/).*
 
 ## License & Authorization
 

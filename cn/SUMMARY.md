@@ -1,6 +1,6 @@
 # 学打匹克球
 
-* [简介](README.md)
+* [学打匹克球](README.md)
 * [第 1 章 - 背景知识](01_background.md)
 * [第 2 章 - 学习路径](02_learning_pathways.md)
 * [第 3 章 - 持拍与击球发力](03_hold_paddle.md)
@@ -22,9 +22,9 @@
 * [第 19 章 - 要点总结](19_key_tips.md)
 * [第 20 章 - 常见问题](20_faq.md)
 * [第 21 章 - 匹克球背后的科学原理](21_physics_biomechanics.md)
-* [附录一 - 参考资料](appendix.md)
-* [附录二 - 匹克球之道](appendix_tao.md)
-* [附录三 - 匹克球九阴真经](appendix_secret.md)
-* [附录四 - 匹克球术语](appendix_terminologies.md)
-* [附录五 - 球类运动对比](appendix_comparison.md)
-* [附录六 - 装备选购指南](appendix_equipment.md)
+* [附录一 参考资料](appendix.md)
+* [附录二 匹克球之道](appendix_tao.md)
+* [附录三 匹克球九阴真经](appendix_secret.md)
+* [附录四 匹克球术语](appendix_terminologies.md)
+* [附录五 球类运动对比](appendix_comparison.md)
+* [附录六 装备选购指南](appendix_equipment.md)

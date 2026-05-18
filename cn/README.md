@@ -4,7 +4,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/yeasy/learning_pickleball.svg?style=social&label=Star)](https://github.com/yeasy/learning_pickleball)
 [![GitHub release](https://img.shields.io/github/release/yeasy/learning_pickleball.svg)](https://github.com/yeasy/learning_pickleball/releases)
-[![License](https://img.shields.io/github/license/yeasy/learning_pickleball)](../LICENSE)
+[![License](https://img.shields.io/badge/license-custom-blue)](../LICENSE)
 
 <p align="center">
   <img src="../_images/cover.jpg" alt="Learning Pickleball" width="400">
@@ -49,7 +49,7 @@ mdpress serve cn/
 *   **比赛策略**: 单打与双打策略。
 *   **资源合集**: [要点总结](19_key_tips.md) & [常见问题](20_faq.md).
 
-*注：具体比赛规则请参考 [官方手册](https://usapickleball.org/what-is-pickleball/official-rules/)。*
+*注：具体比赛规则请参考 [USA Pickleball 官方规则](https://usapickleball.org/rules/)。*
 
 ## 授权与版权
 

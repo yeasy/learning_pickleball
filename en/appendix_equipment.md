@@ -2,12 +2,12 @@
 
 Choosing appropriate equipment is an important factor in improving your pickleball experience and performance. However, the market offers many types of pickleball equipment at widely varying prices, which confuses many players. This chapter provides practical equipment selection guidance to help players make optimal choices within different budgets and needs.
 
-> **Important Note**: Starting January 2025, USA Pickleball implemented new paddle certification standards. Always verify that a paddle is certified before purchasing. Key changes include:
-> - **PBCoR Test** (Paddle/Ball Coefficient of Restitution): Limits paddle elasticity output to prevent excessive ball speed. Non-compliant paddles were decertified as of July 1, 2025.
-> - **Surface Roughness Limit**: Average roughness must not exceed 40 micrometers, limiting extreme spin generation.
-> - **Deflection Test**: Paddle surface deflection must not exceed 0.005 inches under 3kg of pressure, preventing "trampoline effect."
-> 
-> Check [USA Pickleball Equipment](https://equipment.usapickleball.org/) to verify paddle certification status before purchasing.
+> **Important Note**: USA Pickleball rules and approved-equipment lists change over time. This chapter is buying guidance, not a tournament eligibility guarantee. Before purchasing or competing, check the latest [official rules](https://usapickleball.org/rules/), [equipment standards](https://equipment.usapickleball.org/docs/Equipment-Standards-Manual.pdf), and [approved equipment lists](https://equipment.usapickleball.org/).
+>
+> Recent equipment-certification focus areas include:
+> - **PBCoR Test** (Paddle/Ball Coefficient of Restitution): Limits paddle elasticity output to prevent excessive ball speed. Paddles that no longer meet certification conditions may be decertified.
+> - **Surface roughness and friction limits**: Official equipment standards control extreme spin generation.
+> - **Lifecycle compliance**: Production paddles must continue to meet certification conditions and must not create a prohibited "trampoline effect."
 
 ## A6.1 Paddle Selection Decision Matrix
 
@@ -106,7 +106,7 @@ Core and surface materials determine paddle feel, durability, and performance.
    - Price: $200-450
    - Best for: Intermediate to advanced players seeking consistency and comfort; increasingly popular among progressing beginners
    - Notable products: CRBN TruFoam Genesis (first mass-produced foam core), Selkirk Boomstik (BoomCore technology), JOOLA Perseus Pro IV (high-density foam ring design), Ronbus series, etc.
-   - Note: Pay special attention to Gen-4 paddle certification status—some early models did not pass the 2025 PBCoR standards
+   - Note: Pay special attention to Gen-4 paddle certification status; rely on the current USA Pickleball approved list
 
 **Surface Materials:**
 
@@ -216,7 +216,7 @@ Different pickleball types suit different scenarios. Understanding ball characte
 - Onix Fuse G2: Successor to the Onix Pure 2, stable flight, affordable
 
 **Intermediate to Advanced:**
-- Franklin X-26 (Indoor): Excellent flight stability and durability, USAPA certified
+- Franklin X-26 (Indoor): Excellent flight stability and durability; check the USA Pickleball approved ball list before purchasing or competing
 - Gamma Photon Indoor: Lightweight and soft, consistent indoor bounce, great for competitive training
 
 ### Outdoor Ball Recommendations
