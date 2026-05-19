@@ -2,7 +2,7 @@
 
 ## 16.1 What is Erne
 
-According to the rules, players cannot touch the non-volley zone before and after a volley shot. However, players may jump over the non-volley zone instead. This kind of volley over the non-volley area is Erne, which is common in professional tournaments.
+Players may enter the non-volley zone to hit a ball after it bounces. The restriction applies to volleying: during the act of volleying, and during any momentum caused by that volley, the player may not touch the non-volley zone. After entering the non-volley zone, both feet must re-establish completely outside the zone before the player volleys. An Erne uses that rule boundary by jumping from outside the non-volley zone, or moving around the sideline, to volley over the zone without touching it. This shot is common in professional tournaments.
 
 ## 16.2 When to Use
 
