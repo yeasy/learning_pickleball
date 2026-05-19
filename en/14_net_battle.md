@@ -115,4 +115,3 @@ Fast hands are the core skill for net battles. Here are specialized drills:
 * **Reaction drill**: One player randomly sends fast balls to the other's left and right sides. The receiver volleys back to a designated area. 30 seconds per set, 15 seconds rest, 6-8 sets.
 * **Wall drill**: Practice continuous rapid volleys against a wall from 2-3 meters away. Target: 50 consecutive hits without error.
 * **Escalating Firefight**: Start with slow dinks, then both players increase speed by one level every 5 shots until one player can't maintain—trains hand stability at varying speeds.
-
