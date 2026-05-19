@@ -56,7 +56,7 @@ The paddle of the Pickleball is like a large table tennis paddle without rubber,
 
 The pickleball field measures 44x20 feet and the net is 34 inches high in the middle and 36 inches high on the side. At least 10 feet (approximately 3 meters) of distance should remain after the baseline, and at least 7 feet of distance should be remained from the sideline. The line width is 2 inches. For indoor courts, there must be at least 20 feet (approximately 6.1 meters) height from the ceiling.
 
-The ground area within 7 feet (approximately 2.13 meters) on both sides of the net is called the "Non-Volley Zone (NVZ)" or "Kitchen (Kitchen)". Before, during and after the volley, no part of the player's body (including the paddle and accessories) may touch the Non-Volley Zone.
+The ground area within 7 feet (approximately 2.13 meters) on both sides of the net is called the "Non-Volley Zone (NVZ)" or "Kitchen". Players may enter the NVZ to play a ball that has bounced. The restriction applies to volleying: a player, or anything in contact with the player, may not contact the NVZ during the act of volleying, and after entering the NVZ both feet must re-establish completely outside the zone before the player volleys.
 
 A pickleball court is the same size as a badminton court. Therefore, it is very convenient to raise the net to play badminton and lower it to play pickleball in the same field.
 
@@ -64,7 +64,7 @@ A pickleball court is the same size as a badminton court. Therefore, it is very 
 
 Pickleball scoring is similar to the old rules in badminton, and only the serving team can score points if they win their round.
 
-Taking doubles as an example, each game has 11 points, and each player on the serving side has one chance to serve (In total two chances for each side). After serving, the opponent receives the serve and returns, and the serving party hits the ball to the opposite side. From the fourth shot,  players can either hit groundstroke or volley the ball that has not landed. If the serving team scores in this round, then switch sides with teammates and continue serving, otherwise the teammate will continue to serve. Only serving team can score points if they win the round, and the receiving team will not get points even win.
+Taking doubles as an example, each game is usually played to 11 points, and in a normal service rotation each player on the serving side has one chance to serve. The exception is the first service rotation of a game: the starting team has only one server before the first side out. After the serve, the receiver must let the ball bounce before returning it, and the serving team must also let the return bounce before playing the third shot. From the fourth shot on, players can either hit after a bounce or volley the ball before it lands. If the serving team wins the rally, they score, switch sides with their partner, and continue serving; if they lose the rally, service moves to the partner or, after the second server loses, to the other team.
 
 **Note: Evolution of Scoring Rules**
 
