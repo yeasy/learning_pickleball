@@ -50,4 +50,3 @@ The Drive can be trained through the following steps:
 * **Power gradient drill**: Hit to the same target at 50%, 70%, and 90% power. Feel the difference in ball control at varying intensities—develop the ability to dial power up and down at will.
 * **Drive and follow**: After hitting a baseline drive, immediately advance 2-3 steps toward the net, simulating the match rhythm of driving then approaching.
 * **Competitive baseline rally**: Two players rally drives from the baseline. One attacks, the other defends. Switch roles every 5 balls. The defender focuses on resetting fast drives into drops or lobs.
-
