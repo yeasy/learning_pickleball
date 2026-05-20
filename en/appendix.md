@@ -79,6 +79,9 @@ As pickleball evolves, rules continue to be refined. The summary below is based 
 1.  **Partner Disagreement Rule**: In doubles, if partners disagree on a line call (one calls "out", the other "in" or unsure), the ball must be ruled **IN**, and the rally cannot be replayed.
 2.  **Dropped Ball Fault**: If an extra ball carried by a player falls onto the court during a rally, it is an immediate **Fault**, rather than a replay.
 3.  **Volley Serve Clarification**: The volley serve must have a visibly clear upward arc. Failure to demonstrate this upward motion is a violation.
+4.  **Wheelchair Two-Bounce Allowance**: A wheelchair player may let the ball bounce twice before returning it; the second bounce may be anywhere on the playing surface, and failure to return before a third bounce is a fault.
+5.  **Junior and Adult Age Events**: Junior events are for players age 18 and younger. In adult age-qualified doubles, the younger partner determines the team's age classification.
+6.  **Line Judges and Challenges**: With line judges, they make assigned line and foot-fault calls; players keep only their service-court centerline call and may override an official only in favor of the opponent. Only rally-ending shots can be appealed. An officiating-decision challenge goes to the Head Referee or Tournament Director; if the ruling is upheld, the player/team is charged a timeout and technical warning. The rulebook defines a Video Replay Referee as part of the officiating team, but it does not create a universal player video-review right for ordinary matches.
 
 ## References
 
