@@ -68,7 +68,7 @@ Taking doubles as an example, each game is usually played to 11 points, and in a
 
 **Note: Evolution of Scoring Rules**
 
-Traditional pickleball rules employed "Side-out Scoring," where only the serving team can earn points when they win a rally. However, with the growth of professional pickleball, the PPA (Professional Pickleball Association) and other professional tours have adopted "Rally Scoring," where the winner of every rally scores points, regardless of whether they are the serving team. This makes matches faster-paced and more exciting, and easier to watch. Beginners should understand both scoring systems to adapt to different tournaments and opponents of varying levels.
+Traditional pickleball rules employed "Side-out Scoring," where only the serving team can earn points when they win a rally. However, with the growth of professional pickleball, the PPA (Professional Pickleball Association) and other professional tours have experimented with "Rally Scoring" in selected events (MLP reverted main doubles matches to side-out scoring in 2026), where the winner of every rally scores points, regardless of whether they are the serving team. This makes matches faster-paced and more exciting, and easier to watch. Beginners should understand both scoring systems to adapt to different tournaments and opponents of varying levels.
 
 ## 1.4 Pickleball Features
 
