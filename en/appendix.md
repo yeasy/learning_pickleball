@@ -2,7 +2,7 @@
 
 ## Rating and Levels
 
-Based on the [USA Pickleball skill levels](https://usapickleball.org/skill-level/), you can get a quick skill-level estimate (2.0 \~ 5.5) as follows. Skill levels are knowledge/proficiency guidance, while competitive player ratings are results-based. USA Pickleball's current ratings guidance points players to systems such as DUPR and UTR-P; UTPR should be treated as historical terminology rather than the current default.
+Based on the [USA Pickleball skill levels](https://usapickleball.org/skill-level/), you can get a quick skill-level estimate (2.0 \~ 5.5) as follows. Skill levels are knowledge/proficiency guidance, while competitive player ratings are results-based. As of 2026, USA Pickleball-owned events use DUPR as the official exclusive rating system; other tours, clubs, or local events may still use UTR-P, self-rating bands, or their own divisions, so always follow the event's entry rules.
 
 Rating | Level | Definition
 --- | --- | ---
@@ -77,7 +77,7 @@ In fact, this rule means that in the Non-Volley Zone, also known as the "kitchen
 As pickleball evolves, rules continue to be refined. The summary below is based on USA Pickleball's 2026 rules guidance; actual officiating should always follow the formal rule text adopted by the event:
 
 1.  **Partner Disagreement Rule**: In doubles, if partners disagree on a line call (one calls "out", the other "in" or unsure), the ball must be ruled **IN**, and the rally cannot be replayed.
-2.  **Dropped Ball Fault**: If an extra ball carried by a player falls onto the court during a rally, it is an immediate **Fault**, rather than a replay.
+2.  **Extra Ball Visible or Dropped Fault**: An extra ball carried by a player during a live rally must not be visible to the opponent and must remain in the player's possession. If the extra ball is visible to an opponent or falls onto the playing surface, it is a **Fault** against that player.
 3.  **Volley Serve Clarification**: The volley serve must have a visibly clear upward arc. Failure to demonstrate this upward motion is a violation.
 4.  **Wheelchair Two-Bounce Allowance**: A wheelchair player may let the ball bounce twice before returning it; the second bounce may be anywhere on the playing surface, and failure to return before a third bounce is a fault.
 5.  **Junior and Adult Age Events**: Junior events are for players age 18 and younger. In adult age-qualified doubles, the younger partner determines the team's age classification.
