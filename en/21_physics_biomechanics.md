@@ -106,9 +106,8 @@ Specifically:
 **The intensity of the Magnus Effect depends on:**
 
 1. **Spin Rate**: The faster the spin, the stronger the effect
-   - Pickleball: 15-30 rotations/second
-   - Tennis: 30-50+ rotations/second
-   - Table tennis: 50-100+ rotations/second
+   - Pickleball: commonly around 15-30 rotations/second in practical play
+   - Tennis and table tennis: often higher, with large differences by shot type, equipment, and measurement method
 
 2. **Ball Speed**: The ratio of ball speed to spin speed (called "Spin-to-Speed Ratio") determines the relative effect of spin
    - At the same spin rate, slower ball speed means greater relative impact of spin
@@ -124,7 +123,7 @@ Compared to tennis and table tennis, pickleball's spin characteristics are as fo
 
 | Feature | Pickleball | Tennis | Table Tennis |
 |---------|-----------|--------|--------------|
-| Maximum spin rate | 15-30 rotations/sec | 30-50+ rotations/sec | 50-100+ rotations/sec |
+| Representative spin rate | 15-30 rotations/sec | Higher; shot-dependent | Much higher; shot-dependent |
 | Ball speed | 48-97 km/h (30-60 mph) | 129-225+ km/h (80-140+ mph) | 64-129 km/h (40-80 mph) |
 | Spin-to-speed ratio | Moderate | Lower | Higher |
 | Effect on flight trajectory | Moderate | Lower (at high speed) | Significant |
@@ -167,13 +166,13 @@ Different paddle materials and designs have different sweet spot sizes:
 
 The sweet spot is typically located about 1/2 the distance from the paddle head, near the paddle's center of mass.
 
-### Coefficient of Restitution
+### Paddle/Ball Restitution Limits
 
-The coefficient of restitution is the ratio of the ball's rebound speed after impact to the paddle speed before impact. According to international pickleball rules, the ball's coefficient of restitution is between 0.85 and 0.90.
+Do not treat coefficient of restitution as a simple rule that the ball leaves the paddle at a fixed percentage of paddle speed. USA Pickleball regulates excessive "trampoline effect" through paddle/ball coefficient of restitution (PBCoR) testing, along with surface roughness and friction testing. The Equipment Standards Manual lists PBCoR not-to-exceed limits of 0.44 effective Nov. 1, 2024, and 0.43 effective Nov. 1, 2025.
 
 **This means:**
-- If a paddle strikes a ball at 50 mph (approximately 80.5 km/h), the ball's rebound speed is approximately 42.5-45 mph (approximately 68-72 km/h)
-- Energy loss is approximately 10-15%, with this energy converted to heat and sound
+- A legal paddle must stay within official rebound-performance limits, but ball exit speed still depends on swing speed, contact point, paddle design, ball condition, and spin.
+- A paddle's approved status can change if production samples or used paddles no longer meet the certification conditions; check the current approved-equipment list before sanctioned play.
 
 ## 21.4 Biomechanics of Footwork Efficiency
 

@@ -5,7 +5,7 @@ Choosing appropriate equipment is an important factor in improving your pickleba
 > **Important Note**: USA Pickleball rules and approved-equipment lists change over time. This chapter is buying guidance, not a tournament eligibility guarantee. Before purchasing or competing, check the latest [official rules](https://usapickleball.org/rules/), [equipment standards](https://equipment.usapickleball.org/docs/Equipment-Standards-Manual.pdf), and [approved equipment lists](https://equipment.usapickleball.org/).
 >
 > Recent equipment-certification focus areas include:
-> - **PBCoR Test** (Paddle/Ball Coefficient of Restitution): Limits paddle elasticity output to prevent excessive ball speed. Paddles that no longer meet certification conditions may be decertified.
+> - **PBCoR Test** (Paddle/Ball Coefficient of Restitution): Limits paddle elasticity output to prevent excessive ball speed. USA Pickleball's Equipment Standards Manual lists not-to-exceed limits of 0.44 effective Nov. 1, 2024, and 0.43 effective Nov. 1, 2025. Paddles that no longer meet certification conditions may be decertified.
 > - **Surface roughness and friction limits**: Official equipment standards control extreme spin generation.
 > - **Lifecycle compliance**: Production paddles must continue to meet certification conditions and must not create a prohibited "trampoline effect."
 
@@ -43,7 +43,7 @@ Pickleball paddle weight typically ranges from 210-280 grams (7-10 ounces).
 
 #### Thickness
 
-Paddle thickness typically ranges from 10-19mm and affects paddle rigidity and sweet spot size.
+USA Pickleball does not set a paddle-thickness limit, but retail paddles typically range from 10-19mm. Thickness affects paddle rigidity and sweet spot size.
 
 **Thickness Impact:**
 - **Thin Paddle (10-13mm)**
@@ -172,22 +172,22 @@ Standard length is 4.5-5.5 inches. Although rules allow longer grips, standard l
 **Budget Tier Breakdown:**
 
 **$0-80 (Entry Level)**
-- Brands: Paddltech, Franklin, Selkirk promotional models
+- Brands: Paddletek, Franklin, Selkirk promotional models
 - Characteristics: Basic but practical
 - Best for: Beginners trying out the sport
 
 **$80-150 (Mid-Range)**
-- Brands: Paddltech, Wilson, Head, Gamma
+- Brands: Paddletek, Wilson, Head, Gamma
 - Characteristics: Stable quality, sufficient performance
 - Best for: Beginner to intermediate players
 
 **$150-250 (Mid-High)**
-- Brands: Selkirk, Onix, Paddltech Pro series, Franklin Pro
+- Brands: Selkirk, Onix, Paddletek performance models, Franklin Pro
 - Characteristics: Good performance and consistency
 - Best for: Intermediate to advanced players
 
 **$250-400+ (Premium)**
-- Brands: Selkirk Pro series, Paddltech Pro Max, Onix Z series
+- Brands: Selkirk Pro series, Paddletek performance models, Onix Z series
 - Characteristics: Best performance and durability
 - Best for: Competitive-level players
 
