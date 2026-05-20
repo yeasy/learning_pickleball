@@ -28,7 +28,7 @@ The main purpose of slicing the ball is to transition, to slow down the rhythm, 
 
 To slice the ball, use the paddle to wrap as much as possible around the ball, and continue to act on the ball to produce more spin.
 
-When slicing the ball, move to the forward direction of the ball in advance, and the body should be in a relaxed state. Open the paddle surface (about 45%), push the ground and turn the waist to exert force with the arms, actively rub against the ball, and send the ball.
+When slicing the ball, move to the forward direction of the ball in advance, and the body should be in a relaxed state. Open the paddle face (about 45°), push the ground and turn the waist to exert force with the arms, actively rub against the ball, and send the ball.
 
 To ensure a quality, keep the stability from the shoulders to the wrists. After hitting the ball, the paddle continues to follow through with the ball. During the whole movement, the force should be used softly and smoothly, and the ball should not be sliced suddenly.
 
