@@ -509,7 +509,7 @@ At the 4.0-4.5 level, players should begin developing their unique playing style
 4. **All-around Player**: Comprehensive skill level across all aspects with no obvious weaknesses
    - Training focus: Maintain high-level performance in all techniques, flexible adjustment to opponents
 
-## 5.0 Level and Above: Professional Training
+## 2.5 5.0 Level and Above: Professional Training
 
 ### Characteristics and Requirements
 
