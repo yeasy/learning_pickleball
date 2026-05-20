@@ -195,7 +195,7 @@ First, make sure your return is deep enough, as close to the baseline as possibl
 
 Level 2.5-3.0 should focus on training serving and returning; level 3.0-3.5 should learn volleying and defense; level 3.5-4.0 should begin to master the drop; level 4.0-4.5 should focus on improving the dink and volley in front of the net; level 4.5-5.0 requires the ability to attack and reset in the near net battle; level 5.0-5.5 requires mastering efficient footwork; level 5.5 and above requires a strong mentality, reading the game and being able to adjust strategies in the tournaments.
 
-As of 2026, tournament rules, scoring formats, and equipment certification are still evolving. Traditional side-out scoring remains the basis of standard pickleball, while rally scoring has been provisionally approved as an optional format. Before tournament play, confirm the event's scoring format, the current USA Pickleball approved paddle list, and the rating system being used, such as DUPR or UTPR.
+As of 2026, tournament rules, scoring formats, and equipment certification are still evolving. Traditional side-out scoring remains the basis of standard pickleball, while rally scoring depends on the specific league or event. Before tournament play, confirm the event's scoring format, the current USA Pickleball approved paddle list, and the rating or division system being used, such as DUPR, UTR-P, or event-specific brackets.
 
 ## 20.18 [Q18] How to avoid injuries while playing pickleball?
 

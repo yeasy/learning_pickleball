@@ -22,7 +22,7 @@ Based on your results, find the corresponding learning pathway section below.
 Two commonly used rating frameworks should be distinguished:
 
 - **Teaching/Skill Level Framework**: Amateur instruction typically uses the historical skill definitions from USA Pickleball, which classifies player ability into levels ranging from 1.0 to 5.5 and above.
-- **Official Tournament Rating Framework**: As of the end of 2025, USA Pickleball-owned events have adopted **DUPR** as the official exclusive rating system, with a score range of 2.000-8.000.
+- **Official Tournament Rating Framework**: As of 2026, USA Pickleball-owned events have adopted **DUPR** as the official exclusive rating system; other tours, clubs, or local events may still use UTR-P, self-rating bands, or their own divisions.
 
 For the purposes of this chapter and to help beginners establish training pathways, we use the more intuitive skill level framework. This is better suited for teaching understanding and does not correspond to official ratings used when registering for current tournaments.
 
