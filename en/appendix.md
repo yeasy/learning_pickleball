@@ -84,7 +84,7 @@ As pickleball evolves, rules continue to be refined. The summary below is based 
 
 * [USA Pickleball Rules](https://usapickleball.org/what-is-pickleball/how-to-play/basics/rules-summary);
 * [USA Pickleball Association](https://usapickleball.org);
-* [International Federation of Pickleball](https://www.ifpickleball.org);
+* [International Pickleball Federation (IPF)](https://theipf.org);
 * [Association of Pickleball Players (APP)](https://www.theapp.global);
 * [Professional Pickleball Association (PPA)](https://www.ppatour.com);
 * [Major League Pickleball](https://www.majorleaguepickleball.net);
