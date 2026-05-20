@@ -58,5 +58,5 @@
 * **Top Spin**: Making the ball spin forward by brushing it up with the paddle.
 * **Transition Zone**: The middle part of the court, which the players need to transit when he comes to the NVZ from the back court.
 * **Tweener**: Hit the ball between the legs, usually with the back facing the opponent.
-* **Two-Bounce Rule**: The player serves the ball, the opponent must wait for the ball to bounce before returning the ball (first bounce), and the receiver must wait for the ball to bounce again before returning the ball (second bounce).
+* **Two-Bounce Rule**: After the serve, the receiving team must let the served ball bounce before returning it (first bounce), and the serving team must let the return of serve bounce before hitting the third shot (second bounce). From the fourth shot onward, either team may volley or play after a bounce.
 * **Volley**: Hit the ball in the air before it touches the ground.
