@@ -64,7 +64,7 @@ The last one is the **gaming consciousness**. How to deal with the opponent's ba
 
 ## 20.7 [Q7] How to choose a suitable paddle?
 
-**Answer**: According to the rules, the combined length and width of a pickleball paddle cannot exceed 24 inches (60.96 cm), of which the length cannot exceed 17 inches (43.18 cm). There is no limit to the thickness and weight of the paddle, but the common thickness range is 10 \~ 16 mm, and weight range is 7\~9 oz.
+**Answer**: According to the rules, the combined length and width of a pickleball paddle cannot exceed 24 inches (60.96 cm), of which the length cannot exceed 17 inches (43.18 cm). There is no limit to the thickness and weight of the paddle, but the common thickness range is 10 \~ 19 mm, and weight range is 7\~9 oz.
 
 Typically, a pickleball paddle consists of several main components: paddle body (core, surface, and edge guard), handle, base grip, and overgrip.
 * **Paddle Core**: The core of the paddle plays a crucial role in the paddle's stability. Modern paddle materials usually feature a honeycomb structure made of high polymer compounds, including Polymer (soft and flexible) and Nomex (rigid nylon, somewhat hard). Earlier paddles were made from materials such as wood or aluminum alloy.

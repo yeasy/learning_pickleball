@@ -94,5 +94,5 @@
 * [国际匹克球联合会（IPF）](https://theipf.org)；
 * [APP 锦标赛（Association of Pickleball Players）](https://www.theapp.global)；
 * [PPA 锦标赛（Professional Pickleball Association）](https://www.ppatour.com)；
-* [MLP 联盟赛](https://www.majorleaguepickleball.net)；
+* [MLP 联盟赛](https://www.majorleaguepickleball.co)；
 * [中匹在线](https://pickleballcn.com)。
