@@ -2,14 +2,14 @@
 
 ## 如何评级
 
-参考 [美国匹克球协会评级](https://usapickleball.org/tournaments/tournament-player-ratings/player-skill-rating-definitions/)标准（1.0 \~ 5.5），快速评级参考如下。
+参考 [USA Pickleball 技能等级](https://usapickleball.org/skill-level/)（2.0 \~ 5.5），可做快速能力等级参考。技能等级侧重知识和技术能力，并不是正式比赛评级；比赛评级通常基于可验证赛果。
 
-**UTPR 和 DUPR 评级系统区别简要说明：**
+**评级系统简要说明：**
 
-- **UTPR**（USA Pickleball Tournament Player Rating，1.0-7.0）：基于 USA Pickleball 赛事表现计算，是传统评级系统
-- **DUPR**（Dupr Rating，2.0-8.0）：截至 2025 年，成为 USA Pickleball 官方独家评级系统，基于比赛数据实时更新，范围更广
+- **UTPR**（USA Pickleball Tournament Player Rating）：可视为历史/传统赛事评级术语，不应再当作当前默认入口
+- **DUPR / UTR-P**：USA Pickleball 当前评级页面介绍的主要评级体系，具体采用哪一套以赛事和官方页面为准
 
-选手也可以通过比赛计算 [UTPR](https://usapickleball.org/tournaments/tournament-player-ratings/)（1.0 \~ 7.0） 或 [DUPR](https://mydupr.com) 评级（2.0 \~ 8.0）。
+选手也可以参考 [USA Pickleball Ratings](https://usapickleball.org/skill-level/ratings/) 页面了解 DUPR、UTR-P 等当前评级入口。
 
 | 评分   | 级别  | 特点                                                                      |
 | ---- | --- | ----------------------------------------------------------------------- |
@@ -89,10 +89,10 @@
 
 ## 参考资料
 
-* [美国匹克球规则](https://usapickleball.org/what-is-pickleball/how-to-play/basics/rules-summary)；
+* [美国匹克球规则](https://usapickleball.org/rules/)；
 * [美国匹克球协会](https://usapickleball.org)；
 * [国际匹克球联合会（IPF）](https://theipf.org)；
 * [APP 锦标赛（Association of Pickleball Players）](https://www.theapp.global)；
 * [PPA 锦标赛（Professional Pickleball Association）](https://www.ppatour.com)；
 * [MLP 联盟赛](https://www.majorleaguepickleball.co)；
-* [中匹在线](https://pickleballcn.com)。
+* [中匹在线](https://bbs.pickleballcn.com/)。

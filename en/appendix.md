@@ -2,7 +2,7 @@
 
 ## Rating and Levels
 
-Based on the [USA Pickleball Rating](https://usapickleball.org/tournaments/tournament-player-ratings/player-skill-rating-definitions/), you can get a quick rating (2.0 \~ 5.5) as follows. There are other tournament based ratings such as [UTPR](https://usapickleball.org/tournaments/tournament-player-ratings/) (1.0 \~ 7.0) and [DUPR](https://mydupr.com).
+Based on the [USA Pickleball skill levels](https://usapickleball.org/skill-level/), you can get a quick skill-level estimate (2.0 \~ 5.5) as follows. Skill levels are knowledge/proficiency guidance, while competitive player ratings are results-based. USA Pickleball's current ratings guidance points players to systems such as DUPR and UTR-P; UTPR should be treated as historical terminology rather than the current default.
 
 Rating | Level | Definition
 --- | --- | ---
@@ -82,10 +82,10 @@ As pickleball evolves, rules continue to be refined. The summary below is based 
 
 ## References
 
-* [USA Pickleball Rules](https://usapickleball.org/what-is-pickleball/how-to-play/basics/rules-summary);
+* [USA Pickleball Rules](https://usapickleball.org/rules/);
 * [USA Pickleball Association](https://usapickleball.org);
 * [International Pickleball Federation (IPF)](https://theipf.org);
 * [Association of Pickleball Professionals (APP)](https://www.theapp.global);
 * [Professional Pickleball Association (PPA)](https://www.ppatour.com);
 * [Major League Pickleball](https://www.majorleaguepickleball.co);
-* [PickleballCN (Chinese Pickleball Community)](https://pickleballcn.com).
+* [PickleballCN (Chinese Pickleball Community)](https://bbs.pickleballcn.com/).
