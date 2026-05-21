@@ -32,7 +32,7 @@ In 2016, the first U.S. Open Pickleball Championships were held in Naples, Flori
 
 In 2017, the first international pickleball tournament was held in Madrid, Spain. To honor the sport’s origins, the tournament’s trophy was named the "Bainbridge Cup." The event has since been hosted in Spain (2017), Italy (2018), Germany (2019), the U.S. (2021), and India (2022).
 
-Meanwhile, professional tournaments have been emerging rapidly. The Professional Pickleball Association (PPA) was established in 2017, followed by the Association of Pickleball Professionals (APP) in 2019 and Major League Pickleball (MLP) in 2021. These organizations have attracted numerous professional athletes and investors, including sports icons like LeBron James and Tom Brady, who have invested in pickleball clubs.
+Meanwhile, professional tournaments have been emerging rapidly. The Professional Pickleball Association (PPA) was established in 2017, followed by APP, now the Association of Pickleball Players (formerly Association of Pickleball Professionals), and Major League Pickleball (MLP) in 2021. These organizations have attracted numerous professional athletes and investors, including sports icons like LeBron James and Tom Brady, who have invested in pickleball clubs.
 
 In 2018, the World Pickleball Federation (WPF) was officially established, aiming to further promote the sport globally.
 
@@ -82,7 +82,7 @@ The overall amount of activity in pickleball is moderate, but it has rich skills
 
 ## 1.5 Status and Future
 
-According to recent participation surveys from APP (Association of Pickleball Professionals), the number of U.S. adults who played pickleball at least once in the past 12 months has reached roughly the 50-million range. This figure uses a different definition from the "core active player" count mentioned earlier, so the two numbers should not be mixed. The average age of players continues to decrease, with most professional tournament participants now ranging from 14 to 35 years old.
+According to recent participation surveys from APP (Association of Pickleball Players), the number of U.S. adults who played pickleball at least once in the past 12 months has reached roughly the 50-million range. This figure uses a different definition from the "core active player" count mentioned earlier, so the two numbers should not be mixed. The average age of players continues to decrease, with most professional tournament participants now ranging from 14 to 35 years old.
 
 Beyond North America, pickleball has also gained significant popularity in Europe. In Asia, the sport is becoming increasingly widespread, with countries such as China, Japan, India, the Philippines, Singapore, Indonesia, Thailand, Malaysia, Bangladesh, and Pakistan actively adopting and organizing tournaments.
 
