@@ -32,7 +32,7 @@
 
 2017 年，首届国际匹克球大赛在西班牙马德里举行，为了纪念匹克球的发明，其奖杯命名为“贝恩布里奇岛杯（Bainbridge Cup）”。先后在西班牙（2017）、意大利（2018）、德国（2019）、美国（2021）、印度（2022）等国家举办。
 
-与此同时，职业赛事如雨后春笋般涌现。PPA（Professional Pickleball Association，2017 年）、APP（Association of Pickleball Professionals，2019 年）以及“匹克球大联盟”（Major League Pickleball，MLP，2021 年）相继成立，吸引了众多职业运动员和投资人，包括勒布朗·詹姆斯、汤姆·布雷迪等体育巨星也纷纷投资匹克球俱乐部。
+与此同时，职业赛事如雨后春笋般涌现。PPA（Professional Pickleball Association，2017 年）、APP（现为 Association of Pickleball Players，原 Association of Pickleball Professionals）以及“匹克球大联盟”（Major League Pickleball，MLP，2021 年）相继成立，吸引了众多职业运动员和投资人，包括勒布朗·詹姆斯、汤姆·布雷迪等体育巨星也纷纷投资匹克球俱乐部。
 
 2018 年，世界匹克球联盟（World Pickleball Federation，WPF）正式成立，同样希望能在全球范围内推动匹克球的普及。
 
@@ -84,7 +84,7 @@
 
 ## 1.5 未来展望
 
-根据 APP（Association of Pickleball Professionals）近年的参与度调查，美国成年人口中“过去 12 个月至少打过一次匹克球”的人数已达到约 5000 万量级；这一指标与“核心高频玩家”并非同一口径。玩家平均年龄持续下降，目前职业比赛选手多为 14 岁到 35 岁的青年。
+根据 APP（Association of Pickleball Players）近年的参与度调查，美国成年人口中“过去 12 个月至少打过一次匹克球”的人数已达到约 5000 万量级；这一指标与“核心高频玩家”并非同一口径。玩家平均年龄持续下降，目前职业比赛选手多为 14 岁到 35 岁的青年。
 
 除了北美地区，匹克球在欧洲地区也已十分普及。亚洲地区包括中国、日本、印度、菲律宾、新加坡、印尼、泰国、马来西亚、孟加拉、巴基斯坦等也开始流行和举办赛事。按国际匹克球组织近年的公开口径，全球已有数十个国家和地区加入相关国际联盟并举办比赛。是否进入奥运会等综合性赛事，仍取决于未来国际单项组织发展、普及度与赛事治理进展。
 
