@@ -94,7 +94,7 @@
 
 * [美国匹克球规则](https://usapickleball.org/rules/)；
 * [美国匹克球协会](https://usapickleball.org)；
-* [国际匹克球联合会（IPF）](https://theipf.org)；
+* [全球匹克球联合会（GPF）](https://globalpickleballfederation.org/)；
 * [APP 锦标赛（Association of Pickleball Players）](https://www.theapp.global)；
 * [PPA 锦标赛（Professional Pickleball Association）](https://www.ppatour.com)；
 * [MLP 联盟赛](https://www.majorleaguepickleball.co)；
