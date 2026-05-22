@@ -1,5 +1,7 @@
 # Chapter 8 How to Drive
 
+> **Recommended Level**: 2.0+ · Fundamental offensive weapon, especially critical in singles
+
 The drive is one of the most common techniques to attack. Especially in singles, drive is often the key to win the game.
 
 In the singles, you can use drive to mobilize the opponents, and in the doubles game, you can use drive to attack or transit to the next shot. A high-quality drive can even score directly.
@@ -25,6 +27,21 @@ Based on where you hit the ball, the Drive can be roughly divided into the **Bac
 When the ball bounces high, and the opponent does not form an effective near-net block, you can try to Drive the ball.
 
 The first purpose of driving the ball is to mobilize the opponent, or make the opponent to return the ball in a hurry, so as to score a point or form a chance for the next shot.
+
+### Drive vs. Drop: How to Choose
+
+The most common in-game dilemma is "should I drive or drop?" This quick-reference table helps you decide:
+
+| Situation | Recommended Shot | Why |
+|-----------|-----------------|-----|
+| Opponents at the net, ball bounces high | Drive (at the body or gap) | A high ball is an attack opportunity — drives are fast and cut reaction time |
+| Opponents at the net, ball stays low | Drop / Dink | Low drives tend to pop up and get punished — a soft shot is safer |
+| You're at the baseline, opponents at the net | Mostly drop, occasional drive | Drops help you advance; drives disrupt rhythm or surprise |
+| Both sides at the baseline | Drive | With both teams back, drives contest for initiative |
+| Leading in score | Favor steady drops | Minimize errors — let the opponent make mistakes |
+| Trailing in score | Mix in more drives | You need to change the pace and create scoring opportunities |
+
+Core principle: **Ball high → drive. Ball low → drop.** When in doubt, the drop is usually the safer choice.
 
 ## 8.3 Master Drive
 

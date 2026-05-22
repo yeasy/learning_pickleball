@@ -1,5 +1,7 @@
 # Chapter 16 Erne Shot
 
+> **Recommended Level**: 4.0+ · Advanced attacking technique requiring precise timing and footwork
+
 ## 16.1 What is Erne
 
 Players may enter the non-volley zone to hit a ball after it bounces. The restriction applies to volleying: during the act of volleying, and during any momentum caused by that volley, the player may not touch the non-volley zone. After entering the non-volley zone, both feet must re-establish completely outside the zone before the player volleys. An Erne uses that rule boundary by jumping from outside the non-volley zone, or moving around the sideline, to volley over the zone without touching it. This shot is common in professional tournaments.

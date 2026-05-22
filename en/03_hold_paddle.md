@@ -1,5 +1,7 @@
 # Chapter 3 Hold Paddle and Hit the Ball
 
+> **Recommended Level**: 1.0+ · Your very first lesson — build correct grip and power habits from scratch
+
 Holding the paddle to hit the ball with power correctly is the most fundamental skill of learning to play pickleball. Players should be able to hit the ball with different power, speed, placement and spin in the correct way.
 
 Using a wrong way of holding paddle or generating force will restrict the improvement of the player's level and easily bring injuries.
