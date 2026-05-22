@@ -17,7 +17,7 @@ The paddle is the most critical equipment in pickleball. Selecting the right pad
 
 #### Weight
 
-Pickleball paddle weight typically ranges from 210-280 grams (7-10 ounces).
+Pickleball paddle weight typically ranges from 210-270 grams (7-9.5 ounces).
 
 **Weight Impact:**
 - **Light Paddle (7-7.75 oz / 210-220g)**
@@ -30,10 +30,10 @@ Pickleball paddle weight typically ranges from 210-280 grams (7-10 ounces).
   - Disadvantages: No particular standout advantages, most "average" choice
   - Best for: Most intermediate players
 
-- **Heavy Paddle (8.5-10 oz / 240-280g)**
+- **Heavy Paddle (8.5-9.5 oz / 240-270g)**
   - Advantages: Better power transfer, more stable in fast exchanges, better feel
   - Disadvantages: Requires more power to swing, can cause arm fatigue and injury
-  - Best for: Advanced players, intermediate players with sufficient strength
+  - Best for: Strong players. Note that most professionals use 7.8-8.4 oz paddles; only some add lead tape to reach 8.5+ oz.
 
 **Selection Recommendations:**
 1. When holding the paddle and making a swing motion, it should feel light rather than heavy
@@ -80,13 +80,14 @@ Core and surface materials determine paddle feel, durability, and performance.
    - Price: Medium
    - Best for: Beginners, players seeking comfort
 
-2. **Nomex (Rigid Nylon)**
-   - Material: Hard nylon honeycomb structure
+2. **Nomex (Aramid, Rigid)**
+   - Material: Aramid paper honeycomb structure, not nylon
    - Characteristics: Hard, good rebound, excellent durability
    - Advantages: Better power transfer, clearer feel
    - Disadvantages: More vibration, can cause arm fatigue
    - Price: Medium to high
-   - Best for: Competitive players, power-seekers
+   - Best for: Players who prefer a firm, crisp feel
+   - Note: Nomex cores were more common in early paddles; most current competitive paddles use polymer or foam cores
 
 3. **Hybrid (Polymer + Nomex)**
    - Characteristics: Combines advantages of both, mid-layer may use different materials
