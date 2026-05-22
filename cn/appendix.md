@@ -94,6 +94,9 @@
 
 * [美国匹克球规则](https://usapickleball.org/rules/)；
 * [美国匹克球协会](https://usapickleball.org)；
+* [International Padel Federation：Rules of Padel](https://www.padelfip.com/wp-content/uploads/2025/12/FIP_Rules-of-Padel.pdf)；
+* [BWF：Laws of Badminton](https://corporate.bwfbadminton.com/statutes/)；
+* [ITTF：Laws of Table Tennis](https://documents.ittf.sport/sites/default/files/public/2021-04/2021ITTFHandbook.pdf)；
 * [全球匹克球联合会（GPF）](https://globalpickleballfederation.org/)；
 * [APP 锦标赛（Association of Pickleball Players）](https://www.theapp.global)；
 * [PPA 锦标赛（Professional Pickleball Association）](https://www.ppatour.com)；

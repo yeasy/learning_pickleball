@@ -61,7 +61,7 @@ In tennis, players can rush to the net anytime. In pickleball, the no-volley zon
 Tennis requires large running movements on a big court. Pickleball requires faster, more nimble footwork on a smaller court, especially at the net.
 
 **Conversion Strategy:**
-- Practice "split-step": A concept not emphasized in tennis, this small jump occurs as your opponent is about to hit
+- Practice "split-step": Tennis players already use it, but pickleball's smaller court and faster net exchanges require a more compact rhythm before nearly every shot
 - Practice lateral sliding: Rarely used in tennis, but lateral sliding at the net is fundamental in pickleball
 - Reduce stride length, increase step frequency: Use quick small steps rather than large strides
 
@@ -87,14 +87,14 @@ Tennis players transitioning to pickleball have several advantages:
 |--------|-----------|
 | **Serving Style** | Both use underhand serving |
 | **Court** | Similar in size (Badminton doubles: 44×20 ft; Pickleball: 44×20 ft) |
-| **Speed Characteristic** | Relatively slow, emphasizing control |
+| **Footwork Requirements** | Both emphasize quick starts and agile movement |
 | **Net Play** | Both require fine manipulation at the net |
 
 ### Key Differences
 
 | Aspect | Badminton | Pickleball | Impact |
 |--------|-----------|-----------|--------|
-| **Ball Characteristics** | Light (2.6g), rapid deceleration | Light (22-26g), slower deceleration | Pickleball is better suited for longer-distance shots |
+| **Ball Characteristics** | Shuttlecock (4.74-5.50g), extremely rapid deceleration | Perforated ball (22-26g), slower deceleration | Pickleball is better suited for longer-distance shots |
 | **Net Height** | High (5 ft / 152 cm at center) | Low (34 in / 86 cm at center) | Net-clearance strategy and ball arc differ entirely |
 | **Swing Amplitude** | Large, especially for attacks | Medium to small | Pickleball requires more refined control rather than large movements |
 | **Emphasis** | Power and high-point striking | Control and consistency | Pickleball matches are longer, requiring better endurance |
@@ -160,7 +160,7 @@ Badminton players are accustomed to starting from the backcourt and gradually ad
 |--------|-----------|-----------|--------|
 | **Hitting Distance** | Very close (0-3 ft) | Medium (10-40 ft) | Pickleball requires larger swing amplitude and more body involvement |
 | **Wrist Function** | Extremely important | Moderately important | Pickleball relies more on body involvement than wrist |
-| **Spin Intensity** | Extreme (100+ rpm) | Moderate (15-30 rpm) | Pickleball spin is relatively simple and easier to master |
+| **Spin Intensity** | High, aided by rubber friction and high ball speed | Moderate, relying more on paddle-face angle, swing path, and placement | Pickleball spin is easier to understand, but harder to use as a direct point-ending weapon |
 | **Power Source** | Wrist and forearm | Legs and torso | Table tennis players must learn to use body power |
 | **Footwork** | Small steps, in-place rotation | Larger steps, lateral movement | Pickleball requires different footwork patterns |
 | **Paddle Characteristics** | Light paddle (~200g), rubber-coated | Heavier paddle (210-270g), smooth surface | Completely different grip and hitting feel |
@@ -206,7 +206,24 @@ In table tennis, footwork is typically small steps with in-place rotation. In pi
 - Use your quick reaction ability for rapid movement and striking
 - Leverage mental toughness to perform steadily on important points
 
-## 24.4 General Advice for Converting from Other Racquet Sports
+## 24.4 Pickleball vs Padel: Translating Wall Play into Early Court Reading
+
+Padel and pickleball both reward doubles positioning, low serves, patient point construction, and net pressure, but the playing environments are fundamentally different. Padel is played on an enclosed 20×10m court where the ball can remain live after bouncing and contacting the wall; pickleball is played on an open 44×20ft court where the no-volley zone limits net aggression. A padel player does not mainly need more touch; they need earlier decisions because there is no wall to buy time.
+
+### Transferable Strengths for Padel Players
+
+1. **Strong doubles spacing**: Padel players already understand how two players share the middle, cross-court lanes, and net pressure.
+2. **Patience in point construction**: They are used to building points over multiple shots instead of trying to finish too early.
+3. **Quick adaptation to low serves**: The serving motion and tactical transition after the serve feel more familiar than they do for tennis players.
+4. **Net awareness**: They understand how court position and partner movement create pressure.
+
+### Conversion Priorities
+
+- **Do not wait for the wall**: Pickleball gives you no rebound surface to extend the rally, so resets must happen before the ball's first landing window disappears.
+- **Shorten backswing and follow-through**: Padel allows a fuller swing; pickleball's close net exchanges demand compact actions, a stable paddle face, and faster recovery.
+- **Rethink net aggression**: Padel net pressure is more direct; pickleball net play must respect the no-volley-zone boundary, so not every high ball is a volley opportunity.
+
+## 24.5 General Advice for Converting from Other Racquet Sports
 
 Regardless of your racquet sports background, the following general advice can help you adapt to pickleball faster:
 
@@ -259,7 +276,7 @@ Finally, the most important point is psychological adjustment. Many athletes tra
 - Respect each sport's unique qualities: Acknowledge pickleball's unique appeal and demands
 - Set realistic goals: Expect 3-6 months to reach competitive level
 
-## 24.5 The Science of Cross-Sport Skill Transfer
+## 24.6 The Science of Cross-Sport Skill Transfer
 
 Although different racquet sports have differences, certain core skills can transfer between them:
 

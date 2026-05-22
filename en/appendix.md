@@ -87,6 +87,9 @@ As pickleball evolves, rules continue to be refined. The summary below is based 
 
 * [USA Pickleball Rules](https://usapickleball.org/rules/);
 * [USA Pickleball Association](https://usapickleball.org);
+* [International Padel Federation: Rules of Padel](https://www.padelfip.com/wp-content/uploads/2025/12/FIP_Rules-of-Padel.pdf);
+* [BWF: Laws of Badminton](https://corporate.bwfbadminton.com/statutes/);
+* [ITTF: Laws of Table Tennis](https://documents.ittf.sport/sites/default/files/public/2021-04/2021ITTFHandbook.pdf);
 * [Global Pickleball Federation (GPF)](https://globalpickleballfederation.org/);
 * [Association of Pickleball Players (APP)](https://www.theapp.global);
 * [Professional Pickleball Association (PPA)](https://www.ppatour.com);
