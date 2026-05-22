@@ -1,5 +1,7 @@
 # Chapter 15 Around The Post
 
+> **Recommended Level**: 3.5+ · Advanced specialty shot requiring good judgment and touch
+
 ## 15.1 What is Around The Post
 
 Around The Post (ATP) is a common technique in professional tournaments, which refers to returning the ball from outside of the court and letting the ball fly to the court around the net post.

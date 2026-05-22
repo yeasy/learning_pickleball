@@ -1,5 +1,7 @@
 # Chapter 4 Fitness and Injury Prevention
 
+> **Recommended Level**: 1.0+ · Essential for all players — the scientific foundation for staying injury-free
+
 Sufficient warm-up and reasonable relaxation are the keys to avoiding sports injuries and maintaining long-term health. At the same time, sufficient physical fitness is a prerequisite for high-level competition. Although pickleball is renowned as a low-impact, easy-to-learn sport, it can still lead to sports injuries without proper scientific training and body protection.
 
 Therefore, both amateurs and professional athletes should pay attention to warm-up, relaxation, physical training, and injury prevention.

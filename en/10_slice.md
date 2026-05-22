@@ -1,5 +1,7 @@
 # Chapter 10 How to Slice
 
+> **Recommended Level**: 3.0+ · Intermediate transition shot for pace control and defensive reset
+
 The Slice technique is a common transition technique in Pickleball, which can be used to defend well, and can attack in certain case.
 
 ## 10.1 What is Slice

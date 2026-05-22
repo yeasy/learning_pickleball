@@ -1,5 +1,7 @@
 # Chapter 17 Singles Game Strategies
 
+> **Recommended Level**: 3.0+ · Tactical thinking — connecting individual techniques into a complete game system
+
 The singles game of pickleball requires the highest comprehensive ability.
 
 It not only requires the player's running ability and hitting skills, but also demands the psychological quality and the ability to control the rhythm of the game.

@@ -1,5 +1,7 @@
 # Chapter 9 How to Volley
 
+> **Recommended Level**: 2.5+ · The primary net-finishing shot, essential for doubles progression
+
 The **Volley** is a primary attacking shot in pickleball, often used to finish points, especially in doubles.
 
 ## 9.1 What is a Volley?
