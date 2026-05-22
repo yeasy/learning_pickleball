@@ -4,10 +4,6 @@ Sufficient warm-up and reasonable relaxation are the keys to avoiding sports inj
 
 Therefore, both amateurs and professional athletes should pay attention to warm-up, relaxation, physical training, and injury prevention.
 
-Sufficient warm-up and reasonable relaxation are the keys to avoid sports injuries and maintain long-term healthy sports. At the same time, sufficient physical fitness is also a prerequisite for high-level competition.
-
-Therefore, both amateurs and professional athletes should pay attention to the importance of warm-up (before playing), relax (after playing) and regular physical training.
-
 ## 4.1 Warm Up
 
 The purpose of warming up is to activate the joints and associated muscles of the body through dynamic stretch, which can improve the body’s mobility and avoid injury. The joints determine the angle and range of motion, and the muscles protect the joints. Warm up should be carried out in the order from the whole to the local, from the large joints to the small joints.
