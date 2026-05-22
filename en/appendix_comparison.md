@@ -11,7 +11,7 @@ Many players have backgrounds in other racquet sports (tennis, badminton, table 
 | Court Size | Both courts are similar in size (Tennis: 78×27 ft; Pickleball: 44×20 ft) |
 | Net | Both are separated by a net |
 | Serving | Serves are executed from the baseline |
-| Scoring System | Points are earned by winning rallies |
+| Scoring System | Winning rallies advances the score or serving right; in traditional pickleball, only the serving side scores |
 | Basic Strokes | Both include forehand, backhand, volley, and lob |
 
 ### Key Differences
@@ -21,7 +21,7 @@ Many players have backgrounds in other racquet sports (tennis, badminton, table 
 | **Court Size** | 78×27 ft | 44×20 ft | Pickleball requires higher movement efficiency and easier court coverage |
 | **Ball Characteristics** | Heavy (58.5g), high bounce | Light (22-26g), low bounce | Pickleball is easier to control but requires higher paddle head control |
 | **No-Volley Zone** | None | 7 ft on each side of net | Pickleball adds tactical complexity and restricts net play |
-| **Serving** | Overhand, power-focused | Underhand, control-focused | Tennis players must completely change their serving motion |
+| **Serving** | Overhand, power-focused | Volley serves must be low and upward; drop serves have fewer stroke restrictions | Tennis players must rebuild their serving motion |
 | **Shot Speed** | Fast (60-100+ mph) | Slow (30-50 mph) | Pickleball requires better paddle control rather than power |
 | **Match Pace** | Fast, fewer points | Relatively slower, longer rallies | Pickleball tests endurance and consistency |
 | **Running Distance** | Large | Small | Pickleball is more suitable for older players |
@@ -30,7 +30,7 @@ Many players have backgrounds in other racquet sports (tennis, badminton, table 
 
 **Challenge 1: Completely Different Serving Style**
 
-Tennis players are accustomed to overhand serving, which is illegal in pickleball. Pickleball requires underhand serving with the paddle contact point at or below the waist.
+Tennis players are accustomed to overhand serving, which does not transfer directly to pickleball. A pickleball volley serve requires an upward arm motion, contact below the waist, and the paddle head below the wrist; a drop serve lets the ball bounce naturally first and is not bound by those volley-serve height and swing-direction restrictions.
 
 **Conversion Strategy:**
 - Weeks 1-2: Focus on underhand serving practice, 20-30 minutes daily

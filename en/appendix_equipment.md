@@ -173,26 +173,26 @@ Standard length is 4.5-5.5 inches. Although rules allow longer grips, standard l
 **Budget Tier Breakdown:**
 
 **$0-80 (Entry Level)**
-- Brands: Paddletek, Franklin, Selkirk promotional models
-- Characteristics: Basic but practical
-- Best for: Beginners trying out the sport
+- Brands: Franklin, Head, Paddletek entry models
+- Characteristics: Basic but practical, suitable for trying the sport
+- Best for: Beginners
 
 **$80-150 (Mid-Range)**
-- Brands: Paddletek, Wilson, Head, Gamma
-- Characteristics: Stable quality, sufficient performance
+- Brands: Selkirk entry series, Wilson, Head, Paddletek
+- Characteristics: Stable quality, enough performance for regular practice and recreational matches
 - Best for: Beginner to intermediate players
 
 **$150-250 (Mid-High)**
-- Brands: Selkirk, Onix, Paddletek performance models, Franklin Pro
-- Characteristics: Good performance and consistency
+- Brands: JOOLA (Ben Johns series), Selkirk (Vanguard series), CRBN, Engage
+- Characteristics: Thermoformed construction, carbon-fiber surface, strong performance and consistency
 - Best for: Intermediate to advanced players
 
-**$250-400+ (Premium)**
-- Brands: Selkirk Pro series, Paddletek performance models, Onix Z series
-- Characteristics: Best performance and durability
+**$250-450+ (Premium / Gen-4)**
+- Brands: CRBN TruFoam Genesis, JOOLA Perseus Pro IV, Selkirk Boomstik, Six Zero
+- Characteristics: Foam core plus raw carbon-fiber surface, representing the 2025-2026 premium technology tier
 - Best for: Competitive-level players
 
-*(Note: Brand and product information above is for reference only; consult manufacturers for latest models and specifications.)*
+Brand and product information changes quickly. Before buying, check recent reviews and confirm USA Pickleball approval status.
 
 ## A6.2 Ball Classification and Selection
 

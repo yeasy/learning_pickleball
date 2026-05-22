@@ -20,7 +20,7 @@ Dinking is crucial in doubles. Based on placement, it falls into three categorie
     *   *Note*: If the bounce goes wide of the sideline, be alert for an Around-The-Post (ATP) counter-attack.
 *   **Middle Dink**: Placing the ball between the two opponents. This can cause confusion about who should take the shot, potentially forcing a weak return.
 
-**Strategy Tip**: Generally, favor the cross-court dink. It minimizes unforced errors and limits the opponent's ability to volley. For example, to attack a straight dink, your return speed needs to be precise (5.0–6.8 m/s), whereas a cross-court dink allows for more speed (6.4–9.2 m/s). When scrambling or off-balance, aim for the middle to buy time and safely clear the low part of the net.
+**Strategy Tip**: Generally, favor the cross-court dink. The longer path gives you more net clearance and landing margin, while a straight dink demands tighter height, placement, and paddle-face control. When scrambling or off-balance, aim for the middle to buy time and safely clear the low part of the net.
 
 ## 6.2 When to Use the Dink
 
