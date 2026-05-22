@@ -1,6 +1,6 @@
 # Chapter 16 Erne Shot
 
-> **Recommended Level**: 3.5+ · Advanced attacking technique requiring precise timing and footwork
+> **Recommended Level**: 4.0+ · Advanced attacking technique requiring precise timing and footwork
 
 ## 16.1 What is Erne
 

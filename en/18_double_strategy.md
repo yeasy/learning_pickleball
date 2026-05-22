@@ -1,6 +1,6 @@
 # Chapter 18 Doubles Game Strategies
 
-> **Recommended Level**: 3.0+ · The most common game format — systematic study of teamwork and tactics
+> **Recommended Level**: 5.5+ · The decisive differentiator at advanced levels — systematic study of teamwork and tactics
 
 Double games are common in pickleball, and the core part is the efficient collaboration between players.
 

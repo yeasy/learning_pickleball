@@ -1,6 +1,6 @@
 # Chapter 17 Singles Game Strategies
 
-> **Recommended Level**: 3.0+ · Tactical thinking — connecting individual techniques into a complete game system
+> **Recommended Level**: 5.5+ · The decisive differentiator at advanced levels — overall strategy and mentality
 
 The singles game of pickleball requires the highest comprehensive ability.
 

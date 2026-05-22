@@ -1,6 +1,6 @@
 # Chapter 5 Serve and Return
 
-> **Recommended Level**: 2.0+ · Learn right after grip basics — the first shot of every rally
+> **Recommended Level**: 2.5+ · Learn right after grip basics — primary focus at 2.5 level
 
 The purpose of serving and receiving is to prepare for the next shot, and to avoid giving the opponent a good opportunity to attack or approach the net.
 

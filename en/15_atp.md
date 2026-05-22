@@ -1,6 +1,6 @@
 # Chapter 15 Around The Post
 
-> **Recommended Level**: 3.5+ · Advanced specialty shot requiring good judgment and touch
+> **Recommended Level**: 4.0+ · Advanced specialty shot requiring good judgment and touch
 
 ## 15.1 What is Around The Post
 
