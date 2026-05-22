@@ -36,11 +36,11 @@ Meanwhile, professional tournaments have been emerging rapidly. The Professional
 
 In 2018, the World Pickleball Federation (WPF) was officially established, aiming to further promote the sport globally.
 
-In 2020, the COVID-19 pandemic halted most global sporting events, leading people to seek safe outdoor activities. With its small court size, low physical impact, and ease of maintaining social distance, pickleball quickly became one of the most popular sports during the pandemic. Data shows that the number of core pickleball players grew from 2.5 million in 2019 to over 13 million in 2023, with an annual growth rate of over 50%.
+In 2020, the COVID-19 pandemic halted most global sporting events, leading people to seek safe outdoor activities. With its small court size, low physical impact, and ease of maintaining social distance, pickleball quickly became one of the most popular sports during the pandemic. Participation surveys show that total U.S. pickleball participants grew from the low millions before the pandemic to over 13 million in 2023, with different reports using different definitions for total, casual, and core players.
 
 In October 2023, the International Olympic Committee announced new sports for the 2028 Los Angeles Games, but pickleball was not included. Currently, the Global Pickleball Federation (GPF) is actively working towards promoting pickleball's inclusion as an official sport in the 2032 Brisbane Olympics.
 
-As of early 2026, recent APP and SFIA survey methodologies suggest that pickleball participation in the U.S. has reached the tens-of-millions scale. Figures such as “22 million+ core active players” and “50 million+ people who played at least once” refer to different survey definitions. The 25-34 age group has become the fastest-growing segment, indicating that the sport is becoming increasingly youthful and trendy.
+As of early 2026, recent APP and SFIA survey methodologies suggest that pickleball participation in the U.S. has reached the tens-of-millions scale. Figures such as “24 million+ total participants” and “nearly 50 million adults who played at least once” refer to different survey definitions and should not be mixed as core-player counts. The 25-34 age group has become one of the fastest-growing segments, indicating that the sport is becoming increasingly youthful and trendy.
 
 ## 1.2 Ball and Paddle
 
@@ -82,7 +82,7 @@ The overall amount of activity in pickleball is moderate, but it has rich skills
 
 ## 1.5 Status and Future
 
-According to recent participation surveys from APP (Association of Pickleball Players), the number of U.S. adults who played pickleball at least once in the past 12 months has reached roughly the 50-million range. This figure uses a different definition from the "core active player" count mentioned earlier, so the two numbers should not be mixed. The average age of players continues to decrease, with most professional tournament participants now ranging from 14 to 35 years old.
+According to recent participation surveys from APP (Association of Pickleball Players), the number of U.S. adults who played pickleball at least once in the past 12 months has reached roughly the 50-million range. This figure uses a different definition from frequent-player counts, so the two numbers should not be mixed. The average age of players continues to decrease, with most professional tournament participants now ranging from 14 to 35 years old.
 
 Beyond North America, pickleball has also gained significant popularity in Europe. In Asia, the sport is becoming increasingly widespread, with countries such as China, Japan, India, the Philippines, Singapore, Indonesia, Thailand, Malaysia, Bangladesh, and Pakistan actively adopting and organizing tournaments.
 
