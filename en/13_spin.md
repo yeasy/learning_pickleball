@@ -1,6 +1,6 @@
 # Chapter 13 Master Spin
 
-> **Recommended Level**: 3.0+ · Intermediate-advanced skill for adding variation and deception
+> **Recommended Level**: 3.5+ · Intermediate-advanced skill for adding variation and deception
 
 Spin is an important charm of ball games. Reasonable adoption of spin can allow to control the ball’s flight path and landing position in a better way.
 

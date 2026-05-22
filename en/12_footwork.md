@@ -1,6 +1,6 @@
 # Chapter 12 Master Footwork
 
-> **Recommended Level**: 2.5+ · Foundational movement skill — the earlier you invest, the faster you improve
+> **Recommended Level**: 5.0+ · Decisive factor at high levels — primary focus at 5.0 level
 
 Footwork is the soul of all ball sports.
 

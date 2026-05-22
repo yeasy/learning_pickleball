@@ -1,6 +1,6 @@
 # Chapter 9 How to Volley
 
-> **Recommended Level**: 2.5+ · A core scoring shot in doubles — start practicing early in your journey
+> **Recommended Level**: 4.0+ · A core scoring shot in doubles — primary focus at 4.0 level
 
 The **Volley** is a primary attacking shot in pickleball, often used to finish points, especially in doubles.
 

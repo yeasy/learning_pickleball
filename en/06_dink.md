@@ -1,6 +1,6 @@
 # Chapter 6 How to Dink
 
-> **Recommended Level**: 2.5+ · Core intermediate skill — essential for control and consistency
+> **Recommended Level**: 4.0+ · Net-rally control technique — primary focus at 4.0 level
 
 The **Dink** is the most common engagement shot in pickleball and serves as the foundation for the drop shot. Mastering the dink is essential for high-level play.
 

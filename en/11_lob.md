@@ -1,6 +1,6 @@
 # Chapter 11 How to Lob
 
-> **Recommended Level**: 3.0+ · A tactical weapon for changing rhythm and breaking pressure
+> **Recommended Level**: 3.5+ · A tactical weapon for changing rhythm and breaking pressure
 
 The Lob technique is close to the badminton technique of pushing the ball high and let it land to the backcourt.
 

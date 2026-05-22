@@ -1,6 +1,6 @@
 # Chapter 8 How to Drive
 
-> **Recommended Level**: 2.5+ · Fundamental offensive weapon, especially critical in singles
+> **Recommended Level**: 3.0+ · Fundamental offensive weapon — primary focus at 3.0 level
 
 The drive is one of the most common techniques to attack. Especially in singles, drive is often the key to win the game.
 

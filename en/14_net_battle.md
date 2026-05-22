@@ -1,6 +1,6 @@
 # Chapter 14 Net Battle: Attack and Defense
 
-> **Recommended Level**: 3.0+ · The decisive phase of doubles — requires combining multiple techniques
+> **Recommended Level**: 4.5+ · Attack and reset in doubles rallies — primary focus at 4.5 level
 
 Attack and defense in front of the net are often used in doubles games. It is the key for the game result. The rhythm is very fast and has high requirement on players' reaction.
 

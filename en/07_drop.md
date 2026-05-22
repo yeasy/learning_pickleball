@@ -1,6 +1,6 @@
 # Chapter 7 How to Drop
 
-> **Recommended Level**: 2.5+ · The key shot for transitioning to the net — the 3.0 breakthrough skill
+> **Recommended Level**: 3.5+ · The key shot for transitioning to the net — primary focus at 3.5 level
 
 Drop is the core technique to allow players to go to the net from backcourt. If you don't master the drop technique, you can't improve to an advanced level.
 
