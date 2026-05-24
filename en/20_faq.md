@@ -163,13 +163,13 @@ Players should choose an appropriate backhand according to their own preference.
 
 ## 20.14 [Q14] Why does pickleball look slow but feel fast?
 
-**Answer**: The speed of the pickle ball is usually only between 40\~60 km/h (i.e., 10\~16 m/s), much lower than that of badminton, tennis, and even table tennis. But in fact, when playing pickleball, you will find that the speed of the ball is very fast, and sometimes there is no time to react.
+**Answer**: In many beginner and recreational rallies, the ball speed may feel closer to 40\~60 km/h (about 10\~16 m/s), lower than badminton, tennis, or table tennis at their faster speeds. But in actual play, especially near the kitchen line, the ball can still feel extremely fast.
 
-The occurrence of this phenomenon is mainly due to the fact that players often need to counterattack quickly in front of the net in the pickleball game. Due to the relatively short distance and the fact that the pickleball basically does not slow down during its flight, players need to react in a very short time.
+The occurrence of this phenomenon is mainly due to the fact that players often need to counterattack quickly in front of the net in the pickleball game. Due to the relatively short distance, players need to react in a very short time even though the plastic ball loses speed during flight.
 
-The distance of about 2 meters on both sides of the pickleball net is the non-volley area. Players usually return the ball near the non-volley zone, and the actual hitting point is often above the non-volley zone, which makes the ball fly about 3 meters. If calculated at a speed of 15 m/s, it takes only 0.2 seconds from the opponent's shot to the time you need to hit the ball.
+The distance of about 2 meters on both sides of the pickleball net is the non-volley area. Players usually return the ball near the non-volley zone, and the actual hitting point is often above the non-volley zone, which can make the ball fly only a few meters. As a simplified estimate, a 3-meter exchange at 15 m/s leaves about 0.2 seconds before contact.
 
-In this extremely short 0.2 seconds, you need to judge the direction of the ball, move the position and swing the paddle, which is almost an impossible task for ordinary people. Therefore, although the speed of the pickleball is not high, the reaction time required is extremely short, making the game even more intense than tennis, comparable to the intensity of badminton.
+In this extremely short window, you need to judge the direction of the ball, move the position and swing the paddle. Therefore, although the absolute speed of the pickleball is not always high, the reaction time required can be extremely short, making kitchen exchanges feel very intense.
 
 ## 20.15 [Q15] How do I avoid getting passed at the net in singles?
 

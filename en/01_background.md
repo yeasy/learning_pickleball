@@ -44,7 +44,7 @@ As of early 2026, recent APP and SFIA survey methodologies suggest that pickleba
 
 ## 1.2 Ball and Paddle
 
-A pickleball ball is a hard plastic ball, slightly larger than a tennis ball, and is usually colored like yellow or orange. The diameter is usually 2.87\~2.97 inches and the weight is 0.78~0.935 ounces. There are 26 \~ 40 circular holes with a diameter of around 1 cm on the spherical surface (there are differences between indoor and outdoor balls, the softer and lighter indoor ball has 26 holes, the hole diameter is larger and fly more slowly). The rotation of the ball is not too violent, and at the same time the elasticity is not great, making it fly relatively slowly in the air.
+A pickleball ball is a hard plastic ball, slightly larger than a tennis ball, and is usually colored yellow or orange. The diameter is usually 2.87\~2.97 inches and the weight is 0.78~0.935 ounces. Approved balls have 26 to 40 circular holes; indoor balls often use fewer, larger holes, while outdoor balls often use more, smaller holes. The rotation of the ball is not too violent, and at the same time the elasticity is not great, making it fly relatively slowly in the air.
 
 ![Various types of Pickleballs](../_images/various-type-balls.png)
 
@@ -54,7 +54,7 @@ The paddle of the Pickleball is like a large table tennis paddle without rubber,
 
 ## 1.3 Basic Rules
 
-The pickleball field measures 44x20 feet and the net is 34 inches high in the middle and 36 inches high on the side. At least 10 feet (approximately 3 meters) of distance should remain after the baseline, and at least 7 feet of distance should be remained from the sideline. The line width is 2 inches. For indoor courts, there must be at least 20 feet (approximately 6.1 meters) height from the ceiling.
+The pickleball court measures 44x20 feet and the net is 34 inches high in the middle and 36 inches high at the sidelines. Official guidance separates the court lines from the surrounding playing surface: 30x60 feet is the minimum playing surface, while 34x64 feet is recommended for new construction and tournament play. The line width is 2 inches. Indoor ceiling clearance depends on the venue and tournament specification rather than a universal court-line rule.
 
 The ground area within 7 feet (approximately 2.13 meters) on both sides of the net is called the "Non-Volley Zone (NVZ)" or "Kitchen". Players may enter the NVZ to play a ball that has bounced. The restriction applies to volleying: a player, or anything in contact with the player, may not contact the NVZ during the act of volleying, and after entering the NVZ both feet must re-establish completely outside the zone before the player volleys.
 
