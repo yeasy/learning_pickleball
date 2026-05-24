@@ -26,4 +26,8 @@ _mdpress_langs.html
 .idea/
 .DS_Store
 
+# Python bytecode
+__pycache__/
+*.pyc
+
 .agent/
