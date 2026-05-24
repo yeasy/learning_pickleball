@@ -58,8 +58,37 @@ The key to returning the ball is to try to make it difficult for the opponent to
 
 The return can use a hitting action, or a slicing action. When you want to have more time to run to the net, you can return the ball high and let it fall to the opponent's backcourt.
 
-## 5.5 Training Methods
+## 5.5 Common Mistakes and Corrections
 
-The serve and return skill can be trained with multiple balls practice. Try to continuously return the ball to the designated area. Practice no less than 10 groups with 50 balls per group every day.
+* **Swinging too soon**: Starting the swing immediately after the toss often weakens power transfer and control. Correction: wait about half a second after the toss, turn the body fully toward the target, and let the legs drive the swing.
+
+* **Standing too close to the line**: A tight stance makes it easy to step on the line or into the non-volley zone after contact. Correction: keep the back foot near the line and leave about 30 cm between the front foot and the line.
+
+* **Serving into the net or long**: This usually comes from poor power control or paddle angle. Correction: start with a conservative deep target, then move the landing point closer to the baseline as consistency improves.
+
+* **Reacting slowly to the serve**: Standing too deep or losing focus makes the return late. Correction: stand one step closer to the baseline, watch the server's arm, and read the landing point early.
+
+* **Failing to move up after the return**: Hesitation after contact gives up court position. Correction: move toward the kitchen line as soon as the ball leaves the paddle, aiming to arrive before the return bounces.
+
+## 5.6 Training Methods
+
+The serve and return skill can be trained with multiple-ball drills. Use the following progression:
+
+### Beginner
+
+* Serve to a designated area: 20 consecutive successful serves × 3 sets
+* Target: the diagonal half court, allowing a relatively wide margin
+
+### Intermediate
+
+* Serve to a designated area: 30 consecutive successful serves × 5 sets
+* Target: near the baseline, with an error margin under 0.5 m
+* Master 2 types of spin: topspin and flat/no-spin
+
+### Advanced
+
+* Serve to a designated area: 50 consecutive successful serves × 10 sets
+* Target: near the baseline, with precise control of spin and speed changes
+* Master 3 types of spin: topspin, flat/no-spin, and backspin, while serving from different positions
 
 After you are proficient, you can practice serving different spins with the same movement, and returning the ball of different spins.
