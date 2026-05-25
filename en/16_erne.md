@@ -44,7 +44,7 @@ Erne attacks are fast with tricky angles, making them difficult to defend. Effec
 * **Lower net clearance**: Keep your dinks as low over the net as possible, so even if they complete the Erne, they can only hit upward, making it hard to attack;
 * **Block volley defense**: Against an Erne attack, use a block volley to absorb their power and redirect the ball to their backcourt or open space;
 * **Lob to backcourt**: If your opponent has already left their normal position and moved off-court, lobbing to the open backcourt behind them is the safest choice;
-* **Target their body**: If the opponent is mid-jump, aim directly at their body (especially the paddle-side shoulder), making it difficult for them to adjust their paddle face.
+* **Choose safe targets**: If the opponent is mid-jump, prioritize the open court, their feet, or a soft block/lob reset; in recreational play, avoid aiming at the head, neck, shoulders, or an airborne player's body.
 
 **Erne vs. ATP Defense Differences:**
 

@@ -2,7 +2,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/yeasy/learning_pickleball.svg?style=social&label=Star)](https://github.com/yeasy/learning_pickleball)
 [![GitHub release](https://img.shields.io/github/release/yeasy/learning_pickleball.svg)](https://github.com/yeasy/learning_pickleball/releases)
-[![PDF](https://img.shields.io/badge/PDF-下载-orange)](https://github.com/yeasy/learning_pickleball/releases/latest)
+[![PDF](https://img.shields.io/badge/PDF-download-orange)](https://github.com/yeasy/learning_pickleball/releases/latest)
 [![License](https://img.shields.io/badge/license-custom-blue)](LICENSE)
 
 <p align="center">
