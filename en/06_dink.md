@@ -90,8 +90,8 @@ When dinking, watch for a ball that floats too high. This is your cue to "speed 
 ### When to Attack
 
 1.  **The "Pop-Up"**: If the ball clears the net with too much height, attack it downward towards the opponent's feet or open court.
-2.  **Off-Balance Opponent**: If the opponent is reaching or stumbling, speed up the ball to their body or open space.
-3.  **Surprise**: Occasionally flick a speed-up shot directly at the opponent's chest (the "chicken wing" area) to jam them.
+2.  **Off-Balance Opponent**: If the opponent is reaching or stumbling, speed up the ball to their feet, backhand hip, or open space.
+3.  **Surprise**: Occasionally flick a speed-up shot toward a low backhand-hip lane to jam them, but avoid the head, neck, shoulder, or any airborne player.
 
 ### Target Selection
 

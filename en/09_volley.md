@@ -39,7 +39,7 @@ Types of volleys based on location:
 **Placement**:
 *   **Deep**: Aim for the opponent's feet near the baseline.
 *   **Open Space**: Angle the ball away from the opponent.
-*   **The Body**: "Jam" the opponent by aiming at their right hip/shoulder.
+*   **Low Body Line**: For recreational play, keep "jam" volleys low: aim near the feet or backhand hip, and avoid the head, neck, shoulder, or any airborne player.
 *   **The Middle**: In doubles, confusion often occurs down the center line.
 
 ![Volley Target Areas](../_images/volley-target.png)
