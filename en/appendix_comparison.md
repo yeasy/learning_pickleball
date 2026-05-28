@@ -2,7 +2,7 @@
 
 Many players have backgrounds in other racquet sports (tennis, badminton, table tennis, etc.) before taking up pickleball. Understanding the similarities and differences between pickleball and other sports can help players with existing racquet sports experience adapt and improve faster, while avoiding improper technique transfer.
 
-## 24.1 Pickleball vs Tennis: Technical Transition Guide
+## A5.1 Pickleball vs Tennis: Technical Transition Guide
 
 ### Similarities
 
@@ -79,7 +79,7 @@ Tennis players transitioning to pickleball have several advantages:
 - Apply match experience to make better decisions on important points
 - Use speed and power to attack against defensive opponents
 
-## 24.2 Pickleball vs Badminton: Similarities and Differences
+## A5.2 Pickleball vs Badminton: Similarities and Differences
 
 ### Similarities
 
@@ -142,7 +142,7 @@ Badminton players are accustomed to starting from the backcourt and gradually ad
 - Use your quick reaction ability to respond to fast shots from opponents
 - Emphasize control and strategy rather than power
 
-## 24.3 Pickleball vs Table Tennis: Hand and Wrist Technique Transfer
+## A5.3 Pickleball vs Table Tennis: Hand and Wrist Technique Transfer
 
 ### Similarities
 
@@ -206,7 +206,7 @@ In table tennis, footwork is typically small steps with in-place rotation. In pi
 - Use your quick reaction ability for rapid movement and striking
 - Leverage mental toughness to perform steadily on important points
 
-## 24.4 Pickleball vs Padel: Translating Wall Play into Early Court Reading
+## A5.4 Pickleball vs Padel: Translating Wall Play into Early Court Reading
 
 Padel and pickleball both reward doubles positioning, low serves, patient point construction, and net pressure, but the playing environments are fundamentally different. Padel is played on an enclosed 20×10m court where the ball can remain live after bouncing and contacting the wall; pickleball is played on an open 44×20ft court where the no-volley zone limits net aggression. A padel player does not mainly need more touch; they need earlier decisions because there is no wall to buy time.
 
@@ -223,7 +223,7 @@ Padel and pickleball both reward doubles positioning, low serves, patient point 
 - **Shorten backswing and follow-through**: Padel allows a fuller swing; pickleball's close net exchanges demand compact actions, a stable paddle face, and faster recovery.
 - **Rethink net aggression**: Padel net pressure is more direct; pickleball net play must respect the no-volley-zone boundary, so not every high ball is a volley opportunity.
 
-## 24.5 General Advice for Converting from Other Racquet Sports
+## A5.5 General Advice for Converting from Other Racquet Sports
 
 Regardless of your racquet sports background, the following general advice can help you adapt to pickleball faster:
 
@@ -276,7 +276,7 @@ Finally, the most important point is psychological adjustment. Many athletes tra
 - Respect each sport's unique qualities: Acknowledge pickleball's unique appeal and demands
 - Set realistic goals: Expect 3-6 months to reach competitive level
 
-## 24.6 The Science of Cross-Sport Skill Transfer
+## A5.6 The Science of Cross-Sport Skill Transfer
 
 Although different racquet sports have differences, certain core skills can transfer between them:
 
