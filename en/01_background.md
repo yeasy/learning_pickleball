@@ -2,7 +2,7 @@
 
 Pickleball, as an emerging sport born in the 1960s, has swept North America and attracted more and more interests among people worldwide.
 
-Pickleball combines the skills of tennis, badminton, table tennis and other sports. It is fun to play, easy to learn, and moderate in intensity, and players are unlikely to get injured. It can be described as suitable for all ages. Anyone in their 70s or 80s, or children in their teens, can participate.
+Pickleball combines the skills of tennis, badminton, table tennis and other sports. It is fun to play, easy to learn, and lower impact than many racket sports, but it still requires warm-up, proper technique, and safety awareness. It can be described as suitable for all ages. Anyone in their 70s or 80s, or children in their teens, can participate.
 
 ## 1.1 Origin and Development
 
