@@ -253,9 +253,9 @@ The serve is the only strike completely controlled by the server, making it key 
    - Leg drive provides foundation force
 
 3. **Striking point**
-   - Optimal striking point: In front and above the body, approximately at shoulder height or slightly higher
-   - This position allows the paddle to move upward from below, producing topspin
-   - Simultaneously, this position ensures adequate force-generating space
+   - Legal volley-serve contact point: In front of the body, at waist height or below
+   - The paddle still needs a clear upward arc from below to produce topspin
+   - Do not raise contact to shoulder height for power; drop serves and general strokes use different mechanics than a legal volley serve
 
 4. **Follow-Through**
    - After striking, the arm should continue moving upward and forward
