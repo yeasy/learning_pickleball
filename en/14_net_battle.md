@@ -19,7 +19,7 @@ When attacking, pay attention to the following points:
 * The offensive action should be concealed, so that the opponent cannot judge the intention in advance;
 * Mainly exert force through the wrist and fingers, to hit quickly and rub the ball at the same time;
 * Keep the ball's flight trajectory not high, e.g., just passing the net. It is easy to be defended if it is too high;
-* The attack target is mainly between the two players, and you can also try the backhand position or the shoulder of the paddle side.
+* The attack target is mainly between the two players, at the feet, in the open space, or near the backhand hip. Avoid head, shoulder, and airborne-player targets, especially in recreational play.
 
 ## 14.2 How to Defense
 
@@ -27,7 +27,7 @@ Due to the short flight distance of the attacking ball in front of the net, play
 
 First, it is necessary to keep ready for defense at any time, and the rhythm of body movement should follow the rhythm of hitting by the opponent. When the ball is flying in the air, your body can move with the ball; when the opponent hits the ball, your body should remain relatively still, to get ready to defend or counterattack.
 
-In addition, pay attention to the protection of the neutral position, including the position between two players, the backhand position, the paddle side shoulder, etc. These are the main attack targets by the opponent.
+In addition, pay attention to the protection of neutral positions, including the gap between two players, the backhand side, and the feet. These are safer, common attack targets by the opponent.
 
 The key tips of defending include:
 
@@ -82,7 +82,7 @@ A backhand shot using an upward wrist roll to create topspin, causing the ball t
 
 * **Technique**: Start with paddle face slightly closed (angled down), roll the wrist upward to generate topspin. The swing path follows an upward arc
 * **When to use**: When the ball is around net-tape height with enough time to execute
-* **Target**: Opponent's body or feet—topspin causes rapid descent after clearing the net
+* **Target**: Opponent's feet, backhand hip, or open gap—topspin causes rapid descent after clearing the net
 * **Advantage**: Topspin makes the ball difficult to volley cleanly, good placement control
 
 ### Flick

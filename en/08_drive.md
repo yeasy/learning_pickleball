@@ -34,7 +34,7 @@ The most common in-game dilemma is "should I drive or drop?" This quick-referenc
 
 | Situation | Recommended Shot | Why |
 |-----------|-----------------|-----|
-| Opponents at the net, ball bounces high | Drive (at the body or gap) | A high ball is an attack opportunity — drives are fast and cut reaction time |
+| Opponents at the net, ball bounces high | Drive (feet or gap) | A high ball is an attack opportunity — drives are fast and cut reaction time |
 | Opponents at the net, ball stays low | Drop / Dink | Low drives tend to pop up and get punished — a soft shot is safer |
 | You're at the baseline, opponents at the net | Mostly drop, occasional drive | Drops help you advance; drives disrupt rhythm or surprise |
 | Both sides at the baseline | Drive | With both teams back, drives contest for initiative |
@@ -51,7 +51,7 @@ It should be noted that the surface of the Pickleball and paddle is relatively s
 
 The backhand is basically symmetrical with the forehand. Try to hit with one hand to have more space to generate power and send the ball with a wider angular range. If you do not have enough power using one backhand, you can use both hands to hit the back hand shot in a shorter movement, which can stabilize the paddle.
 
-In doubles, the Drive can generally target the space between players, or the gap of defense. When the opponent's defensive ability is weak, you can also deliberately hit the ball to the body (such as the shoulder of the holding paddle side), causing the opponent to make mistakes.
+In doubles, the Drive can generally target the space between players, low defensive gaps, the feet, or the backhand hip area. In recreational or social play, avoid aiming at the head, shoulder, or an airborne player; use placement and pace to force errors without turning the shot into a direct body slam.
 
 In singles, the Drive should mainly aim at the opponent's defense gap, and the gesture should be as small as possible, in order to prevent the opponent from predicting easily.
 
