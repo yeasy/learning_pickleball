@@ -97,11 +97,11 @@ Core and surface materials determine paddle feel, durability, and performance.
    - Best for: Players wanting both performance and comfort
 
 
-> **Thermoforming Technology**: The dominant manufacturing process for mid-to-high-end paddles in 2024-2026. Heat-molding fuses the paddle frame and face into a unibody construction, eliminating traditional glued-edge seams. Benefits include more consistent weight distribution, larger effective hitting area, and better edge stability. JOOLA, Selkirk, CRBN, and virtually all major brands now use thermoforming for their competitive-grade paddles. When shopping for mid-to-high-end paddles, thermoforming is no longer a bonus feature—it's the baseline.
+> **Thermoforming Technology**: A common manufacturing process in many mid-to-high-end paddles in 2024-2026. Heat-molding fuses the paddle frame and face into a unibody construction, reducing traditional glued-edge seams. Benefits may include more consistent weight distribution, a larger effective hitting area, and better edge stability. Brands such as JOOLA, Selkirk, and CRBN offer thermoformed competitive-grade paddles, but construction details still vary by model. When shopping for mid-to-high-end paddles, treat thermoforming as one important specification to compare rather than an automatic upgrade.
 
 4. **Foam Core (Gen-4)**
    - Material: Solid foam core (typically Expanded Polypropylene / EPP or similar), replacing traditional honeycomb structure
-   - Characteristics: The biggest breakthrough in paddle technology for 2025-2026, known as "Generation 4" (Gen-4). By 2026, virtually all major brands offer foam core products
+   - Characteristics: An emerging paddle technology for 2025-2026, often marketed as "Generation 4" (Gen-4). By 2026, more brands have introduced foam-core products, but availability and naming still vary by manufacturer
    - Advantages: Larger and more uniform sweet spot (no honeycomb boundary effects), no core crushing issues, extremely consistent shot performance, excellent vibration absorption
    - Disadvantages: Higher price, feel differs significantly from traditional honeycomb paddles (more "dense"), requires 1-2 weeks adjustment period
    - Price: $200-450

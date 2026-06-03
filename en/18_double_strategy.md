@@ -90,9 +90,9 @@ In mixed doubles, the skill gap between male and female players requires thought
 
 ### Offensive Strategy
 
-*   **Target the Female Player**: Create more pressure on the opponent's female player's side;
-*   **Move the Male Player**: Use wide-angle shots to move the opponent's male player, creating opportunities to attack the female player;
-*   **Middle Ball Coordination**: Middle balls should be handled by the male player primarily to avoid confusion.
+*   **Target the Defensively Weaker Side**: Create more pressure on the opponent who is less stable defensively. This applies to mixed doubles and to any pairing with an ability gap;
+*   **Move the Stronger Defender**: Use wide-angle shots to move the opponent's stronger defender, creating opportunities to attack the weaker side;
+*   **Middle Ball Coordination**: Middle balls should be handled primarily by the player with stronger court coverage to avoid confusion.
 
 ### Defensive Strategy
 
