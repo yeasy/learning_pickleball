@@ -308,7 +308,7 @@ With advancing age, muscle mass and bone density naturally decline, and movement
 
 **Protection Focus:**
 - **Fall Prevention**: Practice balance and proprioceptive training to reduce fall risk
-- **Bone Density Maintenance**: Perform weight-bearing exercises and moderate high-impact activities (light jumping) to slow bone loss
+- **Bone Density Maintenance**: Perform weight-bearing exercises, and add moderate high-impact activities (such as light jumping) only when medically appropriate; if you have osteoporosis, joint pain, balance problems, or a fracture history, choose low-impact strength and balance training after medical guidance
 - **Cardiovascular Health**: Perform moderate-intensity aerobic activities, such as light rallying and movement
 - **Independence Maintenance**: Train muscles supporting daily activities (rising, walking, climbing stairs)
 
