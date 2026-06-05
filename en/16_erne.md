@@ -52,5 +52,5 @@ An Erne involves jumping over the NVZ from the side to intercept, with the attac
 
 ## 16.5 Training Method
 
-* Multi-ball practice: one player stands in the non-volley area and repeatedly gives volleys. Another player practices defense;
+* Multi-ball practice: one player stands outside the non-volley zone, or feeds balls only after a bounce, and repeatedly sends varied balls. Another player practices defense;
 * Interactive practice: Both sides simulate the game scene, practice hitting and defending Erne shots.
