@@ -38,7 +38,7 @@
 ## English Contents
 
 * [Chapter 1 - Background Knowledge](en/01_background.md)
-* [Chapter 2 - Differentiated Learning Pathways by Skill Level](en/02_learning_pathways.md)
+* [Chapter 2 - Learning Pathways](en/02_learning_pathways.md)
 * [Chapter 3 - Hold Paddle and Hit the Ball](en/03_hold_paddle.md)
 * [Chapter 4 - Fitness and Injury Prevention](en/04_fitness.md)
 * [Chapter 5 - Serve and Return](en/05_serve.md)

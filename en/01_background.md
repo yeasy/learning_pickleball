@@ -68,7 +68,7 @@ Taking doubles as an example, each game is usually played to 11 points, and in a
 
 **Note: Evolution of Scoring Rules**
 
-Traditional pickleball rules employed "Side-out Scoring," where only the serving team can earn points when they win a rally. However, with the growth of professional pickleball, the PPA (Professional Pickleball Association) and other professional tours have experimented with "Rally Scoring" in selected events (MLP reverted main doubles matches to side-out scoring in 2026), where the winner of every rally scores points, regardless of whether they are the serving team. This makes matches faster-paced and more exciting, and easier to watch. Beginners should understand both scoring systems to adapt to different tournaments and opponents of varying levels.
+Traditional pickleball rules employed "Side-out Scoring," where only the serving team can earn points when they win a rally. However, with the growth of professional pickleball, the PPA (Professional Pickleball Association) and other professional tours have experimented with "Rally Scoring" in selected events; MLP's 2025 competition structure switched its main doubles format back to side-out scoring while keeping DreamBreakers under rally scoring. Beginners should understand both scoring systems to adapt to different tournaments and opponents of varying levels.
 
 ## 1.4 Pickleball Features
 
@@ -82,7 +82,7 @@ The overall amount of activity in pickleball is moderate, but it has rich skills
 
 ## 1.5 Status and Future
 
-According to recent participation surveys from APP (Association of Pickleball Players), the number of U.S. adults who played pickleball at least once in the past 12 months has reached roughly the 50-million range. This figure uses a different definition from frequent-player counts, so the two numbers should not be mixed. The average age of players continues to decrease, with most professional tournament participants now ranging from 14 to 35 years old.
+Recent SFIA participation reporting estimates that 24.3 million Americans played pickleball in 2025, up from 4.2 million in 2020. This is a participation count, not a frequent-player or tournament-player count. The player base has also broadened across age groups, with especially strong participation among teens, young adults, adults ages 25-44, and players 65+.
 
 Beyond North America, pickleball has also gained significant popularity in Europe. In Asia, the sport is becoming increasingly widespread, with countries such as China, Japan, India, the Philippines, Singapore, Indonesia, Thailand, Malaysia, Bangladesh, and Pakistan actively adopting and organizing tournaments.
 
