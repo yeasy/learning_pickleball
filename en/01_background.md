@@ -82,7 +82,7 @@ The overall amount of activity in pickleball is moderate, but it has rich skills
 
 ## 1.5 Status and Future
 
-Recent SFIA participation reporting estimates that 24.3 million Americans played pickleball in 2025, up from 4.2 million in 2020. This is a participation count, not a frequent-player or tournament-player count. The player base has also broadened across age groups, with especially strong participation among teens, young adults, adults ages 25-44, and players 65+.
+Recent SFIA participation reporting estimates that 24.3 million Americans played pickleball in 2025, up from 4.2 million in 2020. This is a participation count, not a frequent-player or tournament-player count. The player base has also broadened across age groups — spanning teens through seniors — with especially strong participation among young adults, adults ages 25-44, and players 65+.
 
 Beyond North America, pickleball has also gained significant popularity in Europe. In Asia, the sport is becoming increasingly widespread, with countries such as China, Japan, India, the Philippines, Singapore, Indonesia, Thailand, Malaysia, Bangladesh, and Pakistan actively adopting and organizing tournaments.
 
