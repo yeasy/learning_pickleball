@@ -295,7 +295,7 @@ In practice, many pickleball players wear tennis shoes on the court. Tennis shoe
 
 ## A6.4 Accessory Recommendations
 
-While not absolutely necessary, the following accessories can improve comfort and prevent injury:
+While not absolutely necessary, the following accessories can improve comfort and reduce injury risk:
 
 ### Wrist Guard
 

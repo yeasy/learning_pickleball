@@ -62,7 +62,7 @@ The return can use a hitting action, or a slicing action. When you want to have 
 
 * **Swinging too soon**: Starting the swing immediately after the toss often weakens power transfer and control. Correction: wait about half a second after the toss, turn the body fully toward the target, and let the legs drive the swing.
 
-* **Standing too close to the line**: A tight stance makes it easy to step on the line or into the non-volley zone after contact. Correction: keep the back foot near the line and leave about 30 cm between the front foot and the line.
+* **Standing too close to the line**: A tight stance makes it easy to touch the baseline/court or step outside the correct serving area at contact. Correction: keep the back foot near the line and leave about 30 cm between the front foot and the line.
 
 * **Serving into the net or long**: This usually comes from poor power control or paddle angle. Correction: start with a conservative deep target, then move the landing point closer to the baseline as consistency improves.
 
