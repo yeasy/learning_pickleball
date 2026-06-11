@@ -340,7 +340,7 @@ By targeting these metrics for improvement through training, players can signifi
 Pickleball is a sport requiring both power and speed, as well as precise control. Understanding the physics and biomechanical principles behind these techniques can help players:
 
 1. **Improve technique more effectively**: Know why certain movements are correct, not just how to perform them
-2. **Prevent injuries**: Understand which movement patterns may cause injury and how to avoid them through proper correction
+2. **Reduce injury risk**: Understand which movement patterns may cause injury and how to lower risk through proper correction
 3. **Optimize training**: Concentrate limited time and effort on the most effective training
 4. **Adapt to different conditions**: Dynamically adjust strategy based on ball speed, spin, opponent style, and other factors
 

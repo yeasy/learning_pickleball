@@ -13,7 +13,7 @@
 
 **Pickleball** is an emerging sport combining features from tennis, badminton, and table tennis. It's easy to start, moderate in intensity, and highly entertaining. This book systematically introduces techniques from beginner to advanced levels to help you enjoy the sport safely.
 
-**匹克球** 是一项风靡全球的新兴运动，融合了网球、羽毛球和乒乓球的特点。它上手容易、运动量适中且趣味性强。本书结合北美教学实践，系统讲解匹克球技术，帮助读者科学训练，避免伤痛，享受运动乐趣。
+**匹克球** 是一项风靡全球的新兴运动，融合了网球、羽毛球和乒乓球的特点。它上手容易、运动量适中且趣味性强。本书结合北美教学实践，系统讲解匹克球技术，帮助读者科学训练，降低伤痛风险，享受运动乐趣。
 
 > 本书支持多语言版本。 This book supports multiple languages.
 > - 🇨🇳 **[阅读中文版 (Read in Chinese)](cn/README.md)** [下载 pdf](https://github.com/yeasy/learning_pickleball/releases/latest)
