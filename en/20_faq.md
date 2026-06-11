@@ -138,7 +138,7 @@ Finally, the **lack of training the IQ of playing**. Practicing hard may build u
 **Answer**: High-level athletes often force the opponent to make mistakes by returning the ball to the gap. Specifically, there are the following types of gaps.
 
 * **Court Gap**: Commonly used in singles. It refers to the area far away from the opponent, which can force the opponent to run to return the ball;
-* **Technical Gap**: Refers to the technical weakness of the opponent. For example, most people are weak in returning the ball from the backhand position or the shoulder position of the forehand;
+* **Technical Gap**: Refers to the technical weakness of the opponent. For example, most people are weak in returning balls at their feet or from the backhand position (in recreational play, avoid targeting the upper body or head);
 * **Awareness Gap**: Refers to the area where the opponent's awareness cannot cover. For example, the opponent predicts in advance that the return mostly goes to the backhand and prepare to move to the backhand position. At this moment, there is an awareness gap in the forehand position;
 * **Cooperation Gap**: Commonly used in doubles. It refers to the difficult decision-making area by the opponent's two players, such as the area between the two players, or the area where both players can return the ball;
 * **Rhythm Gap**: This refers to the interval between the rhythms of returning the ball. For example, when the opponent intends to hit the ball, it does not come; but when they are not ready to hit, the ball suddenly arrives. Rhythm gaps can make it difficult for the opponent to return the ball consecutively, thereby increasing the likelihood of errors.

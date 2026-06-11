@@ -12,7 +12,7 @@ The purpose of footwork is to leave enough time and space for the body to hit th
 
 Common footwork includes stride step, cross steps, jump step, adjustment steps, and split step.
 
-**Stride Steps** refers to the action of striding the legs out in the direction of motion. The stride is large and is generally used for the last step in running, which can help stabilize the body.
+**Stride Steps** (lunge) refers to the action of striding the legs out in the direction of motion. The stride is large and is generally used for the last step in running, which can help stabilize the body.
 
 **Cross Steps** are the movements of moving your legs crossed quickly. Cross steps are smaller steps and are generally used to move quickly or fine-tune your body position.
 
