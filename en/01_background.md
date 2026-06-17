@@ -6,13 +6,13 @@ Pickleball combines the skills of tennis, badminton, table tennis and other spor
 
 ## 1.1 Origin and Development
 
-In the summer of 1965, pickleball was invented by Congressman Joel Pritchard (1925 \~ 1997) and his friends Bill Bell (1923 \~ 2006) and Barney McCallum (1926 \~ 2019) while vacationing on Bainbridge Island in Seattle, USA.
+In the summer of 1965, pickleball was invented by Congressman Joel Pritchard (1925 \~ 1997) and his friends Bill Bell (1923 \~ 2006) and Barney McCallum (1926 \~ 2019) while vacationing on Bainbridge Island, Washington, near Seattle.
 
 ![The Birth of Pickleball](../_images/pickleball-born.png)
 
 The inventors of the Pickleball are keen on playing badminton and tennis, but due to the high entry threshold, their families cannot enjoy sports with them together. So they want to create a sport for all ages. On a summer Saturday, Joel Pritchard and his friend Bill Bell returned home from a round of golf to find that their family had nothing to do. There was an abandoned badminton court in the community, but they didn't have all the badminton equipment, so they improvised and hit a plastic ball with a hole in it with a table tennis paddle. At first they played with a badminton net, but soon found that the net was lowered and played as a tennis ball. The plastic ball bounced very well on the asphalt. Later, Barney McCallum was also invited to join the game. The three refer to the badminton game at that time, and considering the convenience of family members who have no sports foundation to participate together, they formulated the earliest game rules of pickleball. Interestingly, the name "pickleball" comes from a local rowing term. A "Pickle Boat" refers to a boat made up of rowers who were not selected by any team, usually finishing last in the race.
 
-Over time, more and more people began to enjoy the sport. In 1967, the first dedicated pickleball court was built in Bob O’Brien’s backyard, marking the transition of pickleball from makeshift court markings to an independent sport.
+Over time, more and more people began to enjoy the sport. In 1967, the first permanent pickleball court was built at Joel and Joan Pritchard's Magnolia Bluff home in Seattle, marking the transition of pickleball from makeshift court markings to an independent sport.
 
 In 1968, Pritchard's son, David Pritchard, and a few friends recognized the commercial potential of the sport. They founded "Pickle-Ball Inc." and began manufacturing wooden paddles and complete pickleball equipment sets. In 1972, they successfully trademarked the name "Pickleball," officially transitioning it from a casual family game to a commercialized sport.
 
@@ -32,7 +32,7 @@ In 2016, the first U.S. Open Pickleball Championships were held in Naples, Flori
 
 In 2017, the first international pickleball tournament was held in Madrid, Spain. To honor the sport’s origins, the tournament’s trophy was named the "Bainbridge Cup." The event has since been hosted in Spain (2017), Italy (2018), Germany (2019), the U.S. (2021), and India (2022).
 
-Meanwhile, professional tournaments have been emerging rapidly. The Professional Pickleball Association (PPA) was established in 2017, followed by APP, now the Association of Pickleball Players (formerly Association of Pickleball Professionals), and Major League Pickleball (MLP) in 2021. These organizations have attracted numerous professional athletes and investors, including sports icons like LeBron James and Tom Brady, who have invested in pickleball clubs.
+Meanwhile, professional tournaments have been emerging rapidly. The Professional Pickleball Association (PPA) was established in 2019, followed by APP, now the Association of Pickleball Players (formerly Association of Pickleball Professionals), and Major League Pickleball (MLP) in 2021. These organizations have attracted numerous professional athletes and investors, including sports icons like LeBron James and Tom Brady, who have invested in pickleball clubs.
 
 In 2018, the World Pickleball Federation (WPF) was officially established, aiming to further promote the sport globally.
 

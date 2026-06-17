@@ -6,13 +6,13 @@
 
 ## 1.1 起源与发展
 
-1965 年夏天，匹克球由国会议员 Joel Pritchard（1925 \~ 1997）和其朋友 Bill Bell（1923 \~ 2006）、Barney McCallum（1926 \~ 2019）在美国西雅图市的贝恩布里奇岛 （Bainbridge Island）度假时发明。
+1965 年夏天，匹克球由国会议员 Joel Pritchard（1925 \~ 1997）和其朋友 Bill Bell（1923 \~ 2006）、Barney McCallum（1926 \~ 2019）在美国华盛顿州贝恩布里奇岛（Bainbridge Island，近西雅图）度假时发明。
 
 ![匹克球的诞生](../_images/pickleball-born.png)
 
 几位发明人都热衷于打羽毛球和网球，但因门槛较高，其家人经常无法参与一起享受这些运动的乐趣。他们一直想创造一项老少皆宜的运动。在一个夏天的周六，刚打完高尔夫球的 Joel Pritchard 和朋友 Bill Bell 回到了家中，发现他们的家人都闲着没什么事可做。社区内有一个废弃的羽毛球场，但是他们没找齐羽毛球设备，于是即兴发挥，用乒乓球拍打一个穿了孔的塑料球。最开始他们隔着羽毛球网打，很快发现把网降低后当网球打，塑料球在沥青地面上弹跳得很不错。后来，Barney McCallum 也被邀请加入了游戏中。三个人参考当时的羽毛球规则，并且考虑到方便没有运动基础的家人们一起参与，制定了匹克球最早的游戏规则。值得说明的是，匹克球这个名字源于当地的赛艇活动。“Pickle Boat”是指由没有队伍愿意挑选的选手组成的船，通常是比赛的最后一名。
 
-此后，越来越多的人开始喜欢这项运动。1967 年，第一座专门的匹克球场在 Bob O’Brien 的后院建成，标志着匹克球正式从“线条游戏”发展为独立的运动项目。
+此后，越来越多的人开始喜欢这项运动。1967 年，第一座永久性匹克球场在西雅图 Joel 和 Joan Pritchard 位于 Magnolia Bluff 的家中建成，标志着匹克球正式从“线条游戏”发展为独立的运动项目。
 
 1968 年，普里查德的儿子戴维（David Pritchard）和几位朋友看到了这项运动的商业潜力，他们成立了“Pickle-Ball Inc.”，并开始生产木质球拍和完整的匹克球装备包。1972 年，他们成功注册了匹克球的商标，这意味着匹克球不再只是一个家庭娱乐游戏，而是正式迈向了商业化。
 
@@ -32,7 +32,7 @@
 
 2017 年，首届国际匹克球大赛在西班牙马德里举行，为了纪念匹克球的发明，其奖杯命名为“贝恩布里奇岛杯（Bainbridge Cup）”。先后在西班牙（2017）、意大利（2018）、德国（2019）、美国（2021）、印度（2022）等国家举办。
 
-与此同时，职业赛事如雨后春笋般涌现。PPA（Professional Pickleball Association，2017 年）、APP（现为 Association of Pickleball Players，原 Association of Pickleball Professionals）以及“匹克球大联盟”（Major League Pickleball，MLP，2021 年）相继成立，吸引了众多职业运动员和投资人，包括勒布朗·詹姆斯、汤姆·布雷迪等体育巨星也纷纷投资匹克球俱乐部。
+与此同时，职业赛事如雨后春笋般涌现。PPA（Professional Pickleball Association，2019 年）、APP（现为 Association of Pickleball Players，原 Association of Pickleball Professionals）以及“匹克球大联盟”（Major League Pickleball，MLP，2021 年）相继成立，吸引了众多职业运动员和投资人，包括勒布朗·詹姆斯、汤姆·布雷迪等体育巨星也纷纷投资匹克球俱乐部。
 
 2018 年，世界匹克球联盟（World Pickleball Federation，WPF）正式成立，同样希望能在全球范围内推动匹克球的普及。
 
