@@ -34,11 +34,11 @@ The basic courtesy rules include:
 
 ### Pickleball Is a Newly Invented Sport
 
-Pickleball was actually invented in 1965 and has nearly 60 years of history, which is much longer than many people think.
+Pickleball was actually invented in 1965 and has over 60 years of history, which is much longer than many people think.
 
 ### Pickleball Is Mainly Played by Older People
 
-In fact, the average age of pickleball's mainstream players is decreasing year by year, approaching 30 years old. More and more young people are joining this sport, enjoying the fun of competition and entertainment.
+In fact, the average age of pickleball's mainstream players is decreasing year by year, now around 35 (it was above 40 around 2020). More and more young people are joining this sport, enjoying the fun of competition and entertainment.
 
 ### You Can't Get Injured Playing Pickleball
 
