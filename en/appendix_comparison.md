@@ -8,7 +8,7 @@ Many players have backgrounds in other racquet sports (tennis, badminton, table 
 
 | Aspect | Similarity |
 |--------|-----------|
-| Court Size | Both courts are similar in size (Tennis: 78×27 ft; Pickleball: 44×20 ft) |
+| Court | Both are net-divided rectangular courts (but tennis is much larger: 78×27 ft singles vs pickleball 44×20 ft) |
 | Net | Both are separated by a net |
 | Serving | Serves are executed from the baseline |
 | Scoring System | Winning rallies advances the score or serving right; in traditional pickleball, only the serving side scores |
