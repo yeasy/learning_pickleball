@@ -27,19 +27,6 @@
 
 PDF version is available for offline reading at [GitHub Releases](https://github.com/yeasy/learning_pickleball/releases/latest).
 
-For the auto-updated preview built from the default branch, download [learning_pickleball-en.pdf](https://github.com/yeasy/learning_pickleball/releases/download/preview-pdf/learning_pickleball-en.pdf). This file is overwritten as the mainline changes and is not a formal release artifact.
-
-### Local Build
-
-Use [mdPress](https://github.com/yeasy/mdpress) to build locally:
-
-```bash
-brew tap yeasy/tap && brew install mdpress
-mdpress serve en/
-```
-
-Then visit: http://localhost:4000.
-
 ## Contents
 
 This book covers systematic training for pickleball:
@@ -58,4 +45,4 @@ This book is authorized for educational use by [numerous clubs and schools](http
 
 ## Contributing
 
-Pull requests are welcome! If you find any issues or have suggestions, please feel free to contribute.
+Feedback and pull requests are welcome — let's make this book better together.

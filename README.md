@@ -31,28 +31,8 @@ When reading on GitBook, you can seamlessly switch between English and Chinese b
 
 ## Download PDF | 下载 PDF
 
-Formal release PDFs are available at [GitHub Releases](https://github.com/yeasy/learning_pickleball/releases/latest) for offline reading.
-正式发布版 PDF 可在 [GitHub Releases](https://github.com/yeasy/learning_pickleball/releases/latest) 下载以供离线阅读。
-
-Latest preview PDFs are updated from the default branch:
-[learning_pickleball-cn.pdf](https://github.com/yeasy/learning_pickleball/releases/download/preview-pdf/learning_pickleball-cn.pdf) |
-[learning_pickleball-en.pdf](https://github.com/yeasy/learning_pickleball/releases/download/preview-pdf/learning_pickleball-en.pdf)
-
-默认分支的最新预览 PDF 可直接下载：
-[learning_pickleball-cn.pdf](https://github.com/yeasy/learning_pickleball/releases/download/preview-pdf/learning_pickleball-cn.pdf) |
-[learning_pickleball-en.pdf](https://github.com/yeasy/learning_pickleball/releases/download/preview-pdf/learning_pickleball-en.pdf)
-
-These preview files may include unpublished edits and are not formal release artifacts.
-这些预览文件会随主线覆盖更新，不代表正式发布版本。
-
-## Local Build | 本地阅读
-
-Install [mdPress](https://github.com/yeasy/mdpress) first, then preview from the repository root / 先安装 [mdPress](https://github.com/yeasy/mdpress)，再在仓库根目录预览：
-
-```bash
-brew tap yeasy/tap && brew install mdpress
-mdpress serve
-```
+PDFs are available at [GitHub Releases](https://github.com/yeasy/learning_pickleball/releases/latest) for offline reading.
+可在 [GitHub Releases](https://github.com/yeasy/learning_pickleball/releases/latest) 下载 PDF 以供离线阅读。
 
 ## Five-Minute Quick Start | 五分钟快速上手
 
@@ -106,5 +86,5 @@ This book is authorized for educational use by [numerous clubs and schools](http
 
 ## Contributing | 贡献
 
-Pull requests are welcome! If you find any issues or have suggestions, please feel free to contribute.
-欢迎提交 PR 修复错误或完善内容。
+Feedback and pull requests are welcome — let's make this book better together.
+欢迎反馈问题或提交 PR，一起完善本书。

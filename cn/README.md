@@ -27,19 +27,6 @@
 
 本书提供 PDF 版本供离线阅读，可前往 [GitHub Releases](https://github.com/yeasy/learning_pickleball/releases/latest) 页面下载最新版本。
 
-如需获取默认分支自动更新的预览版，可直接下载 [learning_pickleball-cn.pdf](https://github.com/yeasy/learning_pickleball/releases/download/preview-pdf/learning_pickleball-cn.pdf)。该文件会随主线更新覆盖，不代表正式发布版本。
-
-### 本地阅读
-
-使用 [mdPress](https://github.com/yeasy/mdpress) 进行本地构建：
-
-```bash
-brew tap yeasy/tap && brew install mdpress
-mdpress serve cn/
-```
-
-随后访问: http://localhost:4000。
-
 ## 内容概览
 
 本书内容涵盖系统的匹克球训练体系：
@@ -58,4 +45,4 @@ mdpress serve cn/
 
 ## 参与贡献
 
-欢迎提交 PR 修复错误或完善内容！
+欢迎反馈问题或提交 PR，一起完善本书。
