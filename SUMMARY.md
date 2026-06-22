@@ -1,7 +1,6 @@
 # Learning Pickleball | 学打匹克球
 
-* [语言选择 / Choose Language](README.md)
-* [语言入口 / Language Index](LANGS.md)
+* [首页 / Home](README.md)
 * [中文版简介](cn/README.md)
 * [English Introduction](en/README.md)
 
