@@ -17,10 +17,10 @@ The paddle is the most critical equipment in pickleball. Selecting the right pad
 
 #### Weight
 
-Pickleball paddle weight typically ranges from 210-270 grams (7-9.5 ounces).
+Pickleball paddle weight typically ranges from 200-270 grams (7-9.5 ounces).
 
 **Weight Impact:**
-- **Light Paddle (7-7.75 oz / 210-220g)**
+- **Light Paddle (7-7.75 oz / 200-220g)**
   - Advantages: Easier to swing, reduces arm fatigue, especially suitable for older players and beginners
   - Disadvantages: Lower power transfer efficiency, may feel passive against fast shots
   - Best for: Beginners, older players, those seeking to minimize injury risk
