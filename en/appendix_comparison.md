@@ -22,7 +22,7 @@ Many players have backgrounds in other racquet sports (tennis, badminton, table 
 | **Ball Characteristics** | Heavy (58.5g), high bounce | Light (22-26g), low bounce | Pickleball is easier to control but requires higher paddle head control |
 | **No-Volley Zone** | None | 7 ft on each side of net | Pickleball adds tactical complexity and restricts net play |
 | **Serving** | Overhand, power-focused | Volley serves must be low and upward; drop serves have fewer stroke restrictions | Tennis players must rebuild their serving motion |
-| **Shot Speed** | Fast (60-100+ mph) | Slow (30-50 mph) | Pickleball requires better paddle control rather than power |
+| **Shot Speed** | Fast (groundstrokes 60–90, serves 120–160+ mph) | Slow (30-50 mph) | Pickleball requires better paddle control rather than power |
 | **Match Pace** | Fast, fewer points | Relatively slower, longer rallies | Pickleball tests endurance and consistency |
 | **Running Distance** | Large | Small | Pickleball is more suitable for older players |
 
@@ -54,7 +54,7 @@ In tennis, players can rush to the net anytime. In pickleball, the no-volley zon
 **Conversion Strategy:**
 - Learn "drop shot culture": In pickleball, net play is about executing controlled drops rather than attacking overheads
 - Practice "kitchen boundary awareness": When moving at the net, constantly maintain awareness of the no-volley zone
-- Understand the tactics: In pickleball, the net is a defensive and control area, not an offensive launching pad
+- Understand the tactics: Reaching the non-volley-zone line (kitchen line) is actually the **most offensive position**, not a defensive one. You simply cannot *volley* inside the kitchen, so the immediate net game is a patient **soft game** (dinks and resets) that pressures the opponent into a pop-up, which you then attack with a speed-up or put-away — i.e., "control first, then attack." See Chapter 14.
 
 **Challenge 4: Footwork Efficiency Adjustment**
 
@@ -113,13 +113,13 @@ In badminton, hitting at the high point (especially smashes) is key to scoring. 
 - Practice drop shots: Increase drop shot training to over 50% of your practice
 - Learn "patience": Pickleball points often come from wearing down your opponent's patience
 
-**Challenge 2: Lack of Wrist Stability**
+**Challenge 2: Different Power Source — Forearm Rotation vs. a Stable Paddle Face**
 
-In badminton, wrist flexibility is important (creating quick slice shots). In pickleball, the wrist needs to be more stable to maintain ball control.
+A common misconception is that badminton power comes from a "wrist snap." Biomechanics research shows that badminton's explosive power comes mainly from **shoulder internal rotation plus forearm pronation**, with the wrist held relatively stable — not a snap. Pickleball, by contrast, wants an even **firmer wrist and a shorter, more controlled motion**, especially at the net; excessive forearm/wrist rotation sacrifices paddle-face stability and placement.
 
 **Conversion Strategy:**
 - Wrist stability exercises: Do grip strength training and wrist strengthening exercises
-- Change grip: Use a more stable continental grip rather than a badminton-style grip
+- Change grip: Use a more stable continental (neutral) grip rather than a badminton-style grip (continental at the net; you may rotate slightly toward an eastern grip for forehand topspin drives — see Chapter 3)
 - Feel paddle face stability: In multi-ball practice, emphasize stable paddle face control rather than wrist flexibility
 
 **Challenge 3: Body Position Adjustment**
@@ -160,7 +160,7 @@ Badminton players are accustomed to starting from the backcourt and gradually ad
 |--------|-----------|-----------|--------|
 | **Hitting Distance** | Very close (0-3 ft) | Medium (10-40 ft) | Pickleball requires larger swing amplitude and more body involvement |
 | **Wrist Function** | Extremely important | Moderately important | Pickleball relies more on body involvement than wrist |
-| **Spin Intensity** | High, aided by rubber friction and high ball speed | Moderate, relying more on paddle-face angle, swing path, and placement | Pickleball spin is easier to understand, but harder to use as a direct point-ending weapon |
+| **Spin Intensity** | High — from high-friction rubber plus very high racket speed | Moderate, relying more on swing path, brushing contact, and paddle-face angle | Pickleball is bound by rules capping paddle surface friction/roughness, so spin magnitude is smaller and rarely point-ending on its own (see Chapter 13) |
 | **Power Source** | Wrist and forearm | Legs and torso | Table tennis players must learn to use body power |
 | **Footwork** | Small steps, in-place rotation | Larger steps, lateral movement | Pickleball requires different footwork patterns |
 | **Paddle Characteristics** | Light paddle (~200g), rubber-coated | Heavier paddle (210-270g), smooth surface | Completely different grip and hitting feel |
@@ -175,6 +175,8 @@ In table tennis, the wrist is the primary power source. In pickleball, although 
 - Learn "leg drive": Emphasize the power transfer chain starting from the legs
 - Practice torso rotation: Strengthen rotational capacity of waist and torso
 - Reduce wrist dependency: In multi-ball practice, deliberately reduce wrist motion and increase body rotation
+
+**Note**: The kinetic chain (ground push → hip/trunk rotation → arm → paddle) applies mainly to **power shots** (drives, third-shot drives, overheads). The **soft game** — dinks, resets, drops — is a touch skill built on a quiet, stable wrist and feel, so do **not** force a big leg-drive/trunk rotation on these. Separating "power from the body" from "control from the hands" is the key for table-tennis converts.
 
 **Challenge 2: Wrist Hyper-Flexibility Leading to Shot Instability**
 
@@ -285,5 +287,12 @@ Although different racquet sports have differences, certain core skills can tran
 3. **Match Mentality**: Ability to stay focused and composed under pressure is universal
 4. **Basic Physics Understanding**: Principles of force, speed, and spin apply to all racquet sports
 5. **Training Discipline**: Consistent, goal-directed training brings progress in all sports
+
+At a deeper level, motor-skill transfer comes in two kinds, and understanding them is what lets you truly "use" your athletic background:
+
+- **Positive transfer**: body coordination, fitness, training discipline, and — most importantly — **perceptual-cognitive skills** (anticipation, reading the opponent's stroke, reading ball flight, in-rally decision-making, "court sense"). These transfer best across racquet sports.
+- **Negative transfer (interference)**: ingrained **motor programs** from the old sport (swing amplitude, grip, timing of force, sport-specific wrist/forearm mechanics) interfere with the new action. Tennis's long topspin swing, badminton's forearm snap, and table tennis's wrist-dominated stroke often have to be "unloaded" and rebuilt for pickleball.
+
+So the key to converting is to **actively amplify perceptual-cognitive positive transfer while consciously reshaping the old motor habits that cause negative transfer**. By the principle of **specificity of practice (identical elements)**, how much transfers depends on how many elements the two tasks share — which is why you must re-train in real pickleball conditions; reps from your old sport do not automatically "count."
 
 By understanding these transferable skills and the differences between sports, you can more effectively leverage your athletic background while quickly adapting to pickleball's unique demands.
