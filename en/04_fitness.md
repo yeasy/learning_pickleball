@@ -367,14 +367,14 @@ Gradually restore normal range of motion and strength.
 
 **Nutritional Support**
 Proper nutrition is fundamental for muscle and tissue repair.
-- **Protein**: 1.2-1.6 grams per kilogram of body weight daily to support muscle repair. Preferred sources: chicken, fish, eggs, legumes, Greek yogurt
-- **Carbohydrates**: Consume 20-40 grams of carbohydrates and protein within 30-60 minutes post-exercise, ideally in a 3:1 ratio, to replenish muscle glycogen and synthesize protein
+- **Protein**: tiered by training intensity — low-intensity 1.2-1.4, moderate 1.4-1.6, strength/high-intensity 1.6-2.0 grams per kilogram of body weight daily, to support muscle repair. Preferred sources: chicken, fish, eggs, legumes, Greek yogurt
+- **Carbohydrates**: As soon as possible after exercise, consume carbohydrates (about 1.0-1.2 g/kg) with protein (about 0.3 g/kg); a carb-to-protein ratio of about 3:1 is a common rule of thumb, to replenish muscle glycogen and synthesize protein
 - **Antioxidants**: Cherries, berries, and green tea contain antioxidants that reduce exercise-induced inflammation
-- **Hydration**: 12-16 milliliters per kilogram of body weight to replace losses during exercise
+- **Hydration**: replace about 1.25-1.5 times the body weight lost during exercise (weigh-back is most accurate), in small frequent sips
 
 **The "Golden Window" of Post-Exercise Recovery (30-120 minutes)**
 
-The 30-120 minute period after exercise is optimal for muscle protein synthesis and muscle glycogen replenishment. Proper nutrition during this window significantly accelerates recovery. Recommended approach:
+Nutrition in the 30-120 minutes after exercise helps recovery; for recreational players, however, total daily protein and energy intake matters more than hitting a narrow window — the golden window mainly matters when training fasted or with another session soon after. Recommended approach:
 - Within 30 minutes post-exercise: Consume carbohydrate-protein combinations (such as banana with peanut butter or sports drinks)
 - Within 1-2 hours post-exercise: Eat a complete, nutritionally balanced meal
 

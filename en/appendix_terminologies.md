@@ -4,7 +4,7 @@
 * **Backhand Roll**: A backhand shot where the wrist is rolled over the ball to impart spin and control.
 * **Back Spin**: Making the ball spin backward by chopping its bottom with the paddle.
 * **Baseline**: The line at the back of the court.
-* **Bert**: Similar as Erne, but to hit (usually volley) a ball by jumping over the Non-Volley Zone at the partner side.
+* **Bert**: Similar to an Erne, but the player crosses over to the partner's side of the court and makes the jumping volley in front of the partner (i.e., an Erne played on the partner's side).
 * **Block**: Using the paddle to block the opponent's shot, causing it to fall into the opponent's court.
 * **Block Volley**: Using the paddle to lightly block the opponent's aggressive shot in the air, causing it to fall into the opponent's non-volley zone. It is often used for defensive resets.
 * **Body Bag**: A shot aimed directly at the opponent's body, making it difficult for them to return.
@@ -42,7 +42,7 @@
 * **Return**: Returning a serve or generally hitting the ball back into the opponent's court.
 * **Roll Volley**: A volley shot executed with a rolling motion of the wrist to create spin and keep the ball low over the net.
 * **Sandbagging**: Players (deliberately) to play at a lower level game than they really are.
-* **Scorpion**: A shot where the player quickly ducks down and raises the paddle behind or above the head to return a ball aimed at the head or neck area. The motion resembles a scorpion's curved tail.
+* **Scorpion**: An attacking overhead played from a quick squat, the paddle raised above the head to return a ball aimed at the head or neck area (used in place of a defensive backhand). The motion resembles a scorpion's curved tail.
 * **Serve**: Starting a rally by hitting the ball into the opponent's court.
 * **Shake and Bake**: In doubles, one player hits the third shot by driving the ball, and his partner attacks the return after moving to the net quickly.
 * **Sideline**: The line at the side of the court.

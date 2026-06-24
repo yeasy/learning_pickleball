@@ -10,11 +10,13 @@ The purpose of footwork is to leave enough time and space for the body to hit th
 
 ## 12.1 Footwork Types
 
-Common footwork includes stride step, cross steps, jump step, adjustment steps, and split step.
+Common footwork includes stride step, side-shuffle steps, cross steps, jump step, adjustment steps, and split step.
 
 **Stride Steps** (lunge) refers to the action of striding the legs out in the direction of motion. The stride is large and is generally used for the last step in running, which can help stabilize the body.
 
-**Cross Steps** are the movements of moving your legs crossed quickly. Cross steps are smaller steps and are generally used to move quickly or fine-tune your body position.
+**Side-shuffle Steps** (Shuffle) are lateral steps in which the feet do NOT cross; you stay square to the net with small, quick steps, used for short lateral adjustments — the most-used footwork at the net.
+
+**Cross Steps** (Crossover) move one leg across the other to cover larger distances quickly (e.g., chasing a cross-court ball or a lob).
 
 **Jumping Steps** refers to the action of moving quickly by jumping. The jumping speed is the fastest and the moving distance is the largest. It is generally used in the situation when you do not have enough time to hit the ball by running. You need to stabilize the body as soon as possible after landing.
 
@@ -22,7 +24,7 @@ Common footwork includes stride step, cross steps, jump step, adjustment steps, 
 
 **Split Step**: A small hop where both feet leave and land on the ground simultaneously, just as the opponent is about to strike the ball. The split step is the "trigger" for all footwork — it transitions your body from a static state to one ready to move in any direction instantly. Whether in singles or doubles, you should complete a split step before every shot from your opponent.
 
-Singles players have a larger running range and can use Cross or Stride steps mainly with the running movements. In doubles games, the players' covered range is mostly not far, hence players can use more Cross or Adjustment steps, and pay attention to properly lowering the body and improve the stability for the shot.
+Singles players have a larger running range and can use Cross or Stride steps mainly with the running movements. In doubles games, the players' covered range is mostly not far, hence players can use more side-shuffle or adjustment steps, and pay attention to properly lowering the body and improve the stability for the shot.
 
 ## 12.2 When to Use
 
@@ -63,7 +65,7 @@ After every shot, you must quickly recover to a sensible defensive position on t
 * **Doubles at the baseline**: Recover to the center of the baseline on your side, ready to cover the diagonal.
 * **Singles**: Recover to the center of the court, slightly offset toward the direction of your last shot, covering both sides.
 
-When recovering, use side-shuffle cross steps or adjustment steps, always facing the net. Never turn your back to the net while running.
+When recovering, use side-shuffle steps or adjustment steps, always facing the net. Never turn your back to the net while running.
 
 ## 12.4 Singles vs. Doubles Footwork Differences
 
@@ -90,7 +92,7 @@ First, you should understand the characteristics of the various footwork and the
 Secondly, if you want to move fast with footwork, you must learn to control and adjust the height of your body's mass center. **Center of gravity guidelines**:
 * For movements within 1-2 steps, maintain a moderate center of gravity for quick reactions.
 * For movements beyond 3 steps, keep a higher center of gravity during the start phase (for fast acceleration), then gradually lower it during movement.
-* Within 0.5 seconds of arriving at the hitting position, lower your center of gravity with knees bent (approximately 90 degrees) to stabilize the body.
+* Within 0.5 seconds of arriving at the hitting position, lower your center of gravity with knees moderately bent in an athletic ready position (about 120-150 degrees at the knee, not a deep 90-degree squat) to stabilize the body.
 
 Finally, you should use the training to improve the leg strength and the torso core strength.
 
@@ -98,8 +100,8 @@ Finally, you should use the training to improve the leg strength and the torso c
 
 | Common Mistake | Cause | Correction |
 |---------------|-------|------------|
-| Center of gravity still high after arriving | Failed to lower before hitting | Lower within 0.5 seconds of arriving, bend knees to 90 degrees |
-| Unstable body during movement | Improper center-of-gravity adjustment or over-striding | Use small cross steps for short distances (1-2 steps); lower center progressively for long distances |
+| Center of gravity still high after arriving | Failed to lower before hitting | Lower within 0.5 seconds of arriving, bend knees moderately (about 120-150 degrees at the knee, not a deep 90-degree squat) |
+| Unstable body during movement | Improper center-of-gravity adjustment or over-striding | Use small side-shuffle steps for short distances (1-2 steps); lower center progressively for long distances |
 | Frequently losing balance | Weak core strength or messy landing footwork | Strengthen planks and single-leg balance drills; land with feet shoulder-width apart |
 | Slow footwork reactions | Failing to react to opponent's shot timing | Build the habit of starting movement the instant the opponent strikes; increase adjustment step frequency |
 

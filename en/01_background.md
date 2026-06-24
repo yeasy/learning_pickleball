@@ -74,7 +74,7 @@ Traditional pickleball rules employed "Side-out Scoring," where only the serving
 
 Pickleball combines elements of badminton, table tennis and tennis and is a comprehensive sport. In a common doubles match, four players are divided into two teams, and because the court is relatively small, the requirements for running are not high. Sometimes people jokingly refer to Pickleball as seniors' tennis. But in fact, the intensity of professional games is often more than tennis, requiring superb skills and strategies.
 
-Pickleball is quick to start, easy to control, moderate to run (not as high as tennis and badminton for jumping and running), etc. The reasons include: a) the court of pickleball is not large (smaller than tennis court); b) the weight of pickleball is relatively light (only more than 20 grams) and the ball does not bounce a lot; c) the paddle is light in weight and has a large hitting area. Therefore, pickleballs can be played in singles or doubles, indoor and outdoor venues, and are loved by people of different ages.
+Pickleball is quick to start, easy to control, moderate to run (not as high as tennis and badminton for jumping and running), etc. The reasons include: a) the court of pickleball is not large (smaller than tennis court); b) the weight of pickleball is relatively light (about 22-27 grams) and the ball does not bounce a lot; c) the paddle is light in weight and has a large hitting area. Therefore, pickleballs can be played in singles or doubles, indoor and outdoor venues, and are loved by people of different ages.
 
 ![Pickleball is Loved by People of All Ages](../_images/sport-lifecycle.png)
 
