@@ -12,8 +12,8 @@ A dink is a soft shot hit into the opponent's Non-Volley Zone (NVZ). The ball sh
 
 Dinking is crucial in doubles. Based on placement, it falls into three categories:
 
-*   **Straight Dink**: Hitting the ball directly in front of you (e.g., from your left court to the opponent's right). While easier to execute, straight dinks often have a higher or deeper trajectory, making them easier for the opponent to attack.
-*   **Cross-court (Diagonal) Dink**: Hitting the ball diagonally to the opposite court (e.g., left court to left court). This is the preferred shot because:
+*   **Straight Dink**: Hitting the ball straight ahead down the line, landing in the opponent's half along the same sideline (e.g., from your left court, the ball lands on the opponent's half nearest that same sideline). While easier to execute, straight dinks often have a higher or deeper trajectory, making them easier for the opponent to attack.
+*   **Cross-court (Diagonal) Dink**: Hitting the ball diagonally to the far court, landing along the other sideline (e.g., from your left court, the ball cuts across to the opponent's half nearest the opposite sideline). This is the preferred shot because:
     *   The court is longer diagonally, offering a larger margin for error.
     *   The net is lower in the middle (34 inches vs. 36 inches at the posts).
     *   It enters the opponent's court at an angle, making it harder to attack.

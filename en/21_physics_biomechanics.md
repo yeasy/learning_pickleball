@@ -27,7 +27,7 @@ The foundation of all paddle movement is the effective transfer of body power to
    - Final wrist acceleration (used only for certain striking techniques)
 
 4. **Impact Stage (Paddle-Ball Contact)**
-   - Contact between paddle and ball is extremely brief (approximately 0.003-0.005 seconds)
+   - Contact between paddle and ball is extremely brief (approximately 0.002-0.004 seconds)
    - During this brief moment, maximum force transfer and control must be achieved
 
 **Scientific methods for increasing striking power:**
@@ -54,7 +54,7 @@ The paddle can be viewed as a lever, with the distance from the striking point t
   - According to lever principles, the longer the moment arm, the greater the output force produced by the same muscle contraction
 
 - **Why does holding the paddle lower in the grip produce more powerful shots?**
-  - The lower the grip position (closer to the paddle head), the longer the moment arm
+  - The lower the grip position (closer to the butt/end of the handle, farther from the paddle head), the longer the moment arm
   - Standard grip position is the optimal balance point, providing sufficient moment arm while maintaining hand control
 
 - **Why does gripping too tightly reduce power?**
@@ -92,12 +92,12 @@ The flight trajectory of a spinning ball curves, caused by the Magnus Effect in 
 When a ball spins, its rotation affects the surrounding air, causing uneven air flow velocity around the ball. According to Bernoulli's principle, areas with higher flow speed have lower pressure, while areas with lower flow speed have higher pressure.
 
 Specifically:
-- **Topspin**: The ball's surface rotates forward; air at the top flows backward faster, air at the bottom flows slower
-  - Result: Lower pressure at top, higher pressure at bottom, creating downward force and sinking trajectory
+- **Topspin**: The ball rolls forward, dragging the air at the bottom of the ball to flow faster
+  - Result: faster flow and lower pressure at the bottom, higher pressure at the top, creating a downward force and a faster-sinking trajectory
   - After bounce: Forward rotation causes the ball to continue accelerating forward
 
-- **Backspin**: The ball's surface rotates backward; air at the top flows forward faster, air at the bottom flows slower
-  - Result: Higher pressure at top, lower pressure at bottom, creating upward force and flatter trajectory
+- **Backspin**: The ball rotates backward, dragging the air at the top of the ball to flow faster
+  - Result: faster flow and lower pressure at the top, higher pressure at the bottom, creating an upward force; the ball drops more slowly and floats (longer hang time)
   - After bounce: Backward rotation may cause the ball to decelerate or bounce slower
 
 - **Sidespin**: The ball rotates on its vertical axis; one side has faster air flow, the other side slower
@@ -213,7 +213,7 @@ Efficient movement requires not only quick initiation but also the ability to ef
 
 3. **Center of gravity control**
    - When changing direction, center of gravity should be on the inside of the turn
-   - This physically uses centrifugal force rather than opposing it
+   - This lowers the center of gravity and lets ground friction supply the centripetal force needed for the turn, rather than being thrown outward by inertia
 
 ### Balance and Stability
 
@@ -290,7 +290,7 @@ The volley is striking before the ball bounces, a key offensive technique.
    - This requires rapid reaction initiation and efficient footwork
 
 2. **More direct ball path**
-   - Without a bounce, the ball's trajectory is linear
+   - Without a bounce, the ball path is more predictable (nearly straight)
    - This makes trajectory prediction easier for the volleyer while also allowing more precise positioning
 
 3. **Reduced force generation**

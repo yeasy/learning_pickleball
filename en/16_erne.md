@@ -22,7 +22,7 @@ Key points for hitting a high-quality erne include:
 
 * Accurately judge the position of the opponent's dink shot, and try to volley when it is close to the sideline and higher;
 * Your position should be properly close to the sideline. The closer you are, the easier it is to jump over the non-volley zone;
-* When jumping to the left side of the court, the right foot should land first. When jumping to the right side of the court, the left foot should land first;
+* **Landing and balance (a tip, not a rule)**: The rules only require both feet to be completely outside the non-volley zone at the moment of the volley, with no momentum carrying you in — they do not dictate which foot lands first. Land in whatever order keeps you balanced and keeps both feet out of the zone;
 * The main target of Erne is the opposite player's feet in a straight line, and secondly, you can hit the ball with a large angle;
 * After the Erne is completed, the player should return to the court as soon as possible;
 * When one player hits an Erne shot, his teammates should move to the center to fill the space left, and prepare to attack the opponent's returned ball.
