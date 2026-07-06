@@ -129,14 +129,19 @@ def render_mermaid_svg(src):
         return None
 
 
-def fallback_svg(slug, idx):
-    """Reuse a pre-rendered SVG committed under tools/mermaid_fallback/<slug>-<idx>.svg
-    (extracted from the old single-file reader) when mmdc/Chromium is unavailable."""
-    path = os.path.join(os.path.dirname(os.path.abspath(__file__)),
-                        "mermaid_fallback", f"{slug}-{idx}.svg")
-    if os.path.isfile(path):
-        with open(path, encoding="utf-8") as f:
+def fallback_diagram(slug, idx):
+    """Reuse a committed pre-rendered diagram under tools/mermaid_fallback/ when
+    mmdc/Chromium is unavailable: <slug>-<idx>.html (a styled HTML block, used as-is —
+    preferred, robust) or <slug>-<idx>.svg (wrapped in figure.diagram)."""
+    d = os.path.join(os.path.dirname(os.path.abspath(__file__)), "mermaid_fallback")
+    html_path = os.path.join(d, f"{slug}-{idx}.html")
+    svg_path = os.path.join(d, f"{slug}-{idx}.svg")
+    if os.path.isfile(html_path):
+        with open(html_path, encoding="utf-8") as f:
             return f.read().strip()
+    if os.path.isfile(svg_path):
+        with open(svg_path, encoding="utf-8") as f:
+            return f'<figure class="diagram">{f.read().strip()}</figure>'
     return None
 
 
@@ -187,14 +192,15 @@ def main():
         mermaid_srcs = []
         cleaned = process_fragment(raw, book_root, slug_by_mdname, images_used, mermaid_srcs)
         frag = pandoc_fragment(cleaned)
-        # swap mermaid placeholders -> rendered SVG (mmdc, else cached fallback, else visible source)
+        # swap mermaid placeholders -> rendered SVG (mmdc), else committed HTML/SVG fallback,
+        # else visible source. Function replacement avoids re backslash/group interpretation.
         for idx, src in enumerate(mermaid_srcs):
-            svg = render_mermaid_svg(src) or fallback_svg(slug, idx)
+            svg = render_mermaid_svg(src)
             if svg:
                 repl = f'<figure class="diagram">{svg}</figure>'
             else:
-                repl = f'<pre class="mermaid-src">{src}</pre>'
-            frag = re.sub(rf"<p>\s*MERMAIDZZ{idx}ZZ\s*</p>", repl, frag)
+                repl = fallback_diagram(slug, idx) or f'<pre class="mermaid-src">{src}</pre>'
+            frag = re.sub(rf"<p>\s*MERMAIDZZ{idx}ZZ\s*</p>", lambda m: repl, frag)
             frag = frag.replace(f"MERMAIDZZ{idx}ZZ", repl)
         chapters.append({
             "slug": slug,
