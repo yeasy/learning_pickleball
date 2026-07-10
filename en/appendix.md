@@ -46,7 +46,7 @@ Like any sport, pickleball carries a risk of injury, with people suffering from 
 
 ### Pickleball Is Slow
 
-In fact, the speed of a pickleball can be very fast, comparable to badminton and tennis. In high-level matches, especially during quick attacks near the net, the speed of the ball is astonishing, requiring extremely high reaction speed and skill.
+In fact, although absolute ball speeds in pickleball are generally lower than the fastest shots in tennis or badminton, the small court and close net-front exchanges leave players an extremely short reaction window. In high-level matches, especially during quick attacks near the net, extremely fast reactions and refined skills are required.
 
 ### Pickleball Is Easy to Learn
 

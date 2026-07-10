@@ -64,7 +64,7 @@ The last one is the **gaming consciousness**. How to deal with the opponent's ba
 
 ## 20.7 [Q7] How to choose a suitable paddle?
 
-**Answer**: According to the rules, the combined length and width of a pickleball paddle cannot exceed 24 inches (60.96 cm), of which the length cannot exceed 17 inches (43.18 cm). There is no limit to the thickness and weight of the paddle, but the common thickness range is 10 \~ 19 mm, and weight range is 7\~9 oz.
+**Answer**: According to the rules, the combined length and width of a pickleball paddle cannot exceed 24 inches (60.96 cm), of which the length cannot exceed 17 inches (43.18 cm). There is no limit to the thickness and weight of the paddle, but the common thickness range is 10 \~ 19 mm, and weight range is 7 \~ 9.5 oz (about 200 \~ 270 g).
 
 Typically, a pickleball paddle consists of several main components: paddle body (core, surface, and edge guard), handle, base grip, and overgrip.
 * **Paddle Core**: The core of the paddle plays a crucial role in the paddle's stability. Modern paddle materials usually feature a honeycomb structure made of high polymer compounds, including Polymer (soft and flexible) and Nomex (rigid aramid, somewhat hard). Earlier paddles were made from materials such as wood or aluminum alloy.
@@ -91,8 +91,10 @@ In general, no paddle fits everyone. The following parameters can be considered 
 * **Handle Length**: A longer handle usually means a larger hitting range, but it is more difficult to adjust the paddle, which requires better hand sensitivity and higher power. Beginners are advised to choose a handle with a moderate length.
 * **Handle Thickness**: A thicker handle handle is easier to exert force, but it is inconvenient to adjust the holding. For beginners, unless you have large hands, it is recommended to choose a thinner handle.
 * **Face Size**: The larger the face, usually the larger the sweet spot, and the better the fault tolerance, but it often means that the swing is slower. The ratio of the sweet spot to the paddle face is an important indicator to the paddle’s technical quality. Beginners are recommended to choose a paddle with a large face.
-* **Face Thickness**: The thicker the paddle face, the better the vibration absorption when hitting the ball, and the sweet spot is often larger. Beginners are advised to consider a paddle with a thickness of at least 14 mm.
+* **Face Thickness**: The thicker the paddle face, the better the vibration absorption when hitting the ball, and the sweet spot is often larger. Beginners are advised to choose a thicker paddle (15 mm or more).
 * **Surface Roughness**: The rougher the paddle surface, the easier it is to create spin, but in turn, the more likely it is affected by the ball’s rotation. Beginners are advised to consider a paddle surface that does not have too much friction.
+
+For more details on equipment selection, see [Appendix VI - Equipment Selection Guide](appendix_equipment.md).
 
 Top paddle brands in market include Franklin, Joola, Onix, Engage and Selkirk.
 
