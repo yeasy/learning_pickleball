@@ -67,7 +67,17 @@ To avoid hitting the ball into the net, the highest point of its trajectory shou
 
 If the quality of the drop shot is not high, do not rush forward. Instead, stay in the mid-to-backcourt, prepared to return the next shot.
 
-## 7.5 Training Methods
+## 7.5 Common Errors and Corrections
+
+| Error | What happens | Correction |
+|---|---|---|
+| Poor contact height | The ball floats or hits the net | Move early and contact in a comfortable zone in front |
+| Swing too short | The ball lands short of the NVZ | Use a smooth low-to-high path with enough follow-through |
+| Rushing forward | A weak drop is attacked | Judge the drop before advancing; hold position when it is high |
+| Unstable balance | Placement varies | Set the feet and keep the trunk controlled through contact |
+| Wrist flip | Launch angle changes | Keep the wrist quiet and guide with the shoulder and elbow |
+
+## 7.6 Training Methods
 
 First practice defensive non-spin Drop, and then practice Drop with spins. Pay attention to run to the net with the ball.
 

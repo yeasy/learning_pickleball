@@ -35,6 +35,10 @@ HTML_TARGET_RE = re.compile(
     re.IGNORECASE,
 )
 FENCE_RE = re.compile(r"^\s{0,3}(`{3,}|~{3,})")
+SUMMARY_ENTRY_RE = re.compile(
+    r"^\s*[-*]\s+\[([^]]+)\]\(([^)#?]+\.md)(?:#[^)]*)?\)"
+)
+NUMBERED_SECTION_RE = re.compile(r"^##\s+(\d+\.\d+)\b", re.MULTILINE)
 
 
 def should_skip(path: Path) -> bool:
@@ -179,6 +183,79 @@ def check_summary_links() -> list[str]:
     return check_links(summary, summary.read_text(encoding="utf-8", errors="ignore"))
 
 
+def _summary_entries(root: Path, language: str) -> list[tuple[str, str]]:
+    summary = root / language / "SUMMARY.md"
+    if not summary.is_file():
+        return []
+    entries: list[tuple[str, str]] = []
+    for line in summary.read_text(encoding="utf-8", errors="ignore").splitlines():
+        match = SUMMARY_ENTRY_RE.match(line)
+        if match:
+            entries.append((match.group(1).strip(), match.group(2)))
+    return entries
+
+
+def _summary_paths(root: Path, language: str) -> list[str]:
+    return [path for _, path in _summary_entries(root, language)]
+
+
+def check_bilingual_parity(root: Path = ROOT) -> list[str]:
+    """Check the ordered CN/EN book structure without comparing translations."""
+    issues: list[str] = []
+    cn_paths = _summary_paths(root, "cn")
+    en_paths = _summary_paths(root, "en")
+    summary_labels = {
+        language: dict((path, label) for label, path in _summary_entries(root, language))
+        for language in ("cn", "en")
+    }
+    if len(cn_paths) != 28:
+        issues.append(f"cn/SUMMARY.md: expected 28 ordered entries, found {len(cn_paths)}")
+    if len(en_paths) != 28:
+        issues.append(f"en/SUMMARY.md: expected 28 ordered entries, found {len(en_paths)}")
+    if cn_paths != en_paths:
+        issues.append("cn/en SUMMARY paths differ in names or order")
+
+    cn_files = {path.name for path in (root / "cn").glob("*.md") if path.name != "SUMMARY.md"}
+    en_files = {path.name for path in (root / "en").glob("*.md") if path.name != "SUMMARY.md"}
+    if cn_files != en_files:
+        issues.append(
+            "cn/en Markdown file sets differ: "
+            f"cn-only={sorted(cn_files - en_files)}, en-only={sorted(en_files - cn_files)}"
+        )
+
+    for rel_path in dict.fromkeys(cn_paths + en_paths):
+        cn_path = root / "cn" / rel_path
+        en_path = root / "en" / rel_path
+        if not cn_path.is_file() or not en_path.is_file():
+            issues.append(f"{rel_path}: chapter missing from one language")
+            continue
+        cn_text = cn_path.read_text(encoding="utf-8", errors="ignore")
+        en_text = en_path.read_text(encoding="utf-8", errors="ignore")
+        cn_h1 = re.findall(r"^#\s+(.+?)\s*$", cn_text, re.MULTILINE)
+        en_h1 = re.findall(r"^#\s+(.+?)\s*$", en_text, re.MULTILINE)
+        if len(cn_h1) != 1:
+            issues.append(f"cn/{rel_path}: expected exactly one H1")
+        elif summary_labels["cn"].get(rel_path) != cn_h1[0]:
+            issues.append(
+                f"cn/{rel_path}: SUMMARY label differs from H1: "
+                f"{summary_labels['cn'].get(rel_path)!r} != {cn_h1[0]!r}"
+            )
+        if len(en_h1) != 1:
+            issues.append(f"en/{rel_path}: expected exactly one H1")
+        elif summary_labels["en"].get(rel_path) != en_h1[0]:
+            issues.append(
+                f"en/{rel_path}: SUMMARY label differs from H1: "
+                f"{summary_labels['en'].get(rel_path)!r} != {en_h1[0]!r}"
+            )
+        cn_ids = NUMBERED_SECTION_RE.findall(cn_text)
+        en_ids = NUMBERED_SECTION_RE.findall(en_text)
+        if cn_ids != en_ids:
+            issues.append(
+                f"{rel_path}: numbered section IDs differ: cn={cn_ids}, en={en_ids}"
+            )
+    return issues
+
+
 def main() -> int:
     issues: list[str] = []
     files = iter_markdown_files()
@@ -187,6 +264,7 @@ def main() -> int:
         issues.extend(check_fences(path, text))
         issues.extend(check_links(path, text))
     issues.extend(check_summary_links())
+    issues.extend(check_bilingual_parity(ROOT))
 
     unique_issues = sorted(set(issues))
     if unique_issues:

@@ -38,7 +38,16 @@ Key points include:
 * Try to volley to intercept, and adjust the surface of the paddle according to the height of the incoming ball. Especially when the opponent's incoming ball is low, take the initiative to hit the ball by chopping the ball, but don't let the ball pass the net too high;
 * The first return target is the gap by the opponent's player to run off the court, and try to hit the ball to the backcourt. If it is observed that his teammates have the intention to run to the position, then can consider hitting the other side.
 
-## 15.5 Training Method
+## 15.5 Common Errors and Corrections
+
+| Error | Cause | Correction |
+|---|---|---|
+| ATP lands out | Contact is too high or force is excessive | Let the ball travel wider and lower, then prioritize trajectory control |
+| ATP is intercepted | Flight path is too high | Use a lower contact point and flatter path when the ball allows |
+| Defense is late | Intent was recognized too late | Watch the off-court movement and prepare near the sideline |
+| Opponent receives repeated ATP chances | Dinks create too much angle | Place dinks more centrally or closer to the opponent and lower net clearance |
+
+## 15.6 Training Method
 
 * Multi-ball practice: One player stands on the sidelines and repeatedly practice hitting the ATP. Another player practices defense;
 * Interactive practice: Both sides simulate the game scene, practice hitting and defending ATP shots.

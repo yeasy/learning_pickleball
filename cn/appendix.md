@@ -93,6 +93,7 @@
 ## 参考资料
 
 * [美国匹克球规则](https://usapickleball.org/rules/)；
+* [本书规则与装备来源清单](../sources/provenance.json)；
 * [美国匹克球协会](https://usapickleball.org)；
 * [International Padel Federation：Rules of Padel](https://www.padelfip.com/wp-content/uploads/2025/12/FIP_Rules-of-Padel.pdf)；
 * [BWF：Laws of Badminton](https://corporate.bwfbadminton.com/statutes/)；

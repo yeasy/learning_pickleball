@@ -58,7 +58,15 @@ It is important to keep all parts of the body (especially the arms and fingers) 
 
 In situations such as dink or volley, you do not need to use the motions from legs or body, but the principle is the same. You still need to generate the power by tightening your fingers, and the power comes from the body.
 
-## 3.4 Daily Trainings
+## 3.4 Common Errors and Corrections
+
+* **Grip too tight**: Tension in the hand and forearm reduces control. Relax during preparation and firm the grip only enough to stabilize the face at contact.
+* **Unstable paddle face**: An excessively closed face sends the ball low; an excessively open face sends it high. Track the bounce and adjust with small changes rather than a fixed angle for every shot.
+* **Arm-only power**: Use the legs and trunk to support the stroke instead of forcing the ball with the arm.
+* **Poor contact height**: Move the feet so contact occurs in a comfortable zone in front of the body.
+* **No natural follow-through**: Let the paddle continue smoothly toward the intended path instead of stopping abruptly at contact.
+
+## 3.5 Daily Trainings
 
 Here are some training exercises aimed at enhancing your hitting ability:
 
@@ -68,7 +76,7 @@ Here are some training exercises aimed at enhancing your hitting ability:
 
 These exercises require long-term training to achieve significant results, and it is important to protect your body and take adequate rest to avoid pain or injury caused by excessive fatigue or incorrect training postures.
 
-## 3.5 Footwork Awareness: Get in Position Before You Hit
+## 3.6 Footwork Awareness: Get in Position Before You Hit
 
 Before diving into the various stroke techniques in the following chapters, there is one core principle to internalize: **move into position first, then execute the stroke**.
 

@@ -18,12 +18,19 @@ import re
 import subprocess
 import sys
 import tempfile
+from urllib.parse import unquote, urlparse
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from build_html_reader import parse_summary, fix_inline_dollar  # noqa: E402
 
 BOOK_ROUTE = "/books/learning-pickleball"
 LANG_DIR = "cn"
+EXPECTED_CHAPTERS = 28
+PLACEHOLDER_TOKENS = ("MERMAIDZZ", "PLACEHOLDER", "@@")
+
+
+class BuildError(RuntimeError):
+    """A user-actionable portal build failure."""
 
 
 def slug_and_kind(md_path):
@@ -44,6 +51,50 @@ def split_num_title(summary_title):
     if m:
         return m.group(1).strip(), m.group(2).strip() or summary_title.strip()
     return "", summary_title.strip()
+
+
+def validate_inputs(items, lang_root):
+    """Fail before writing output when SUMMARY cannot form a closed portal graph."""
+    problems = []
+    if len(items) != EXPECTED_CHAPTERS:
+        problems.append(
+            f"expected {EXPECTED_CHAPTERS} SUMMARY-ordered chapters, found {len(items)}"
+        )
+
+    slugs = [slug_and_kind(path)[0] for _, path, _title, _level in items]
+    duplicates = sorted({slug for slug in slugs if slugs.count(slug) > 1})
+    if duplicates:
+        problems.append(f"duplicate slug(s): {duplicates}")
+
+    summary_paths = {posixpath.normpath(path) for _, path, _title, _level in items}
+    for _, chapter_path, _title, _level in items:
+        source = os.path.join(lang_root, chapter_path)
+        try:
+            with open(source, encoding="utf-8") as stream:
+                text = stream.read()
+        except OSError as exc:
+            problems.append(f"cannot read {chapter_path}: {exc}")
+            continue
+        link_targets = re.findall(
+            r"(?<!!)\[[^\]]*\]\(([^)]+?\.md(?:[?#][^)]*)?)\)", text
+        )
+        link_targets += re.findall(
+            r"\bhref=[\"']([^\"']+?\.md(?:[?#][^\"']*)?)[\"']", text, re.I
+        )
+        for raw_target in link_targets:
+            parsed = urlparse(raw_target.strip())
+            if parsed.scheme or parsed.netloc:
+                continue
+            target = unquote(parsed.path)
+            resolved = posixpath.normpath(
+                posixpath.join(posixpath.dirname(chapter_path), target)
+            )
+            if resolved not in summary_paths:
+                problems.append(
+                    f"{chapter_path}: unresolved internal Markdown link: {raw_target}"
+                )
+    if problems:
+        raise BuildError("\n".join(problems))
 
 
 def process_fragment(text, book_root, slug_by_mdname, images_used, mermaid_srcs):
@@ -164,7 +215,7 @@ def first_paragraph_text(fragment, limit=110):
     return txt[:limit]
 
 
-def main():
+def build():
     ap = argparse.ArgumentParser()
     ap.add_argument("--portal", required=True, help="path to portal-src")
     ap.add_argument("--book", default=os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
@@ -178,6 +229,7 @@ def main():
     img_out = os.path.join(portal, "public", "books", "learning-pickleball", "img")
 
     items = [it for it in parse_summary(lang_root) if it[0] == "file"]
+    validate_inputs(items, lang_root)
     slug_by_mdname = {os.path.basename(path): slug_and_kind(path)[0] for (_, path, _t, _l) in items}
 
     os.makedirs(img_out, exist_ok=True)
@@ -241,8 +293,9 @@ def main():
         web_imgs |= set(re.findall(rf'src="{re.escape(BOOK_ROUTE)}/img/([^"]+)"', c["bodyHtml"]))
         if 'class="page"' in c["bodyHtml"]:
             problems.append(f"{c['slug']}: leftover SPA marker class=\"page\"")
-        if "MERMAIDZZ" in c["bodyHtml"]:
-            problems.append(f"{c['slug']}: leftover mermaid placeholder")
+        for token in PLACEHOLDER_TOKENS:
+            if token in c["bodyHtml"]:
+                problems.append(f"{c['slug']}: leftover placeholder token {token}")
     for name in web_imgs:
         if not os.path.isfile(os.path.join(img_out, name)):
             problems.append(f"referenced img not on disk: {name}")
@@ -252,12 +305,18 @@ def main():
     print(f"data -> {data_out}")
     print(f"img  -> {img_out}")
     if problems:
-        print("SELF-CHECK FAILED:", file=sys.stderr)
-        for p in problems:
-            print("  - " + p, file=sys.stderr)
-        sys.exit(1)
+        raise BuildError("self-check failed:\n" + "\n".join(f"  - {p}" for p in problems))
     print("self-check OK")
+    return 0
+
+
+def main():
+    try:
+        return build()
+    except (BuildError, FileNotFoundError, OSError, RuntimeError) as exc:
+        print(f"ERROR: {exc}", file=sys.stderr)
+        return 1
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())
