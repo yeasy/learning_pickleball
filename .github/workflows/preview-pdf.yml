@@ -91,6 +91,7 @@ jobs:
       contents: write
     env:
       GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
     steps:
       - name: Download verified preview bundle
         uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
@@ -103,34 +104,74 @@ jobs:
           cd dist
           sha256sum -c SHA256SUMS
 
-      - name: Ensure preview release exists
+      - name: Synchronize mutable preview tag
+        shell: bash
         run: |
-          response=$(mktemp)
-          if gh api --include "repos/${GITHUB_REPOSITORY}/releases/tags/preview-pdf" >"$response" 2>&1; then
-            :
-          else
-            rc=$?
-            status=$(awk '/^HTTP\/[0-9.]+ [0-9][0-9][0-9]/ { code=$2 } END { print code }' "$response")
-            if [[ "$status" == "404" ]]; then
-              gh release create preview-pdf \
-                --title "Latest Preview PDFs" \
-                --notes-file dist/release-notes.md \
-                --prerelease \
-                --latest=false \
-                --target "$GITHUB_SHA"
-            else
-              cat "$response" >&2
-              exit "$rc"
-            fi
+          set -euo pipefail
+          if [[ ! "$GITHUB_REPOSITORY" =~ ^[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+$ ]]; then
+            echo "Invalid GITHUB_REPOSITORY: $GITHUB_REPOSITORY" >&2
+            exit 1
+          fi
+          if [[ ! "$GITHUB_SHA" =~ ^[0-9a-f]{40}$ ]]; then
+            echo "Invalid GITHUB_SHA" >&2
+            exit 1
           fi
 
-      - name: Update preview release metadata
+          probe_dir=$(mktemp -d)
+          trap 'rm -rf "$probe_dir"' EXIT
+          set +e
+          gh api --include --method GET \
+            "repos/${GITHUB_REPOSITORY}/git/ref/tags/preview-pdf" \
+            >"$probe_dir/response" 2>"$probe_dir/error"
+          probe_rc=$?
+          set -e
+          http_status=$(awk '$1 ~ /^HTTP\// && $2 ~ /^[0-9][0-9][0-9]$/ { status=$2 } END { print status }' "$probe_dir/response")
+
+          if [[ $probe_rc -eq 0 && "$http_status" == "200" ]]; then
+            gh api --silent --method PATCH \
+              "repos/${GITHUB_REPOSITORY}/git/refs/tags/preview-pdf" \
+              --raw-field sha="$GITHUB_SHA" \
+              --field force=true
+          elif [[ $probe_rc -ne 0 && "$http_status" == "404" ]]; then
+            gh api --silent --method POST \
+              "repos/${GITHUB_REPOSITORY}/git/refs" \
+              --raw-field ref="refs/tags/preview-pdf" \
+              --raw-field sha="$GITHUB_SHA"
+          else
+            cat "$probe_dir/response" >&2
+            cat "$probe_dir/error" >&2
+            echo "Preview tag lookup failed (exit=$probe_rc, HTTP=${http_status:-unavailable}); refusing to mutate refs or releases." >&2
+            exit 1
+          fi
+
+      - name: Create or update preview release
+        shell: bash
         run: |
-          gh release edit preview-pdf \
-            --title "Latest Preview PDFs" \
-            --notes-file dist/release-notes.md \
-            --prerelease \
-            --target "$GITHUB_SHA"
+          set -euo pipefail
+          error_file=$(mktemp)
+          trap 'rm -f "$error_file"' EXIT
+          set +e
+          gh release view preview-pdf >/dev/null 2>"$error_file"
+          release_rc=$?
+          set -e
+
+          if [[ $release_rc -eq 0 ]]; then
+            gh release edit preview-pdf \
+              --title "Latest Preview PDFs" \
+              --notes-file dist/release-notes.md \
+              --prerelease
+          elif [[ "$(tr -d '\r' < "$error_file")" == "release not found" ]]; then
+            gh release create preview-pdf \
+              --title "Latest Preview PDFs" \
+              --notes-file dist/release-notes.md \
+              --prerelease \
+              --latest=false \
+              --verify-tag
+          else
+            cat "$error_file" >&2
+            echo "Preview release lookup failed (exit=$release_rc); refusing to create or edit the release." >&2
+            exit 1
+          fi
 
       - name: Remove legacy preview assets when present
         run: |

@@ -9,12 +9,14 @@ import subprocess
 import sys
 import unicodedata
 import zipfile
+import xml.etree.ElementTree as ET
 from html.parser import HTMLParser
 from pathlib import Path
 
 
 PDF_TITLES = {"cn": "学打匹克球", "en": "Learning Pickleball"}
 DEFAULT_HTML_TITLE = "Learning Pickleball | 学打匹克球"
+DC_TITLE = "{http://purl.org/dc/elements/1.1/}title"
 
 
 class ArtifactError(RuntimeError):
@@ -87,8 +89,8 @@ def validate_pdfs(dist: Path) -> list[Path]:
 
 def validate_docx(dist: Path) -> list[Path]:
     validated = []
-    required = {"[Content_Types].xml", "word/document.xml"}
-    for language in PDF_TITLES:
+    required = {"[Content_Types].xml", "word/document.xml", "docProps/core.xml"}
+    for language, expected_title in PDF_TITLES.items():
         matches = sorted(dist.glob(f"*-{language}.docx"))
         if len(matches) != 1:
             raise ArtifactError(
@@ -104,6 +106,17 @@ def validate_docx(dist: Path) -> list[Path]:
             bad = archive.testzip()
             if bad:
                 raise ArtifactError(f"corrupt DOCX member: {path}:{bad}")
+            try:
+                core = ET.fromstring(archive.read("docProps/core.xml"))
+            except ET.ParseError as exc:
+                raise ArtifactError(f"invalid DOCX core properties XML: {path}: {exc}") from exc
+            title = core.findtext(DC_TITLE)
+            if title is None or title == "":
+                raise ArtifactError(f"DOCX core title is missing: {path}")
+            if title != expected_title:
+                raise ArtifactError(
+                    f"DOCX title mismatch for {path.name}: {title!r} != {expected_title!r}"
+                )
         validated.append(path)
     return validated
 

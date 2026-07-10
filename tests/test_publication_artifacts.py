@@ -22,6 +22,21 @@ def _write_executable(path: Path, body: str) -> None:
     path.chmod(0o755)
 
 
+def _write_docx_fixture(path: Path, title: str | None) -> None:
+    title_xml = f"<dc:title>{title}</dc:title>" if title is not None else ""
+    core_xml = f"""<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cp:coreProperties
+    xmlns:cp="http://schemas.openxmlformats.org/package/2006/metadata/core-properties"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+  {title_xml}
+</cp:coreProperties>
+"""
+    with zipfile.ZipFile(path, "w") as archive:
+        archive.writestr("[Content_Types].xml", "<Types/>")
+        archive.writestr("word/document.xml", "<document/>")
+        archive.writestr("docProps/core.xml", core_xml)
+
+
 class PublicationArtifactTests(unittest.TestCase):
     def setUp(self) -> None:
         self.temp = tempfile.TemporaryDirectory()
@@ -59,13 +74,11 @@ else:
         self.env["PATH"] = f"{fake_bin}{os.pathsep}{self.env['PATH']}"
         (self.dist / "learning_pickleball-v1-cn.pdf").write_bytes(b"%PDF fixture cn")
         (self.dist / "learning_pickleball-v1-en.pdf").write_bytes(b"%PDF fixture en")
-        for language in ("cn", "en"):
-            with zipfile.ZipFile(
+        for language, title in (("cn", "学打匹克球"), ("en", "Learning Pickleball")):
+            _write_docx_fixture(
                 self.dist / f"learning_pickleball-{language}.docx",
-                "w",
-            ) as archive:
-                archive.writestr("[Content_Types].xml", "<Types/>")
-                archive.writestr("word/document.xml", "<document/>")
+                title,
+            )
         (self.dist / "learning-pickleball-v1.html").write_text(
             f"<!doctype html><html><head><title>{HTML_TITLE}</title></head><body>book</body></html>",
             encoding="utf-8",
@@ -116,6 +129,22 @@ else:
         result = self._run()
         self.assertNotEqual(0, result.returncode)
         self.assertIn("HTML title mismatch", result.stderr)
+
+    def test_wrong_docx_core_title_fails(self) -> None:
+        _write_docx_fixture(
+            self.dist / "learning_pickleball-en.docx",
+            "Different Book",
+        )
+        result = self._run()
+        self.assertNotEqual(0, result.returncode)
+        self.assertIn("DOCX title mismatch", result.stderr)
+        self.assertIn("Learning Pickleball", result.stderr)
+
+    def test_missing_docx_core_title_fails(self) -> None:
+        _write_docx_fixture(self.dist / "learning_pickleball-cn.docx", None)
+        result = self._run()
+        self.assertNotEqual(0, result.returncode)
+        self.assertIn("DOCX core title is missing", result.stderr)
 
 
 if __name__ == "__main__":
