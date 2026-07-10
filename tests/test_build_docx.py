@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import os
 import re
+import shutil
 import subprocess
 import sys
 import tempfile
@@ -19,6 +20,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SCRIPT = ROOT / "tools/build_docx.py"
 W = "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}"
 DC = "{http://purl.org/dc/elements/1.1/}"
+PIC = "{http://schemas.openxmlformats.org/drawingml/2006/picture}"
 
 
 def _summary_paths(language: str) -> list[Path]:
@@ -201,6 +203,71 @@ class DocxBuildTests(unittest.TestCase):
                         {info.compress_type for info in infos},
                     )
                     self.assertEqual(b"", archive.comment)
+
+    def test_build_is_byte_identical_across_checkout_paths_without_path_leaks(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            checkouts = (
+                root / "checkout-a",
+                root / "checkout-with-a-different-absolute-path-length",
+            )
+            outputs = []
+            env = os.environ.copy()
+            env["SOURCE_DATE_EPOCH"] = "315532800"
+
+            for checkout in checkouts:
+                shutil.copytree(
+                    ROOT,
+                    checkout,
+                    ignore=shutil.ignore_patterns(
+                        ".git",
+                        "__pycache__",
+                        "node_modules",
+                    ),
+                )
+                output = checkout / "dist"
+                result = subprocess.run(
+                    [
+                        sys.executable,
+                        str(checkout / "tools/build_docx.py"),
+                        "--output-dir",
+                        str(output),
+                    ],
+                    cwd=checkout,
+                    env=env,
+                    text=True,
+                    capture_output=True,
+                    check=False,
+                )
+                self.assertEqual(0, result.returncode, result.stderr)
+                outputs.append(output)
+
+            checkout_paths = tuple(str(path.resolve()).encode() for path in checkouts)
+            for language in ("cn", "en"):
+                name = f"learning_pickleball-{language}.docx"
+                first = outputs[0] / name
+                second = outputs[1] / name
+                self.assertEqual(first.read_bytes(), second.read_bytes())
+                for path in (first, second):
+                    with zipfile.ZipFile(path) as archive:
+                        for member in archive.namelist():
+                            if not member.endswith((".xml", ".rels")):
+                                continue
+                            payload = archive.read(member)
+                            self.assertNotIn(b"/Users/", payload, f"{path}:{member}")
+                            for checkout_path in checkout_paths:
+                                self.assertNotIn(checkout_path, payload, f"{path}:{member}")
+                        document = _read_xml(archive, "word/document.xml")
+                        descriptions = [
+                            node.get("descr")
+                            for node in document.iter(PIC + "cNvPr")
+                            if node.get("descr")
+                        ]
+                        self.assertEqual(39, len(descriptions))
+                        self.assertTrue(
+                            all(value.startswith("_images/") for value in descriptions),
+                            descriptions,
+                        )
 
     def test_reference_builder_sets_book_page_and_heading_breaks(self) -> None:
         script = ROOT / "tools/docx/build_reference_doc.py"
