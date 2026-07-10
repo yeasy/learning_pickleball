@@ -102,7 +102,16 @@ A quick wrist "snap" that suddenly accelerates the ball, similar to a whip actio
 | Roll | Near tape | Medium | Medium | Heavy topspin | Medium |
 | Flick | Any | Small | Fastest | Medium | High |
 
-## 14.5 Training Method
+## 14.5 Common Errors and Corrections
+
+| Error | Cause | Correction |
+|---|---|---|
+| Attack goes out | Too much pace or an unstable face | Use a compact motion and prioritize a downward, controlled path |
+| Attack is easily blocked | Placement is predictable | Use the middle gap, feet, or low backhand lane and disguise the change of pace |
+| Defense is late | Position is deep or balance is upright | Establish a balanced net position and stay ready to move laterally |
+| Firefight errors compound | Pace exceeds control | Reset the ball instead of forcing another speed-up |
+
+## 14.6 Training Method
 
 Training can be done as follows:
 

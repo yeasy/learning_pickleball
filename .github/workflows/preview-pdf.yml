@@ -20,28 +20,30 @@ jobs:
     env:
       GH_TOKEN: ${{ github.token }}
     steps:
-      - uses: actions/checkout@v7
+      - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
+        with:
+          persist-credentials: false
 
-      - name: Install Chromium and CJK fonts
-        uses: browser-actions/setup-chrome@v2
+      - name: Install Chromium
+        uses: browser-actions/setup-chrome@2e1d749697dd1612b833dba4a722266286fbefcd # v2.1.2
         with:
           chrome-version: stable
-      - name: Install CJK fonts
+
+      - name: Install fonts and PDF inspector
         run: |
           sudo apt-get update
-          sudo apt-get install -y fonts-noto-cjk fonts-noto-cjk-extra
+          sudo apt-get install -y fonts-noto-cjk fonts-noto-cjk-extra poppler-utils
 
-      - name: Install mdpress 0.7.10
+      - name: Install verified mdpress 0.7.10
         env:
           MDPRESS_VERSION: "0.7.10"
           MDPRESS_SHA256: "17e53e455996940bbbce64c69c43b3fb543f1501e03b74cf0434074efebd2db4"
         run: |
           archive="/tmp/mdpress_${MDPRESS_VERSION}_linux_amd64.tar.gz"
-          echo "Installing mdpress ${MDPRESS_VERSION}"
           curl -fsSL "https://github.com/yeasy/mdPress/releases/download/v${MDPRESS_VERSION}/mdpress_${MDPRESS_VERSION}_linux_amd64.tar.gz" -o "$archive"
           echo "${MDPRESS_SHA256}  $archive" | sha256sum -c -
           tar xzf "$archive" -C /tmp mdpress
-          sudo mv /tmp/mdpress /usr/local/bin/
+          sudo mv /tmp/mdpress /usr/local/bin/mdpress
           mdpress --version
 
       - name: Build latest preview PDFs
@@ -56,6 +58,18 @@ jobs:
             mdpress build --format pdf --output ../dist/learning_pickleball-en.pdf
           )
 
+      - name: Smoke test PDFs and write checksums
+        run: |
+          for pdf in dist/*.pdf; do
+            test -s "$pdf"
+            pdfinfo "$pdf" >/dev/null
+          done
+          (
+            cd dist
+            sha256sum -- *.pdf > SHA256SUMS
+            sha256sum -c SHA256SUMS
+          )
+
       - name: Write release notes
         run: |
           cat > dist/release-notes.md <<EOF
@@ -66,15 +80,16 @@ jobs:
           - Run: https://github.com/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}
           EOF
 
-      - name: Create preview release
+      - name: Create preview release when absent
         run: |
-          gh release view preview-pdf >/dev/null 2>&1 || \
+          if ! gh release view preview-pdf >/dev/null 2>&1; then
             gh release create preview-pdf \
               --title "Latest Preview PDFs" \
               --notes-file dist/release-notes.md \
               --prerelease \
               --latest=false \
               --target "$GITHUB_SHA"
+          fi
 
       - name: Update preview release metadata
         run: |
@@ -84,10 +99,19 @@ jobs:
             --prerelease \
             --target "$GITHUB_SHA"
 
-      - name: Remove legacy preview assets
+      - name: Remove legacy preview assets when present
         run: |
-          gh release delete-asset preview-pdf latest-cn.pdf -y || true
-          gh release delete-asset preview-pdf latest-en.pdf -y || true
+          assets=$(gh release view preview-pdf --json assets --jq '.assets[].name')
+          for asset in latest-cn.pdf latest-en.pdf; do
+            if grep -Fxq "$asset" <<<"$assets"; then
+              gh release delete-asset preview-pdf "$asset" -y
+            fi
+          done
 
-      - name: Upload preview PDFs
-        run: gh release upload preview-pdf dist/learning_pickleball-cn.pdf dist/learning_pickleball-en.pdf --clobber
+      - name: Upload verified preview PDFs
+        run: |
+          gh release upload preview-pdf \
+            dist/learning_pickleball-cn.pdf \
+            dist/learning_pickleball-en.pdf \
+            dist/SHA256SUMS \
+            --clobber

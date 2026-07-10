@@ -1,0 +1,9 @@
+{
+  "name": "learning-pickleball-mermaid-tools",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Locked Mermaid renderer for publication builds",
+  "dependencies": {
+    "@mermaid-js/mermaid-cli": "10.9.1"
+  }
+}

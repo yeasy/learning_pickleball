@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "description": "Authoritative sources used for rules, equipment, and training-safety claims.",
+  "sources": [
+    {
+      "id": "usap_2026_rulebook",
+      "title": "Official USA Pickleball Rulebook - 2026 landing page",
+      "publisher": "USA Pickleball",
+      "authority": "official",
+      "url": "https://usapickleball.org/rules/",
+      "verified_at": "2026-07-09",
+      "used_in": [
+        "cn/appendix.md",
+        "en/appendix.md"
+      ]
+    },
+    {
+      "id": "usap_equipment_standards",
+      "title": "USA Pickleball Equipment Standards Manual",
+      "publisher": "USA Pickleball",
+      "authority": "official",
+      "url": "https://usapickleball.org/docs/rules/USAP-Equipment-Standards-Manual.pdf",
+      "verified_at": "2026-07-09",
+      "used_in": [
+        "cn/appendix_equipment.md",
+        "en/appendix_equipment.md"
+      ]
+    },
+    {
+      "id": "usap_approved_paddles",
+      "title": "USA Pickleball Approved Paddle List",
+      "publisher": "USA Pickleball",
+      "authority": "official",
+      "url": "https://equipment.usapickleball.org/paddle-list/",
+      "verified_at": "2026-07-09",
+      "used_in": [
+        "cn/appendix_equipment.md",
+        "en/appendix_equipment.md"
+      ]
+    },
+    {
+      "id": "usap_approved_balls",
+      "title": "USA Pickleball Approved Ball List",
+      "publisher": "USA Pickleball",
+      "authority": "official",
+      "url": "https://equipment.usapickleball.org/ball-list/",
+      "verified_at": "2026-07-09",
+      "used_in": [
+        "cn/appendix_equipment.md",
+        "en/appendix_equipment.md"
+      ]
+    },
+    {
+      "id": "cdc_activity_intensity",
+      "title": "How to Measure Physical Activity Intensity",
+      "publisher": "US Centers for Disease Control and Prevention",
+      "authority": "official",
+      "url": "https://www.cdc.gov/physical-activity-basics/measuring/index.html",
+      "verified_at": "2026-07-09",
+      "used_in": [
+        "cn/04_fitness.md",
+        "en/04_fitness.md"
+      ]
+    },
+    {
+      "id": "cdc_getting_started",
+      "title": "Steps for Getting Started With Physical Activity",
+      "publisher": "US Centers for Disease Control and Prevention",
+      "authority": "official",
+      "url": "https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html",
+      "verified_at": "2026-07-09",
+      "used_in": [
+        "cn/02_learning_pathways.md",
+        "en/02_learning_pathways.md"
+      ]
+    }
+  ]
+}

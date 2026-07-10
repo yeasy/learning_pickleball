@@ -17,6 +17,7 @@ _mdpress_langs.html
 *.epub
 *.mobi
 *.pdf
+/learning_pickleball-*.docx
 
 # others
 *.sublime-project

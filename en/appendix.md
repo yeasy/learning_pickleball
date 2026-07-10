@@ -86,6 +86,7 @@ As pickleball evolves, rules continue to be refined. The summary below is based 
 ## References
 
 * [USA Pickleball Rules](https://usapickleball.org/rules/);
+* [Book rules and equipment provenance](../sources/provenance.json);
 * [USA Pickleball Association](https://usapickleball.org);
 * [International Padel Federation: Rules of Padel](https://www.padelfip.com/wp-content/uploads/2025/12/FIP_Rules-of-Padel.pdf);
 * [BWF: Laws of Badminton](https://corporate.bwfbadminton.com/statutes/);

@@ -44,7 +44,16 @@ In addition, to weaken the effect of spin, the simplest principle is to hit the 
 
 Finally, you can hit the ball faster, to reduce the contact time between the ball and the paddle, which also reduces the impact of spin.
 
-## 13.5 Training Methods
+## 13.5 Common Errors and Corrections
+
+| Error | Cause | Correction |
+|---|---|---|
+| Topspin return goes into the net | Paddle face and spacing are not matched to the bounce | Prepare earlier, adjust spacing, and test a slightly different face angle |
+| Backspin return floats long | Face is too open or contact is too high | Reduce lift and contact in a stable zone in front |
+| Sidespin pulls the return away | Spin direction was read late | Read the bounce and move to create room before contact |
+| Placement varies against spin | Swing pace changes with every ball | Slow the drill and build a repeatable tempo before adding speed |
+
+## 13.6 Training Methods
 
 There are several ways to practice to master and handle spin, and pay attention to understand the different spins caused by hitting different positions of the ball:
 

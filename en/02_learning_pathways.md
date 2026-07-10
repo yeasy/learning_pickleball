@@ -17,6 +17,16 @@ Before creating a training plan, use the following simple test to determine your
 
 Based on your results, find the corresponding learning pathway section below.
 
+### Starting Baseline
+
+The level table describes skill, not the training load your body is ready to tolerate. Before using the plans below, record what you actually completed during the past 4 weeks: sessions per week, session duration, highest intensity, and how you felt the next day. Start from a load you can complete pain-free without a clear increase in symptoms the following day; do not jump to a larger load simply because of a skill rating.
+
+- Little or no activity in the past 4 weeks: begin with 15-30 minutes of low-intensity activity and build duration gradually.
+- Consistent recent activity: begin near your usual duration and change only one variable at a time - duration, frequency, or intensity.
+- Chronic condition, recent injury or illness, a long period of inactivity, or uncertainty about suitable activity: ask a health professional before increasing training load.
+
+Source: [CDC: Steps for Getting Started With Physical Activity](https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html).
+
 ## 2.1 Pickleball Rating System
 
 Two commonly used rating frameworks should be distinguished:
@@ -147,8 +157,10 @@ Players at the 2.0-2.5 level are just entering pickleball and may come from vari
    - Assess mastery of each technique (1-10 scale)
 
 **Weekly Training Schedule:**
-- Monday, Wednesday, Friday, Sunday: 1.5 hours training or competitive play
-- Tuesday, Thursday: 45-60 minutes technique practice
+- Monday, Wednesday, Friday: 1 hour training or easy rallying
+- Tuesday, Thursday: 30 minutes low-intensity technique practice
+- Saturday: Optional 60 minutes of friendly play or a community session; skip it if fatigue or pain is persisting that week
+- Sunday: Full recovery day
 - Total weekly time: 4-5 hours
 
 ### 2.0-2.5 Level Self-Assessment Checklist

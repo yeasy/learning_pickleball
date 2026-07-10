@@ -44,7 +44,17 @@ Therefore, in order to defend the sliced ball well, it is necessary to reserve m
 
 The simplest way to defend a sliced ball is to return the ball with the same slicing method. You can also return the ball by driving with topspin. In this case, you should pay attention to hitting the ball on a higher trajectory to avoid drop the ball to the net.
 
-## 10.5 Training Methods
+## 10.5 Common Errors and Corrections
+
+| Error | What happens | Correction |
+|---|---|---|
+| Inconsistent paddle face | The ball floats or hits the net | Use a repeatable, slightly open face appropriate to the incoming ball |
+| Inconsistent contact point | Spin and height vary | Contact the lower-middle portion of the ball in front |
+| Abrupt, oversized action | Placement becomes difficult | Use a smooth, continuous brushing path |
+| Wrist-only action | Control is poor | Let the shoulder and trunk guide the stroke; use the hand for fine adjustment |
+| Return sits too high | The opponent can attack | Match net clearance and pace to the defensive or attacking purpose |
+
+## 10.6 Training Methods
 
 Slicing has a high requirement for hand sensitivity and can be trained through the following steps.
 

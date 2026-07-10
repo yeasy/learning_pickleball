@@ -8,93 +8,106 @@ Therefore, both amateurs and professional athletes should pay attention to warm-
 
 ## 4.1 Warm Up
 
-The purpose of warming up is to activate the joints and associated muscles of the body through dynamic stretch, which can improve the body’s mobility and reduce injury risk. The joints determine the angle and range of motion, and the muscles protect the joints. Warm up should be carried out in the order from the whole to the local, from the large joints to the small joints.
+The purpose of a warm-up is to bring heart rate, body temperature, and sport-specific movement gradually toward the demands of play. It cannot guarantee that an injury will not occur. Spend 5-10 minutes moving from low-intensity aerobic activity to controlled dynamic movements, then perform a few low-speed swings and court movements.
 
 ![Warm-up Stretch](../_images/warmup-stretch.png)
 
-Here are some common warm-up movements.
+Common options include:
 
-* Activate waist by bending to front, back and side;
-* Activate shoulders and arms by moving up, down, and to the side;
-* Leg press and leg stretch;
-* Activate wrist and ankle joints;
-* Jogging and jumping exercises.
+* Gentle trunk turns within a comfortable range;
+* Shoulder circles and controlled arm reaches;
+* Leg swings and short-range lunges with support if needed;
+* Wrist and ankle circles;
+* Brisk walking or marching for 1-2 minutes, followed by controlled side steps. Hopping and jump rope are not default beginner warm-ups; add them only after meeting the high-impact prerequisites below.
 
-## 4.2 Relax
+## 4.2 Cool Down
 
-During intense exercise, muscle tissue will contract and relax rapidly, and this process may cause the originally neatly arranged muscle fibers to stagger and bend. If the muscles are in this state for a long time, they are prone to injury. The purpose of relaxation is to maintain muscle flexibility by relaxing the muscle tissue to restore its fibers to a state of neat alignment, which can be achieved by static stretch.
+After play, use 5-10 minutes of walking or easy movement to let breathing and heart rate settle gradually. Static stretching can help maintain or improve flexibility, but it is not a guarantee against delayed-onset muscle soreness or every type of injury.
 
-To achieve effective relaxation, it is important to focus on relaxing the larger muscle groups first, followed by the smaller muscles.
-
-* Relax waist muscles through gentle bending to the front, back, and sides for a few seconds. This helps to release tension in the lower back and hips.;
-* Stretch your back muscles by standing up straight and reaching your arms overhead, gently arching your back. This helps to release tension in the upper back and shoulders;
-* Relax leg muscles by crossing your legs and gently stretching them by reaching forward towards your toes. This helps to release tension in the hamstrings and calf muscles;
-* Stretch your arm muscles by reaching up and overhead, then gently pulling one arm across your chest to stretch the shoulder and upper arm muscles.
-
-Relaxation can also be achieved through techniques such as stretching, self-massage, and pressure point therapy. Equipment such as foam rollers and yoga mats can be useful for enhancing relaxation exercises and providing additional support.
+Stretch only to mild tension, never sharp pain, and avoid bouncing. A short calf, thigh, hip, chest, and shoulder sequence is enough; choose positions you can enter and leave with control. Foam rolling or self-massage is optional and should not be painful.
 
 ## 4.3 Physical Training
 
-The sport requires a variety of physical qualities, including **strength** (power and stamina), **speed** and **accuracy**. The following are common physical training items, and players can moderately adjust the training volume according to their personal physical conditions.
+Pickleball uses strength, movement control, and hand-eye coordination. The options below are adjustable starting points, not a fixed prescription that every player should complete.
+
+### Choose Intensity First
+
+- **Light**: RPE 2-4/10; breathing is a little faster and conversation is easy. Start here after a long period of inactivity.
+- **Moderate**: RPE 5-6/10. Calibrate with the [CDC talk test](https://www.cdc.gov/physical-activity-basics/measuring/index.html): you can talk but not sing.
+- **Higher intensity**: RPE 7-8/10 is for players with a consistent base, good recovery, and stable technique. It is not the default intensity for this book's beginner plan.
 
 ### Strength Training
 
-* Kick the ground, turn the waist and swing the arms, 20 sets each, 3 sets;
-* Squat against the wall, 2 minutes each group, 3 groups;
-* Hip flexion exercises, 10 times, 3 sets;
-* Squatting without a wall, 1 minute each group, 3 groups;
-* Squat and up, 10 times, 3 sets;
-* Alternate leg lunges, 10 times, 3 sets;
-* Squat and move horizontal, 10 times, 3 sets;
-* Squat take-off to lunges, 20 times, 3 sets;
-* Plank, 1 minute each set, 3 sets;
-* Squat and up using one leg, 10 times, 3 sets;
+Two nonconsecutive strength sessions per week can be a useful starting structure. A beginner can choose 4-5 movements below, perform 1-2 sets of 6-10 controlled repetitions, and stop with 2-3 good-form repetitions still in reserve.
 
-### Speed Training
+- Supported squat or sit-to-stand
+- Supported split squat or a short-range reverse step
+- Two-leg calf raise
+- Resistance-band row or shoulder-blade squeeze
+- Wall push-up
+- Short elevated plank or dead bug
 
-* Hit the ball continuously to the wall without landing, 1 minute each set, 3 sets;
-* 10 meters fast back and forth running, 1 minute each set, 3 sets;
-* 10 meters fast left and right turn around, 1 minute each set, 3 sets;
+### Movement-Speed Training
+
+Beginners should first practice low-impact acceleration and deceleration: brisk walking, controlled side shuffles, and short forward-backward movements for 10-20 seconds with full recovery between sets. End the set when posture or foot placement becomes difficult to control.
 
 ### Accuracy Training
 
-* Hold a paddle (or a water bottle), circle the eight characters 100 times per group, 3 groups;
-* Bounce the ball with paddle, 100 times for each set, 3 sets by forehand, backhand and alternate;
-* Toss balls into buckets, 20 times per group, 3 groups;
-* Toss the ball to a point on the wall and then catch the ball, 20 times each, 3 sets;
+- Trace a slow figure eight with a paddle or water bottle, staying within a comfortable range
+- Bounce a ball on the paddle with forehand, backhand, and alternating sides
+- Toss balls into a target bucket
+- Toss a ball to a marked wall target and catch the rebound
+
+### Progression and Regression Rules
+
+- **Progress** only after two consecutive sessions with stable technique and no increase in symptoms during, after, or the next day. Make the smallest practical change and change only one variable - duration, frequency, resistance, or speed - at a time.
+- **Hold** the current level when the session is tolerable but technique becomes less stable near the end.
+- **Regress** if new pain, unusual fatigue, loss of control, or worse next-day symptoms appear. Stop the progression and return to the previous tolerated level.
+- **Recover** with at least one full recovery day each week. Do not schedule high-intensity or strength sessions on consecutive days when the same tissues are heavily loaded.
+
+### Prerequisites for High-Impact Work
+
+Hops, jump lunges, fast shuttle runs, and all-out changes of direction are not default beginner movements. First confirm that you can complete sit-to-stands, two-leg calf raises, supported split squats, and side steps pain-free while keeping the knees aligned, trunk stable, and landings controlled. Until then, use low-impact alternatives such as brisk walking, supported lateral steps, and calf raises. Seek professional assessment before adding impact if you have osteoporosis, balance problems, joint pain, a recent injury or illness, or a history of falls.
+
+### Stop Immediately and Seek Help
+
+- Stop immediately for chest pain or pressure, severe or unexplained shortness of breath, or dizziness or fainting, and follow local emergency-care guidance.
+- Stop the session and seek prompt medical assessment for sudden sharp pain, new marked swelling or redness, inability to bear weight, obvious joint instability, or deformity.
+- Normal effort is not a reason to push through pain. When uncertain, stop and record the symptoms; consult a health professional if they persist, worsen, or recur.
+
+Source: [Newcastle Hospitals NHS Foundation Trust: starting exercise and stop signals](https://www.newcastle-hospitals.nhs.uk/services/newcastle-occupational-health-service/information-for-staff/physiotherapy/self-help-leaflets/exercise-and-your-health-a-guide-to-getting-started/).
 
 ## 4.4 Level-Based Training Recommendations
 
-Different skill levels require different training focus and duration.
+Different skill levels require different training priorities. The frequencies below are planning ranges, not medical prescriptions; total duration must follow the player's baseline, response, and recovery.
 
 ### Beginner (2.5-3.0 Level)
 
-* **Weekly Training**: 3-4 times, 30-60 minutes each
+* **Weekly Training**: 2-4 sessions, 30-60 minutes each; start shorter after a long period of inactivity
 * **Key Focus**: Serve consistency, return of serve, basic footwork
 * **Training Ratio**: Technical practice 70%, Match play 30%
-* **Special Note**: Establish correct movement habits, avoid developing bad habits
+* **Special Note**: Establish controlled movement habits and keep at least one full recovery day
 
 ### Intermediate (3.5-4.0 Level)
 
-* **Weekly Training**: 4-5 times, 1-2 hours each
+* **Weekly Training**: 3-5 sessions, extending only when symptoms do not worsen
 * **Key Focus**: Drop shots, dinks, volleys, spin control
 * **Training Ratio**: Technical practice 50%, Tactical drills 30%, Matches 20%
-* **Special Note**: Start systematic tactical training
+* **Special Note**: Separate demanding days with easier practice or recovery
 
 ### Advanced (4.5-5.0 Level)
 
-* **Weekly Training**: 5-6 times, 2-3 hours each
+* **Weekly Training**: 4-6 sessions with high-, moderate-, and low-intensity days plus recovery
 * **Key Focus**: Advanced techniques (ATP, Erne), match strategy, mental training
 * **Training Ratio**: Technical refinement 30%, Tactical drills 40%, Match simulation 30%
-* **Special Note**: Focus on weakness improvement
+* **Special Note**: Adjust load to the competition calendar and individual response
 
 ### Professional/Elite (5.5+ Level)
 
-* **Weekly Training**: 4-6 hours daily
+* **Weekly Training**: Individualized around the competition calendar by coaching, conditioning, and medical staff; no universal hourly prescription
 * **Key Focus**: Technical fine-tuning, fitness, match analysis, mental conditioning
 * **Training Ratio**: Adjust based on competition schedule
-* **Special Note**: Scientific recovery, injury prevention
-
+* **Special Note**: Planned recovery and injury management are part of training
 
 ## 4.5 Common Pickleball Injuries
 

@@ -81,7 +81,17 @@ The primary goal of a block volley is to safely return the ball into the opponen
 
 After a successful block volley, both sides typically return to a dinking rally.
 
-## 9.6 Training Methods
+## 9.6 Common Errors and Corrections
+
+| Error | What happens | Correction |
+|---|---|---|
+| Oversized swing | Reaction is late | Keep the volley compact with little or no backswing |
+| Wrist flip | Direction varies | Hold a stable face and redirect with a short push |
+| Standing too far back | Contact crowds the body | Establish position near the NVZ line when play allows |
+| No anticipation | Every volley becomes reactive | Read the opponent's shoulders, paddle, and balance |
+| Tight grip on a reset | The ball rebounds too far | Soften the hands to absorb pace into the NVZ |
+
+## 9.7 Training Methods
 
 1.  **Wall Volleys**: Stand 4-5 feet from a wall. Volley rapidly against it without letting the ball bounce. Aim for 50 in a row (forehand, backhand, alternating).
 2.  **Partner Volleys**: Stand at the NVZ line across from a partner. Volley back and forth, keeping the ball in the air. Start slow for control, then speed up.

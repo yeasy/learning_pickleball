@@ -55,7 +55,17 @@ In doubles, the Drive can generally target the space between players, low defens
 
 In singles, the Drive should mainly aim at the opponent's defense gap, and the gesture should be as small as possible, in order to prevent the opponent from predicting easily.
 
-## 8.4 Training Methods
+## 8.4 Common Errors and Corrections
+
+| Error | What happens | Correction |
+|---|---|---|
+| Excessive net clearance | The opponent can attack the volley | Contact in front and control the trajectory rather than swinging harder |
+| Arm-only swing | Power and control vary | Sequence the legs, trunk, shoulder, and arm |
+| Poor position | Balance is uneven | Move to the side and slightly behind the ball before turning |
+| Looking away | Off-center contact increases | Track the bounce through contact |
+| Contact too late | The stroke loses efficiency | Prepare earlier and contact before the ball passes the body |
+
+## 8.5 Training Methods
 
 The Drive can be trained through the following steps:
 
