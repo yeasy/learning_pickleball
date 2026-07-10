@@ -17,6 +17,141 @@ ROOT = Path(__file__).resolve().parents[1]
 WORKFLOW_DIR = ROOT / ".github/workflows"
 WORKFLOWS = sorted((*WORKFLOW_DIR.glob("*.yml"), *WORKFLOW_DIR.glob("*.yaml")))
 DOWNLOAD_ARTIFACT_SHA = "3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c"
+TEST_REPOSITORY = "owner/repo"
+TEST_SHA = "a" * 40
+GET_REF_COMMAND = [
+    "api",
+    "--include",
+    "--method",
+    "GET",
+    f"repos/{TEST_REPOSITORY}/git/ref/tags/preview-pdf",
+]
+PATCH_REF_COMMAND = [
+    "api",
+    "--silent",
+    "--method",
+    "PATCH",
+    f"repos/{TEST_REPOSITORY}/git/refs/tags/preview-pdf",
+    "--raw-field",
+    f"sha={TEST_SHA}",
+    "--field",
+    "force=true",
+]
+POST_REF_COMMAND = [
+    "api",
+    "--silent",
+    "--method",
+    "POST",
+    f"repos/{TEST_REPOSITORY}/git/refs",
+    "--raw-field",
+    "ref=refs/tags/preview-pdf",
+    "--raw-field",
+    f"sha={TEST_SHA}",
+]
+VIEW_RELEASE_COMMAND = ["release", "view", "preview-pdf"]
+EDIT_RELEASE_COMMAND = [
+    "release",
+    "edit",
+    "preview-pdf",
+    "--title",
+    "Latest Preview PDFs",
+    "--notes-file",
+    "dist/release-notes.md",
+    "--prerelease",
+]
+CREATE_RELEASE_COMMAND = [
+    "release",
+    "create",
+    "preview-pdf",
+    "--title",
+    "Latest Preview PDFs",
+    "--notes-file",
+    "dist/release-notes.md",
+    "--prerelease",
+    "--latest=false",
+    "--verify-tag",
+]
+
+FAKE_GH = r'''#!/usr/bin/env python3
+import json
+import os
+import sys
+
+args = sys.argv[1:]
+with open(os.environ["GH_LOG"], "a", encoding="utf-8") as stream:
+    stream.write(json.dumps(args) + "\n")
+
+scenario = os.environ["GH_SCENARIO"]
+repository = "owner/repo"
+sha = "a" * 40
+reasons = {
+    "401": "Unauthorized",
+    "403": "Forbidden",
+    "404": "Not Found",
+    "429": "Too Many Requests",
+    "503": "Service Unavailable",
+}
+
+def fail_http(code):
+    print(f"HTTP/2.0 {code} {reasons[code]}")
+    print(f"fake gh HTTP {code}", file=sys.stderr)
+    raise SystemExit(1)
+
+get_ref = ["api", "--include", "--method", "GET", f"repos/{repository}/git/ref/tags/preview-pdf"]
+patch_ref = [
+    "api", "--silent", "--method", "PATCH",
+    f"repos/{repository}/git/refs/tags/preview-pdf",
+    "--raw-field", f"sha={sha}", "--field", "force=true",
+]
+post_ref = [
+    "api", "--silent", "--method", "POST", f"repos/{repository}/git/refs",
+    "--raw-field", "ref=refs/tags/preview-pdf", "--raw-field", f"sha={sha}",
+]
+view_release = ["release", "view", "preview-pdf"]
+edit_release = [
+    "release", "edit", "preview-pdf", "--title", "Latest Preview PDFs",
+    "--notes-file", "dist/release-notes.md", "--prerelease",
+]
+create_release = [
+    "release", "create", "preview-pdf", "--title", "Latest Preview PDFs",
+    "--notes-file", "dist/release-notes.md", "--prerelease",
+    "--latest=false", "--verify-tag",
+]
+
+if os.environ.get("GH_REPO") != repository:
+    print("fake gh requires explicit GH_REPO", file=sys.stderr)
+    raise SystemExit(2)
+
+if args == get_ref:
+    if scenario.startswith("ref_network"):
+        print("fake gh network failure", file=sys.stderr)
+        raise SystemExit(1)
+    for code in reasons:
+        if scenario.startswith(f"ref_{code}"):
+            fail_http(code)
+    print("HTTP/2.0 200 OK")
+    print('Content-Type: application/json\n\n{"ref":"refs/tags/preview-pdf"}')
+    raise SystemExit(0)
+
+if args in (patch_ref, post_ref, edit_release, create_release):
+    raise SystemExit(0)
+
+if args == view_release:
+    if "release_missing" in scenario:
+        print("release not found", file=sys.stderr)
+        raise SystemExit(1)
+    if "release_network" in scenario:
+        print("fake release network failure", file=sys.stderr)
+        raise SystemExit(1)
+    for code in reasons:
+        if f"release_{code}" in scenario:
+            print(f"fake release HTTP {code}", file=sys.stderr)
+            raise SystemExit(1)
+    raise SystemExit(0)
+
+print(f"unexpected gh argv: {args!r}", file=sys.stderr)
+raise SystemExit(2)
+'''
 
 
 def _job_block(text: str, name: str) -> str:
@@ -48,6 +183,13 @@ def _step_script(text: str, name: str) -> str:
             break
         body.append(line)
     return textwrap.dedent("\n".join(body)) + "\n"
+
+
+def _step_scripts_in_order(text: str, names: tuple[str, ...]) -> tuple[str, ...]:
+    return tuple(
+        _step_script(text, name)
+        for name in sorted(names, key=lambda value: text.index(f"      - name: {value}\n"))
+    )
 
 
 class ReleaseWorkflowTests(unittest.TestCase):
@@ -187,67 +329,125 @@ class ReleaseWorkflowTests(unittest.TestCase):
         self.assertIn('--html-title "$TITLE"', auto)
         self.assertIn("--require-docx", ci)
 
-    def test_preview_release_creation_only_handles_explicit_404(self) -> None:
+    def _run_preview_scripts(
+        self,
+        scenario: str,
+        *,
+        repository: str = TEST_REPOSITORY,
+        sha: str = TEST_SHA,
+    ) -> tuple[subprocess.CompletedProcess[str], list[list[str]]]:
         text = (WORKFLOW_DIR / "preview-pdf.yml").read_text(encoding="utf-8")
-        script = _step_script(text, "Ensure preview release exists")
-        self.assertIn("gh api --include", script)
-        self.assertIn('[[ "$status" == "404" ]]', script)
-
+        scripts = _step_scripts_in_order(
+            text,
+            ("Synchronize mutable preview tag", "Create or update preview release"),
+        )
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
-            fake_bin = root / "bin"
-            fake_bin.mkdir()
-            record = root / "created"
-            gh = fake_bin / "gh"
-            gh.write_text(
-                """#!/usr/bin/env bash
-set -eu
-if [[ "$1" == "api" ]]; then
-  case "$FAKE_GH_MODE" in
-    404) printf 'HTTP/2.0 404 Not Found\\ncontent-type: application/json\\n\\n{}\\n'; exit 1 ;;
-    200) printf 'HTTP/2.0 200 OK\\ncontent-type: application/json\\n\\n{}\\n'; exit 0 ;;
-    failure) printf 'network timeout while contacting api.github.com\\n' >&2; exit 2 ;;
-  esac
-fi
-if [[ "$1" == "release" && "$2" == "create" ]]; then
-  : > "$FAKE_GH_RECORD"
-  exit 0
-fi
-printf 'unexpected fake gh invocation: %s\\n' "$*" >&2
-exit 64
-""",
-                encoding="utf-8",
-            )
+            gh = root / "gh"
+            gh.write_text(FAKE_GH, encoding="utf-8")
             gh.chmod(0o755)
-            base_env = os.environ.copy()
-            base_env.update(
+            log = root / "commands.jsonl"
+            env = os.environ.copy()
+            env.update(
                 {
-                    "PATH": f"{fake_bin}{os.pathsep}{base_env['PATH']}",
-                    "FAKE_GH_RECORD": str(record),
-                    "GITHUB_REPOSITORY": "yeasy/learning_pickleball",
-                    "GITHUB_SHA": "0123456789abcdef",
+                    "PATH": f"{root}{os.pathsep}{env.get('PATH', '')}",
+                    "GH_LOG": str(log),
+                    "GH_SCENARIO": scenario,
+                    "GH_TOKEN": "test-token",
+                    "GH_REPO": repository,
+                    "GITHUB_REPOSITORY": repository,
+                    "GITHUB_SHA": sha,
                 }
             )
-
-            for mode, expected_code, should_create in (
-                ("404", 0, True),
-                ("200", 0, False),
-                ("failure", 2, False),
-            ):
-                record.unlink(missing_ok=True)
-                env = base_env | {"FAKE_GH_MODE": mode}
+            result: subprocess.CompletedProcess[str] | None = None
+            for script in scripts:
                 result = subprocess.run(
-                    ["bash", "-euo", "pipefail", "-c", script],
-                    cwd=root,
+                    ["/bin/bash", "-c", script],
+                    cwd=ROOT,
                     env=env,
-                    text=True,
                     capture_output=True,
+                    text=True,
                     check=False,
                 )
-                self.assertEqual(expected_code, result.returncode, result.stderr)
-                self.assertEqual(should_create, record.exists(), mode)
-                if mode == "failure":
-                    self.assertIn("network timeout", result.stderr)
+                if result.returncode != 0:
+                    break
+            assert result is not None
+            commands = (
+                [json.loads(line) for line in log.read_text(encoding="utf-8").splitlines()]
+                if log.exists()
+                else []
+            )
+            return result, commands
+
+    def test_preview_updates_existing_tag_then_release_with_exact_argv(self) -> None:
+        result, commands = self._run_preview_scripts("ref_200_release_exists")
+        self.assertEqual(0, result.returncode, result.stdout + result.stderr)
+        self.assertEqual(
+            [GET_REF_COMMAND, PATCH_REF_COMMAND, VIEW_RELEASE_COMMAND, EDIT_RELEASE_COMMAND],
+            commands,
+        )
+
+    def test_preview_creates_tag_and_release_only_on_explicit_not_found(self) -> None:
+        result, commands = self._run_preview_scripts("ref_404_release_missing")
+        self.assertEqual(0, result.returncode, result.stdout + result.stderr)
+        self.assertEqual(
+            [GET_REF_COMMAND, POST_REF_COMMAND, VIEW_RELEASE_COMMAND, CREATE_RELEASE_COMMAND],
+            commands,
+        )
+        self.assertNotIn("--target", [argument for command in commands for argument in command])
+
+    def test_preview_rejects_invalid_repository_and_sha_before_gh(self) -> None:
+        cases = (
+            ("owner/repo/extra", TEST_SHA, "Invalid GITHUB_REPOSITORY"),
+            (TEST_REPOSITORY, "a" * 39, "Invalid GITHUB_SHA"),
+        )
+        for repository, sha, message in cases:
+            with self.subTest(repository=repository, sha=sha):
+                result, commands = self._run_preview_scripts(
+                    "ref_200_release_exists", repository=repository, sha=sha
+                )
+                self.assertNotEqual(0, result.returncode)
+                self.assertEqual([], commands)
+                self.assertIn(message, result.stderr)
+
+    def test_preview_tag_lookup_fails_closed_on_non_404_errors(self) -> None:
+        for scenario in ("ref_401", "ref_403", "ref_429", "ref_503", "ref_network"):
+            with self.subTest(scenario=scenario):
+                result, commands = self._run_preview_scripts(scenario)
+                self.assertNotEqual(0, result.returncode)
+                self.assertEqual([GET_REF_COMMAND], commands)
+                expected = "network failure" if scenario.endswith("network") else scenario[4:]
+                self.assertIn(expected, result.stderr)
+
+    def test_preview_release_lookup_fails_closed_except_exact_not_found(self) -> None:
+        scenarios = (
+            "ref_200_release_401",
+            "ref_200_release_403",
+            "ref_200_release_404",
+            "ref_200_release_429",
+            "ref_200_release_503",
+            "ref_200_release_network",
+        )
+        for scenario in scenarios:
+            with self.subTest(scenario=scenario):
+                result, commands = self._run_preview_scripts(scenario)
+                self.assertNotEqual(0, result.returncode)
+                self.assertEqual(
+                    [GET_REF_COMMAND, PATCH_REF_COMMAND, VIEW_RELEASE_COMMAND], commands
+                )
+                expected = (
+                    "network failure"
+                    if scenario.endswith("network")
+                    else scenario.rsplit("release_", 1)[1]
+                )
+                self.assertIn(expected, result.stderr)
+
+    def test_preview_publish_has_explicit_repo_context_only_in_write_job(self) -> None:
+        text = (WORKFLOW_DIR / "preview-pdf.yml").read_text(encoding="utf-8")
+        build, publish = text.split("\n  publish:\n", 1)
+        self.assertNotIn("GH_REPO", build)
+        self.assertIn("GH_REPO: ${{ github.repository }}", publish)
+        self.assertNotIn("--target", publish)
 
     def test_permissions_are_scoped_and_errors_are_not_suppressed(self) -> None:
         for workflow in WORKFLOWS:

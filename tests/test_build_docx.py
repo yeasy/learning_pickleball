@@ -8,6 +8,7 @@ import re
 import subprocess
 import sys
 import tempfile
+import time
 import unittest
 import xml.etree.ElementTree as ET
 import zipfile
@@ -148,6 +149,58 @@ class DocxBuildTests(unittest.TestCase):
             for language in ("cn", "en"):
                 name = f"learning_pickleball-{language}.docx"
                 self.assertEqual((output / name).read_bytes(), (replay / name).read_bytes())
+
+    def test_ooxml_zip_is_byte_identical_across_clock_ticks_with_normalized_metadata(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            first = root / "first"
+            second = root / "second"
+            env = os.environ.copy()
+            env["SOURCE_DATE_EPOCH"] = "0"
+            command = [sys.executable, str(SCRIPT)]
+
+            first_result = subprocess.run(
+                [*command, "--output-dir", str(first)],
+                cwd=ROOT,
+                env=env,
+                text=True,
+                capture_output=True,
+                check=False,
+            )
+            self.assertEqual(0, first_result.returncode, first_result.stderr)
+            time.sleep(3.1)
+            second_result = subprocess.run(
+                [*command, "--output-dir", str(second)],
+                cwd=ROOT,
+                env=env,
+                text=True,
+                capture_output=True,
+                check=False,
+            )
+            self.assertEqual(0, second_result.returncode, second_result.stderr)
+
+            for language in ("cn", "en"):
+                name = f"learning_pickleball-{language}.docx"
+                first_path = first / name
+                second_path = second / name
+                self.assertEqual(first_path.read_bytes(), second_path.read_bytes())
+                with zipfile.ZipFile(first_path) as archive:
+                    infos = archive.infolist()
+                    self.assertEqual(sorted(info.filename for info in infos), archive.namelist())
+                    self.assertEqual(
+                        {(1980, 1, 1, 0, 0, 0)},
+                        {info.date_time for info in infos},
+                    )
+                    self.assertEqual({0}, {info.create_system for info in infos})
+                    self.assertEqual({0o600 << 16}, {info.external_attr for info in infos})
+                    self.assertEqual({0}, {info.internal_attr for info in infos})
+                    self.assertEqual({b""}, {info.extra for info in infos})
+                    self.assertEqual({b""}, {info.comment for info in infos})
+                    self.assertEqual(
+                        {zipfile.ZIP_DEFLATED},
+                        {info.compress_type for info in infos},
+                    )
+                    self.assertEqual(b"", archive.comment)
 
     def test_reference_builder_sets_book_page_and_heading_breaks(self) -> None:
         script = ROOT / "tools/docx/build_reference_doc.py"

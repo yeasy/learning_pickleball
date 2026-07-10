@@ -9,6 +9,7 @@ import re
 import subprocess
 import sys
 import tempfile
+import zipfile
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -113,6 +114,57 @@ def _fixed_datetime() -> datetime:
     if raw and raw.isdigit() and int(raw) >= 315532800:
         return datetime.fromtimestamp(int(raw), timezone.utc).replace(tzinfo=None)
     return datetime(2000, 1, 1, 0, 0, 0)
+
+
+def _zip_timestamp(value: datetime) -> tuple[int, int, int, int, int, int]:
+    """Return a ZIP-compatible, two-second-resolution timestamp."""
+    minimum = datetime(1980, 1, 1, 0, 0, 0)
+    maximum = datetime(2107, 12, 31, 23, 59, 58)
+    value = min(max(value, minimum), maximum)
+    return value.year, value.month, value.day, value.hour, value.minute, value.second // 2 * 2
+
+
+def _normalize_ooxml_archive(path: Path, fixed: datetime) -> None:
+    """Rewrite an OOXML package with canonical ordering and ZIP metadata."""
+    with zipfile.ZipFile(path) as source:
+        infos = source.infolist()
+        names = [info.filename for info in infos]
+        if len(names) != len(set(names)):
+            raise BuildError(f"DOCX contains duplicate ZIP members: {path}")
+        members = [(info.filename, source.read(info)) for info in infos]
+
+    with tempfile.NamedTemporaryFile(
+        dir=path.parent,
+        prefix=f".{path.name}.",
+        suffix=".normalized",
+        delete=False,
+    ) as stream:
+        normalized = Path(stream.name)
+    try:
+        with zipfile.ZipFile(
+            normalized,
+            "w",
+            compression=zipfile.ZIP_DEFLATED,
+            compresslevel=9,
+        ) as target:
+            target.comment = b""
+            for name, data in sorted(members):
+                info = zipfile.ZipInfo(name, date_time=_zip_timestamp(fixed))
+                info.compress_type = zipfile.ZIP_DEFLATED
+                info.create_system = 0
+                info.external_attr = 0o600 << 16
+                info.internal_attr = 0
+                info.extra = b""
+                info.comment = b""
+                target.writestr(
+                    info,
+                    data,
+                    compress_type=zipfile.ZIP_DEFLATED,
+                    compresslevel=9,
+                )
+        os.replace(normalized, path)
+    finally:
+        normalized.unlink(missing_ok=True)
 
 
 def _enable_field_updates(document: Document) -> None:
@@ -224,6 +276,7 @@ def add_front_matter(
     _enable_field_updates(document)
     output.parent.mkdir(parents=True, exist_ok=True)
     document.save(output)
+    _normalize_ooxml_archive(output, fixed)
 
 
 def build_language(language: str, output_dir: Path, pandoc: str) -> Path:

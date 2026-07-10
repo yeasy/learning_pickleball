@@ -35,6 +35,7 @@ python3 tools/build_docx.py --lang en --output-dir /tmp/learning-pickleball-docx
 - 条目和章节顺序只由对应 `SUMMARY.md` 决定。
 - 样式模板、封面裁切和前置页都由受版本控制的代码生成。
 - 文档核心时间使用 `SOURCE_DATE_EPOCH`；未设置时使用固定值，避免元数据随运行时间漂移。
+- 保存后按成员名重写 OOXML ZIP，统一成员时间、压缩方式、平台/权限字段、扩展字段与注释，避免 ZIP 容器元数据破坏字节级复现。
 - 输出先在临时目录完成，再原子替换目标；旧产物不会成为新产物的输入。
 
 ## 验证
@@ -43,4 +44,4 @@ python3 tools/build_docx.py --lang en --output-dir /tmp/learning-pickleball-docx
 python3 -m unittest -v tests.test_build_docx
 ```
 
-测试仅使用 Python 标准库检查 OOXML ZIP：包结构、28 个 H1 的 SUMMARY 顺序、标题元数据、静态目录、字段更新设置、页面尺寸、Heading 1 分页和嵌入图片。交付前还应用 LibreOffice 导出 PDF，逐页检查封面、目录、表格、图片、中英文字体和分页。
+测试仅使用 Python 标准库检查 OOXML ZIP：包结构、成员顺序和元数据、跨时钟刻度字节一致性、28 个 H1 的 SUMMARY 顺序、标题元数据、静态目录、字段更新设置、页面尺寸、Heading 1 分页和嵌入图片。交付前还应用 LibreOffice 导出 PDF，逐页检查封面、目录、表格、图片、中英文字体和分页。
