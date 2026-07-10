@@ -72,23 +72,9 @@ jobs:
           )
           python3 tools/build_docx.py --output-dir dist
 
-      - name: Smoke test artifacts and write checksums
+      - name: Validate publication content and write checksums
         run: |
-          for pdf in dist/*.pdf; do
-            test -s "$pdf"
-            pdfinfo "$pdf" >/dev/null
-          done
-          python3 - <<'PY'
-          from pathlib import Path
-          import zipfile
-          for path in sorted(Path("dist").glob("*.docx")):
-              if not zipfile.is_zipfile(path):
-                  raise SystemExit(f"invalid DOCX ZIP: {path}")
-              with zipfile.ZipFile(path) as archive:
-                  bad = archive.testzip()
-                  if bad:
-                      raise SystemExit(f"corrupt DOCX member: {path}:{bad}")
-          PY
+          python3 tools/validate_publication_artifacts.py --dist dist --require-docx
           (
             cd dist
             sha256sum -- *.pdf *.docx > SHA256SUMS
