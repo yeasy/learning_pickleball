@@ -83,12 +83,14 @@ def normalize_markdown(source: Path) -> str:
     def replace_markdown_image(match: re.Match[str]) -> str:
         alt, target = match.group(1), match.group(2)
         local = _local_image_target(source, target)
-        return match.group(0) if local is None else f"![{alt}]({local.as_posix()})"
+        stable = local.relative_to(ROOT).as_posix() if local is not None else None
+        return match.group(0) if stable is None else f"![{alt}]({stable})"
 
     def replace_html_image(match: re.Match[str]) -> str:
         target = match.group(1)
         local = _local_image_target(source, target)
-        return match.group(0) if local is None else match.group(0).replace(target, local.as_posix())
+        stable = local.relative_to(ROOT).as_posix() if local is not None else None
+        return match.group(0) if stable is None else match.group(0).replace(target, stable)
 
     text = re.sub(r"!\[([^]]*)\]\(([^)]+)\)", replace_markdown_image, text)
     text = re.sub(r'<img\s+[^>]*src="([^"]+)"[^>]*>', replace_html_image, text)
