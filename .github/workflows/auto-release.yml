@@ -79,8 +79,6 @@ jobs:
           echo "SAFE_TAG_NAME=${safe_tag_name}" >> "$GITHUB_OUTPUT"
 
       - name: Build publication bundle
-        env:
-          CHROME_BIN: ${{ steps.setupchrome.outputs.chrome-path }}
         run: |
           mkdir -p dist
           TAG_NAME="${{ steps.tag.outputs.SAFE_TAG_NAME }}"
