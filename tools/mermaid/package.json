@@ -4,6 +4,6 @@
   "private": true,
   "description": "Locked Mermaid renderer for publication builds",
   "dependencies": {
-    "@mermaid-js/mermaid-cli": "10.9.1"
+    "@mermaid-js/mermaid-cli": "11.16.0"
   }
 }
