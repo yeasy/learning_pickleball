@@ -27,6 +27,16 @@ BOOK_ROUTE = "/books/learning-pickleball"
 LANG_DIR = "cn"
 EXPECTED_CHAPTERS = 28
 PLACEHOLDER_TOKENS = ("MERMAIDZZ", "PLACEHOLDER", "@@")
+# 2026-07-16: 第三方转播截图/档案照片（无授权署名），门户侧按 fail-closed 权利标准
+# 不发布：生成 fragment 时直接去引用，也不复制到门户 img/。源文件保留在 _images/ 不动。
+THIRD_PARTY_BLOCKED_IMAGES = frozenset({
+    "atp-shot.jpg",       # MLP 转播画面
+    "erne-shot.jpg",      # 职业赛转播帧
+    "foot-fault.jpg",     # Newport Beach 赛事转播截图
+    "dink-low.jpg",       # Newport Beach 赛事转播截图
+    "serve.jpg",          # Carvana PPA Tour 现场专业照片
+    "pickleball-born.png",  # 1960 年代 Bainbridge Island 历史档案照片
+})
 
 
 class BuildError(RuntimeError):
@@ -117,6 +127,8 @@ def process_fragment(text, book_root, slug_by_mdname, images_used, mermaid_srcs)
     text = re.sub(r"!\[[^\]]*\]\(https?://[^)]*\)", "", text)
     text = re.sub(r"^\s*\[\]\([^)]*\)\s*$", "", text, flags=re.M)
 
+    BLOCKED = object()  # sentinel: third-party image, drop the whole reference
+
     def _webimg(url):
         url = url.strip()
         if url.startswith(("http://", "https://", "/", "data:")):
@@ -124,11 +136,15 @@ def process_fragment(text, book_root, slug_by_mdname, images_used, mermaid_srcs)
         # resolve relative to the chapter dir (cn/), record source under book root
         norm = posixpath.normpath(posixpath.join(LANG_DIR, url))  # e.g. _images/x.png
         base = os.path.basename(norm)
+        if base in THIRD_PARTY_BLOCKED_IMAGES:
+            return BLOCKED
         images_used.add(norm)
         return f"{BOOK_ROUTE}/img/{base}"
 
     def md_img(m):
         web = _webimg(m.group(2))
+        if web is BLOCKED:
+            return ""
         return f"![{m.group(1)}]({web})" if web else m.group(0)
 
     text = re.sub(r"!\[([^\]]*)\]\(([^)]+)\)", md_img, text)
@@ -136,6 +152,8 @@ def process_fragment(text, book_root, slug_by_mdname, images_used, mermaid_srcs)
     def html_img(m):
         src = m.group(1)
         web = _webimg(src)
+        if web is BLOCKED:
+            return ""
         return m.group(0).replace(f'src="{src}"', f'src="{web}"') if web else m.group(0)
 
     text = re.sub(r'<img\s+[^>]*src="([^"]+)"[^>]*>', html_img, text)
