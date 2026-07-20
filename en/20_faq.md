@@ -165,7 +165,7 @@ Players should choose an appropriate backhand according to their own preference.
 
 ## 20.14 [Q14] Why does pickleball look slow but feel fast?
 
-**Answer**: In many beginner and recreational rallies, the ball speed may feel closer to 40\~60 km/h (about 10\~16 m/s), lower than badminton, tennis, or table tennis at their faster speeds. But in actual play, especially near the kitchen line, the ball can still feel extremely fast.
+**Answer**: In many beginner and recreational rallies, the ball speed may feel closer to 40\~60 km/h (about 11\~17 m/s), lower than badminton, tennis, or table tennis at their faster speeds. But in actual play, especially near the kitchen line, the ball can still feel extremely fast.
 
 The occurrence of this phenomenon is mainly due to the fact that players often need to counterattack quickly in front of the net in the pickleball game. Due to the relatively short distance, players need to react in a very short time even though the plastic ball loses speed during flight.
 
