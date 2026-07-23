@@ -216,7 +216,7 @@ class ReleaseWorkflowTests(unittest.TestCase):
     def test_downloads_and_mermaid_dependencies_are_locked(self) -> None:
         for name in ("auto-release.yml", "ci.yaml", "preview-pdf.yml"):
             text = (WORKFLOW_DIR / name).read_text(encoding="utf-8")
-            self.assertIn("MDPRESS_SHA256", text)
+            self.assertIn("checksums.txt", text)
             self.assertIn("sha256sum -c -", text)
             self.assertIn('tar xzf "$archive" -C /tmp mdpress', text)
         for name in ("auto-release.yml", "ci.yaml"):
