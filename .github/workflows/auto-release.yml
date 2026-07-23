@@ -92,7 +92,7 @@ jobs:
           )
           python3 tools/build_docx.py --output-dir dist
           TITLE=$(python3 -c "import json; print(json.load(open('book.json')).get('title') or '${{ github.event.repository.name }}')")
-          python3 tools/render_mermaid.py --book-dir . --svg-out /tmp/mmsvg
+          python3 tools/render_mermaid.py --book-dir . --svg-out /tmp/mmsvg --strict
           python3 tools/build_html_reader.py --book-dir . --title "$TITLE" --svg-dir /tmp/mmsvg \
             --out "dist/${{ github.event.repository.name }}-${TAG_NAME}.html"
 
