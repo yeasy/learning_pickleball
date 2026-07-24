@@ -64,7 +64,7 @@ jobs:
 
       - name: Run project checks and tests
         run: |
-          python3 check_project_rules.py
+          python3 check_project_rules.py && python3 check_emphasis.py
           python3 -m unittest discover -s tests -v
 
       - name: Build PDFs and DOCX editions
