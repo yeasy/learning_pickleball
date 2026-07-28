@@ -8,7 +8,33 @@
       "publisher": "USA Pickleball",
       "authority": "official",
       "url": "https://usapickleball.org/rules/",
-      "verified_at": "2026-07-09",
+      "verified_at": "2026-07-27",
+      "used_in": [
+        "cn/appendix.md",
+        "en/appendix.md"
+      ]
+    },
+    {
+      "id": "usap_2026_rulebook_pdf",
+      "title": "2026 USA Pickleball Official Rulebook (PDF)",
+      "publisher": "USA Pickleball",
+      "authority": "official",
+      "url": "https://usapickleball.org/docs/rules/USAP-Official-Rulebook.pdf",
+      "verified_at": "2026-07-27",
+      "used_in": [
+        "cn/01_background.md",
+        "en/01_background.md",
+        "cn/appendix.md",
+        "en/appendix.md"
+      ]
+    },
+    {
+      "id": "usap_2026_rulebook_change_document",
+      "title": "2026 USA Pickleball Rulebook Change Document (published 2025-12-17, edited 2026-01-30)",
+      "publisher": "USA Pickleball",
+      "authority": "official",
+      "url": "https://usapickleball.org/docs/rules/USAP-Rulebook-Change-Document.pdf",
+      "verified_at": "2026-07-27",
       "used_in": [
         "cn/appendix.md",
         "en/appendix.md"
@@ -48,6 +74,18 @@
       "used_in": [
         "cn/appendix_equipment.md",
         "en/appendix_equipment.md"
+      ]
+    },
+    {
+      "id": "bwf_laws_of_badminton",
+      "title": "BWF Statutes Section 4.1 - Laws of Badminton (shuttle mass 4.74-5.50 g, Law 2.2.6)",
+      "publisher": "Badminton World Federation",
+      "authority": "official",
+      "url": "https://corporate.bwfbadminton.com/statutes/",
+      "verified_at": "2026-07-27",
+      "used_in": [
+        "cn/appendix_comparison.md",
+        "en/appendix_comparison.md"
       ]
     },
     {

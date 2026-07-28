@@ -72,20 +72,30 @@ The paddles used by professional athletes are not necessarily suitable for every
 
 In fact, this rule means that in the Non-Volley Zone, also known as the "kitchen," players cannot hit the ball before it bounces (volley). However, players can enter the Non-Volley Zone at any time.
 
-## Key 2026 Rule Updates
+## Key 2026 Rule Points
 
-As pickleball evolves, rules continue to be refined. The summary below is based on USA Pickleball's 2026 rules guidance; actual officiating should always follow the formal rule text adopted by the event:
+As pickleball evolves, rules continue to be refined. The first group below lists rules that actually changed according to USA Pickleball's official *2026 Rulebook Change Document* (published December 17, 2025; edited January 30, 2026). The second group covers long-standing rules that beginners often ask about; they are not new for 2026. Numbers in parentheses are 2026 rule numbers: **the 2026 rulebook renumbered the entire book**, so the older 4.x, 6.x, and 11.x numbers still circulating online no longer match. Actual officiating should always follow the formal rule text adopted by the event.
 
-1.  **Partner Disagreement Rule**: In doubles, if partners disagree on a line call (one calls "out", the other "in" or unsure), the ball must be ruled **IN**, and the rally cannot be replayed.
-2.  **Extra Ball Visible or Dropped Fault**: An extra ball carried by a player during a live rally must not be visible to the opponent and must remain in the player's possession. If the extra ball is visible to an opponent or falls onto the playing surface, it is a **Fault** against that player.
-3.  **Volley Serve Clarification**: The volley serve must have a visibly clear upward arc. Failure to demonstrate this upward motion is a violation.
-4.  **Wheelchair Two-Bounce Allowance**: A wheelchair player may let the ball bounce twice before returning it; the second bounce may be anywhere on the playing surface, and failure to return before a third bounce is a fault.
-5.  **Junior and Adult Age Events**: Junior events are for players age 18 and younger. In adult age-qualified doubles, the younger partner determines the team's age classification.
-6.  **Line Judges and Challenges**: With line judges, they make assigned line and foot-fault calls; players keep only their service-court centerline call and may override an official only in favor of the opponent. Only rally-ending shots can be appealed. An officiating-decision challenge goes to the Head Referee or Tournament Director; if the ruling is upheld, the player/team is charged a timeout and technical warning. The rulebook defines a Video Replay Referee as part of the officiating team, but it does not create a universal player video-review right for ordinary matches.
+### New or Revised in 2026
+
+1.  **Partner Disagreement** (8.H): In doubles, when partners disagree on a line call, conflict exists and the team's call is **IN**. The 2026 edition removed the old wording about appealing this call to the referee; a player who wants the opponent to decide can still ask under Rule 8.I.
+2.  **Extra Ball Visible or Dropped Fault** (24.B, 24.B.1): An extra ball carried by a player during a live rally must not be visible to the opponent and must remain in the player's possession. If the extra ball is visible to an opponent or falls onto the playing surface, it is a **Fault** against that player.
+3.  **"Clearly" Added to the Volley Serve** (7.C.1 – 7.C.3): At contact, the paddle must be moving in a clear upward arc, the highest point of the paddle head must clearly be no higher than the wrist, and the ball must clearly be no higher than the waist. USA Pickleball's stated reason is that "clearly" makes the rule stronger and more enforceable.
+4.  **Spin May Be Applied at Paddle Contact on the Serve** (7.B.2): No spin may be imparted by hand or paddle during the release, but **spin applied by the paddle at the moment of contact is legal** — a sentence now written into the rule itself. USA Pickleball calls this one of the most misunderstood rules.
+5.  **"Out" Calls Must Be Prompt** (8.F.3): If you return the ball, your "out" call must come before the opponent hits it and before the ball becomes dead. If you do not return it, a **prompt** call counts even after the ball is dead. The old rule allowed waiting until the next serve; 2026 removed that delay.
+6.  **Ball Hitting a Permanent Object After Bouncing** (10.C.5): When a ball bounces in your court, you fail to return it, and it then contacts a permanent object such as the net post, the fault is against you — the rally goes to the player who hit the shot. This matters most for [around-the-post shots](15_atp.md).
+7.  **Ball Hit by Two Players** (10.D.2): If both a player and their partner strike the ball while attempting one return, it is a fault against that team.
+8.  **Wheelchair Rules in Their Own Section** (25.A): The 2026 edition collected the previously scattered wheelchair rules into a dedicated section. Among them, a wheelchair player may let the ball bounce twice before returning it; the second bounce may be anywhere on the playing surface, and failure to return before a third bounce is a fault (25.A.9, 25.A.9.a).
+
+### Long-Standing Rules Players Often Ask About
+
+* **Junior and Adult Age Events** (15.A.4, 15.A.3.c): Junior events are for players age 18 and younger. In adult age-qualified doubles, the younger partner determines the team's age classification.
+* **Line Judges and Challenges** (19.C – 19.D, 20.J.2): With line judges, they make the line and foot-fault calls for their assigned lines; players keep only their service-court centerline call and may override an official only in favor of the opponent. Only rally-ending shots can be appealed. An officiating-decision challenge goes to the Head Referee or Tournament Director; if the ruling is upheld, the player or team is charged a technical warning and a standard time-out. The rulebook defines a Video Replay Referee as part of the officiating team, but it does not create a universal player video-review right for ordinary matches.
 
 ## References
 
 * [USA Pickleball Rules](https://usapickleball.org/rules/);
+* [2026 USA Pickleball Rulebook Change Document](https://usapickleball.org/docs/rules/USAP-Rulebook-Change-Document.pdf);
 * [Book rules and equipment provenance](../sources/provenance.json);
 * [USA Pickleball Association](https://usapickleball.org);
 * [International Padel Federation: Rules of Padel](https://www.padelfip.com/wp-content/uploads/2025/12/FIP_Rules-of-Padel.pdf);

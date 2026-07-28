@@ -95,11 +95,12 @@ Tennis players transitioning to pickleball have several advantages:
 | Aspect | Badminton | Pickleball | Impact |
 |--------|-----------|-----------|--------|
 | **Ball Characteristics** | Shuttlecock (4.74-5.50g), extremely rapid deceleration | Perforated ball (22-26g), slower deceleration | Pickleball is better suited for longer-distance shots |
-| **Net Height** | High (5 ft / 152 cm at center) | Low (34 in / 86 cm at center) | Net-clearance strategy and ball arc differ entirely |
+| **Ball Speed** | Extremely fast (smashes exceed 200 mph, but decelerate quickly) | Slower (30-50 mph) | Badminton demands more explosive power |
 | **Swing Amplitude** | Large, especially for attacks | Medium to small | Pickleball requires more refined control rather than large movements |
+| **Net Height** | High (5 ft / 152 cm at center) | Low (34 in / 86 cm at center) | Net-clearance strategy and ball arc differ entirely |
 | **Emphasis** | Power and high-point striking | Control and consistency | Pickleball matches are longer, requiring better endurance |
 | **No-Volley Zone** | None | Present (kitchen) | Pickleball adds tactical complexity |
-| **Paddle Weight** | Light (75-85g) | Heavier (210-270g) | Pickleball requires better wrist stability |
+| **Paddle Weight** | Light (75-95g) | Heavier (210-270g) | Pickleball requires better wrist stability |
 | **Movement Pattern** | Large strides, more vertical movement | Small strides, more horizontal movement | Different muscle group demands for legs |
 
 ### Common Challenges for Badminton Players Converting to Pickleball
