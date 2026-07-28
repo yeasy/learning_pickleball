@@ -8,6 +8,12 @@ It not only requires the player's running ability and hitting skills, but also d
 
 > **Related technique chapters**: [Serve](05_serve.md), [Dink](06_dink.md), [Drop](07_drop.md), [Drive](08_drive.md), [Volley](09_volley.md), [Lob](11_lob.md), [Footwork](12_footwork.md)
 
+## How Singles Fundamentally Differs from Doubles
+
+* **Full-court coverage**: A singles player defends the entire 20×44 ft court, while each doubles player only covers half of it, which sharply increases both the distance and the frequency of movement in singles;
+* **Physical cost**: Singles demands frequent long-distance movement and rapid direction changes, so it is far more taxing than doubles;
+* **Net-attack strategy**: In doubles the net is the primary battleground, but in singles there is no rush to approach — you rely more on backcourt shots and on moving your opponent around.
+
 ## 17.1 Basic Process
 
 Suppose the two players are A and B. A is serving first.
@@ -56,16 +62,25 @@ Singles serving carries more tactical significance than doubles, directly affect
 * **Fast Forehand**: Occasionally serve fast to forehand side to test opponent's reaction;
 * **Center Serve**: Makes opponent's positioning awkward, difficult to hit wide-angle returns.
 
-## 17.4 Third Shot Decision
+## 17.4 Third Shot Decision (Multi-Dimensional Framework)
 
-The third shot in singles is the most critical turning point, requiring quick and accurate decisions.
+The third shot in singles is the most critical turning point. The decision has to account for three dimensions of the incoming ball at once: **height, depth, and speed**.
 
-| Opponent's Return Position | Suggested Third Shot | Reason |
-|---------------------------|---------------------|--------|
-| Short ball (mid-court) | Drive attack | Opponent gave attacking opportunity |
-| Medium depth | Drop shot | Safe transition to net |
-| Very deep (baseline) | Lob or drive | Buy yourself time |
-| Wide angle | Return to center | Limit opponent's angles |
+### Third Shot Decision Framework
+
+| Incoming Height | Incoming Depth | Incoming Speed | Suggested Third Shot | Reason |
+|---------|---------|---------|-----------|------|
+| Above the waist | Short (inside mid-court) | Fast | Drive attack | The opponent has handed you a clear attacking chance; go for the point |
+| Above the waist | Medium depth | Medium | Drop shot | A safe transition, setting up your approach or continued maneuvering |
+| At or below the waist | Any depth | Any speed | Lob or flat drive | Buys you time to approach the net or reset your position |
+| Above head height | Deep (baseline) | Fast | Retreat and lob | Avoids being pinned down and creates a backhand attacking chance |
+| Any height | Wide angle | Any speed | Return to the center | Limits the opponent's angles and shrinks the court you must defend |
+
+### Applying Each Technique in Singles
+
+* **Drop**: For a stable transition — the ball should land 1-2 feet from the net, forcing the opponent forward;
+* **Drive**: For attacking chances — hit hard on a flat trajectory, targeting the opponent's feet or the baseline corners;
+* **Lob**: For when you are pinned down and need breathing room, or defending an opponent's net attack — make sure it has a high arc and lands deep.
 
 ## 17.5 Energy Management
 
