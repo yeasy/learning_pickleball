@@ -45,22 +45,24 @@ The foundation of all paddle movement is the effective transfer of body power to
 
 ### Moment Arm and Lever Principles
 
-The paddle can be viewed as a lever, with the distance from the striking point to the grip representing the moment arm. According to lever principles: output force = input force × (moment arm length / resistance arm length).
+In a swing the axes of rotation are the shoulder, elbow, and wrist. The muscles attach close to those axes while the paddle head sits far from them, which makes the arm-and-paddle system a **third-class lever**. The lever formula (output force = input force × effort arm / resistance arm) is correct, but note which arm is which: **the distance from your hand to the contact point is the resistance arm, not the effort arm**. A third-class lever has a mechanical advantage below 1 — it does not multiply force, it **trades force for speed and range of motion**. So the intuition that "a longer swing radius makes power easier" is backwards: the larger the radius, the more torque the muscles must produce for the same tangential force at the paddle head.
+
+What actually makes the ball fast is **paddle-head speed at contact** — the same v = ω × r from the previous section. A larger radius r gives a faster head as long as you can still hold the same angular velocity ω, at the cost of more muscular load and more swing weight. The conclusions below all hold; the mechanism is speed, not force multiplication.
 
 **Applications in pickleball:**
 
 - **Why is backcourt striking more powerful than forecourt striking?**
-  - At the backcourt, the moment arm is longer (the distance from shoulder to striking point is greater)
-  - According to lever principles, the longer the moment arm, the greater the output force produced by the same muscle contraction
+  - Not because a lever multiplies force. The backcourt gives you the room and the time for a full swing — the legs, hips, shoulders, and arm accelerate in sequence over a longer runway, so the head is moving faster at contact
+  - At the net the reaction window is a fraction of a second, the motion is compressed, and angular velocity never builds — which is exactly why net play rewards control over power
 
 - **Why does holding the paddle lower in the grip produce more powerful shots?**
-  - The lower the grip position (closer to the butt/end of the handle, farther from the paddle head), the longer the moment arm
-  - Standard grip position is the optimal balance point, providing sufficient moment arm while maintaining hand control
+  - The lower the grip (closer to the butt of the handle, farther from the paddle head), the larger the radius r from wrist to head, so the head travels faster at the same angular velocity
+  - The costs are higher swing weight, more torque demanded of the wrist, and a slower recovery. Standard grip position is the balance point between speed and control — not the point where the "moment arm" is long enough
 
 - **Why does gripping too tightly reduce power?**
-  - Tight gripping fixes the wrist, reducing wrist flexibility
-  - Flexible wrist movement can increase the effective length of the moment arm at the last moment
-  - Excessive rigidity in grip also impedes effective force transfer
+  - A tight grip locks the wrist and breaks the proximal-to-distal sequencing, so the final wrist acceleration is lost and head speed drops
+  - Co-contracting agonists and antagonists makes them fight each other, slowing the whole arm
+  - For the practical guidance, see [Chapter 3](03_hold_paddle.md): relax during preparation, and firm the grip only enough to stabilize the face at contact
 
 ### Momentum and Energy Transfer
 
@@ -73,9 +75,9 @@ When a paddle at speed v strikes a ball of mass m, the momentum transferred is p
    - This explains why "quick striking" is more effective than "hard striking"
 
 2. **The science of optimal striking point**
-   - When striking at the sweet spot, the paddle reaches maximum speed (farthest from the rotation axis, so linear speed is maximum at constant angular velocity)
-   - The sweet spot is also where paddle stress distribution is most uniform, effectively transferring power without excessive vibration
-   - Striking off-center causes some energy to be consumed in paddle vibration and deformation rather than transferred to the ball
+   - The sweet spot sends the ball out fast not because head speed peaks there — by v = ω × r, the very tip of the paddle is moving fastest
+   - What the sweet spot minimizes is **energy loss**: it sits near the paddle's vibration node and center of percussion, so an impact there excites almost no paddle vibration and almost no twist about the long axis
+   - A tip impact travels faster but pours much of that energy into twist and vibration, so the ball actually comes off slower and less predictably
 
 3. **Buffering and absorption**
    - Modern paddle honeycomb cores and flexible edges can absorb part of the impact energy, reducing shock
@@ -137,10 +139,10 @@ The distinctive characteristic of pickleball is: **the effect on post-bounce mot
 
 The sweet spot is the location on the paddle that produces the best striking effect. Striking at the sweet spot offers the following advantages:
 
-1. **Maximum paddle speed**
-   - The sweet spot is located in the center of the paddle face, farthest from the swing axis
-   - According to rotational kinematics, v = ω × r, greater distance means greater linear speed
-   - Greater paddle speed means greater impact force
+1. **It is not "the fastest point on the paddle"**
+   - By v = ω × r, the point farthest from the swing axis is the tip, and the tip really does move faster than the sweet spot
+   - But the sweet spot sits near the paddle's vibration node and center of percussion, so an impact there excites almost no paddle vibration and almost no twist about the long axis
+   - So a tip impact, despite being faster, bleeds much of that energy into twist and vibration, giving both lower ball speed and worse placement consistency
 
 2. **Minimal stress and vibration**
    - The sweet spot is where paddle stress distribution is most uniform
@@ -164,7 +166,7 @@ Different paddle materials and designs have different sweet spot sizes:
 - **Traditional wood or aluminum paddles**: Smaller sweet spot, approximately 2-3 square inches
 - **Beginner paddles** (thicker foam or soft core): Relatively large sweet spot, easier to learn with
 
-The sweet spot is typically located about 1/2 the distance from the paddle head, near the paddle's center of mass.
+The sweet spot usually sits in the middle-to-upper part of the hitting face, near the paddle's balance point — the region where the vibration node and the center of percussion roughly overlap.
 
 ### Paddle/Ball Restitution Limits
 

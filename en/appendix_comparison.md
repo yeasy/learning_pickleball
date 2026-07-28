@@ -22,7 +22,7 @@ Many players have backgrounds in other racquet sports (tennis, badminton, table 
 | **Ball Characteristics** | Heavy (58.5g), high bounce | Light (22-26g), low bounce | Pickleball is easier to control but requires higher paddle head control |
 | **No-Volley Zone** | None | 7 ft on each side of net | Pickleball adds tactical complexity and restricts net play |
 | **Serving** | Overhand, power-focused | Volley serves must be low and upward; drop serves have fewer stroke restrictions | Tennis players must rebuild their serving motion |
-| **Shot Speed** | Fast (groundstrokes 60–90, serves 120–160+ mph) | Slow (30-50 mph) | Pickleball requires better paddle control rather than power |
+| **Shot Speed** | Fast (groundstrokes 60–90, serves 120–160+ mph) | Slow (typically 30-50 mph, up to 60 mph on high-level drives) | Pickleball requires better paddle control rather than power |
 | **Match Pace** | Fast, fewer points | Relatively slower, longer rallies | Pickleball tests endurance and consistency |
 | **Running Distance** | Large | Small | Pickleball is more suitable for older players |
 
@@ -95,7 +95,7 @@ Tennis players transitioning to pickleball have several advantages:
 | Aspect | Badminton | Pickleball | Impact |
 |--------|-----------|-----------|--------|
 | **Ball Characteristics** | Shuttlecock (4.74-5.50g), extremely rapid deceleration | Perforated ball (22-26g), slower deceleration | Pickleball is better suited for longer-distance shots |
-| **Ball Speed** | Extremely fast (smashes exceed 200 mph, but decelerate quickly) | Slower (30-50 mph) | Badminton demands more explosive power |
+| **Ball Speed** | Extremely fast (smashes exceed 200 mph, but decelerate quickly) | Slower (typically 30-50 mph, up to 60 mph on high-level drives) | Badminton demands more explosive power |
 | **Swing Amplitude** | Large, especially for attacks | Medium to small | Pickleball requires more refined control rather than large movements |
 | **Net Height** | High (5 ft / 152 cm at center) | Low (34 in / 86 cm at center) | Net-clearance strategy and ball arc differ entirely |
 | **Emphasis** | Power and high-point striking | Control and consistency | Pickleball matches are longer, requiring better endurance |
