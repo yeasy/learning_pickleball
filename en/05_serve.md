@@ -38,6 +38,8 @@ Before striking the pickleball, the body should remain relaxed. At the moment of
 
 Since pickleballs have a smooth surface, the serve should primarily focus on striking the ball while incorporating a moderate amount of spin. Players should at least master topspin serves and flat (non-spinning) serves.
 
+> **On the backspin serve**: at a high level, backspin on the serve usually costs more than it gains — brushing the ball sacrifices both pace and depth, while the opponent can read the spin from your swing path and use it to drive a deep return. Zane Navratil, the pro most identified with serve research, states in [his own bylined article](https://www.thedinkpickleball.com/why-dont-pros-use-the-drop-serve/) that backspin on the serve is not an asset. It is worth understanding, but it does not belong on a practice list.
+
 The key to serving effectively is consistency to avoid errors. The next priority is to aim for deep placement to make it difficult for the opponent to return. Finally, incorporating power and spin—mainly topspin and sidespin—can further improve the effectiveness of the serve.
 
 ## 5.3 Return the Ball
@@ -66,7 +68,7 @@ The return can use a hitting action, or a slicing action. When you want to have 
 
 * **Serving into the net or long**: This usually comes from poor power control or paddle angle. Correction: start with a conservative deep target, then move the landing point closer to the baseline as consistency improves.
 
-* **Reacting slowly to the serve**: Standing too deep or losing focus makes the return late. Correction: stand one step closer to the baseline, watch the server's arm, and read the landing point early.
+* **Reacting slowly to the serve**: Losing focus, or starting the move too late. Correction: watch the server's arm, split-step as the server contacts the ball, and move forward into the ball. Standing deep is not the cause — keeping the "a step back from the baseline" stance described in 5.3 is what gives you room to move forward.
 
 * **Failing to move up after the return**: Hesitation after contact gives up court position. Correction: move toward the kitchen line as soon as the ball leaves the paddle, aiming to arrive before the return bounces.
 
@@ -89,6 +91,6 @@ The serve and return skill can be trained with multiple-ball drills. Use the fol
 
 * Serve to a designated area: 50 consecutive successful serves × 10 sets
 * Target: near the baseline, with precise control of spin and speed changes
-* Master 3 types of spin: topspin, flat/no-spin, and backspin, while serving from different positions
+* Master topspin and flat/no-spin serves while serving from different positions (backspin is worth knowing about, but is not a required skill — see 5.2)
 
 After you are proficient, you can practice serving different spins with the same movement, and returning the ball of different spins.

@@ -42,7 +42,7 @@ Once the player is suppressed to the backcourt, it is at a big disadvantage. At 
 
 The key to a singles match is to control the rhythm, so try to let the opponent move as much as possible, while you try to maintain a stable position. In addition, you should go to the net as quickly as possible when you have the opportunity, while pushing the opponent to stay at the backcourt.
 
-* Defense at the net: After receiving the serve, you must go to the net as soon as possible to block the opponent's 3rd shot. Pay attention to defending wide-angle placement on both sides;
+* When to come in: follow a high-quality return (deep, low, pinning the opponent back) to the net to block the 3rd shot, and defend the wide angles on both sides; after an ordinary return, stay at the baseline and rally, waiting for a better chance rather than advancing for its own sake. Men's pro singles has clearly shifted toward baseline rallying in recent years, so "always come in behind the return" is no longer a universal rule in singles (it still holds in doubles);
 * Control the placement: It’s very important to accurately control the placement of the ball. Any drive must pass the opponent's interception area in front of the net, otherwise it is easy to be blocked;
 * Use angles: Use more angles when attacking, such as the backhand position. At the same time, mobilize the opponent to run first, and be careful to avoid returning the ball too long and going out of bounds.
 
@@ -99,3 +99,31 @@ Singles is a one-on-one psychological battle:
 * **Read Opponent**: Observe opponent's positioning and body weight to anticipate next shot;
 * **Control Rhythm**: Maintain pressure when ahead, slow down when behind;
 * **Use Timeouts**: Use timeouts at critical moments to adjust state and strategy.
+
+## 17.7 Training Methods
+
+What makes singles hard is not any individual stroke but the **choices you face while covering the whole court**: when to come forward, when to hold at the baseline, when to simply get the ball back. Singles practice should therefore reproduce the pressure of covering the court alone, rather than reusing doubles feeding drills unchanged.
+
+**Beginner (building the singles rally)**:
+
+* **Half-court cross-court singles (skinny singles)**: play only the diagonal half of the court, including the NVZ; serve and score in turn, and a ball outside that half is a fault. This is the most efficient way into singles — the narrow court forces accurate placement, every ball is yours to chase, and you get close to twice the rallies of full-court singles in the same time. 15-20 minutes, 2-3 times a week. It also builds the cross-court exchange that doubles players need, so doubles-only players benefit too;
+* **Two-point baseline movement**: a feeder alternates balls to the forehand and backhand corners; the player drives each one back deep cross-court. The goal is **consistent depth**, not pace: first hit 10 in a row that clear the net and land within 1.5 m of the baseline, then increase the feeding tempo. 3 times a week, 5 sets of 20;
+* **Serve-and-recover**: after serving, immediately return to the middle of the baseline, set your stance facing the incoming ball, and only then play the feeder's return. One of the most common ways to lose a singles point is standing where you served from, which lets a single cross-court reply pull you out of position. 3 times a week, 30 serves.
+
+**Intermediate (moving from the backcourt to the net)**:
+
+* **Staged approach drill** (the most important item in this section): start at the baseline, hit a drop or drive, then move forward — **stopping to split-step every time your opponent is about to strike**, and only moving again once you are balanced. Repeat until you reach the NVZ line. The rhythm is hit — a few steps — split-step — a few more steps, not one continuous sprint. The test is simple: if you are ever forced to hit while still moving, you covered too much ground on the previous step;
+* **Green / yellow / red light decisions**: a feeder returns balls randomly into the mid-court and the player decides what to do next from **the height at which the opponent contacts the ball** — contact at knee height or below (green) means keep coming; knee to chest (yellow) means one or two steps then set; above chest (red) means stop at once, lower your centre of gravity and prepare to defend at your feet. This criterion watches the opponent rather than yourself, which is why it is usable in real time;
+* **Skinny singles with an approach condition**: add one rule to the half-court game — you may only come to the net when your own shot lands in the opponent's baseline area; otherwise you must stay back. This turns "quality decides whether you advance" from 17.2 into a habit.
+
+**Advanced (match scenarios and conditioning)**:
+
+* **Scenario scoring games**: pick one situation and play it repeatedly to 11 — "escaping when pinned at the baseline", "answering an opponent who has taken the net, using lobs and passing shots". Most singles points are lost in the same few recurring situations, so targeted repetition beats open play;
+* **Combined conditioning and technique**: after every point, run one baseline-to-NVZ-line shuttle before starting the next. Points lost late in a singles match usually come not from technique decaying but from arriving half a step late and taking the ball at a worse contact point; this drill brings that state forward into practice;
+* **Singles / doubles switching**: play a game of skinny singles, then immediately a game of doubles with the same group. The point is to feel the difference in decision-making — singles creates chances by **moving the opponent** and requires you to cover everything; doubles depends on **zone coverage** and the battle at the net, and actually narrows your own range of movement. Many players' singles plateau comes from carrying doubles positioning habits straight into singles.
+
+Notes on training:
+
+* Singles loads the knees, ankles and cardiovascular system considerably more than doubles. Complete the warm-up routine in [Chapter 4](04_fitness.md) before singles-specific work, and cap the length of any single session;
+* The value of skinny singles is that it is narrow — do not quietly widen the boundary just to keep more balls in play;
+* For every approach drill, the pass mark is "balanced, then hit". It is better to advance two steps fewer than to strike while still moving.

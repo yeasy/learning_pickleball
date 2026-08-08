@@ -6,7 +6,7 @@ The **Volley** is a primary attacking shot in pickleball, often used to finish p
 
 ## 9.1 What is a Volley?
 
-A volley is hitting the ball out of the air before it bounces. Volleys reduce the opponent's reaction time and allow you to maintain an offensive position at the net. In professional play, "hands battles" (rapid-fire volley exchanges) often require reaction times of under 0.25 seconds.
+A volley is hitting the ball out of the air before it bounces. Volleys reduce the opponent's reaction time and allow you to maintain an offensive position at the net. In professional play, "hands battles" (rapid-fire volley exchanges) require players to react and strike in roughly 0.2 seconds.
 
 ![Volley Shot](../_images/volley-shot.png)
 

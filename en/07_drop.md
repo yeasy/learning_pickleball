@@ -28,7 +28,7 @@ From the perspective of spin, there are three types of Drops too: **Non-spin**, 
 
 When you are at the middle court or back court and the opponent side is waiting in front of the net, at this time, you can use drop to prevent the opponents to attack and let your team run to the front of the net in time.
 
-For example, advanced players often use drop in the third shot, in order to transit to the near net rallies from the back court.
+In professional play the third shot is in fact more often a drive, with the drop saved for the fifth: the drive forces a weaker reply, and the drop is then played from a much better court position. That two-shot pattern depends on an exceptional drive and on getting forward fast, however. In amateur play the plain third-shot drop remains highly valuable for making the transition from a defensive backcourt position to the net, and it is far easier to reproduce reliably.
 
 ## 7.3 The Drip Shot
 
