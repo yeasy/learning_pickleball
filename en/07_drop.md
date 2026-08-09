@@ -18,7 +18,7 @@ Similarly, the Drops can also be divided into three types in terms of direction:
 * **Cross-court Drop**: A cross-court drop is when the ball is dropped into the opposing opponent's area. The distance is longer, the ball lands later, and you have more time to go to the net.
 * **Middle Drop**: The middle ball refers to placing the ball in the space between the two opponents, which is often used in doubles. Since both of them can catch the ball, it will cause some trouble to make decision immediately.
 
-From the perspective of spin, there are three types of Drops too: **Non-spin**, **Backspin** and **Topspin**:
+From the perspective of spin, there are three types of Drops too: **Non-spin**, **Backspin** and **Topspin**. The pushed non-spin drop is the foundation; when time and space allow, the topspin drop is the more threatening choice:
 
 * **Non-spin**: Hit the ball over the net with a pushing action. It is required that the ball will not pass the net too highly, and the landing distance should be short. This way is safe as a good defense. When the space for hitting the ball is insufficient, use this way to hit the ball without a big movement;
 * **Backspin**: Return the ball to the net by slicing the bottom the ball. The backspin trajectory will be longer than non-spin one, so keep hitting the ball from a low position. When the incoming ball is low or quick, you can use the backspin Drop;

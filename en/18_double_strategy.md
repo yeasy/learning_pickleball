@@ -158,6 +158,7 @@ Poaching means one player suddenly crosses the center line to intercept a ball t
 
 **Poaching Tips:**
 
+* **Timing**: Before poaching, pick the two shots the opponent is most likely to hit; the moment their strike matches one of them, go;
 * **Be decisive**: Once you commit to a poach, don't hesitate—move quickly and strike firmly;
 * **Communicate**: Signal your partner before poaching (e.g., hand signals behind your back) so they can prepare to cover your side;
 * **Target selection**: Poach shots should target the opponent's feet or open court, not float high for a counter-attack;
