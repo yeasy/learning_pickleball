@@ -15,7 +15,7 @@
 
 **👉 [开始阅读（中文版） →](cn/README.md)**
 
-- 🌐 **在线阅读：** [GitBook](https://yeasy.gitbook.io/learning_pickleball/)、[中匹在线](https://bbs.pickleballcn.com/tools/learning-pickleball.html)
+- 🌐 **在线阅读：** [GitBook](https://yeasy.gitbook.io/learning_pickleball/)、[中匹在线](https://pickleballcn.com/books/learning-pickleball/)
 - 📄 **离线下载：** [PDF（GitHub Releases）](https://github.com/yeasy/learning_pickleball/releases/latest)
 
 ---

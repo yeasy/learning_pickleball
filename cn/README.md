@@ -59,7 +59,7 @@ graph LR
 
 ## 阅读方式
 
-*   🌐 在线阅读：[GitBook](https://yeasy.gitbook.io/learning_pickleball/)、[中匹在线](https://bbs.pickleballcn.com/tools/learning-pickleball.html)
+*   🌐 在线阅读：[GitBook](https://yeasy.gitbook.io/learning_pickleball/)、[中匹在线](https://pickleballcn.com/books/learning-pickleball/)
 *   📄 离线下载：[PDF](https://github.com/yeasy/learning_pickleball/releases/latest)
 
 ## 授权与版权
