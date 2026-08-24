@@ -106,8 +106,9 @@ USA Pickleball 不限制球拍厚度；市售球拍厚度通常在 10-19mm 之�
    - 缺点：价格较高，手感与传统蜂窝球拍差异较大（更“绵密”），需要 1-2 周适应期
    - 价格：$200-450
    - 适用：追求稳定性和舒适性的中高级球员，也越来越多地被进阶初学者选择
-   - 代表产品：CRBN TruFoam Genesis（首款量产泡沫核心）、Selkirk Boomstik（BoomCore 技术）、JOOLA Perseus Pro IV（高密度泡沫环设计）、Ronbus 系列等
-   - 备注：Gen-4 球拍的认证状态需特别注意，应以 USA Pickleball 当前认证清单为准
+   - 代表产品：CRBN TruFoam Genesis（厂商称首款量产 100% 泡沫核心）、Selkirk Boomstik（BoomCore，PureFoam + EVA 力量环，完全取代蜂窝）、Ronbus 系列等
+   - 备注一：**「泡沫」不等于泡沫核心。** 不少热门型号只是在蜂窝核心外侧加一圈泡沫边墙，核心仍是聚合物蜂窝——例如 JOOLA Perseus Pro IV，厂商规格表写的是「PP core + EVA foam wall」。这类拍属于混合结构，不在本条所说的 Gen-4 之列，看营销词之前先查厂商规格表的 core 一行
+   - 备注二：Gen-4 球拍的认证状态需特别注意，应以 USA Pickleball 当前认证清单为准
 
 **表面材质：**
 
@@ -188,8 +189,8 @@ USA Pickleball 不限制球拍厚度；市售球拍厚度通常在 10-19mm 之�
 - 适用：中级到高级球员
 
 **$250-450+（高端 / Gen-4）**
-- 品牌：CRBN TruFoam Genesis、JOOLA Perseus Pro IV、Selkirk Boomstik、Six Zero
-- 特点：泡沫核心 + 原始碳纤维表面，代表 2025-2026 最新技术
+- 品牌：CRBN TruFoam Genesis、Selkirk Boomstik、Ronbus、Six Zero
+- 特点：泡沫核心 + 原始碳纤维表面，代表 2025-2026 最新技术（同价位的 JOOLA Pro IV 系列走的是蜂窝核心 + 泡沫边墙的混合路线，不是泡沫核心）
 - 适用：竞技级球员
 
 以下品牌信息仅供参考，市场变化较快，建议购买前查阅最新测评和确认 USA Pickleball 认证状态。
@@ -214,7 +215,7 @@ USA Pickleball 不限制球拍厚度；市售球拍厚度通常在 10-19mm 之�
 
 **初级用球：**
 - HEAD C26（原 Penn 26）：专为室内木地板设计，弹跳稳定不打滑，可见度高
-- Onix Fuse G2：Onix Pure 2 的后继型号，飞行稳定，价格实惠
+- Onix Fuse Indoor：孔径较大的室内款，室内弹跳偏低、飞行稳定，价格实惠。注意同名系列里的 Fuse G2 是**室外球**（40 个小孔），USA Pickleball 认证清单上标注的类型是 Out，不要买错
 
 **中高级用球：**
 - Franklin X-26（室内版）：优秀的飞行稳定性和耐久性；购买或参赛前请查询 USA Pickleball 认证球清单

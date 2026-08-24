@@ -106,8 +106,9 @@ Core and surface materials determine paddle feel, durability, and performance.
    - Disadvantages: Higher price, feel differs significantly from traditional honeycomb paddles (more "dense"), requires 1-2 weeks adjustment period
    - Price: $200-450
    - Best for: Intermediate to advanced players seeking consistency and comfort; increasingly popular among progressing beginners
-   - Notable products: CRBN TruFoam Genesis (first mass-produced foam core), Selkirk Boomstik (BoomCore technology), JOOLA Perseus Pro IV (high-density foam ring design), Ronbus series, etc.
-   - Note: Pay special attention to Gen-4 paddle certification status; rely on the current USA Pickleball approved list
+   - Notable products: CRBN TruFoam Genesis (the maker calls it the first mass-produced 100% foam core), Selkirk Boomstik (BoomCore: PureFoam plus an EVA power ring, fully replacing the honeycomb), Ronbus series, etc.
+   - Note 1: **"Foam" does not mean a foam core.** Several popular models only wrap a foam wall around a honeycomb core, and the core is still polymer honeycomb—the JOOLA Perseus Pro IV, for instance, whose own spec sheet reads "PP core + EVA foam wall". Those are hybrids, not the Gen-4 build described here, so check the maker's core spec line before trusting the marketing word
+   - Note 2: Pay special attention to Gen-4 paddle certification status; rely on the current USA Pickleball approved list
 
 **Surface Materials:**
 
@@ -188,8 +189,8 @@ Standard length is 4.5-5.5 inches. Although rules allow longer grips, standard l
 - Best for: Intermediate to advanced players
 
 **$250-450+ (Premium / Gen-4)**
-- Brands: CRBN TruFoam Genesis, JOOLA Perseus Pro IV, Selkirk Boomstik, Six Zero
-- Characteristics: Foam core plus raw carbon-fiber surface, representing the 2025-2026 premium technology tier
+- Brands: CRBN TruFoam Genesis, Selkirk Boomstik, Ronbus, Six Zero
+- Characteristics: Foam core plus raw carbon-fiber surface, representing the 2025-2026 premium technology tier (the similarly priced JOOLA Pro IV line takes the hybrid route of a honeycomb core with a foam wall, not a foam core)
 - Best for: Competitive-level players
 
 Brand and product information changes quickly. Before buying, check recent reviews and confirm USA Pickleball approval status.
@@ -214,7 +215,7 @@ Different pickleball types suit different scenarios. Understanding ball characte
 
 **Entry-Level:**
 - HEAD C26 (formerly Penn 26): Designed for indoor wooden courts, stable bounce with no skid, high visibility
-- Onix Fuse G2: Successor to the Onix Pure 2, stable flight, affordable
+- Onix Fuse Indoor: The large-hole indoor model, with a lower indoor bounce and stable flight, and affordable. Note that the Fuse G2 in the same family is an **outdoor** ball (40 small holes), listed as type Out on the USA Pickleball approved ball list, so do not buy it by mistake
 
 **Intermediate to Advanced:**
 - Franklin X-26 (Indoor): Excellent flight stability and durability; check the USA Pickleball approved ball list before purchasing or competing
