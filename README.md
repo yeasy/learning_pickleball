@@ -1,4 +1,4 @@
-🇺🇸 **[English Version (阅读英文版) →](en/README.md)**
+🇺🇸 **[English Version（阅读英文版）→](en/README.md)**
 
 # 学打匹克球
 
