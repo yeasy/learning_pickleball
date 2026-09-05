@@ -230,7 +230,7 @@ For players with limited court access, especially older adults with recovery nee
 - Session 2 (match focus): warm-up + light rally 15 min + match play 45-60 min + cool-down
 - At home: 1-2 fitness sessions per week
 
-**Key principle**: When training time is limited, quality matters more than quantity. Master a few skills well rather than spreading too thin. Consider recording your play for video analysis at home (see Chapter 20 FAQ).
+**Key principle**: When training time is limited, quality matters more than quantity. Master a few skills well rather than spreading too thin. Consider recording your play for video analysis at home (see [Chapter 20 FAQ](20_faq.md).
 
 ## 2.3 3.0-3.5 Level: Skill Deepening and Tactical Awareness Building
 
