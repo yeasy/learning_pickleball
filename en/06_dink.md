@@ -15,7 +15,7 @@ Dinking is crucial in doubles. Based on placement, it falls into three categorie
 *   **Straight Dink**: Hitting the ball straight ahead down the line, landing in the opponent's half along the same sideline (e.g., from your left court, the ball lands on the opponent's half nearest that same sideline). While easier to execute, straight dinks often have a higher or deeper trajectory, making them easier for the opponent to attack.
 *   **Cross-court (Diagonal) Dink**: Hitting the ball diagonally to the far court, landing along the other sideline (e.g., from your left court, the ball cuts across to the opponent's half nearest the opposite sideline). This is the preferred shot because:
     *   The court is longer diagonally, offering a larger margin for error.
-    *   The net is lower in the middle (34 inches vs. 36 inches at the posts).
+    *   The net is lower in the middle (34 inches vs. 36 inches at the sidelines).
     *   It enters the opponent's court at an angle, making it harder to attack.
     *   *Note*: If the bounce goes wide of the sideline, be alert for an Around-The-Post (ATP) counter-attack.
 *   **Middle Dink**: Placing the ball between the two opponents. This can cause confusion about who should take the shot, potentially forcing a weak return.

@@ -70,7 +70,7 @@ Taking doubles as an example, each game is usually played to 11 points, and in a
 
 **Note: Evolution of Scoring Rules**
 
-Traditional pickleball rules employed "Side-out Scoring," where only the serving team can earn points when they win a rally. However, with the growth of professional pickleball, the PPA (Professional Pickleball Association) and other professional tours have experimented with "Rally Scoring" in selected events; MLP plays its three doubles games (men's, women's, and mixed) with side-out scoring, and only the DreamBreaker tiebreaker that follows a 2-2 tie uses rally scoring, to 21 points. Beginners should understand both scoring systems to adapt to different tournaments and opponents of varying levels.
+Traditional pickleball rules employed "Side-out Scoring," where only the serving team can earn points when they win a rally. However, with the growth of professional pickleball, the PPA (Professional Pickleball Association) and other professional tours have experimented with "Rally Scoring" in selected events; MLP plays its four doubles games (women's, men's, and two mixed) with side-out scoring, and only the DreamBreaker tiebreaker that follows a 2-2 tie uses rally scoring, to 21 points. Rally scoring has also been written into the USA Pickleball rulebook itself as a Provisional Rule (14.A), and a tournament director may opt to use it (15.C.2), except for double-elimination doubles events, Golden Ticket events, and the National Championships. Beginners should understand both scoring systems to adapt to different tournaments and opponents of varying levels.
 
 ## 1.4 Pickleball Features
 

@@ -61,7 +61,7 @@ Players at the 2.0-2.5 level are just entering pickleball and may come from vari
 - Frequent unforced errors during play
 - Significant difference in skill between forehand and backhand
 
-### 2-8 Week Learning Plan
+### 8-Week Learning Plan
 
 **Goal: Establish correct fundamental movements, improve shot consistency, and understand basic tactics**
 
@@ -325,7 +325,7 @@ Players at the 3.0-3.5 level have mastered basic techniques but may have shortco
 - Thursday: 1 hour core and shoulder strength training
 - Friday: 2 hours matches
 - Weekend: 1.5-2 hours casual social matches or 3 hours competitive matches
-- Weekly total: 8-9 hours
+- Weekly total: 9-10.5 hours
 
 #### Week 13-16: Comprehensive Ability and Advanced Assessment
 

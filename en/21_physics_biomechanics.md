@@ -288,7 +288,7 @@ The volley is striking before the ball bounces, a key offensive technique.
 **Characteristics of the volley:**
 
 1. **Short reaction time**
-   - After the opponent strikes, the ball reaches the volley position in only 0.5-1 second
+   - After the opponent strikes, the ball often reaches the volley position in only 0.2-0.5 second (see [Chapter 9](09_volley.md))
    - This requires rapid reaction initiation and efficient footwork
 
 2. **More direct ball path**

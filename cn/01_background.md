@@ -72,7 +72,7 @@
 
 **注意：积分制规则的演变**
 
-传统的匹克球规则采用“只有发球方得分”（Side-out Scoring）制度。然而，随着职业匹克球的发展，PPA（职业匹克球协会）和其他职业巡回赛在部分赛事中尝试过 **“积分制”（Rally Scoring）**；MLP 的三场双打（男双、女双、混双）用的是 Side-out 制，只有 2:2 平局后的决胜局 DreamBreaker 采用 Rally Scoring（打到 21 分）。初学者在学习时应了解这两种计分方式，以适应不同比赛和不同水平的对手。
+传统的匹克球规则采用“只有发球方得分”（Side-out Scoring）制度。然而，随着职业匹克球的发展，PPA（职业匹克球协会）和其他职业巡回赛在部分赛事中尝试过 **“积分制”（Rally Scoring）**；MLP 的四场双打（女双、男双、两场混双）用的是 Side-out 制，只有 2:2 平局后的决胜局 DreamBreaker 采用 Rally Scoring（打到 21 分）。此外，Rally Scoring 已作为临时条款（Provisional Rule）写入 USA Pickleball 官方规则书（14.A），认证赛事的赛事总监可以选用（15.C.2），但双淘汰双打、Golden Ticket 赛事和全国锦标赛除外。初学者在学习时应了解这两种计分方式，以适应不同比赛和不同水平的对手。
 
 ## 1.4 运动特点
 
