@@ -225,10 +225,12 @@ class ReleaseWorkflowTests(unittest.TestCase):
             self.assertIn('echo "${PANDOC_SHA256}  /tmp/pandoc.deb" | sha256sum -c -', text)
 
         package = json.loads((ROOT / "tools/mermaid/package.json").read_text(encoding="utf-8"))
-        self.assertEqual("11.16.0", package["dependencies"]["@mermaid-js/mermaid-cli"])
+        pinned = package["dependencies"]["@mermaid-js/mermaid-cli"]
+        self.assertRegex(pinned, r"^\d+\.\d+\.\d+$")
         lock = json.loads((ROOT / "tools/mermaid/package-lock.json").read_text(encoding="utf-8"))
         self.assertGreaterEqual(lock["lockfileVersion"], 3)
-        self.assertEqual("11.16.0", lock["packages"][""]["dependencies"]["@mermaid-js/mermaid-cli"])
+        self.assertEqual(pinned, lock["packages"][""]["dependencies"]["@mermaid-js/mermaid-cli"])
+        self.assertEqual(pinned, lock["packages"]["node_modules/@mermaid-js/mermaid-cli"]["version"])
         release = (WORKFLOW_DIR / "auto-release.yml").read_text(encoding="utf-8")
         self.assertIn("npm ci --prefix tools/mermaid", release)
         self.assertNotIn("npm install -g", release)
