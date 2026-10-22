@@ -16,7 +16,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 WORKFLOW_DIR = ROOT / ".github/workflows"
 WORKFLOWS = sorted((*WORKFLOW_DIR.glob("*.yml"), *WORKFLOW_DIR.glob("*.yaml")))
-DOWNLOAD_ARTIFACT_SHA = "3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c"
+DOWNLOAD_ARTIFACT_SHA = "9000827ccba6bdab643e8b6fd33ac0654aef8333"
 TEST_REPOSITORY = "owner/repo"
 TEST_SHA = "a" * 40
 GET_REF_COMMAND = [
@@ -294,7 +294,7 @@ class ReleaseWorkflowTests(unittest.TestCase):
             self.assertIn(f"name: {artifact_name}", build)
             self.assertIn(checksum_command, build)
             self.assertIn(
-                f"actions/download-artifact@{DOWNLOAD_ARTIFACT_SHA} # v8.0.1",
+                f"actions/download-artifact@{DOWNLOAD_ARTIFACT_SHA} # v8.0.2",
                 write,
             )
             self.assertIn(f"name: {artifact_name}", write)
