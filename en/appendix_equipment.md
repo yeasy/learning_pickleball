@@ -6,7 +6,7 @@ Choosing appropriate equipment is an important factor in improving your pickleba
 >
 > Recent equipment-certification focus areas include:
 > - **PBCoR Test** (Paddle/Ball Coefficient of Restitution): Limits paddle elasticity output to prevent excessive ball speed. USA Pickleball's Equipment Standards Manual lists not-to-exceed limits of 0.44 effective Nov. 1, 2024, and 0.43 effective Nov. 1, 2025. Paddles that no longer meet certification conditions may be decertified.
-> - **Surface roughness and friction limits**: Official equipment standards control extreme spin generation.
+> - **Spin Rate Test**: Paddles submitted for certification from Oct. 1, 2026 must measure 2,100 RPM or less in the official spin test; the former surface-roughness and friction upper thresholds become measurements of record. Paddles certified earlier remain subject to the standards in effect when they were certified ([official announcement](https://usapickleball.org/usap-news/equipment-news/update-regarding-the-usa-pickleball-spin-rate-test-and-implementation-timeline/)).
 > - **Lifecycle compliance**: Production paddles must continue to meet certification conditions and must not create a prohibited "trampoline effect."
 
 ## A6.1 Paddle Selection Decision Matrix

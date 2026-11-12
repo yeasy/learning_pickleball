@@ -161,7 +161,7 @@ Badminton players are accustomed to starting from the backcourt and gradually ad
 |--------|-----------|-----------|--------|
 | **Hitting Distance** | Very close (0-3 ft) | Medium (10-40 ft) | Pickleball requires larger swing amplitude and more body involvement |
 | **Wrist Function** | Extremely important | Moderately important | Pickleball relies more on body involvement than wrist |
-| **Spin Intensity** | High — from high-friction rubber plus very high racket speed | Moderate, relying more on swing path, brushing contact, and paddle-face angle | Pickleball is bound by rules capping paddle surface friction/roughness, so spin magnitude is smaller and rarely point-ending on its own (see Chapter 13) |
+| **Spin Intensity** | High — from high-friction rubber plus very high racket speed | Moderate, relying more on swing path, brushing contact, and paddle-face angle | Pickleball is bound by equipment standards capping paddle spin performance, so spin magnitude is smaller and rarely point-ending on its own (see Chapter 13) |
 | **Power Source** | Wrist and forearm | Legs and torso | Table tennis players must learn to use body power |
 | **Footwork** | Small steps, in-place rotation | Larger steps, lateral movement | Pickleball requires different footwork patterns |
 | **Paddle Characteristics** | Light paddle (~200g), rubber-coated | Heavier paddle (210-270g), smooth surface | Completely different grip and hitting feel |

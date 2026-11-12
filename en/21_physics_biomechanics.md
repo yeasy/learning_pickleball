@@ -170,7 +170,7 @@ The sweet spot usually sits in the middle-to-upper part of the hitting face, nea
 
 ### Paddle/Ball Restitution Limits
 
-Do not treat coefficient of restitution as a simple rule that the ball leaves the paddle at a fixed percentage of paddle speed. USA Pickleball regulates excessive "trampoline effect" through paddle/ball coefficient of restitution (PBCoR) testing, along with surface roughness and friction testing. The Equipment Standards Manual lists PBCoR not-to-exceed limits of 0.44 effective Nov. 1, 2024, and 0.43 effective Nov. 1, 2025.
+Do not treat coefficient of restitution as a simple rule that the ball leaves the paddle at a fixed percentage of paddle speed. USA Pickleball regulates excessive "trampoline effect" through paddle/ball coefficient of restitution (PBCoR) testing, and tests spin separately: from Oct. 1, 2026, newly submitted paddles are measured directly for spin rate (capped at 2,100 RPM), replacing the earlier surface-roughness and friction limits. The Equipment Standards Manual lists PBCoR not-to-exceed limits of 0.44 effective Nov. 1, 2024, and 0.43 effective Nov. 1, 2025.
 
 **This means:**
 - A legal paddle must stay within official rebound-performance limits, but ball exit speed still depends on swing speed, contact point, paddle design, ball condition, and spin.
