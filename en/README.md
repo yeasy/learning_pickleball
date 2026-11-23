@@ -1,39 +1,28 @@
-[中文版](https://github.com/yeasy/learning_pickleball/blob/main/cn/README.md)
-
 # Learning Pickleball
 
-[![GitHub stars](https://img.shields.io/github/stars/yeasy/learning_pickleball.svg?style=social&label=Star)](https://github.com/yeasy/learning_pickleball)
-[![GitHub release](https://img.shields.io/github/release/yeasy/learning_pickleball.svg)](https://github.com/yeasy/learning_pickleball/releases)
-[![License](https://img.shields.io/badge/license-custom-blue)](../LICENSE)
+Learn the rules, practice your first shots, and develop singles and doubles tactics.
 
-<p align="center">
-  <img src="../_images/cover.jpg" alt="Learning Pickleball" width="400">
-</p>
+**[Read Chapter 1 · Background Knowledge on GitBook](https://yeasy.gitbook.io/learning_pickleball/learning_pickleball_en/01_background)**
+
+[English contents (GitHub)](https://github.com/yeasy/learning_pickleball/blob/main/en/SUMMARY.md) · [PDF editions (GitHub Releases)](https://github.com/yeasy/learning_pickleball/releases/latest) · [中文版](https://yeasy.gitbook.io/learning_pickleball)
+
+<img src="../_images/cover.jpg" width="210" alt="Learning Pickleball cover">
 
 ## Introduction
 
 **Pickleball** is an emerging sport combining features from tennis, badminton, and table tennis. It's easy to start, moderate in intensity, and highly entertaining. This book systematically introduces techniques from beginner to advanced levels to help you enjoy the sport safely.
 
-## Contents
+## Where to start
 
-This book covers systematic training for pickleball:
+- **Before your first game** · Read the [basic rules](https://yeasy.gitbook.io/learning_pickleball/learning_pickleball_en/01_background#id-1.3-basic-rules) to understand scoring, the two-bounce rule, and the non-volley zone.
+- **For your first practice** · Start with the [warm-up](https://yeasy.gitbook.io/learning_pickleball/learning_pickleball_en/04_fitness) and [paddle grip](https://yeasy.gitbook.io/learning_pickleball/learning_pickleball_en/03_hold_paddle), then practice [serving and returning](https://yeasy.gitbook.io/learning_pickleball/learning_pickleball_en/05_serve) and [dinking](https://yeasy.gitbook.io/learning_pickleball/learning_pickleball_en/06_dink) with a partner.
+- **Once you can sustain a rally** · Read [doubles strategy](https://yeasy.gitbook.io/learning_pickleball/learning_pickleball_en/18_double_strategy) and practice moving up to the net with your partner. For one-on-one play, use the [singles chapter](https://yeasy.gitbook.io/learning_pickleball/learning_pickleball_en/17_single_strategy) to work on serve placement and recovery.
 
-*   **Basics**: Hold Paddle, Serve, Dinking, Dropping, Driving, Volleying, Lobbing.
-*   **Advanced**: Spin, Net Battle, ATP, Erne.
-*   **Strategy**: Singles and Doubles strategies.
-*   **Resources**: [Key Tips](19_key_tips.md) & [FAQ](20_faq.md).
+To plan weekly practice, take the self-assessment in [Chapter 2 · Learning Pathways](https://yeasy.gitbook.io/learning_pickleball/learning_pickleball_en/02_learning_pathways) and choose a training plan for your level.
 
-## Five-Minute Quick Start
+<details>
 
-Follow these steps to get oriented quickly:
-
-1. **What is pickleball** (Chapter 1): learn its origins, characteristics, and how it differs from other racket sports.
-2. **Warm-up and paddle fundamentals** (Chapters 3-4): start with physical preparation and basic power generation.
-3. **First serve** (Chapter 5): learn the basic requirements and common mistakes for serving and returning.
-4. **Core strokes** (Chapters 6-9): practice Dink, Drop, Drive, and Volley to build consistency.
-5. **Start playing** (Chapters 17-18): take to the court with singles and doubles strategy, checking Chapters 19-20 for key tips and FAQ.
-
-## Learning Roadmap
+<summary>Learning roadmap</summary>
 
 ```mermaid
 graph LR
@@ -50,19 +39,19 @@ graph LR
     Role4 --> End4["Teaching & advanced coaching"]
 ```
 
-| Reader role | Focus | Outcome |
-|---------|---------|---------|
-| **Complete beginner** | Ch. 1-8 | Master basic pickleball skills and rules |
-| **Racket-sport background** | Ch. 1-3 → Ch. 9-15 | Transfer experience quickly, learn advanced tactics |
-| **Competitive improvement** | Ch. 1 → Ch. 9-18 → Ch. 21 | Systematic training and match strategy |
-| **Coach / advanced instructor** | Ch. 1-4 → Ch. 21 and Appendix VI | Lesson design, sports science, and equipment decisions |
+</details>
 
-## How to Read
+<details>
 
-*   🌐 Online: [GitBook](https://yeasy.gitbook.io/learning_pickleball/)
-*   📄 PDF: [GitHub Releases](https://github.com/yeasy/learning_pickleball/releases/latest)
+<summary>Quick references</summary>
+
+- [Key tips](https://yeasy.gitbook.io/learning_pickleball/learning_pickleball_en/19_key_tips) · [FAQ](https://yeasy.gitbook.io/learning_pickleball/learning_pickleball_en/20_faq) · [Pickleball terminology](https://yeasy.gitbook.io/learning_pickleball/learning_pickleball_en/appendix_terminologies)
+
+</details>
 
 ## License & Authorization
 
 This book is authorized for educational use by [numerous clubs and schools](https://github.com/yeasy/learning_pickleball/wiki/).
 **Commercial use is prohibited without authorization.**
+
+[License](https://github.com/yeasy/learning_pickleball/blob/main/LICENSE)

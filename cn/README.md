@@ -1,39 +1,28 @@
-[English Version](https://github.com/yeasy/learning_pickleball/blob/main/en/README.md)
-
 # 学打匹克球
 
-[![GitHub stars](https://img.shields.io/github/stars/yeasy/learning_pickleball.svg?style=social&label=Star)](https://github.com/yeasy/learning_pickleball)
-[![GitHub release](https://img.shields.io/github/release/yeasy/learning_pickleball.svg)](https://github.com/yeasy/learning_pickleball/releases)
-[![License](https://img.shields.io/badge/license-custom-blue)](../LICENSE)
+从基本规则和击球练习入门，逐步学习单打与双打策略。
 
-<p align="center">
-  <img src="../_images/cover.jpg" alt="Learning Pickleball" width="400">
-</p>
+**[在 GitBook 阅读第 1 章 · 背景知识](https://yeasy.gitbook.io/learning_pickleball/01_background)**
+
+[中文版目录（GitHub）](https://github.com/yeasy/learning_pickleball/blob/main/cn/SUMMARY.md) · [正式 PDF（发布页）](https://github.com/yeasy/learning_pickleball/releases/latest) · [English edition](https://yeasy.gitbook.io/learning_pickleball/learning_pickleball_en)
+
+<img src="../_images/cover.jpg" width="210" alt="学打匹克球封面">
 
 ## 简介
 
 **匹克球** 是一项风靡全球的新兴运动，融合了网球、羽毛球和乒乓球的特点。它上手容易、运动量适中且趣味性强。本书结合北美教学实践，系统讲解匹克球技术，帮助读者科学训练，降低伤痛风险，享受运动乐趣。
 
-## 内容概览
+## 从哪里开始
 
-本书内容涵盖系统的匹克球训练体系：
+- **第一次上场** · 阅读[基本规则](https://yeasy.gitbook.io/learning_pickleball/01_background#id-1.3-ji-ben-gui-ze)，了解计分、两次落地规则和非截击区。
+- **准备第一次练球** · 先读[热身](https://yeasy.gitbook.io/learning_pickleball/04_fitness)与[持拍](https://yeasy.gitbook.io/learning_pickleball/03_hold_paddle)，再和球友练习[发球与接发球](https://yeasy.gitbook.io/learning_pickleball/05_serve)和[前场吊球](https://yeasy.gitbook.io/learning_pickleball/06_dink)。
+- **已经能打回合** · 读[双打策略](https://yeasy.gitbook.io/learning_pickleball/18_double_strategy)，练习与搭档从后场一起推进到网前。打单打时，参照[单打策略](https://yeasy.gitbook.io/learning_pickleball/17_single_strategy)练习发球落点和回位。
 
-*   **基础技术**: 握拍、发球、网前吊球 (Dink)、后场吊球 (Drop)、抽球 (Drive)、截击 (Volley)、挑球 (Lob)。
-*   **进阶技术**: 旋转球、网前攻防、ATP、Erne。
-*   **比赛策略**: 单打与双打策略。
-*   **资源合集**: [要点总结](19_key_tips.md)、[常见问题](20_faq.md)。
+需要安排每周练习时，可在[第 2 章 · 学习路径](https://yeasy.gitbook.io/learning_pickleball/02_learning_pathways)完成自评，再选择相应的训练计划。
 
-## 五分钟快速上手
+<details>
 
-跟随以下步骤快速掌握基础：
-
-1. **什么是匹克球**（第 1 章）：了解匹克球的来源、特点和与其他球拍运动的区别。
-2. **热身与持拍发力**（第 3-4 章）：先完成身体准备和基础发力训练。
-3. **首次发球**（第 5 章）：学习发球与接发球的基本要求和常见错误。
-4. **基础击球**（第 6-9 章）：练习 Dink、Drop、Drive 和 Volley，建立稳定球感。
-5. **开始实战**（第 17-18 章）：带着单打和双打策略上场，边打边查阅第 19-20 章要点与 FAQ。
-
-## 学习路线图
+<summary>学习路线图</summary>
 
 ```mermaid
 graph LR
@@ -50,19 +39,20 @@ graph LR
     Role4 --> End4["教学与进阶训练能力"]
 ```
 
-| 读者角色 | 学习重点 | 核心成果 |
-|---------|---------|---------|
-| **完全新手** | 第 1-8 章 | 掌握匹克球基础技能与规则 |
-| **有球拍基础** | 第 1-3 章 → 第 9-15 章 | 快速迁移经验、学习进阶战术 |
-| **竞技提高** | 第 1 章 → 第 9-18 章 → 第 21 章 | 系统训练与比赛策略 |
-| **教练/进阶教学者** | 第 1-4 章 → 第 21 章与附录六 | 教学设计、运动科学与装备决策支持 |
+</details>
 
-## 阅读方式
+<details>
 
-*   🌐 在线阅读：[GitBook](https://yeasy.gitbook.io/learning_pickleball/)、[中匹在线](https://pickleballcn.com/books/learning-pickleball/)
-*   📄 离线下载：[PDF](https://github.com/yeasy/learning_pickleball/releases/latest)
+<summary>速查资料与其他阅读入口</summary>
+
+- [要点总结](https://yeasy.gitbook.io/learning_pickleball/19_key_tips) · [常见问题](https://yeasy.gitbook.io/learning_pickleball/20_faq) · [匹克球术语](https://yeasy.gitbook.io/learning_pickleball/appendix_terminologies)
+- [中匹在线中文版](https://pickleballcn.com/books/learning-pickleball/)
+
+</details>
 
 ## 授权与版权
 
 本书已授权 [全球多家俱乐部和学校](https://github.com/yeasy/learning_pickleball/wiki/) 用于公益培训。
 **未经授权，禁止用于商业用途。**
+
+[许可证](https://github.com/yeasy/learning_pickleball/blob/main/LICENSE)
