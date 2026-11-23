@@ -1,12 +1,8 @@
 # 学打匹克球 | Learning Pickleball
 
-从基本规则和击球练习入门，逐步学习单打与双打策略。
+匹克球规则、技术与战术。 Rules, skills, and tactics.
 
-Learn the rules, practice your first shots, and develop singles and doubles tactics.
-
-**[在 GitBook 阅读中文版 · 第 1 章 背景知识](https://yeasy.gitbook.io/learning_pickleball/01_background)**
-
-**[Read Chapter 1 in English on GitBook](https://yeasy.gitbook.io/learning_pickleball/learning_pickleball_en/01_background)**
+**[中文第一章](https://yeasy.gitbook.io/learning_pickleball/01_background)** · **[Chapter 1 in English](https://yeasy.gitbook.io/learning_pickleball/learning_pickleball_en/01_background)**（GitBook）
 
 [中文导读](cn/README.md) · [English introduction](en/README.md) · [全书目录 / Contents](https://github.com/yeasy/learning_pickleball/blob/main/SUMMARY.md) · [正式 PDF / PDF editions](https://github.com/yeasy/learning_pickleball/releases/latest)
 
