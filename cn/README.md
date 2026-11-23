@@ -20,9 +20,7 @@
 
 需要安排每周练习时，可在[第 2 章 · 学习路径](https://yeasy.gitbook.io/learning_pickleball/02_learning_pathways)完成自评，再选择相应的训练计划。
 
-<details>
-
-<summary>学习路线图</summary>
+## 学习路线图
 
 ```mermaid
 graph LR
@@ -38,8 +36,6 @@ graph LR
     Role3 --> End3["竞赛训练方法"]
     Role4 --> End4["教学与进阶训练能力"]
 ```
-
-</details>
 
 <details>
 

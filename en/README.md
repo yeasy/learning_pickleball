@@ -20,9 +20,7 @@ Learn the rules, practice your first shots, and develop singles and doubles tact
 
 To plan weekly practice, take the self-assessment in [Chapter 2 · Learning Pathways](https://yeasy.gitbook.io/learning_pickleball/learning_pickleball_en/02_learning_pathways) and choose a training plan for your level.
 
-<details>
-
-<summary>Learning roadmap</summary>
+## Learning roadmap
 
 ```mermaid
 graph LR
@@ -38,8 +36,6 @@ graph LR
     Role3 --> End3["Competition training"]
     Role4 --> End4["Teaching & advanced coaching"]
 ```
-
-</details>
 
 <details>
 
