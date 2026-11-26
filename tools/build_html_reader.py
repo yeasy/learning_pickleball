@@ -9,6 +9,7 @@ scroll by default; JS (Safari, Documents app, etc.) upgrades to one-page-at-a-ti
 - Images/CSS embedded (--embed-resources) -> one offline file
 """
 import argparse, os, re, subprocess, sys, posixpath
+import tempfile
 
 def esc(s):  return s.replace("&","&amp;").replace("<","&lt;").replace(">","&gt;")
 def escattr(s): return s.replace("&","&amp;").replace('"',"&quot;").replace("<","&lt;")
@@ -36,6 +37,47 @@ def fix_inline_dollar(text):
         if text[ls:s].strip() == "" and text[e:le].strip() == "": return m.group(0)
         return "$" + inner.strip() + "$"
     return re.sub(r'\$\$(.+?)\$\$', repl, text, flags=re.DOTALL)
+
+def localize_gitbook_links(page_html, path_to_id, site):
+    """Point same-book chapter links at the pages bundled in this reader."""
+    prefix = "https://yeasy.gitbook.io/" + site + "/"
+    routes = {}
+    for path, page_id in path_to_id.items():
+        if not path.endswith(".md"):
+            continue
+        route = path.removesuffix(".md").removesuffix("/README").lower()
+        routes[route] = page_id
+    for route, page_id in list(routes.items()):
+        if route.startswith("cn/"):
+            routes[route[3:]] = page_id
+        elif route.startswith("en/"):
+            routes["learning_pickleball_en/" + route[3:]] = page_id
+    if "en" in routes:
+        routes["learning_pickleball_en"] = routes["en"]
+
+    section_links = {
+        "01_background#id-1.3-ji-ben-gui-ze": ("cn/01_background", "基本规则"),
+        "learning_pickleball_en/01_background#id-1.3-basic-rules": ("en/01_background", "basic-rules"),
+    }
+    for target, (chapter, heading) in section_links.items():
+        if chapter in routes:
+            page_html = page_html.replace(
+                f'href="{prefix}{target}"',
+                f'href="#{heading}" data-reader-page="{routes[chapter]}"',
+            )
+
+    def local_href(match):
+        route = match.group(1).rstrip("/").lower()
+        page_id = routes.get(route)
+        if page_id is None:
+            # GitBook adds the SUMMARY part heading ahead of the source path.
+            part, _, chapter = route.partition("/")
+            if part.startswith("di-") or part == "fu-lu":
+                page_id = routes.get(chapter)
+        return f'href="#{page_id}"' if page_id else match.group(0)
+
+    return re.sub(r'href="' + re.escape(prefix) + r'([^"?#]+)"', local_href, page_html)
+
 
 def process_file(text, reldir, mermaid_store, path_to_id):
     def grab(m):
@@ -153,7 +195,7 @@ $body$
  function curId(){var a=document.querySelector('.page.active');return a?a.id:order[0]}
  function setToc(id){var ls=sb.querySelectorAll('a[data-target]');for(var i=0;i<ls.length;i++){var on=ls[i].getAttribute('data-target')===id;ls[i].classList.toggle('active',on);if(on)ls[i].scrollIntoView({block:'nearest'})}}
  function show(id){var i=order.indexOf(id);if(i<0){i=0;id=order[0]}for(var k=0;k<pages.length;k++)pages[k].classList.toggle('active',pages[k].id===id);crumb.textContent=titleById[id];prog.textContent=(i+1)+' / '+order.length;setToc(id);if(toggle)toggle.checked=false;var de=document.documentElement,sbv=de.style.scrollBehavior;de.style.scrollBehavior='auto';window.scrollTo(0,0);de.style.scrollBehavior=sbv;if(location.hash!=='#'+id)history.replaceState(null,'','#'+id)}
- document.addEventListener('click',function(e){var a=e.target.closest('a[href^="#"]');if(a){var id=a.getAttribute('href').slice(1);if(titleById[id]){e.preventDefault();show(id)}}});
+ document.addEventListener('click',function(e){var a=e.target.closest('a[href^="#"]');if(a&&a.dataset.readerPage){e.preventDefault();show(a.dataset.readerPage);var heading=document.getElementById(a.hash.slice(1))||document.getElementById(decodeURIComponent(a.hash.slice(1)));if(heading)heading.scrollIntoView();return}if(a){var id=a.getAttribute('href').slice(1);if(titleById[id]){e.preventDefault();show(id)}}});
  window.addEventListener('keydown',function(e){if(e.target.tagName==='INPUT')return;if(e.key==='ArrowRight'){var i=order.indexOf(curId());if(i<order.length-1)show(order[i+1])}else if(e.key==='ArrowLeft'){var j=order.indexOf(curId());if(j>0)show(order[j-1])}});
  window.addEventListener('hashchange',function(){var id=location.hash.slice(1);if(id&&titleById[id]&&id!==curId())show(id)});
  var h=location.hash.slice(1);show(h&&titleById[h]?h:order[0]);
@@ -214,20 +256,19 @@ def main():
             sb.append(f'<li class="toc-link lvl{lvl}"><a data-target="{pidi}" href="#{pidi}">{esc(title)}</a></li>')
     sb.append('</ul>'); sidebar_html = "".join(sb)
 
-    tmp_md = os.path.join(book_dir, "_combined_tmp.md")
-    tpl = "/tmp/_book_template.html"; out_tmp = "/tmp/_book_out.html"
-    with open(tmp_md, "w", encoding="utf-8") as f: f.write(combined)
-    with open(tpl, "w", encoding="utf-8") as f: f.write(TEMPLATE)
-    cmd = ["pandoc", "_combined_tmp.md", "-f", "markdown+lists_without_preceding_blankline", "-t", "html5",
-           "--standalone", "--embed-resources", "--mathml",
-           "--template", tpl, "--metadata", f"title={a.title}", "-o", out_tmp]
-    print("  running pandoc ...")
-    r = subprocess.run(cmd, cwd=book_dir, capture_output=True, text=True)
-    if os.path.exists(tmp_md): os.remove(tmp_md)
+    with tempfile.TemporaryDirectory(prefix="book-reader-") as temp_dir:
+        tpl = os.path.join(temp_dir, "template.html")
+        with open(tpl, "w", encoding="utf-8") as template:
+            template.write(TEMPLATE)
+        cmd = ["pandoc", "-", "-f", "markdown+lists_without_preceding_blankline", "-t", "html5",
+               "--standalone", "--embed-resources", "--mathml",
+               "--template", tpl, "--metadata", f"title={a.title}"]
+        print("  running pandoc ...")
+        r = subprocess.run(cmd, cwd=book_dir, input=combined, capture_output=True, encoding="utf-8")
     if r.returncode != 0:
         print("PANDOC FAILED:\n", r.stderr[:4000]); sys.exit(1)
 
-    with open(out_tmp, encoding="utf-8") as f: html = f.read()
+    html = r.stdout
     # swap mermaid placeholders -> pre-rendered inline SVG (2nd pass catches any not in <p>)
     def mrepl(m): return f'<figure class="diagram">{svgs[int(m.group(1))]}</figure>'
     html = re.sub(r'<p>\s*MERMAIDZZ(\d+)ZZ\s*</p>', mrepl, html)
@@ -249,6 +290,8 @@ def main():
     for k in range(1, len(segs), 2):
         pid, seg = segs[k], segs[k+1]
         idx = order_idx = [pm[0] for pm in page_meta].index(pid)
+        if page_meta[idx][1] == "README.md":
+            seg = localize_gitbook_links(seg, path_to_id, 'learning_pickleball')
         pages_html.append(f'<section class="page" id="{pid}" data-title="{escattr(id_to_title[pid])}">{seg}{navhtml(idx)}</section>')
     new_main = mm.group(1) + '<div id="pages">' + "".join(pages_html) + '</div>' + mm.group(3)
     html = html[:mm.start()] + new_main + html[mm.end():]
