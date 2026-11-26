@@ -8,16 +8,16 @@ Using a wrong way of holding paddle or generating force will restrict the improv
 
 ## 3.1 Hold Paddle
 
-The pickleball paddle handle can divide into 8 side faces, as shown in the figure below. According to the position that the purlicue (the area between the thumb and index finger) touches the paddle handle, there are four major paddle holding styles: **Continental style** (also called neutral style), **Eastern style**, **Semi-western style**, and **Western style**.
+The paddle handle has eight flat sides, called bevels. In the diagram, find the V between your thumb and index finger and note which numbered bevel it points toward. The four grips shown are **continental** (neutral), **eastern**, **semi-western**, and **western**.
 
 ![Common Paddle Holding Styles](../_images/hold-paddle.png)
 
 The characteristics of the various styles are summarized as follows:
 
-* **Continental Style**: The purlicue is facing position 1, which is similar to a handshake or hammer-holding position. When holding with the right hand, the paddle's forehand surface will face to the left after straightening the arm. Continental style makes it easy to hit the ball with either forehand or backhand, and switch quickly between them. But it is not conducive to creating strong friction. This style can be adopted in most situations in the game.
-* **Eastern Style**: The purlicue faces position 2. When holding with the right hand, the paddle's forehand surface will face slightly to the lower left after straightening the arm. Compared with the continental grip, the eastern style can generate more topspin movements by the forehand, which can be used in the drive or drop by forehand.
-* **Semi-Western Style**: The purlicue faces the position 3. When holding with the right hand, the paddle's forehand surface will face to the lower left after straightening the arm. The semi-western grip can produce more topspin with larger hitting range by the forehand than the eastern grip, but it is difficult to hit the ball from backhand or generate backspin. This style can be used in the drive from backcourt or volley in the front-court by the forehand.
-* **Western Style**: The purlicue faces position 4, the so-called lucky cat grip. When holding with the right hand, the paddle's forehand surface will face towards the ground after straightening the arm. The Western grip is an extreme grip that gives up the backhand, and is rarely used in pickleball games except occasional usage in smash in the front-court by forehand.
+* **Continental Style**: The V points toward bevel 1, which is similar to a handshake or hammer-holding position. When holding with the right hand, the paddle's forehand surface will face to the left after straightening the arm. Continental style makes it easy to hit the ball with either forehand or backhand, and switch quickly between them. But it is not conducive to creating strong friction. This style can be adopted in most situations in the game.
+* **Eastern Style**: The V points toward bevel 2. When holding with the right hand, the paddle's forehand surface will face slightly to the lower left after straightening the arm. Compared with the continental grip, the eastern style can generate more topspin movements by the forehand, which can be used in the drive or drop by forehand.
+* **Semi-Western Style**: The V points toward bevel 3. When holding with the right hand, the paddle's forehand surface will face to the lower left after straightening the arm. The semi-western grip can produce more topspin with larger hitting range by the forehand than the eastern grip, but it is difficult to hit the ball from backhand or generate backspin. This style can be used in the drive from backcourt or volley in the front-court by the forehand.
+* **Western Style**: The V points toward bevel 4, the so-called lucky cat grip. When holding with the right hand, the paddle's forehand surface will face towards the ground after straightening the arm. The Western grip is an extreme grip that gives up the backhand, and is rarely used in pickleball games except occasional usage in smash in the front-court by forehand.
 
 Generally, the continental grip and eastern grip are recommended as the base grips, and fine-tuning can be made according to the specific situation.
 
@@ -29,7 +29,7 @@ After hitting the ball, players should immediately return to their ready positio
 
 When holding the paddle, your palm should be relaxed, with the palm of your hand empty. A 3 out of 10 is sufficient for the ready position. The player should maintain a relaxed yet steady position, and a steady yet restrained grip. At the moment of hitting the ball, apply a firm grip to maintain a stable paddle face.
 
-When using the forehand to do drive or drop, you can switch to Eastern style by little adjustment, and the index finger can be placed on the paddle surface to assist in feeling the angle of the paddle surface.
+For a forehand drive or dink, try an eastern grip with your fingers around the handle. Some players rest the index finger on the paddle face for a backhand dink to feel its angle. Keep the finger on the handle during basic drills so you can switch shots freely.
 
 When using the backhand, the thumb can be placed on the position 7 to assist with more power and to keep the paddle stable.
 

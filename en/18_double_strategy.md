@@ -40,7 +40,7 @@ There are two important steps in the doubles games.
 
 One is the third shot, which decides whether the players can go to the net safely. For the serving side, if there is no high-quality third shot, they will be suppressed at the back court, and it will be difficult to have a chance to earn score in the following rounds. The third shot can be driving the ball (more offensive) or dropping to the net (more defensive). The fourth shot should try to keep the opponent in the backcourt. If you can volley, try to volley directly, and pay attention to the return route to avoid the opponent's poach. If you can't volley, wait for the ball to bounce off the ground and hit a higher-quality dink.
 
-The other is the battle in front of the network. The two sides look for attack opportunities through the competition in front of the net and then try to force the opponent to the backcourt. Any side will be at a big disadvantage when suppressed to the backcourt. If the ball is returned too high from back court, it is easy for the opponent to smash the ball from near the net and score directly.
+The other pattern is a rally at the net. Both teams look for a ball they can attack to force their opponents back. Any side will be at a big disadvantage when suppressed to the backcourt. If the ball is returned too high from back court, it is easy for the opponent to smash the ball from near the net and score directly.
 
 It should be noted that the Dinking in front of the net usually is using the diagonal direction or to the middle. Watch out for the opponent’s ATP attack when the ball lands close to the sideline. Be careful to defend the opponent's Erne attack when the ball is passing the net near its side.
 
