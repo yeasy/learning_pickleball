@@ -22,7 +22,7 @@ Key points for hitting a high-quality erne include:
 
 * Accurately judge the position of the opponent's dink shot, and try to volley when it is close to the sideline and higher;
 * Your position should be properly close to the sideline. The closer you are, the easier it is to jump over the non-volley zone;
-* **Landing and balance (a tip, not a rule)**: The rules only require both feet to be completely outside the non-volley zone at the moment of the volley, with no momentum carrying you in — they do not dictate which foot lands first. Land in whatever order keeps you balanced and keeps both feet out of the zone;
+* **Landing and balance**: Under [USA Pickleball Rules 11.A–11.A.3](https://usapickleball.org/docs/rules/USAP-Official-Rulebook.pdf), you can volley in the air after initiating the volley outside the non-volley zone. If you previously touched the zone, both feet must first contact the playing surface fully outside it. Avoid touching the zone during the volley or because of your momentum, and choose a landing order that keeps you balanced;
 * The main target of Erne is the opposite player's feet in a straight line, and secondly, you can hit the ball with a large angle;
 * After the Erne is completed, the player should return to the court as soon as possible;
 * When one player hits an Erne shot, his teammates should move to the center to fill the space left, and prepare to attack the opponent's returned ball.
@@ -54,7 +54,7 @@ An Erne involves jumping over the NVZ from the side to intercept, with the attac
 
 | Error | Cause | Correction |
 |---|---|---|
-| Touches the NVZ during the volley | Balance or momentum carries the player into the zone | Re-establish outside the NVZ before the volley and land under control; the rules do not prescribe a foot order |
+| Touches the NVZ during the volley | Balance or momentum carries the player into the zone | Initiate the volley outside the NVZ. If you previously touched it, first plant both feet fully outside it. Land under control to avoid a momentum fault |
 | Erne lands out | Pace or face angle is uncontrolled | Use a compact motion and prioritize direction |
 | Erne is blocked | The setup is obvious or contact is too high | Choose the opportunity later and target low open space |
 | Defense is late | Lateral intent was not recognized | Watch the sideline movement and change dink placement early |
