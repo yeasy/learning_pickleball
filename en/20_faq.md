@@ -253,7 +253,7 @@ Common note: The pickleball grip (continental grip) may differ from your previou
 * **Downwind**: Reduce power — wind carries the ball further, increasing out-of-bounds risk. Use more dinks and soft shots.
 * **Upwind**: Add power — wind slows the ball. Drives and hard shots are more effective into the wind.
 * **Crosswind**: Adjust aim direction and anticipate wind's effect on ball path. Position slightly toward the wind source.
-* **Serve adjustments**: Lower the toss in strong wind. Reduce power downwind; increase power upwind.
+* **Serve adjustments**: Use a lower release height in strong wind to reduce drift. Reduce power downwind; increase power upwind.
 * **General strategy**: Use low, flat shots to minimize wind impact on trajectory. Stay patient — wind affects both sides equally.
 
 ## 20.25 [Q25] How to find practice partners and local communities?

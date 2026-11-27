@@ -2,7 +2,7 @@
 
 > **Recommended Level**: 5.5+ · The decisive differentiator at advanced levels — systematic study of teamwork and tactics
 
-Double games are common in pickleball, and the core part is the efficient collaboration between players.
+Doubles is the most common game format in pickleball, and its key is efficient collaboration between both partners.
 
 > **Related technique chapters**: [Dink](06_dink.md), [Drop](07_drop.md), [Drive](08_drive.md), [Volley](09_volley.md), [Net Battle](14_net_battle.md), [ATP](15_atp.md), [Erne](16_erne.md)
 
@@ -26,11 +26,11 @@ Assuming A2 will hit the third shot, A1 takes a step forward and prepares to go 
 
 ![Drop in Doubles Games](../_images/double-drop.png)
 
-Now, the players of team A and B are both in front of the net, the game enters the most critical **near net battle phase**.
+Now, the players of team A and B are both in front of the net, and the game enters the most critical **net-rally phase**.
 
 Usually players use the Dink technique to mobilize the opponents, and try to create attack opportunities. Because only the serving team can get a point in the rally, they should be more aggressive to try to attack.
 
-Assuming that A1 returns the ball too high, B1 gets the opportunity and takes the initiative to attack. The two sides enter the fast volley interaction. One party can return to the battle in front of the net again by taking the initiative to Dink.
+Assuming that A1 returns the ball too high, B1 gets the opportunity and takes the initiative to attack. The two sides enter the fast volley interaction. One party can return to the rally at the net again by taking the initiative to Dink.
 
 ![Dink in Doubles Games](../_images/double-dink.png)
 
@@ -48,9 +48,16 @@ It should be noted that the Dinking in front of the net usually is using the dia
 
 In doubles, the cooperation of the players is often more important than the individual ability. The two players should play as a whole, rather than simply each player responsible for half of the court.
 
-Typically, one of the two players should be the dominant attacker (usually the more capable player, such as a male player in mixed doubles) who will do most of the attacking, and the other should be the controller who will help defend and create offensive opportunities. The dominant player should take the initiative to deal with most of the shots, and the game controller should reset the opponent's offensive attempts and resolutely deny the opponent a good offensive opportunity.
+Typically, one of the two players should be the **dominant attacker** (usually the stronger player, such as the male player in mixed doubles) who handles most of the offense, and the other should be the **controller**, who covers gaps and helps create attack opportunities.
 
-In addition, both sides should try to let the controller return the ball. If there is no good offensive opportunity, pay attention to the shot quality to avoid creating a good offensive opportunity for the opponent.
+**Dominant Attacker and Controller Coordination**:
+
+* The dominant attacker actively handles most incoming balls and looks for attack opportunities;
+* When the dominant attacker attacks, the controller holds position at the net (near the NVZ line), ready to volley the opponent's return or cover open gaps;
+* The controller resets opponent attacks and avoids giving away easy attackable balls;
+* Both partners communicate verbally ("Mine!" / "Yours!") to clarify coverage and prevent confusion on middle balls.
+
+In addition, both teams should try to direct shots toward the opponents' controller. When there is no clear attack opportunity, prioritize shot quality rather than giving the opponents an opening.
 
 * Positioning: try to stay near the net to hit the ball, and try to keep the opponents in the back court. The dominant attacker should cover at least 2/3 of the court, while the controller should pay attention to protect the sideline on his/her side;
 * Protection of the middle ball: The middle position protection between the two players should be negotiated in time. When both can return the ball well, the forehand player or the higher skill level player should have the priority to return.
@@ -70,13 +77,16 @@ The offensive third shot consists of two parts:
 
 *   When the opponent's return is poor—high or long;
 *   When your team has strong driving ability and the opponents have weak defense;
-*   When you want to break the opponent's rhythm and actively seek points.
+*   When you want to break the opponent's rhythm and actively seek points;
+*   **When not to use**: When the opponents defend well and your partner is not in a strong net position, forcing a Shake and Bake invites a counter-attack. Transition with a conservative third-shot drop instead.
 
 ### Technique
 
 *   The driving player should hit a fast, low drive, targeting the opponent's feet or the middle gap;
 *   The volleying partner should rush to the net simultaneously, ready to intercept;
-*   If the opponent successfully defends, be prepared to reset into a dinking rally.
+*   If the opponent successfully defends, be prepared to reset into a dinking rally;
+*   **Consequences of failure**: A failed Shake and Bake often costs the point or puts your team on the defensive, so use it selectively when you have a clear opening or pace advantage;
+*   **Fallback option**: Against strong defenders, revert to a standard third-shot drop for higher consistency.
 
 ## 18.4 Mixed Doubles Strategy
 

@@ -26,25 +26,33 @@ When serving, you can probe the opponent's return skills by serving to various t
 
 If the opponent's position is not neutral, or the player cannot run quickly, you can mobilize the opponent proactively by using different serving methods.
 
-In singles' serving, the player can take advantage of various spins and placement to mobilize the opponent. For example, you can combine the left-spin long serve to the backhand and the right-spin short serve to the forehand; Or using top-spin serve or non-spin to the middle path.
+In singles, you can combine spin and placement to move the opponent—for example, hitting a deep serve to the backhand (using depth to push the opponent back) and a short serve to the forehand (adding topspin to pull them forward), or mixing topspin and flat serves down the middle.
 
 In doubles, usually serve long balls to the middle between opponents to force them to return the ball not well and not be able to follow the ball to go to the net in time.
 
 ## 5.2 Master the Serve
 
+### Serve Stance and Body Posture
+
+Keep your back foot near the baseline, angle your body about 45° to the baseline, place your front foot roughly 30 cm behind the baseline, and point your front shoulder toward the target area.
+
+### Power Generation
+
 The power of a serve comes from the legs. By pushing off the ground and rotating the waist, the force is transferred from the legs to the torso, which then drives the arm to swing. This power is further transmitted through the fingers to the paddle, ultimately whipping the ball with the full force of the body.
 
 Before striking the pickleball, the body should remain relaxed. At the moment of impact, the fingers grip the paddle firmly, and after hitting the ball, the follow-through ensures that the body's power is released in a controlled and stable manner. Additionally, footwork and shifting body weight forward can be used to enhance the power of the serve.
+
+### Serve Types and Strategy
 
 Since pickleballs have a smooth surface, the serve should primarily focus on striking the ball while incorporating a moderate amount of spin. Players should at least master topspin serves and flat (non-spinning) serves.
 
 > **On the backspin serve**: at a high level, backspin on the serve usually costs more than it gains — brushing the ball sacrifices both pace and depth, while the opponent can read the spin from your swing path and use it to drive a deep return. Zane Navratil, the pro most identified with serve research, states in [his own bylined article](https://www.thedinkpickleball.com/why-dont-pros-use-the-drop-serve/) that backspin on the serve is not an asset. It is worth understanding, but it does not belong on a practice list.
 
-The key to serving effectively is consistency to avoid errors. The next priority is to aim for deep placement to make it difficult for the opponent to return. Finally, incorporating power and spin—mainly topspin and sidespin—can further improve the effectiveness of the serve.
+The key to serving effectively is consistency to avoid errors. The next priority is to aim for deep placement to make it difficult for the opponent to return. Finally, add power and spin—primarily topspin—to increase pressure on the receiver.
 
 ## 5.3 Return the Ball
 
-When preparing to return the ball, keep enough space for hitting the ball. It is advisable to stay at a step back from the bottom line. The body and the paddle should face the direction of the coming ball.
+When preparing to return the ball, keep enough space for hitting the ball. It is advisable to stand about a step behind the baseline. The body and the paddle should face the direction of the coming ball.
 
 When returning the serve, players should follow the flying ball to go to the net (stay near the NVZ line before the ball's landing), which forces the opponent to stay in the backcourt. Therefore, the returning ball should also land as close as possible to the baseline.
 
